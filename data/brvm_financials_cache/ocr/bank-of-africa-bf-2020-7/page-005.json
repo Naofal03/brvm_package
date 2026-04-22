@@ -1,0 +1,357 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010174418290456178,
+          "text" : "-",
+          "width" : 0.02263374373597919,
+          "x" : 0.02263374518962358,
+          "y" : 0.9447674419448882
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "-",
+          "width" : 0.020576130669071997,
+          "x" : 0.024691358790978404,
+          "y" : 0.850290698052047
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010174418290456178,
+          "text" : "-",
+          "width" : 0.022633743735979185,
+          "x" : 0.02263374527192811,
+          "y" : 0.8008720932820975
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.020576130669071983,
+          "x" : 0.02469135819084125,
+          "y" : 0.7543604650990509
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572834,
+          "text" : "-",
+          "width" : 0.02057613066907199,
+          "x" : 0.024691358276575127,
+          "y" : 0.7063953488381496
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "-",
+          "width" : 0.03292180907051518,
+          "x" : 0.018518519003837067,
+          "y" : 0.6555232557043149
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017441860834757517,
+          "text" : "-",
+          "width" : 0.030864196003607985,
+          "x" : 0.016460905856220703,
+          "y" : 0.36773255788203985
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.030523255666097038,
+          "text" : "-",
+          "width" : 0.04320987665428306,
+          "x" : 0.01028806547944284,
+          "y" : 0.16424418606852953
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.017441860834757406,
+          "text" : "-",
+          "width" : 0.037037035204329584,
+          "x" : 0.010288066389604765,
+          "y" : 0.030523255570993446
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013396825790405242,
+          "text" : "BOA-BF SA",
+          "width" : 0.08034877957038161,
+          "x" : 0.48348816232337494,
+          "y" : 0.9460632150749655
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers de synthèse au 31 Décembre 2020",
+          "width" : 0.7078189489976415,
+          "x" : 0.12551438939006823,
+          "y" : 0.9258333333712379
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016841007868448887,
+          "text" : "Page 5",
+          "width" : 0.05603626539122386,
+          "x" : 0.8680724023504651,
+          "y" : 0.9239922866045559
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "2.2.",
+          "width" : 0.03703703520432958,
+          "x" : 0.14403292313857594,
+          "y" : 0.8749999997631812
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951397,
+          "text" : "Fonctionnement des organes sociaux et exercice du contrôle interne",
+          "width" : 0.5514403289219119,
+          "x" : 0.22839506739089577,
+          "y" : 0.8762499998442492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Nous avons procédé, conformément aux normes de la profession, aux vérifications relatives",
+          "width" : 0.7654321058741156,
+          "x" : 0.11111111521109024,
+          "y" : 0.8444767443550785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01751938025156663,
+          "text" : "au fonctionnement des organes sociaux et à l'organisation du système de contrôle interne.",
+          "width" : 0.7304526275058962,
+          "x" : 0.10905352157627,
+          "y" : 0.8183139534779701
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018336594899495462,
+          "text" : "L'examen du contrôle interne de votre Banque s'inscrit dans le cadre de la démarche générale",
+          "width" : 0.7676054756596404,
+          "x" : 0.1089910272037064,
+          "y" : 0.7854886714881695
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538758913675956,
+          "text" : "d'audit et a principalement pour objectif d'identifier les zones de risques significatifs et",
+          "width" : 0.7674896672086895,
+          "x" : 0.10905351940491449,
+          "y" : 0.7616279078046754
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "d'orienter notre approche. L'examen auquel nous procédons dans cette circonstance n'est pas",
+          "width" : 0.7674896672086895,
+          "x" : 0.10905352578718959,
+          "y" : 0.7369186045286346
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017567830085754466,
+          "text" : "un diagnostic détaillé et ne met pas nécessairement en évidence toutes les améliorations",
+          "width" : 0.7674896672086895,
+          "x" : 0.10905351456437958,
+          "y" : 0.7120833330641825
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "qu'une étude spécifique pourrait éventuellement révéler, notamment celles qui n'affectent pas",
+          "width" : 0.7674896672086895,
+          "x" : 0.10905352578718959,
+          "y" : 0.6874999998774718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017519379456838013,
+          "text" : "de façon significative les comptes annuels.",
+          "width" : 0.3497942438665426,
+          "x" : 0.10905349365314852,
+          "y" : 0.6641666666629051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01751938025156663,
+          "text" : "Nous n'avons pas d'observations significatives à formuler sur le fonctionnement des organes",
+          "width" : 0.7674896672086896,
+          "x" : 0.10905352719812422,
+          "y" : 0.6308139531291328
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017645347913106235,
+          "text" : "sociaux. Les principaux points d'amélioration du contrôle interne font l'objet d'un rapport",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699588744641972,
+          "y" : 0.6061046517363615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542875925618,
+          "text" : "distinct sur le contrôle interne.",
+          "width" : 0.24897118334500296,
+          "x" : 0.10905350546741616,
+          "y" : 0.5841666663155076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "2.3.",
+          "width" : 0.03497942213742236,
+          "x" : 0.14403292306194723,
+          "y" : 0.5203488369724836
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017639664808909106,
+          "text" : "Gestion et qualité des risques",
+          "width" : 0.24119607457574807,
+          "x" : 0.22816738668339823,
+          "y" : 0.5187964477577438
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01960065126419064,
+          "text" : "Nos principales conclusions sur l'examen de la gestion et la qualité des risques auxquels la",
+          "width" : 0.767646645599941,
+          "x" : 0.10896462220034209,
+          "y" : 0.4852941782980791
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014076031843821224,
+          "text" : "banque peut",
+          "width" : 0.11149732121881449,
+          "x" : 0.10867317479465692,
+          "y" : 0.46435194260382373
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01756782929102574,
+          "text" : "être exposée sont présentées dans notre rapport sur l'évaluation des 50",
+          "width" : 0.6563786200757296,
+          "x" : 0.2181069796946456,
+          "y" : 0.46208333365542276
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "(cinquante) plus gros risques.",
+          "width" : 0.24279835539044073,
+          "x" : 0.10699588646115818,
+          "y" : 0.4387499996818578
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "2.4.",
+          "width" : 0.03497942438665427,
+          "x" : 0.14197530809130934,
+          "y" : 0.37645348843453574
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Respect de la règlementation prudentielle",
+          "width" : 0.3395061852797022,
+          "x" : 0.22633744021765925,
+          "y" : 0.37499999989944577
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02046511570612597,
+          "text" : "Nous avons vérifié le respect par la BANK OF AFRICA-BURKINA FASO SA des règles",
+          "width" : 0.7695473005186837,
+          "x" : 0.10493829289909416,
+          "y" : 0.34000000000438846
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01751938025156652,
+          "text" : "prudentielles applicables aux établissements de crédit et compagnies financières de l'UMOA",
+          "width" : 0.7674896672086896,
+          "x" : 0.10493829944974102,
+          "y" : 0.3183139533450797
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "relatives aux conditions d'exercice de la profession, à la réglementation comptable,",
+          "width" : 0.7263374328613281,
+          "x" : 0.10493828550692152,
+          "y" : 0.29208333315488233
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01182170550028483,
+          "text" : "à la",
+          "width" : 0.04526748747195841,
+          "x" : 0.8292181073614144,
+          "y" : 0.2965116278193185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017587209542592297,
+          "text" : "réglementation des opérations et aux normes de gestion.",
+          "width" : 0.45884772966492854,
+          "x" : 0.10493827967370846,
+          "y" : 0.26874999994455384
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017441860834757517,
+          "text" : "Suite à nos contrôles, nous avons constaté que tous les ratios de la BCEAO sont respectés par",
+          "width" : 0.7674896672086895,
+          "x" : 0.1069959126184653,
+          "y" : 0.23691860452863456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "la BANK OF AFRICA-BURKINA FASO au 31 décembre 2020 comme le montre le tableau",
+          "width" : 0.7695473005186837,
+          "x" : 0.104938290309931,
+          "y" : 0.21500000007967102
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "ci-après :",
+          "width" : 0.0802469163570764,
+          "x" : 0.10493827088524779,
+          "y" : 0.19040697690352804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "SOFIDEC Audit & Conseil",
+          "width" : 0.222222220222905,
+          "x" : 0.10493827538237462,
+          "y" : 0.04651162822023136
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Cabinet Rosette NACRO",
+          "width" : 0.19958846973923017,
+          "x" : 0.6111111168793562,
+          "y" : 0.04500000010021188
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-bf-2020-7\/page-005.pdf.png"
+}

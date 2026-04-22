@@ -1,0 +1,405 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.01851851760216479,
+          "x" : 0.028806584511674824,
+          "y" : 0.947674418587423
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.018518517602164792,
+          "x" : 0.028806584588835307,
+          "y" : 0.8982558139544288
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.020576130669071983,
+          "x" : 0.026748971445299405,
+          "y" : 0.850290697675359
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720929622650142,
+          "text" : "-",
+          "width" : 0.02057613066907199,
+          "x" : 0.02674897195970269,
+          "y" : 0.8023255817729773
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "-",
+          "width" : 0.02469135680288639,
+          "x" : 0.02469135838868027,
+          "y" : 0.7514534882941247
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456066,
+          "text" : "-",
+          "width" : 0.02263374373597919,
+          "x" : 0.02469135881102275,
+          "y" : 0.7049418606948883
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01598837216695148,
+          "text" : "-",
+          "width" : 0.03086419600360799,
+          "x" : 0.022633745876796823,
+          "y" : 0.6555232558375513
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "-",
+          "width" : 0.028806582936700787,
+          "x" : 0.02057613258000351,
+          "y" : 0.3677325581661609
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017441860834757406,
+          "text" : "-",
+          "width" : 0.03292181131974706,
+          "x" : 0.01851851809086133,
+          "y" : 0.2223837208699968
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.033430233001709,
+          "text" : "-",
+          "width" : 0.04526748747195838,
+          "x" : 0.012345680455672777,
+          "y" : 0.11773255796966053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "BOA-BF SA",
+          "width" : 0.08024690736014889,
+          "x" : 0.4855967114176622,
+          "y" : 0.9462209305251366
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers de synthèse au 31 Décembre 2020",
+          "width" : 0.7098765103322155,
+          "x" : 0.12551442480155833,
+          "y" : 0.9258333333505616
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015998062292734816,
+          "text" : "Page 2",
+          "width" : 0.05555555505572629,
+          "x" : 0.8703703706717253,
+          "y" : 0.9244186044809622
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02041666666666664,
+          "text" : "BANK OF AFRICA -BURKINA FASO SA",
+          "width" : 0.5617283875087522,
+          "x" : 0.2139917779020024,
+          "y" : 0.8691666664046828
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "RAPPORT DES COMMISSAIRES AUX COMPTES SUR LES ETATS FINANCIERS",
+          "width" : 0.6913580264685288,
+          "x" : 0.14814814232129123,
+          "y" : 0.8399999999931538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "ANNUELS DE SYNTHESE",
+          "width" : 0.22427983553904407,
+          "x" : 0.3827160504146343,
+          "y" : 0.8225000002434013
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "(Exercice clos le 31 décembre 2020)",
+          "width" : 0.2839506077316572,
+          "x" : 0.36008231280083797,
+          "y" : 0.7979166663740883
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020360639890035004,
+          "text" : "Messieurs les actionnaires de la société BANK OF AFRICA-BURKINA FASO SA,",
+          "width" : 0.7143059496609669,
+          "x" : 0.11096920383779249,
+          "y" : 0.7498169033335027
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02120690822601312,
+          "text" : "En exécution de la mission qui nous a été confiée par votre Assemblée Générale, nous vous",
+          "width" : 0.767746331556788,
+          "x" : 0.11096969370493821,
+          "y" : 0.7169407005498007
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "présentons notre rapport relatif à l'exercice clos le 31 décembre 2020 sur :",
+          "width" : 0.6049382911538178,
+          "x" : 0.10905348312679489,
+          "y" : 0.6962209300865825
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "L'audit des états financiers annuels de la société BANK OF AFRICA-BURKINA",
+          "width" : 0.7181069715967718,
+          "x" : 0.15843621895470064,
+          "y" : 0.6641666665491338
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01760658899943035,
+          "text" : "FASO SA, tels qu'ils sont joints au présent rapport ;",
+          "width" : 0.42592592059441337,
+          "x" : 0.1707818983319085,
+          "y" : 0.6379166670538495
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "Les vérifications spécifiques",
+          "width" : 0.2633744725641215,
+          "x" : 0.17078190390998302,
+          "y" : 0.6090116280663187
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02041666666666675,
+          "text" : "prévues par la loi, les règlements et les autres",
+          "width" : 0.4485596710780882,
+          "x" : 0.43209876902199834,
+          "y" : 0.6045833330918127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "informations.",
+          "width" : 0.11522633174680313,
+          "x" : 0.16872428383853255,
+          "y" : 0.5843023256922877
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016096267700195344,
+          "text" : "1. Audit des états financiers annuels",
+          "width" : 0.3232948735075177,
+          "x" : 0.1397929273632894,
+          "y" : 0.5508230562876696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014806957244873131,
+          "text" : "Opinion",
+          "width" : 0.07418013518711306,
+          "x" : 0.10900046800367827,
+          "y" : 0.5042244284247122
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "Nous avons effectué l'audit des états financiers annuels de synthèse de la BANK OF",
+          "width" : 0.7674896672086896,
+          "x" : 0.10905352943577841,
+          "y" : 0.45333333348526483
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021812015374501614,
+          "text" : "AFRICA-BURKINA FASO SA, comprenant le bilan, le compte de résultat, le hors bilan et",
+          "width" : 0.7716049338286778,
+          "x" : 0.1090535052050026,
+          "y" : 0.43458333307834596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020552325248718195,
+          "text" : "les notes annexes au 31 décembre 2020, dont les principales caractéristiques sont (en million",
+          "width" : 0.7716049338286777,
+          "x" : 0.10699588618922763,
+          "y" : 0.41569767456322604
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "de Francs CFA) :",
+          "width" : 0.14197530386582857,
+          "x" : 0.1090535011192119,
+          "y" : 0.39958333309414495
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Eléments",
+          "width" : 0.084362137992427,
+          "x" : 0.17283950608094703,
+          "y" : 0.3633720930614738
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187796,
+          "text" : "Total bilan",
+          "width" : 0.09670782089233398,
+          "x" : 0.1769547323350401,
+          "y" : 0.3429166666539273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "Capitaux propres et ressources assimilées",
+          "width" : 0.33950614929199224,
+          "x" : 0.17695474168630848,
+          "y" : 0.32250000021770986
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.018924418290456102,
+          "text" : "° Résultat net bénéficiaire",
+          "width" : 0.23868312475816258,
+          "x" : 0.20164609060445784,
+          "y" : 0.3037500000096047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017616279125213574,
+          "text" : "Fonds propres effectifs",
+          "width" : 0.19547323910695205,
+          "x" : 0.17489712334775862,
+          "y" : 0.28488372071634227
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Produits nets bancaires",
+          "width" : 0.19135802646852895,
+          "x" : 0.17695473298854564,
+          "y" : 0.26583333343258986
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01894379854202277,
+          "text" : "Montants (en million FCFA)",
+          "width" : 0.24074074007430157,
+          "x" : 0.563786007555442,
+          "y" : 0.3604166663011583
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017713576157887823,
+          "text" : "988 181",
+          "width" : 0.07420139942529069,
+          "x" : 0.7324466258416208,
+          "y" : 0.33998042144466767
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017611559232076024,
+          "text" : "84 435",
+          "width" : 0.06182409232517461,
+          "x" : 0.7448081181382273,
+          "y" : 0.32113608077555533
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "17 608",
+          "width" : 0.06172839650567963,
+          "x" : 0.7448559660132782,
+          "y" : 0.30375000007518205
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017538759708404572,
+          "text" : "74 767",
+          "width" : 0.06378600732335504,
+          "x" : 0.7427983537251538,
+          "y" : 0.28333333344153233
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017695926030476872,
+          "text" : "47 367",
+          "width" : 0.0618713756777205,
+          "x" : 0.7447844767124341,
+          "y" : 0.26440785106307474
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.024167714118957462,
+          "text" : "À notre avis, les états financiers annuels de synthèse ci-joints sont réguliers et sincères et",
+          "width" : 0.7719744556355027,
+          "x" : 0.10474841879151027,
+          "y" : 0.21433075192899087
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.020527013937632232,
+          "text" : "donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la",
+          "width" : 0.7676135369066922,
+          "x" : 0.10692807570755411,
+          "y" : 0.19170208078376805
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "situation financière et du patrimoine de la société à la fin de cet exercice conformément aux",
+          "width" : 0.7695473005186837,
+          "x" : 0.10493827620156362,
+          "y" : 0.17000000026000261
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "règles et méthodes comptables édictées par le Plan Comptable Bancaire de l'UMOA.",
+          "width" : 0.6913580264685288,
+          "x" : 0.10493827565462444,
+          "y" : 0.14534883722424863
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "SOFIDEC Audit & Conseil",
+          "width" : 0.22222222022290497,
+          "x" : 0.10493827042352696,
+          "y" : 0.046511628163217966
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Cabinet Rosette NACRO",
+          "width" : 0.2016460850553693,
+          "x" : 0.6111111163714923,
+          "y" : 0.04499999992450432
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-bf-2020-7\/page-002.pdf.png"
+}

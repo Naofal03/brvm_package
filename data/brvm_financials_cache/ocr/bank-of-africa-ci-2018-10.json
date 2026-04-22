@@ -1,0 +1,61 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "BANK OF AFRICA",
+          "width" : 0.2464065641621117,
+          "x" : 0.1601642723337286,
+          "y" : 0.8895348840739701
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.028061955769856706,
+          "text" : "arOUDO BNCE BANK",
+          "width" : 0.2485582331465327,
+          "x" : 0.12315414623889315,
+          "y" : 0.8733236735503034
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.020542635122935082,
+          "text" : "BANK OF AFRICA - COTE D'IVOIRE",
+          "width" : 0.5277207445340106,
+          "x" : 0.23613963103124924,
+          "y" : 0.7877906980431194
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "ETATS FINANCIERS PUBLIABLES PROVISOIRES",
+          "width" : 0.564681701300703,
+          "x" : 0.21560576529274028,
+          "y" : 0.48691860482434757
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "AU 31 DECEMBRE 2018",
+          "width" : 0.2792607679243504,
+          "x" : 0.357289533080946,
+          "y" : 0.4578488369724836
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01600775241851815,
+          "text" : "(Selon PCB révisé)",
+          "width" : 0.19301846956897822,
+          "x" : 0.400410685010172,
+          "y" : 0.43166666629577166
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-ci-2018-10.pdf.png"
+}

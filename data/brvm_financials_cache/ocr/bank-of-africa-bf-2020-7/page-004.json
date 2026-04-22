@@ -1,0 +1,389 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "-",
+          "width" : 0.020576130669071994,
+          "x" : 0.02674897153103328,
+          "y" : 0.9447674419570006
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720929622650253,
+          "text" : "-",
+          "width" : 0.020576130669071987,
+          "x" : 0.026748971359565523,
+          "y" : 0.8982558141615431
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.01851851760216479,
+          "x" : 0.02880658512895875,
+          "y" : 0.8502906978025392
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "-",
+          "width" : 0.02057613066907199,
+          "x" : 0.024691358430896107,
+          "y" : 0.8008720933075335
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.02057613066907199,
+          "x" : 0.02674897204543656,
+          "y" : 0.7543604652443997
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572834,
+          "text" : "-",
+          "width" : 0.01851851760216479,
+          "x" : 0.02674897196023447,
+          "y" : 0.7063953489653299
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.005813953479131051,
+          "text" : "-",
+          "width" : 0.01851851872678073,
+          "x" : 0.02674897098640388,
+          "y" : 0.6598837209671529
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.016460904535257594,
+          "x" : 0.02674897187503237,
+          "y" : 0.5625000001281206
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.0029069767395655255,
+          "text" : "-",
+          "width" : 0.012345678401443193,
+          "x" : 0.026748971395986223,
+          "y" : 0.5174418604916513
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.016460904535257594,
+          "x" : 0.024691358706308092,
+          "y" : 0.46802325594207406
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.005813953479131051,
+          "text" : "-",
+          "width" : 0.016460904535257594,
+          "x" : 0.024691358706308092,
+          "y" : 0.4200581395879539
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.014534883499145446,
+          "text" : "-",
+          "width" : 0.030864196003607985,
+          "x" : 0.016460905856220703,
+          "y" : 0.27180232561961326
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.017441860834757517,
+          "text" : "-",
+          "width" : 0.030864196003607985,
+          "x" : 0.016460905856220703,
+          "y" : 0.22093023230064446
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01505900859832765,
+          "text" : "BOA-BF SA",
+          "width" : 0.08043394448622221,
+          "x" : 0.4855031929399264,
+          "y" : 0.9445053794803079
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers de synthèse au 31 Décembre 2020",
+          "width" : 0.7098765103322154,
+          "x" : 0.12551442155714318,
+          "y" : 0.925833333348054
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015998062292734816,
+          "text" : "Page 4",
+          "width" : 0.05555555505572618,
+          "x" : 0.8703703709675074,
+          "y" : 0.9244186046959574
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020009667078654036,
+          "text" : "Il incombe au Conseil d'Administration à travers son comité d'audit de surveiller le processus",
+          "width" : 0.7698126019171949,
+          "x" : 0.10892211839780833,
+          "y" : 0.8731095600759569
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538033326466862,
+          "text" : "d'élaboration de l'information financière de la société.",
+          "width" : 0.44479496074172686,
+          "x" : 0.110955067052813,
+          "y" : 0.850221817155393
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789535,
+          "text" : "Responsabilités des commissaires aux comptes relatives à l'audit des états financiers",
+          "width" : 0.7674896672086895,
+          "x" : 0.11111113365902966,
+          "y" : 0.8066666668579421
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "annuels de synthèse",
+          "width" : 0.17078189130099314,
+          "x" : 0.11316872568695201,
+          "y" : 0.7848837210581674
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "Nos objectifs sont d'obtenir l'assurance raisonnable que les états financiers annuels de",
+          "width" : 0.7695473005186838,
+          "x" : 0.1090535120040326,
+          "y" : 0.7499999996407607
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "synthèse pris dans leur ensemble ne comportent pas d'anomalies significatives, que celles-ci",
+          "width" : 0.7674896672086896,
+          "x" : 0.10905352171972933,
+          "y" : 0.7252906983726619
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666776,
+          "text" : "proviennent de fraudes ou résultent d'erreurs et d'émettre un rapport d'audit contenant notre",
+          "width" : 0.7695473005186837,
+          "x" : 0.1090535123435387,
+          "y" : 0.7004166662929505
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999985,
+          "text" : "opinion. L'assurance raisonnable correspond à un niveau élevé d'assurance, qui ne garantit",
+          "width" : 0.7674896672086895,
+          "x" : 0.1111111279917752,
+          "y" : 0.6758333330677384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017587209542592408,
+          "text" : "toutefois pas qu'un audit réalisé conformément aux normes « ISA » permettra de toujours",
+          "width" : 0.7695473005186836,
+          "x" : 0.10905351664737964,
+          "y" : 0.6511627905855282
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "détecter toute anomalie significative existante. Les anomalies peuvent provenir de fraudes ou",
+          "width" : 0.7654321058741156,
+          "x" : 0.11111109990244854,
+          "y" : 0.6291666666560789
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.024938191572825064,
+          "text" : "résulter d'erreurs et sont considérées comme significatives lorsqu'il est raisonnable de",
+          "width" : 0.7679428244536778,
+          "x" : 0.10886106604202399,
+          "y" : 0.599972116124686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02070822397867833,
+          "text" : "s'attendre à ce que, prises individuellement ou en cumulé, elles puissent influencer les",
+          "width" : 0.7677410053757001,
+          "x" : 0.10892204771336862,
+          "y" : 0.575513535701703
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "décisions économiques que les utilisateurs des états financiers annuels de synthèse prennent",
+          "width" : 0.7695473005186837,
+          "x" : 0.10905351573125188,
+          "y" : 0.5523255812728206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015058158238728803,
+          "text" : "en se fondant sur ceux-ci.",
+          "width" : 0.21023509187518424,
+          "x" : 0.11097091659651881,
+          "y" : 0.5319091478398177
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017607951164245628,
+          "text" : "2. Vérifications spécifiques prévues par la loi et autres informations",
+          "width" : 0.5948047997816553,
+          "x" : 0.13778679351539244,
+          "y" : 0.49706706805660794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01755813995997113,
+          "text" : "Nous avons également procédé, conformément aux dispositions légales et règlementaires en",
+          "width" : 0.7674896672086896,
+          "x" : 0.10905352798001725,
+          "y" : 0.464999999788803
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017509690125783295,
+          "text" : "vigueur, aux vérifications spécifiques prévues par la loi et les règlements.",
+          "width" : 0.6008230245338295,
+          "x" : 0.10699590114872298,
+          "y" : 0.44040697655936545
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.014534883499145446,
+          "text" : "2.1.",
+          "width" : 0.053497939739587164,
+          "x" : 0.144032924025954,
+          "y" : 0.3808139536477141
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Concordance du rapport de gestion et des états financiers",
+          "width" : 0.4855967107808815,
+          "x" : 0.20576131053548527,
+          "y" : 0.3779069766636173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018112629254658952,
+          "text" : "Conformément aux dispositions de l'article 713 de l'Acte Uniforme de l'OHADA relatif au",
+          "width" : 0.7676673745209316,
+          "x" : 0.10691597061839396,
+          "y" : 0.34553562799681214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "droit des Sociétés Commerciales et des Groupements d'Intérêt Economique, les commissaires",
+          "width" : 0.7695473005186837,
+          "x" : 0.1069959066851024,
+          "y" : 0.31958333309338005
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "aux comptes vérifient la sincérité et la concordance avec les états financiers annuels de",
+          "width" : 0.7716049338286779,
+          "x" : 0.10493826418134039,
+          "y" : 0.2979166663534121
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017577519416809073,
+          "text" : "synthèse, des informations données dans le rapport de gestion du Conseil d'Administration ou",
+          "width" : 0.7695473005186837,
+          "x" : 0.10493827620156362,
+          "y" : 0.2716666667563836
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "de l'Administrateur Général, selon le cas, et dans les documents sur la situation financière et",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699590347865529,
+          "y" : 0.2470833329936596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "les états financiers annuels de synthèse de la société adressés aux actionnaires.",
+          "width" : 0.639917697546617,
+          "x" : 0.10493827696743217,
+          "y" : 0.22374999970823417
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014602712790171335,
+          "text" : "Nous n'avons pas d'observations à formuler sur la sincérité et la concordance avec les états",
+          "width" : 0.7674896672086895,
+          "x" : 0.10699591481129296,
+          "y" : 0.19331395362833426
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017635658582051628,
+          "text" : "financiers annuels de synthèse des informations données dans le rapport de gestion du Conseil",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699590303283912,
+          "y" : 0.16569767481048925
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "d'Administration et dans les documents adressés aux actionnaires sur la situation financière et",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699588821802455,
+          "y" : 0.14375000029226503
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016007751623789535,
+          "text" : "les états financiers de synthèse.",
+          "width" : 0.25925925992569837,
+          "x" : 0.10493827451245939,
+          "y" : 0.11916666699965728
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "SOFIDEC Audit & Conseil",
+          "width" : 0.222222220222905,
+          "x" : 0.10493827538237462,
+          "y" : 0.04651162822023136
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "Cabinet Rosette NACRO",
+          "width" : 0.2016460850553693,
+          "x" : 0.6111111163714923,
+          "y" : 0.045000000054192246
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-bf-2020-7\/page-004.pdf.png"
+}

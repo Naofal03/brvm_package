@@ -1,0 +1,45 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.05284465154012041,
+          "text" : "T BANK OF AFRICA",
+          "width" : 0.287073579676011,
+          "x" : 0.35031567061218205,
+          "y" : 0.845670697662768
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.022083333333333233,
+          "text" : "Groupe BMCE BANK O",
+          "width" : 0.2295082002527573,
+          "x" : 0.4036885244637852,
+          "y" : 0.8400000002925785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020348836580912355,
+          "text" : "ETATS FINANCIERS - BOA BENIN",
+          "width" : 0.5389344338809743,
+          "x" : 0.23155737707297883,
+          "y" : 0.5436046515600421
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022350792884826776,
+          "text" : "au 30 juin 2020",
+          "width" : 0.17226829977596514,
+          "x" : 0.41796421062999334,
+          "y" : 0.5157141382600587
+        }
+      ],
+      "width" : 1700
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-bn-2020-6.pdf.png"
+}

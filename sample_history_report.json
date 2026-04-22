@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "generated_at": "2026-04-16T14:10:39.000323",
+    "symbols_compared": 2,
+    "recommended_sources": {
+      "sikafinance": 2,
+      "richbourse": 0,
+      "undetermined": 0
+    },
+    "conforming_symbols": 0,
+    "failed_symbols": 2
+  },
+  "reports": [
+    {
+      "symbol": "BOAB",
+      "overlap_days": 0,
+      "sika_only_days": 333,
+      "rich_only_days": 0,
+      "close_match_ratio": null,
+      "volume_match_ratio": null,
+      "max_close_gap": null,
+      "recommended_source": "sikafinance",
+      "recommendation_reason": "RichBourse a echoue, SikaFinance a renvoye des donnees.",
+      "sika": {
+        "source": "sikafinance",
+        "elapsed_seconds": 1.6821598329988774,
+        "total_rows": 333,
+        "normalized_rows": 333,
+        "first_date": "01/01/2025",
+        "last_date": "15/04/2026",
+        "sample_keys": [
+          "Close",
+          "Date",
+          "High",
+          "Low",
+          "Open",
+          "Volume"
+        ],
+        "fetch_error": null
+      },
+      "richbourse": {
+        "source": "richbourse",
+        "elapsed_seconds": 4.091364166997664,
+        "total_rows": 0,
+        "normalized_rows": 0,
+        "first_date": null,
+        "last_date": null,
+        "sample_keys": [],
+        "fetch_error": "RetryError[<Future at 0x10974bf00 state=finished raised ConnectError>]"
+      },
+      "error": "RetryError[<Future at 0x10974bf00 state=finished raised ConnectError>]"
+    },
+    {
+      "symbol": "SNTS",
+      "overlap_days": 0,
+      "sika_only_days": 333,
+      "rich_only_days": 0,
+      "close_match_ratio": null,
+      "volume_match_ratio": null,
+      "max_close_gap": null,
+      "recommended_source": "sikafinance",
+      "recommendation_reason": "RichBourse a echoue, SikaFinance a renvoye des donnees.",
+      "sika": {
+        "source": "sikafinance",
+        "elapsed_seconds": 1.8799406249963795,
+        "total_rows": 333,
+        "normalized_rows": 333,
+        "first_date": "01/01/2025",
+        "last_date": "15/04/2026",
+        "sample_keys": [
+          "Close",
+          "Date",
+          "High",
+          "Low",
+          "Open",
+          "Volume"
+        ],
+        "fetch_error": null
+      },
+      "richbourse": {
+        "source": "richbourse",
+        "elapsed_seconds": 4.122985665999295,
+        "total_rows": 0,
+        "normalized_rows": 0,
+        "first_date": null,
+        "last_date": null,
+        "sample_keys": [],
+        "fetch_error": "RetryError[<Future at 0x109ae4d10 state=finished raised ConnectError>]"
+      },
+      "error": "RetryError[<Future at 0x109ae4d10 state=finished raised ConnectError>]"
+    }
+  ]
+}

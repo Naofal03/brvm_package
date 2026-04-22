@@ -1,0 +1,61 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.02791666666666659,
+          "text" : "CÔTE D'IVOIRE",
+          "width" : 0.2654320878802605,
+          "x" : 0.567901238763059,
+          "y" : 0.8283333338016481
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "BANK OF AFRICA - COTE D'IVOIRE",
+          "width" : 0.35390947449882076,
+          "x" : 0.32098764663261997,
+          "y" : 0.7485465118260938
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026337208747863827,
+          "text" : "ETATS FINANCIERS",
+          "width" : 0.4711934215617629,
+          "x" : 0.26337447968979755,
+          "y" : 0.46366279114249764
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026249999999999996,
+          "text" : "PUBLIABLES 31 DECEMBRE 2020",
+          "width" : 0.7427983553904408,
+          "x" : 0.12757201200642573,
+          "y" : 0.4229166668897052
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.031210298538208003,
+          "text" : "TBANKBOEARANKCA",
+          "width" : 0.26353231466041427,
+          "x" : 0.41350133082269036,
+          "y" : 0.1842495016797301
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "Groupe BMCE BANK",
+          "width" : 0.2181069895906268,
+          "x" : 0.4567901302389801,
+          "y" : 0.18604651193286093
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-ci-2020-5\/page-001.pdf.png"
+}

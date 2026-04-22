@@ -1,0 +1,309 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.008914728164672758,
+          "text" : "Annexe 4.1",
+          "width" : 0.05555555505572629,
+          "x" : 0.8374485606151408,
+          "y" : 0.8619186050287913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449039459255,
+          "text" : "Etat: COTE D'IVOIRE",
+          "width" : 0.09876542721154552,
+          "x" : 0.15432099133249882,
+          "y" : 0.8270348840985586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "REGLES ET METHODES COMPTABLES APPLIQUEES",
+          "width" : 0.3744855916725015,
+          "x" : 0.2489711990540098,
+          "y" : 0.8458333330733308
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "ETABLISSEMENT",
+          "width" : 0.0781893010409373,
+          "x" : 0.45061728233275494,
+          "y" : 0.8255813956053416
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.0154384915033976,
+          "text" : "[2| 0| 2| 2| 1| 2|",
+          "width" : 0.0928684270606851,
+          "x" : 0.24060282466541455,
+          "y" : 0.8018737775654702
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007500000000000062,
+          "text" : "Date d'arrêté",
+          "width" : 0.06378600732335504,
+          "x" : 0.26131687277865173,
+          "y" : 0.786249999826901
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013081394831339521,
+          "text" : "31",
+          "width" : 0.04115226133814398,
+          "x" : 0.34567901295232717,
+          "y" : 0.802325581610493
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.014534883499145446,
+          "text" : "A| 0\/ 0|3\/21",
+          "width" : 0.07818930104093735,
+          "x" : 0.44650205778714447,
+          "y" : 0.8023255815789156
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010174418290456178,
+          "text" : "CIB",
+          "width" : 0.045267487471958356,
+          "x" : 0.45884773699104414,
+          "y" : 0.7834302326910122
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "LC",
+          "width" : 0.020576130669072046,
+          "x" : 0.5699588481634064,
+          "y" : 0.7819767443115666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "A-",
+          "width" : 0.012345678401443183,
+          "x" : 0.15226337468816728,
+          "y" : 0.7441860469255935
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "DECLARATION DE CONFORMITE AU PLAN COMPTABLE BANCAIRE DE L'UMOA",
+          "width" : 0.36419753308566116,
+          "x" : 0.1810699531845358,
+          "y" : 0.7427325584081517
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Le bilan et le compte de résultat de BANK OF AFRICA en Côte d'Ivoire ont été établis conformément aux dispositions du",
+          "width" : 0.5370370037150833,
+          "x" : 0.18312759762805475,
+          "y" : 0.7208333335169002
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "Plan Comptable Bancaire révisé applicables aux banques et établissements financiers des pays membres de",
+          "width" : 0.48353907747088737,
+          "x" : 0.18312757254713546,
+          "y" : 0.7107558139142798
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "l'Union Economique et Monétaire Ouest Africaine (UEMOA) qui est entré en vigueur depuis le 1er janvier 2018",
+          "width" : 0.502057597322284,
+          "x" : 0.18312758830730763,
+          "y" : 0.7004166666192078
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "ainsi qu'aux principes et méthodes comptables généralement admis dans la profession bancaire en Côte d'Ivoire.",
+          "width" : 0.5082304252768464,
+          "x" : 0.18312759418599361,
+          "y" : 0.6904069769255083
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "B-",
+          "width" : 0.012345678401443183,
+          "x" : 0.15020576146800269,
+          "y" : 0.5058139534893125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "INDICATION DES REGLES ET METHODES COMPTABLES APLIQUEES PAR L'ETABLISSEMENT",
+          "width" : 0.417695459329857,
+          "x" : 0.1748971210809564,
+          "y" : 0.5029069767170898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "provision depuis l'exercice clos le 31 décembre 1998.",
+          "width" : 0.24279835539044073,
+          "x" : 0.14814814983564376,
+          "y" : 0.4520348837883108
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.026162789662679042,
+          "text" : "fe menate ele d monranitodl et enours te oete nde rie tmte % u bnetite omptabie et l montant eoba e la rovion ne",
+          "width" : 0.6893003931585349,
+          "x" : 0.14814815686723473,
+          "y" : 0.43023255887505585
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "METHODE DE CALCUL DES AMORTISSEMENTS",
+          "width" : 0.21604937427448778,
+          "x" : 0.1481481545294227,
+          "y" : 0.3995833334060078
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les amortissemts sont pratiqués selon la méthode linéaire.",
+          "width" : 0.26748970319639964,
+          "x" : 0.1481481547461074,
+          "y" : 0.38953488404024106
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "METHODE D'EVALUATION DES DIFFERENTS POSTES DU BILAN, DU HORS BILAN, DU COMPTE DE",
+          "width" : 0.44855967107808814,
+          "x" : 0.14609052922433055,
+          "y" : 0.35749999964946777
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "RESULTAT, AINSI QUE DES AUTRES INDICATIONS CHIFFREES FIGURANT DANS L'ANNEXE",
+          "width" : 0.41152263137529477,
+          "x" : 0.1460905379646159,
+          "y" : 0.3473837208594388
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "*Les intérêts et commissions assimilées sont comptabilisés pour leur montant couru au prorata temporis. Les commissions non assimilées à des intérêts",
+          "width" : 0.6872427598485407,
+          "x" : 0.14814817427326038,
+          "y" : 0.32833333329771586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008905038436253898,
+          "text" : "et correspondant à des prestations de services sont enregistrées à la date de réalisation de l'opération.",
+          "width" : 0.4650205576194907,
+          "x" : 0.150205762822628,
+          "y" : 0.31958333330336564
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "*Les créances en souffrance font l'objet d'une provision déterminée au cas par cas suivant l'instruction n°026-11-2016 du plan comptable bancaire révisé",
+          "width" : 0.693415587803103,
+          "x" : 0.1481481616197109,
+          "y" : 0.2979166666262043
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666674,
+          "text" : "*Les positions de change sont évaluées aux cours de change officiels de fin de période. Tous les actifs et passifs libellés en monnaies étrangères et",
+          "width" : 0.6604938147202978,
+          "x" : 0.1481481626244188,
+          "y" : 0.27750000015615717
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "figurant au bilan sont donc évalués aux cours de change officiels en vigueur à la date de clôture de l'exercice. Les gains ou pertes de changes latents ou",
+          "width" : 0.6851851265385466,
+          "x" : 0.14609057572249587,
+          "y" : 0.2658333333170956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "définitifs, sont constatés à la fin de chaque période au compte de résultat en contrepartie des comptes de contre-valeur de position de change.",
+          "width" : 0.6481481588111733,
+          "x" : 0.14814815091848724,
+          "y" : 0.2570833332221275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "*Ils sont comptabilisés à leur coût d'acquisition et font l'objet d'une dépréciation par rapport à leur valeur intrinsèque correspondant à la quote-part de",
+          "width" : 0.6872427598485407,
+          "x" : 0.14814817427326038,
+          "y" : 0.2369186048518649
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008885658582051592,
+          "text" : "l'actif net détenue.",
+          "width" : 0.08847735962777767,
+          "x" : 0.14814814998720863,
+          "y" : 0.2281976746751091
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011855173110961958,
+          "text" : "*Les immobilisations incorporelles comprennent les frais de développement informatique qui sont comptabilisés à leur côut d'acquisition et font l'objet",
+          "width" : 0.6852902826273216,
+          "x" : 0.14809190693536167,
+          "y" : 0.20491795950739533
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895348707834927,
+          "text" : "d'un amortissement sur une durée de 3 ans.",
+          "width" : 0.20164608505536924,
+          "x" : 0.146090540239805,
+          "y" : 0.1974999998607575
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02180232524871828,
+          "text" : "MAZARS CÔTE D'IVOIRE",
+          "width" : 0.2263374508551832,
+          "x" : 0.6255144018798746,
+          "y" : 0.09447674450811594
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01760658899943035,
+          "text" : "Visa pour",
+          "width" : 0.16049381472029778,
+          "x" : 0.6584362183600158,
+          "y" : 0.07541666642263845
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Identification",
+          "width" : 0.22222222022290505,
+          "x" : 0.6255144024399878,
+          "y" : 0.05813953476196998
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-ci-2022-3\/page-005.pdf.png"
+}

@@ -1,0 +1,173 @@
+# Rapport de validation BRVM Package
+
+## Test import package
+$ /Users/naofal/Desktop/brvm_package/.venv/bin/python -c import brvm_package as bv; print(bv.list_assets())
+Exit code: 0
+--- stdout ---
+['ABJC', 'BICB', 'BICC', 'BNBC', 'BOAB', 'BOABF', 'BOAC', 'BOAM', 'BOAN', 'BOAS', 'CABC', 'CBIBF', 'CFAC', 'CIEC', 'ECOC', 'ETIT', 'FTSC', 'LNBB', 'NEIC', 'NSBC', 'NTLC', 'ONTBF', 'ORAC', 'ORGT', 'PALC', 'PRSC', 'SAFC', 'SCRC', 'SDCC', 'SDSC', 'SEMC', 'SGBC', 'SHEC', 'SIBC', 'SICC', 'SIVC', 'SLBC', 'SMBC', 'SNTS', 'SOGC', 'SPHC', 'STAC', 'STBC', 'TTLC', 'TTLS', 'UNLC', 'UNXC']
+
+
+
+## Test CLI version
+$ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main --help
+Exit code: 0
+--- stdout ---
+                                                                                                     
+ Usage: python -m brvm_package.cli.main [OPTIONS] COMMAND [ARGS]...                                  
+                                                                                                     
+ Application CLI pour extraire les données de la BRVM.                                               
+                                                                                                     
+╭─ Options ─────────────────────────────────────────────────────────────────────────────────────────╮
+│ --install-completion          Install completion for the current shell.                           │
+│ --show-completion             Show completion for the current shell, to copy it or customize the  │
+│                               installation.                                                       │
+│ --help                        Show this message and exit.                                         │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─ Commands ────────────────────────────────────────────────────────────────────────────────────────╮
+│ richbourse   Récupère les cotations générales depuis Richbourse.                                  │
+│ version      Affiche la version du package.                                                       │
+│ sikafinance  Récupère le profil d'une action depuis SikaFinance.                                  │
+│ sync         Synchronise la base SQLite et met à jour les nouvelles données quotidiennes.         │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+
+
+
+## Test CLI richbourse
+$ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main richbourse
+Exit code: 0
+--- stdout ---
+Connexion à Richbourse...
+┏━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━┓
+┃ Symbole ┃ Prix   ┃ Variation ┃
+┡━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━┩
+│ ABJC    │ 3 230  │ -2.56%    │
+│ BICB    │ 5 100  │ -0.2%     │
+│ BICC    │ 24 850 │ -0.6%     │
+│ BNBC    │ 1 565  │ 0.32%     │
+│ BOAB    │ 8 000  │ 0%        │
+│ BOABF   │ 5 630  │ -0.27%    │
+│ BOAC    │ 8 495  │ -2.3%     │
+│ BOAM    │ 4 695  │ -0.11%    │
+│ BOAN    │ 3 360  │ 1.66%     │
+│ BOAS    │ 6 790  │ 0.59%     │
+│ CABC    │ 3 515  │ -7.5%     │
+│ CBIBF   │ 16 845 │ 0.27%     │
+│ CFAC    │ 1 590  │ 2.58%     │
+│ CIEC    │ 3 055  │ 0.16%     │
+│ ECOC    │ 15 810 │ 0%        │
+│ ETIT    │ 29     │ 7.41%     │
+│ FTSC    │ 2 220  │ 1.14%     │
+│ LNBB    │ 3 860  │ 0%        │
+│ NEIC    │ 1 380  │ 0%        │
+│ NSBC    │ 14 105 │ 0.04%     │
+│ NTLC    │ 12 100 │ -3.04%    │
+│ ONTBF   │ 2 710  │ -0.37%    │
+│ ORAC    │ 14 905 │ 0.03%     │
+│ ORGT    │ 3 295  │ 2.81%     │
+│ PALC    │ 8 060  │ 0%        │
+│ PRSC    │ 4 800  │ -2.04%    │
+│ SAFC    │ 6 200  │ 6.35%     │
+│ SCRC    │ 2 010  │ -1.47%    │
+│ SDCC    │ 7 485  │ 3.96%     │
+│ SDSC    │ 1 805  │ 1.69%     │
+│ SEMC    │ 1 800  │ 3.15%     │
+│ SGBC    │ 34 940 │ 6.52%     │
+│ SHEC    │ 2 000  │ 5.54%     │
+│ SIBC    │ 7 010  │ -0.07%    │
+│ SICC    │ 4 300  │ 1.9%      │
+│ SIVC    │ 2 695  │ 0%        │
+│ SLBC    │ 38 500 │ -1.76%    │
+│ SMBC    │ 11 700 │ 1.43%     │
+│ SNTS    │ 28 500 │ 0.35%     │
+│ SOGC    │ 7 680  │ -0.26%    │
+│ SPHC    │ 7 355  │ -0.54%    │
+│ STAC    │ 2 850  │ 3.26%     │
+│ STBC    │ 20 900 │ 0%        │
+│ TTLC    │ 2 700  │ -1.82%    │
+│ TTLS    │ 3 200  │ -1.54%    │
+│ UNLC    │ 57 200 │ -0.52%    │
+│ UNXC    │ 1 875  │ 0%        │
+└─────────┴────────┴───────────┘
+
+
+
+## Test CLI sikafinance
+$ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main sikafinance SNTS
+Exit code: 0
+--- stdout ---
+Recherche du ticker SNTS sur SikaFinance...
+{
+  "source": "SikaFinance",
+  "symbol": "SNTS",
+  "resolved_ticker": "SNTS.sn",
+  "revenue": 1923122000000.0,
+  "net_income": 413588000000.0,
+  "eps": 4136.0,
+  "per": 7.01,
+  "dividend": 1740.0,
+  "pbr": null,
+  "roe": null,
+  "market_cap": 2900000000000.0,
+  "shares_outstanding": 100000000.0,
+  "float_ratio": 22.47,
+  "beta_1y": 0.79,
+  "major_shareholders": "FRANCE TELECOM*42,3;ETAT DU SENEGAL*27,7;PUBLIC (BRVM)*20;EMPLOYES SONATEL*10"
+}
+
+
+
+## Test CLI sync
+$ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main sync --symbol SNTS --start 2026-04-01 --end 2026-04-20
+Exit code: 0
+--- stdout ---
+{
+  "symbols": 1,
+  "tickers_synced": 0,
+  "history_rows_upserted": 14,
+  "fundamental_snapshots_saved": 1,
+  "max_concurrency": 6,
+  "market_attempts": [],
+  "details": {
+    "SNTS": {
+      "history_rows": 14,
+      "from": "2026-04-01",
+      "to": "2026-04-20",
+      "status": "ok",
+      "history_source": "sikafinance",
+      "fundamentals_source": "sikafinance",
+      "history_attempts": [
+        {
+          "provider": "brvm",
+          "status": "Historique indisponible via BRVMProvider pour SNTS."
+        },
+        {
+          "provider": "sikafinance",
+          "status": "success"
+        }
+      ],
+      "fundamentals_attempts": [
+        {
+          "provider": "brvm",
+          "status": "Fondamentaux indisponibles via BRVMProvider pour SNTS."
+        },
+        {
+          "provider": "sikafinance",
+          "status": "success"
+        }
+      ]
+    }
+  }
+}
+
+
+
+## Test pytest
+$ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m pytest -q --tb=short
+Exit code: 0
+--- stdout ---
+.................                                                        [100%]
+17 passed in 3.91s
+
+
+

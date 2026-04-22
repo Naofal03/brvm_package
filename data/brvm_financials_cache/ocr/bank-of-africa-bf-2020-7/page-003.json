@@ -1,0 +1,429 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.018518517602164792,
+          "x" : 0.026748971342950536,
+          "y" : 0.947674418587423
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.005813953479131051,
+          "text" : "-",
+          "width" : 0.018518518726780724,
+          "x" : 0.02674897099926396,
+          "y" : 0.8997093023665391
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "-",
+          "width" : 0.01851851760216479,
+          "x" : 0.02674897196023447,
+          "y" : 0.7543604652443997
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "-",
+          "width" : 0.026748969869793582,
+          "x" : 0.02263374554349827,
+          "y" : 0.6555232562362199
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.017441860834757517,
+          "text" : "-",
+          "width" : 0.026748969869793585,
+          "x" : 0.02263374541489745,
+          "y" : 0.6061046511523887
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013081394831339521,
+          "text" : "-",
+          "width" : 0.026748969869793585,
+          "x" : 0.020576132081564117,
+          "y" : 0.5130813955058418
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01598837216695148,
+          "text" : "-",
+          "width" : 0.030864196003607982,
+          "x" : 0.018518518973504653,
+          "y" : 0.46366279058803594
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "-",
+          "width" : 0.026748969869793585,
+          "x" : 0.020576132616543532,
+          "y" : 0.41569767475002795
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720930417378758,
+          "text" : "-",
+          "width" : 0.02469135680288639,
+          "x" : 0.02057613254505886,
+          "y" : 0.3226744185703804
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720930417378758,
+          "text" : "-",
+          "width" : 0.02057613066907199,
+          "x" : 0.022633745273603012,
+          "y" : 0.2747093022816206
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "-",
+          "width" : 0.02674896986979359,
+          "x" : 0.018518519514691682,
+          "y" : 0.223837209384241
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "-",
+          "width" : 0.026748969869793585,
+          "x" : 0.018518519447819255,
+          "y" : 0.17587209309063634
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.011627906958262102,
+          "text" : "-",
+          "width" : 0.02880658293670078,
+          "x" : 0.016460906422596105,
+          "y" : 0.1279069768261013
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "-",
+          "width" : 0.02674896986979359,
+          "x" : 0.018518519514691682,
+          "y" : 0.07994186054703167
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.011627906958262213,
+          "text" : "-",
+          "width" : 0.02880658293670078,
+          "x" : 0.016460906422596105,
+          "y" : 0.03197674426796193
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013661708831787078,
+          "text" : "BOA-BF SA",
+          "width" : 0.08043250497782012,
+          "x" : 0.48550391278795385,
+          "y" : 0.9459307735564837
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers de synthèse au 31 Décembre 2020",
+          "width" : 0.7098765103322155,
+          "x" : 0.12551442564664939,
+          "y" : 0.9258333335226429
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734816,
+          "text" : "Page 3",
+          "width" : 0.05555555505572629,
+          "x" : 0.8703703706717253,
+          "y" : 0.9244186044809622
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Fondement de l'opinion",
+          "width" : 0.2078189310037865,
+          "x" : 0.11111111270798325,
+          "y" : 0.8750000001690319
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Nous avons effectué notre audit conformément aux dispositions du Règlement",
+          "width" : 0.7674896672086895,
+          "x" : 0.11111112388022341,
+          "y" : 0.8283333333702975
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789424,
+          "text" : "Nº01\/2017\/CM\/OHADA du 08 juin 2017 portant harmonisation des pratiques des",
+          "width" : 0.7695473005186837,
+          "x" : 0.10905350061514395,
+          "y" : 0.8023255813402161
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017558139165242515,
+          "text" : "professionnels de la comptabilité et de l'audit et de la circulaire n°002-2018\/CB\/C du 18",
+          "width" : 0.7674896672086896,
+          "x" : 0.10905351287713685,
+          "y" : 0.7775000003800432
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "septembre 2018 relative aux conditions d'exercice du commissariat aux comptes auprès des",
+          "width" : 0.7674896672086896,
+          "x" : 0.11111112068234974,
+          "y" : 0.7541666666366991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "établissements de crédit et des compagnies financières de l'Union Monétaire Ouest Africaine",
+          "width" : 0.7674896672086895,
+          "x" : 0.1111111411487416,
+          "y" : 0.7281976744543149
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "(UMOA). Les responsabilités qui nous incombent en vertu de ces normes sont plus",
+          "width" : 0.7674896672086895,
+          "x" : 0.1111111328308405,
+          "y" : 0.7049418606280068
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "amplement décrites dans la section « Responsabilités du commissaire aux comptes relatives à",
+          "width" : 0.7695473005186837,
+          "x" : 0.10905351985382668,
+          "y" : 0.6787500000726744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01759689966837552,
+          "text" : "l'audit des états financiers annuels de synthèse» du présent rapport. Nous sommes",
+          "width" : 0.7695473005186837,
+          "x" : 0.10905351573125188,
+          "y" : 0.6540697673193323
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017635659376780244,
+          "text" : "indépendants de la société conformément au Code d'éthique des professionnels de la",
+          "width" : 0.7695473005186837,
+          "x" : 0.10905351792995854,
+          "y" : 0.6291666664475752
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "comptabilité et de l'audit édicté",
+          "width" : 0.2716049338286778,
+          "x" : 0.10905350355891204,
+          "y" : 0.6075000003871829
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017645347913106346,
+          "text" : "par le Règlement N°01\/2017\/CM\/OHADA du 08 juin 2017",
+          "width" : 0.49999999999999994,
+          "x" : 0.37860082929526745,
+          "y" : 0.6061046518453731
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "susvisé et les règles d'indépendance qui encadrent le commissariat aux comptes et nous avons",
+          "width" : 0.7695473005186837,
+          "x" : 0.10905351792995854,
+          "y" : 0.5812500001360149
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02164638042449951,
+          "text" : "satisfait aux autres responsabilités",
+          "width" : 0.3009999833017025,
+          "x" : 0.10875664236598555,
+          "y" : 0.5552206627518923
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441859245300284,
+          "text" : "éthiques qui nous incombent selon ces règles. Nous",
+          "width" : 0.4711934215617629,
+          "x" : 0.40740741033537364,
+          "y" : 0.5552325588221172
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187796,
+          "text" : "estimons que les éléments probants que nous avons obtenus sont suffisants et appropriés pour",
+          "width" : 0.7695473005186837,
+          "x" : 0.1090535158723453,
+          "y" : 0.5304166664552838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "fonder notre opinion d'audit.",
+          "width" : 0.23662550944202354,
+          "x" : 0.10905350211320337,
+          "y" : 0.5087209302475042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Responsabilités du Conseil d'Administration relatives aux états financiers annuels de",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699588937028792,
+          "y" : 0.44458333336365696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "synthèse",
+          "width" : 0.07818930104093733,
+          "x" : 0.1069958847675972,
+          "y" : 0.42005813969777417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02028373956680296,
+          "text" : "Le Conseil d'Administration est responsable de la préparation et de la présentation sincère des",
+          "width" : 0.7697856831100751,
+          "x" : 0.10687500519764202,
+          "y" : 0.3537718182119952
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022532742818196616,
+          "text" : "états financiers annuels de synthèse conformément aux règles et méthodes comptables",
+          "width" : 0.7698918468547317,
+          "x" : 0.10679668833878755,
+          "y" : 0.32815773436109086
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020823734601338684,
+          "text" : "édictées par le Plan Comptable Bancaire de l'UMOA, ainsi que du contrôle interne qu'il",
+          "width" : 0.7697769021088222,
+          "x" : 0.10687062294227968,
+          "y" : 0.30383005869508584
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02048297166824342,
+          "text" : "estime nécessaire pour permettre la préparation d'états financiers annuels de synthèse ne",
+          "width" : 0.7697586923275354,
+          "x" : 0.10689414807410948,
+          "y" : 0.27948157879146507
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "comportant pas d'anomalies significatives, que celles-ci proviennent de fraudes ou résultent",
+          "width" : 0.7695473005186836,
+          "x" : 0.10699589065286676,
+          "y" : 0.2570833333466995
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01575838406880692,
+          "text" : "d'erreurs.",
+          "width" : 0.08212569074810673,
+          "x" : 0.10600943373192011,
+          "y" : 0.23357807320888557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018165749708811463,
+          "text" : "Lors de la préparation des états financiers annuels de synthèse, il incombe au Conseil",
+          "width" : 0.7676279319907133,
+          "x" : 0.10897547101282941,
+          "y" : 0.20001222809525698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018914728164672878,
+          "text" : "d'Administration d'évaluer la capacité de la société à poursuivre son exploitation, de fournir,",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699590256252767,
+          "y" : 0.1744186051235963
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017587209542592408,
+          "text" : "le cas échéant, des informations relatives à la continuité d'exploitation et d'appliquer la base",
+          "width" : 0.7716049338286777,
+          "x" : 0.10493828154245108,
+          "y" : 0.15116279057099324
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "de continuité d'exploitation, sauf si le Conseil d'Administration a l'intention de mettre la",
+          "width" : 0.7695473005186837,
+          "x" : 0.10699590476123419,
+          "y" : 0.12790697675082663
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "société en liquidation ou de cesser ses activités ou",
+          "width" : 0.4670781909294848,
+          "x" : 0.10699588862990768,
+          "y" : 0.10319767445431505
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "s'il n'existe aucune autre solution",
+          "width" : 0.3045267428991929,
+          "x" : 0.5720164613693336,
+          "y" : 0.10458333366256245
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017596899668375743,
+          "text" : "alternative réaliste qui s'offre à elle.",
+          "width" : 0.29835389695077574,
+          "x" : 0.10699589191555861,
+          "y" : 0.07833333324900305
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014593023459116727,
+          "text" : "SOFIDEC Audit & Conseil",
+          "width" : 0.22016460490676593,
+          "x" : 0.1069958841464113,
+          "y" : 0.044999999867490925
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "Cabinet Rosette NACRO",
+          "width" : 0.20164608505536918,
+          "x" : 0.6111111162686118,
+          "y" : 0.04360465109199707
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-bf-2020-7\/page-003.pdf.png"
+}
