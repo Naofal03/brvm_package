@@ -1,2 +1,3 @@
-from brvm_package import *  # noqa: F403
-from brvm_package import __all__, __version__
+from brvm_package import *
+
+__version__ = brvm_package.__version__

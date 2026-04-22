@@ -1,6 +1,6 @@
 [project]
-name = "brvm-package"
-version = "0.1.0"
+name = "brvm"
+version = "0.2.0"
 description = "Python toolkit for BRVM market data, fundamentals, portfolio analytics, screening, and backtesting."
 readme = "README.md"
 authors = [
@@ -27,8 +27,8 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/naofal/brvm-package"
-Repository = "https://github.com/naofal/brvm-package"
-Documentation = "https://github.com/naofal/brvm-package#readme"
+Repository = "https://github.com/naofal/brvm"
+Documentation = "https://github.com/naofal/brvm#readme"
 
 [project.optional-dependencies]
 plotting = [
