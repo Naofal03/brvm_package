@@ -1,6 +1,6 @@
 [project]
 name = "brvm-package"
-version = "0.2.0"
+version = "0.2.1"
 description = "Python toolkit for BRVM market data, fundamentals, portfolio analytics, screening, and backtesting."
 readme = "README.md"
 authors = [

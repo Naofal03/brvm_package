@@ -135,7 +135,7 @@ def valuation_ratios(symbol: str, date: str | None = None) -> dict[str, Any]:
         'EPS': snapshot.get('eps'),
         'EarningsYield': earnings_yield,
         'MarketCap': snapshot.get('market_cap'),
-        'NetMargin': snapshot.get('net_margin'),
+'NetMargin': net_margin or snapshot.get('net_margin'),
         'PayoutRatio': snapshot.get('payout_ratio'),
         'SharesOutstanding': snapshot.get('shares_outstanding'),
         'FloatRatio': info.get('float_ratio'),

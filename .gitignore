@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Generated/data
+validation_report.txt
+uv.lock
+data/brvm*.sqlite3
+data/brvm_financials_cache/
+*.whl
+*.tar.gz

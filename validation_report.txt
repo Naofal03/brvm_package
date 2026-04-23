@@ -2,151 +2,171 @@
 
 ## Test import package
 $ /Users/naofal/Desktop/brvm_package/.venv/bin/python -c import brvm_package as bv; print(bv.list_assets())
-Exit code: 1
---- stderr ---
-Traceback (most recent call last):
-  File "<string>", line 1, in <module>
-  File "/Users/naofal/Desktop/brvm_package/src/brvm_package/__init__.py", line 10, in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py). Did you mean: 'financials'?
+Exit code: 0
+--- stdout ---
+['ABJC', 'BICB', 'BICC', 'BNBC', 'BOAB', 'BOABF', 'BOAC', 'BOAM', 'BOAN', 'BOAS', 'CABC', 'CBIBF', 'CFAC', 'CIEC', 'ECOC', 'ETIT', 'FTSC', 'LNBB', 'NEIC', 'NSBC', 'NTLC', 'ONTBF', 'ORAC', 'ORGT', 'PALC', 'PRSC', 'SAFC', 'SCRC', 'SDCC', 'SDSC', 'SEMC', 'SGBC', 'SHEC', 'SIBC', 'SICC', 'SIVC', 'SLBC', 'SMBC', 'SNTS', 'SOGC', 'SPHC', 'STAC', 'STBC', 'TTLC', 'TTLS', 'UNLC', 'UNXC']
 
 
 
 ## Test CLI version
 $ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main --help
-Exit code: 1
---- stderr ---
-Traceback (most recent call last):
-  File "<frozen runpy>", line 189, in _run_module_as_main
-  File "<frozen runpy>", line 112, in _get_module_details
-  File "/Users/naofal/Desktop/brvm_package/src/brvm_package/__init__.py", line 10, in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py). Did you mean: 'financials'?
+Exit code: 0
+--- stdout ---
+                                                                                                                                                
+ Usage: python -m brvm_package.cli.main [OPTIONS] COMMAND [ARGS]...                                                                             
+                                                                                                                                                
+ Application CLI pour extraire les données de la BRVM.                                                                                          
+                                                                                                                                                
+╭─ Options ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ --install-completion          Install completion for the current shell.                                                                      │
+│ --show-completion             Show completion for the current shell, to copy it or customize the installation.                               │
+│ --help                        Show this message and exit.                                                                                    │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭─ Commands ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ richbourse   Récupère les cotations générales depuis Richbourse.                                                                             │
+│ version      Affiche la version du package.                                                                                                  │
+│ sikafinance  Récupère le profil d'une action depuis SikaFinance.                                                                             │
+│ sync         Synchronise la base SQLite et met à jour les nouvelles données quotidiennes.                                                    │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
 
 
 
 ## Test CLI richbourse
 $ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main richbourse
-Exit code: 1
---- stderr ---
-Traceback (most recent call last):
-  File "<frozen runpy>", line 189, in _run_module_as_main
-  File "<frozen runpy>", line 112, in _get_module_details
-  File "/Users/naofal/Desktop/brvm_package/src/brvm_package/__init__.py", line 10, in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py). Did you mean: 'financials'?
+Exit code: 0
+--- stdout ---
+Connexion à Richbourse...
+┏━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━┓
+┃ Symbole ┃ Prix   ┃ Variation ┃
+┡━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━┩
+│ ABJC    │ 3 305  │ 2.32%     │
+│ BICB    │ 5 110  │ 0.2%      │
+│ BICC    │ 23 705 │ -4.61%    │
+│ BNBC    │ 1 630  │ 4.15%     │
+│ BOAB    │ 8 200  │ 2.5%      │
+│ BOABF   │ 5 420  │ -3.73%    │
+│ BOAC    │ 8 500  │ 0.06%     │
+│ BOAM    │ 4 675  │ -0.43%    │
+│ BOAN    │ 3 500  │ 4.17%     │
+│ BOAS    │ 6 735  │ -0.81%    │
+│ CABC    │ 3 350  │ -4.69%    │
+│ CBIBF   │ 15 680 │ -6.92%    │
+│ CFAC    │ 1 600  │ 0.63%     │
+│ CIEC    │ 3 100  │ 1.47%     │
+│ ECOC    │ 16 000 │ 1.2%      │
+│ ETIT    │ 30     │ 3.45%     │
+│ FTSC    │ 2 220  │ 0%        │
+│ LNBB    │ 3 860  │ 0%        │
+│ NEIC    │ 1 370  │ -0.72%    │
+│ NSBC    │ 13 900 │ -1.45%    │
+│ NTLC    │ 12 400 │ 2.48%     │
+│ ONTBF   │ 2 720  │ 0.37%     │
+│ ORAC    │ 15 000 │ 0.64%     │
+│ ORGT    │ 3 205  │ -2.73%    │
+│ PALC    │ 8 060  │ 0%        │
+│ PRSC    │ 4 895  │ 1.98%     │
+│ SAFC    │ 5 750  │ -7.26%    │
+│ SCRC    │ 2 035  │ 1.24%     │
+│ SDCC    │ 7 400  │ -1.14%    │
+│ SDSC    │ 1 810  │ 0.28%     │
+│ SEMC    │ 1 665  │ -7.5%     │
+│ SGBC    │ 35 000 │ 0.17%     │
+│ SHEC    │ 1 945  │ -2.75%    │
+│ SIBC    │ 6 900  │ -1.57%    │
+│ SICC    │ 4 295  │ -0.12%    │
+│ SIVC    │ 2 700  │ 0.19%     │
+│ SLBC    │ 38 000 │ -1.3%     │
+│ SMBC    │ 11 535 │ -1.41%    │
+│ SNTS    │ 28 500 │ 0%        │
+│ SOGC    │ 7 700  │ 0.26%     │
+│ SPHC    │ 7 355  │ 0%        │
+│ STAC    │ 2 990  │ 4.91%     │
+│ STBC    │ 20 900 │ 0%        │
+│ TTLC    │ 2 650  │ -1.85%    │
+│ TTLS    │ 3 005  │ -6.09%    │
+│ UNLC    │ 55 500 │ -2.97%    │
+│ UNXC    │ 1 950  │ 4%        │
+└─────────┴────────┴───────────┘
 
 
 
 ## Test CLI sikafinance
 $ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main sikafinance SNTS
-Exit code: 1
---- stderr ---
-Traceback (most recent call last):
-  File "<frozen runpy>", line 189, in _run_module_as_main
-  File "<frozen runpy>", line 112, in _get_module_details
-  File "/Users/naofal/Desktop/brvm_package/src/brvm_package/__init__.py", line 10, in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py). Did you mean: 'financials'?
+Exit code: 0
+--- stdout ---
+Recherche du ticker SNTS sur SikaFinance...
+{
+  "source": "SikaFinance",
+  "symbol": "SNTS",
+  "resolved_ticker": "SNTS.sn",
+  "revenue": 1923122000000.0,
+  "net_income": 413588000000.0,
+  "eps": 4136.0,
+  "per": 6.89,
+  "dividend": 1740.0,
+  "pbr": null,
+  "roe": null,
+  "market_cap": 2850000000000.0,
+  "shares_outstanding": 100000000.0,
+  "float_ratio": 22.47,
+  "beta_1y": 0.79,
+  "major_shareholders": "FRANCE TELECOM*42,3;ETAT DU SENEGAL*27,7;PUBLIC (BRVM)*20;EMPLOYES SONATEL*10"
+}
 
 
 
 ## Test CLI sync
 $ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m brvm_package.cli.main sync --symbol SNTS --start 2026-04-01 --end 2026-04-20
-Exit code: 1
---- stderr ---
-Traceback (most recent call last):
-  File "<frozen runpy>", line 189, in _run_module_as_main
-  File "<frozen runpy>", line 112, in _get_module_details
-  File "/Users/naofal/Desktop/brvm_package/src/brvm_package/__init__.py", line 10, in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py). Did you mean: 'financials'?
+Exit code: 0
+--- stdout ---
+{
+  "symbols": 1,
+  "tickers_synced": 0,
+  "history_rows_upserted": 14,
+  "fundamental_snapshots_saved": 1,
+  "max_concurrency": 6,
+  "market_attempts": [],
+  "details": {
+    "SNTS": {
+      "history_rows": 14,
+      "from": "2026-04-01",
+      "to": "2026-04-20",
+      "status": "ok",
+      "history_source": "sikafinance",
+      "fundamentals_source": "sikafinance",
+      "history_attempts": [
+        {
+          "provider": "brvm",
+          "status": "Historique indisponible via BRVMProvider pour SNTS."
+        },
+        {
+          "provider": "sikafinance",
+          "status": "success"
+        }
+      ],
+      "fundamentals_attempts": [
+        {
+          "provider": "brvm",
+          "status": "Fondamentaux indisponibles via BRVMProvider pour SNTS."
+        },
+        {
+          "provider": "sikafinance",
+          "status": "success"
+        }
+      ]
+    }
+  }
+}
 
 
 
 ## Test pytest
 $ /Users/naofal/Desktop/brvm_package/.venv/bin/python -m pytest -q --tb=short
-Exit code: 2
+Exit code: 0
 --- stdout ---
-
-==================================== ERRORS ====================================
-____________________ ERROR collecting test_deep_history.py _____________________
-ImportError while importing test module '/Users/naofal/Desktop/brvm_package/test_deep_history.py'.
-Hint: make sure your test modules/packages have valid Python names.
-Traceback:
-../../.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/importlib/__init__.py:90: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-test_deep_history.py:14: in <module>
-    from brvm_package.scraper.richbourse import RichbourseClient
-src/brvm_package/__init__.py:10: in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-E   ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py)
-_________________ ERROR collecting tests/test_extended_api.py __________________
-ImportError while importing test module '/Users/naofal/Desktop/brvm_package/tests/test_extended_api.py'.
-Hint: make sure your test modules/packages have valid Python names.
-Traceback:
-../../.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/importlib/__init__.py:90: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-tests/test_extended_api.py:11: in <module>
-    import brvm as bv
-src/brvm/__init__.py:1: in <module>
-    from brvm_package import *  # noqa: F403
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^
-src/brvm_package/__init__.py:10: in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-E   ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py)
-_______________ ERROR collecting tests/test_metadata_and_cli.py ________________
-ImportError while importing test module '/Users/naofal/Desktop/brvm_package/tests/test_metadata_and_cli.py'.
-Hint: make sure your test modules/packages have valid Python names.
-Traceback:
-../../.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/importlib/__init__.py:90: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-tests/test_metadata_and_cli.py:13: in <module>
-    import brvm as bv
-src/brvm/__init__.py:1: in <module>
-    from brvm_package import *  # noqa: F403
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^
-src/brvm_package/__init__.py:10: in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-E   ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py)
-______________ ERROR collecting tests/test_packaging_and_sync.py _______________
-ImportError while importing test module '/Users/naofal/Desktop/brvm_package/tests/test_packaging_and_sync.py'.
-Hint: make sure your test modules/packages have valid Python names.
-Traceback:
-../../.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/importlib/__init__.py:90: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-tests/test_packaging_and_sync.py:15: in <module>
-    from brvm_package.providers.base import ProviderResult
-src/brvm_package/__init__.py:10: in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-E   ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py)
-__________________ ERROR collecting tests/test_public_api.py ___________________
-ImportError while importing test module '/Users/naofal/Desktop/brvm_package/tests/test_public_api.py'.
-Hint: make sure your test modules/packages have valid Python names.
-Traceback:
-../../.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/importlib/__init__.py:90: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-tests/test_public_api.py:11: in <module>
-    import brvm as bv
-src/brvm/__init__.py:1: in <module>
-    from brvm_package import *  # noqa: F403
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^
-src/brvm_package/__init__.py:10: in <module>
-    from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
-E   ImportError: cannot import name 'financials_all' from 'brvm_package.api.fundamentals' (/Users/naofal/Desktop/brvm_package/src/brvm_package/api/fundamentals.py)
-=========================== short test summary info ============================
-ERROR test_deep_history.py
-ERROR tests/test_extended_api.py
-ERROR tests/test_metadata_and_cli.py
-ERROR tests/test_packaging_and_sync.py
-ERROR tests/test_public_api.py
-!!!!!!!!!!!!!!!!!!! Interrupted: 5 errors during collection !!!!!!!!!!!!!!!!!!!!
-5 errors in 0.74s
+.................                                                        [100%]
+17 passed in 7.47s
 
 
 
