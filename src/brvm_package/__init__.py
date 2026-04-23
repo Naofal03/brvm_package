@@ -25,9 +25,9 @@ from .api.strategies import backtest, equal_weight_strategy, market_cap_strategy
 from .plotting.charts import candlestick, heatmap, sector_allocation
 
 try:
-    __version__ = version("brvm-package")
+    __version__ = version("brvm")
 except PackageNotFoundError:
-    __version__ = "0.1.0"
+    __version__ = "0.2.0"
 
 __all__ = [
     "Index",
