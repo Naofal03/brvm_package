@@ -1,0 +1,301 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490297,
+          "text" : "II- COMMENTAIRES DE LA DIRECTION DE LA SOCIETE",
+          "width" : 0.3470225699237154,
+          "x" : 0.08418891748509648,
+          "y" : 0.9112500000936641
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378647,
+          "text" : "Le marché de la distribution automobile a connu une légère hausse en 2020, ( 13 523 unités vendues en 2020 vs 13 384 unités en 2019.).",
+          "width" : 0.7043121301945302,
+          "x" : 0.08624229923538358,
+          "y" : 0.8706395348494502
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008905038436253787,
+          "text" : "CFAO MOTORS Cl confirme sa position de leader en accroissant sa part de marché qui est passée de 39,4% en 2019 à 42,2% en 2020.",
+          "width" : 0.681724808943426,
+          "x" : 0.08829571493280419,
+          "y" : 0.8590116282846052
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Ont été vendus en 2020, 5 704 Véhicules contre 5 275 véhicules en 2019. Sois une progression de 2,8% là où le marhé à fait 1%.",
+          "width" : 0.6611909720305138,
+          "x" : 0.08624228646934301,
+          "y" : 0.8328488375359735
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008779069582621313,
+          "text" : "La marque SUZUKI continue sa progression avec une augmentation de 406 unités par rapport à 2019. Les autres marques progressent également :",
+          "width" : 0.7556467943674544,
+          "x" : 0.08624232068074902,
+          "y" : 0.8212209306101865
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "PSA (PEUGEOT\/CITROEN ) + 91 unités, MITSUBISHI +154 unités.",
+          "width" : 0.3326488625174838,
+          "x" : 0.08624230939834211,
+          "y" : 0.8110465119328609
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Toyota est en léger recul mais conserve sa place de première marque avec une part de marché de 13,7%.",
+          "width" : 0.5400410394926936,
+          "x" : 0.08624230852880739,
+          "y" : 0.796511627887148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Les parts de marché des autres marque sont les suivantes: SUZUKI 7,6%; MITSUBISHI 9,2% et PSA ( PEUGEOT\/CITROEN ) 4,4%",
+          "width" : 0.6509239816834144,
+          "x" : 0.08624232301866233,
+          "y" : 0.7862500001446214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968853632621,
+          "text" : "Le secteur de l'après-vente garde un niveau stable d'activité; 1 031 millions de fcfa en 2020 contre 1 035 millions de fcfa en 2019.",
+          "width" : 0.6652977250349675,
+          "x" : 0.08624231622994936,
+          "y" : 0.7658333332396692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007500000000000062,
+          "text" : "Les activités 2 roues marines ont connu une baisse en 2020.",
+          "width" : 0.3080082007094743,
+          "x" : 0.08624231006620725,
+          "y" : 0.751249999814239
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008759689728419007,
+          "text" : "Ont été vendues en 2020, 1 977 unités ( Motos + Hors Board ) contre 2 139 unités en 2019, soit -7,5%.",
+          "width" : 0.525667332086462,
+          "x" : 0.08624231588695362,
+          "y" : 0.7383333332951154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Le retrait du résultat net de 2020 versus 2019 ( - 1 475 960 437 FCFA ) s'explique principalement par 2 éléments non comparables :",
+          "width" : 0.6776180559389723,
+          "x" : 0.08624231520299827,
+          "y" : 0.7179166667947873
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "- La baisse du chiffre d'affaires, enregistrée essentiellement sur le deuxième trimestre 2020 dû à la crise sanitaire de la COVID 19,",
+          "width" : 0.6652977250349675,
+          "x" : 0.08624231622994936,
+          "y" : 0.6945833332221275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "- La baisse du CA unitaire chez CFAO en partie due aux volumes Suzuki en augmentation principalement sur des petites Berlines,",
+          "width" : 0.7392197104589959,
+          "x" : 0.08624231006824307,
+          "y" : 0.672916666620148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "- La constatation d'une plus value sur réinvestissement pour 472 721 kFCFA l'an passé",
+          "width" : 0.4948665048264503,
+          "x" : 0.08624231845433122,
+          "y" : 0.649583333322525
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "- Sur l'évolution prévisible et perspectives d'avenir",
+          "width" : 0.33470223901971063,
+          "x" : 0.14989734463285506,
+          "y" : 0.6119186048991033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456204,
+          "text" : "Nos objectifs 2020 sont les suivants :",
+          "width" : 0.19301846956897822,
+          "x" : 0.08624230766930958,
+          "y" : 0.5637500000819153
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "-Accompagner le developpement de nos marques avec une stratégie forte de communication,",
+          "width" : 0.4845995863699941,
+          "x" : 0.08624229521336038,
+          "y" : 0.5333333333897199
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "- Faire progresser la part de marché Toyota,",
+          "width" : 0.22792606780610458,
+          "x" : 0.08624230775505852,
+          "y" : 0.5174418606767197
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011676356395085574,
+          "text" : "- Developper l'activité de service après-vente,",
+          "width" : 0.24024639871010928,
+          "x" : 0.08418891863775839,
+          "y" : 0.502906976753427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "- Poursuivre le développement de Suzuki et les ventes de véhicules d'occasion",
+          "width" : 0.4045174354939635,
+          "x" : 0.08624231568902076,
+          "y" : 0.48541666650257265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "- Maintenir Mitsubishi à un niveau élevé,",
+          "width" : 0.21355236039987302,
+          "x" : 0.08418891398213058,
+          "y" : 0.46656976749955115
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "- Poursuivre la relance de Peugeot et Citroën avec les nouveaux modèles",
+          "width" : 0.3778233971837272,
+          "x" : 0.08418892120279754,
+          "y" : 0.44749999982182
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "- Assurer une croissance rentable et durable via des programmes d'amélioration continue de la qualité (Kaizen),",
+          "width" : 0.5749486557024808,
+          "x" : 0.08624230135820526,
+          "y" : 0.43313953530598726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "et la stratégie de reduction des coûts BBZ",
+          "width" : 0.2176591313769876,
+          "x" : 0.08624230470849452,
+          "y" : 0.4215116282262876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "- Rendre notre entreprise encore plus attractive pour attirer et retenir les meilleurs talents.",
+          "width" : 0.4722792554659894,
+          "x" : 0.08624231032313097,
+          "y" : 0.40697674436736875
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "- Accroître le chiffre d'affaires de 6%",
+          "width" : 0.1909650930667513,
+          "x" : 0.086242302645269,
+          "y" : 0.3895348839507021
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "III-AUTRES INFORMATIONS",
+          "width" : 0.18480492761474898,
+          "x" : 0.0821355215622354,
+          "y" : 0.31831395369261506
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Depuis la clôture des comptes au 31 décembre 2020, nous n'avons pas enregistré d'évènements majeurs qui remettrait en cause la capacité de l'entil",
+          "width" : 0.7700205377190077,
+          "x" : 0.08624231070928425,
+          "y" : 0.3023255816251208
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Cependant, la crise sanitaire de la covid-19 perdure en 2021, la société n'est pas en capacité d'apprécier l'impact éventuel.",
+          "width" : 0.6303901447705021,
+          "x" : 0.08624230715786993,
+          "y" : 0.28197674439764986
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666674,
+          "text" : "Néanmoins, à ce stade cet évènement ne remet pas en cause l'évaluation des actifs qui lui sont dédiés.",
+          "width" : 0.5297741210362376,
+          "x" : 0.08624230955374974,
+          "y" : 0.26000000012843405
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "Falt à Abidjan, le 21\/04\/2021",
+          "width" : 0.14168376945073247,
+          "x" : 0.13141684453541397,
+          "y" : 0.21366279092744622
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Président Directeur Général",
+          "width" : 0.14168376945073247,
+          "x" : 0.12936345610283356,
+          "y" : 0.19166666677729594
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "Edouard ROCHET",
+          "width" : 0.10266940023649147,
+          "x" : 0.11704312431707252,
+          "y" : 0.11625000011887954
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "Philippe",
+          "width" : 0.04517453466624338,
+          "x" : 0.35523614185579,
+          "y" : 0.11627907015337091
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "3\/3",
+          "width" : 0.026694045049984183,
+          "x" : 0.8911704314644476,
+          "y" : 0.024709302519530296
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/cfao-motors-ci-2020-5\/page-003.pdf.png"
+}

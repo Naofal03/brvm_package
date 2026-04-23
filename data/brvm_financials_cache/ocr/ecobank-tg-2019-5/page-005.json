@@ -1,0 +1,725 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.02596254666646325,
+          "text" : "Deloitte.",
+          "width" : 0.15849309591017008,
+          "x" : 0.09426474699634425,
+          "y" : 0.9455943080153256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026249999999999996,
+          "text" : "Grant Thornton",
+          "width" : 0.23613962773299468,
+          "x" : 0.6406570840416135,
+          "y" : 0.9374999996500947
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "• Exposition en cas de défaut",
+          "width" : 0.2505133351392263,
+          "x" : 0.17659137920656764,
+          "y" : 0.9040697673638922
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007499999999999951,
+          "text" : "cxposure at Default - « EAD »",
+          "width" : 0.2648870605181187,
+          "x" : 0.19917865074710064,
+          "y" : 0.8908333333390761
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "v. Exnaustivite er exactitude des donnees",
+          "width" : 0.34496919342148846,
+          "x" : 0.12114990031122823,
+          "y" : 0.8750000000532703
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "utilisées pour calculer les pertes de",
+          "width" : 0.2977412642803574,
+          "x" : 0.1416837852109506,
+          "y" : 0.8561046512035163
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013433008193969753,
+          "text" : "crédit attendues.",
+          "width" : 0.14417690101866165,
+          "x" : 0.1414969028530138,
+          "y" : 0.8414816976019909
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "Considérant l'importance de ces",
+          "width" : 0.2710472259701211,
+          "x" : 0.10472279105326945,
+          "y" : 0.8166666670510285
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154539744133,
+          "text" : "estimations, des jugements et de la taille",
+          "width" : 0.3490759464259423,
+          "x" : 0.10472280474733012,
+          "y" : 0.8008333333555768
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "du portefeuille des prêts et avances, l'audit",
+          "width" : 0.3675564427819493,
+          "x" : 0.10472280944406968,
+          "y" : 0.7862499996283775
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de la charge de provision des prêts et",
+          "width" : 0.3203285316134791,
+          "x" : 0.10472279384418456,
+          "y" : 0.7732558141577315
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "avances est considéré comme un point clé",
+          "width" : 0.35934290082772014,
+          "x" : 0.1047227965060579,
+          "y" : 0.7570833334969785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013000436226527023,
+          "text" : "de l'audit.",
+          "width" : 0.08659126452478558,
+          "x" : 0.10454831079634067,
+          "y" : 0.7449532706425277
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Evaluation des écarts d'acquisition",
+          "width" : 0.32648869706548145,
+          "x" : 0.10472279682146877,
+          "y" : 0.7149999999694558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601725,
+          "text" : "La valeur comptable des écarts d'acquisition Nous avons examiné l'évaluation et le calcul",
+          "width" : 0.7659137128239105,
+          "x" : 0.10266941929646381,
+          "y" : 0.6975000003960176
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.018111985524495333,
+          "text" : "s'élevait à 191,6 millions de $EU (2018 :",
+          "width" : 0.3474601323247939,
+          "x" : 0.10448467175065179,
+          "y" : 0.6819758495406072
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168062,
+          "text" : "199,1 millions de $EU) dans les états",
+          "width" : 0.31827515511125215,
+          "x" : 0.10266940714663259,
+          "y" : 0.6686046513318227
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "tinanciers du Groupe au 31 décembre 2019",
+          "width" : 0.3655030662797225,
+          "x" : 0.10472279904699708,
+          "y" : 0.6569767442159637
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.05249999999999999,
+          "text" : "ao tae esauston, des ge ne nreas: u",
+          "width" : 0.3860369750832781,
+          "x" : 0.4866529718486627,
+          "y" : 0.6495833325872067
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "(note 27). Ces écarts d'acquisitions ont été",
+          "width" : 0.36344968977749564,
+          "x" : 0.10472279053219691,
+          "y" : 0.6424418602805588
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "hypothèses clés retenues par la Direction.",
+          "width" : 0.35523614782326635,
+          "x" : 0.49486652863799035,
+          "y" : 0.6395348838560475
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "enregistrés à l'actif de l'état consolidé de la",
+          "width" : 0.36550306627972245,
+          "x" : 0.10472279492310949,
+          "y" : 0.6262499997450126
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "situation financière en tant qu'actifs",
+          "width" : 0.3039014477050206,
+          "x" : 0.10472278969985108,
+          "y" : 0.6119186047463941
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01469961166381828,
+          "text" : "incorporels du fait de la nature des activités",
+          "width" : 0.3737166082339517,
+          "x" : 0.1026694104620798,
+          "y" : 0.597383721283373
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "du Groupe qui consistent à acquérir de",
+          "width" : 0.3285420735677083,
+          "x" : 0.10472280715865084,
+          "y" : 0.5828488375225569
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "participations dans des entités.",
+          "width" : 0.2648870605181187,
+          "x" : 0.10472279271321994,
+          "y" : 0.5683139539106383
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01308139483133941,
+          "text" : "Nos procédures d'audit comprennent :",
+          "width" : 0.32443532056325464,
+          "x" : 0.49486652575533374,
+          "y" : 0.611918605127935
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "•",
+          "width" : 0.01437371639256202,
+          "x" : 0.521560574991604,
+          "y" : 0.5959302329804059
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Tester tous les contrôles pertinents",
+          "width" : 0.29979465875524514,
+          "x" : 0.554414790608688,
+          "y" : 0.5958333332211871
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "sur la production des principaux",
+          "width" : 0.273100602472348,
+          "x" : 0.5544147957179668,
+          "y" : 0.5799418607965396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "intrants, p. ex. les prévisions",
+          "width" : 0.24845995863699943,
+          "x" : 0.5544147864925885,
+          "y" : 0.5654069772209581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0168013127644856,
+          "text" : "financières, le taux d'actualisation,",
+          "width" : 0.29613152493857664,
+          "x" : 0.554207370941404,
+          "y" : 0.5476883001374109
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Conformément aux dispositions applicables",
+          "width" : 0.3655030662797225,
+          "x" : 0.10472280407779776,
+          "y" : 0.539166666545593
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "de la norme IAS 36, Dépréciation d'actifs,",
+          "width" : 0.35318273537571776,
+          "x" : 0.10472280650789727,
+          "y" : 0.5232558138221327
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "la Direction effectue annuellement des tests",
+          "width" : 0.3737166082339517,
+          "x" : 0.1026694203594101,
+          "y" : 0.5116279070441248
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017844479084014875,
+          "text" : "de dépréciations de pour évaluer la valeur",
+          "width" : 0.3577132837230381,
+          "x" : 0.10449904676792086,
+          "y" : 0.49347257993860993
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01168604652086902,
+          "text" : "recouvrable des écarts d'acquisition. Ceci",
+          "width" : 0.349075982371264,
+          "x" : 0.10266939664804366,
+          "y" : 0.4824999999088434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013410854339599543,
+          "text" : "est fait à l'aide des modèles d'actualisation",
+          "width" : 0.361565759521772,
+          "x" : 0.10465109554867104,
+          "y" : 0.4679894549461877
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "des flux de trésorerie. Comme indiqué dans",
+          "width" : 0.3696098552294979,
+          "x" : 0.10472279682056922,
+          "y" : 0.4533333333267857
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081395228703885,
+          "text" : "la note 27 , la Direction a eu recours à un",
+          "width" : 0.35934290082772014,
+          "x" : 0.10266941500366214,
+          "y" : 0.43749999992194655
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "certain nombre de jugements et",
+          "width" : 0.27515399694723575,
+          "x" : 0.10266940465779903,
+          "y" : 0.422916666649125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "estimations lors de la détermination des",
+          "width" : 0.33880902796948614,
+          "x" : 0.10472279706932941,
+          "y" : 0.4098837214070047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "données dans ces modèles notamment :",
+          "width" : 0.34086240447171307,
+          "x" : 0.10472279762725105,
+          "y" : 0.39534883768607443
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017691774368286284,
+          "text" : "le taux de croissance des revenus,",
+          "width" : 0.2963094183356798,
+          "x" : 0.5520942877143392,
+          "y" : 0.5318195174690228
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "etc. qui entrent dans la",
+          "width" : 0.19712525851875373,
+          "x" : 0.5544147810075636,
+          "y" : 0.5187500000659411
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01324018398920701,
+          "text" : "détermination de la valorisation.",
+          "width" : 0.2753790865517336,
+          "x" : 0.5543185335526964,
+          "y" : 0.5028502030773928
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "•",
+          "width" : 0.016427104127701986,
+          "x" : 0.5195071869505228,
+          "y" : 0.4869186045877295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "Faire intervenir nos spécialistes",
+          "width" : 0.2792607679243503,
+          "x" : 0.5420944655244777,
+          "y" : 0.4869186049644175
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "internes nous assister à :",
+          "width" : 0.21765913137698767,
+          "x" : 0.5523614029631146,
+          "y" : 0.47238372074567503
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333332935969056,
+          "text" : "+ Evaluer de façon critique le",
+          "width" : 0.2546201061163409,
+          "x" : 0.5667351172361486,
+          "y" : 0.45625000031544893
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "modèle utilisé par la Direction",
+          "width" : 0.2546201240890018,
+          "x" : 0.5893223789411255,
+          "y" : 0.43874999972797
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "pour déterminer la valeur",
+          "width" : 0.21765913137698767,
+          "x" : 0.5913757714093845,
+          "y" : 0.42441860512793483
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "d'utilité des Unités Génératrices",
+          "width" : 0.2710472259701211,
+          "x" : 0.5893223851668902,
+          "y" : 0.40833333318485
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "de Trésorerie conformément aux",
+          "width" : 0.2772073914221235,
+          "x" : 0.5913757672937295,
+          "y" : 0.393749999811418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "dispositions de la norme IAS 36,",
+          "width" : 0.27515399694723575,
+          "x" : 0.591375775893254,
+          "y" : 0.37500000013511714
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011666666666666603,
+          "text" : "• L'information financière",
+          "width" : 0.23203283878321923,
+          "x" : 0.13141684929422187,
+          "y" : 0.3662500000002632
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "prévisionnelle,",
+          "width" : 0.12731006204450085,
+          "x" : 0.1622176578381192,
+          "y" : 0.3473837210931231
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• Les taux de croissance,",
+          "width" : 0.23203283878321923,
+          "x" : 0.13141684936266818,
+          "y" : 0.33284883744382643
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "les taux d'imposition estimés et,",
+          "width" : 0.27926076792435034,
+          "x" : 0.1581108863458331,
+          "y" : 0.3154069766636173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016010130246480236,
+          "text" : "• Les taux d'actualisation appliqués",
+          "width" : 0.3164217783789753,
+          "x" : 0.13133966849852896,
+          "y" : 0.2994861144365648
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "aux flux de trésorerie projetés.",
+          "width" : 0.262833666043231,
+          "x" : 0.16427105157797384,
+          "y" : 0.28625000018199953
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "Dépréciation d'Actifs.",
+          "width" : 0.18275153313986126,
+          "x" : 0.5893223872083035,
+          "y" : 0.3604166665557742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "* Valider les hypothèses utilisées",
+          "width" : 0.2895277223261282,
+          "x" : 0.5646817211572644,
+          "y" : 0.3429166667339544
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "pour calculer les taux",
+          "width" : 0.18275153313986126,
+          "x" : 0.5893223865229852,
+          "y" : 0.3283333334248033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "d'actualisation, les flux de",
+          "width" : 0.2217659023541022,
+          "x" : 0.5893223880939961,
+          "y" : 0.3110465113910882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "trésorerie projetés et pour",
+          "width" : 0.22792606780610458,
+          "x" : 0.589322389890582,
+          "y" : 0.29651162809054354
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "recalculer ces taux.",
+          "width" : 0.16837782573362958,
+          "x" : 0.5872689943611112,
+          "y" : 0.28197674422435737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "+ Analyser les flux de trésorerie",
+          "width" : 0.281314162399238,
+          "x" : 0.5646817313517156,
+          "y" : 0.2658333334066346
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "En conséquence, les tests de dépréciation",
+          "width" : 0.3511293588734909,
+          "x" : 0.10472279376654003,
+          "y" : 0.24563953475236522
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "des écarts d'acquisitions sont considérés",
+          "width" : 0.34291581691926165,
+          "x" : 0.10266939731552333,
+          "y" : 0.23250000017651995
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333730697672,
+          "text" : "comme un point clé de l'audit.",
+          "width" : 0.25872689506611635,
+          "x" : 0.1026694099104736,
+          "y" : 0.217916666657739
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "futurs utilisés dans les modèles",
+          "width" : 0.26899383149523337,
+          "x" : 0.5872689957684681,
+          "y" : 0.2500000000382179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "pour déterminer s'ils sont",
+          "width" : 0.21765913137698767,
+          "x" : 0.5913757697666739,
+          "y" : 0.23541666648560744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "raisonnables et justifiés compte",
+          "width" : 0.2710472259701211,
+          "x" : 0.5872689971586766,
+          "y" : 0.2179166667800666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "tenu du climat",
+          "width" : 0.12525666756961318,
+          "x" : 0.5893223836484582,
+          "y" : 0.20624999981643333
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "La Direction a développé un modèle de",
+          "width" : 0.32854207356770837,
+          "x" : 0.10266941769937644,
+          "y" : 0.18875000002359799
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "valorisation permettant de déterminer",
+          "width" : 0.3244353205632546,
+          "x" : 0.10266940604280794,
+          "y" : 0.17441860512793483
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "raisonnablement les flux de trésorerie",
+          "width" : 0.3203285316134791,
+          "x" : 0.10266940655465678,
+          "y" : 0.16125000007912926
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "actualisés pour les unités de génératrices",
+          "width" : 0.349075982371264,
+          "x" : 0.10266940301354659,
+          "y" : 0.14534883730453374
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "de trésorerie (UGTs) auxquelles les écarts",
+          "width" : 0.3552361478232664,
+          "x" : 0.10266939686865437,
+          "y" : 0.13081395370351634
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "d'acquisitions se rapportent.",
+          "width" : 0.24024639871010928,
+          "x" : 0.10266941245192672,
+          "y" : 0.11625000002198038
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "macroéconomique actuel ainsi",
+          "width" : 0.2546201240890017,
+          "x" : 0.5913757677296265,
+          "y" : 0.1887500001265533
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "que la performance future",
+          "width" : 0.22997946228099242,
+          "x" : 0.587268998633631,
+          "y" : 0.17151162809054354
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "attendue de l'Unité Génératrice",
+          "width" : 0.26694045499300645,
+          "x" : 0.587268989546618,
+          "y" : 0.15697674437212095
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de Trésorerie.",
+          "width" : 0.12114989659249853,
+          "x" : 0.5893223843183982,
+          "y" : 0.14244186069964027
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "+ Soumettre les hypothèses clés",
+          "width" : 0.28336755687412585,
+          "x" : 0.5646817218914794,
+          "y" : 0.12500000012291956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "aux tests de sensibilité.",
+          "width" : 0.20533880047298292,
+          "x" : 0.5852156074637139,
+          "y" : 0.11041666661278782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "+ Comparer les flux de trésorerie",
+          "width" : 0.2874743278512404,
+          "x" : 0.5646817248491917,
+          "y" : 0.09447674422426455
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "projetés y compris les",
+          "width" : 0.18891169859186352,
+          "x" : 0.5893223837122818,
+          "y" : 0.07833333355198346
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2019-5\/page-005.pdf.png"
+}

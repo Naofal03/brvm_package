@@ -1,0 +1,117 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "Bollore TraNsport & Logistics COTE D'Ivoire (BTL CI) S.A. - 31 DECEMBRE 2019",
+          "width" : 0.5390946370250773,
+          "x" : 0.08230453873025949,
+          "y" : 0.94622093046233
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Comptes consolidés",
+          "width" : 0.13580246691433895,
+          "x" : 0.7345679037033243,
+          "y" : 0.94622093046233
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017567828496297233,
+          "text" : "SOMMAIRE COMPTES CONSOLIDÉS",
+          "width" : 0.362139899775667,
+          "x" : 0.08024692398047921,
+          "y" : 0.8995833334664692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01565737088521324,
+          "text" : "États financiers",
+          "width" : 0.11549946047225088,
+          "x" : 0.08011035095455507,
+          "y" : 0.6535085239942167
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085574,
+          "text" : "Notes annexes aux états financiers",
+          "width" : 0.2592592419318433,
+          "x" : 0.08230453671583414,
+          "y" : 0.6104166666576889
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01467054287592573,
+          "text" : "р. 3",
+          "width" : 0.030864196003608013,
+          "x" : 0.8868312763037517,
+          "y" : 0.6511627906268806
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.014593023459116505,
+          "text" : "р. 8",
+          "width" : 0.03292180907051523,
+          "x" : 0.884773663520298,
+          "y" : 0.607499999867491
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "Sauf mention contraire, les montants sont exprimés en millions de francs CFA. De façon générale, les",
+          "width" : 0.8374485519697081,
+          "x" : 0.08024691144900835,
+          "y" : 0.42000000012252825
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "valeurs présentées dans les comptes consolidés et annexes aux comptes consolidés sont arrondies à",
+          "width" : 0.8374485519697081,
+          "x" : 0.08024691144900835,
+          "y" : 0.40249999983491536
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "'unité. Par conséquent, la somme des montants arrondis peut présenter des écarts non significatifs",
+          "width" : 0.8395061852797022,
+          "x" : 0.07818928819495194,
+          "y" : 0.3837209306426994
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018924418290456102,
+          "text" : "par rapport au total reporté. Par ailleurs, les ratios et écarts sont calculés à partir des montants sous-",
+          "width" : 0.8395061852797023,
+          "x" : 0.08024690218182255,
+          "y" : 0.3662500000096047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "jacents et non à partir des montants arrondis.",
+          "width" : 0.3806584196270637,
+          "x" : 0.0761316942811184,
+          "y" : 0.3487499998826529
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.00889534910519918,
+          "text" : "Page 2 sur 41",
+          "width" : 0.08436213799242709,
+          "x" : 0.8312757202836218,
+          "y" : 0.04360465101224087
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-8\/page-002.pdf.png"
+}

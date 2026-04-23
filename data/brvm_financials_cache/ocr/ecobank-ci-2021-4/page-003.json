@@ -1,0 +1,349 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.0391445414225261,
+          "text" : "Ecobank",
+          "width" : 0.191492015537581,
+          "x" : 0.7677036832698662,
+          "y" : 0.9397300547470804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7659137666018048,
+          "y" : 0.9244186047330782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "En effet, les principaux indicateurs se sont tous révélés en progression par rapport à 2020.",
+          "width" : 0.7022587177469817,
+          "x" : 0.11909652083903471,
+          "y" : 0.899583333376938
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "Le total bilan de la Banque s'est affiché à FCFA 1 677,7 milliards, en progression de 5% par rapport au",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313741470553,
+          "y" : 0.8720833334796225
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "31 Décembre 2020 (FCFA 1 602,3 milliards).",
+          "width" : 0.35728952432549327,
+          "x" : 0.11498973773458393,
+          "y" : 0.854583333634789
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "Les dépôts qui se sont accrus de 11% ont pris une part importante à cette augmentation du total bilan.",
+          "width" : 0.8049281179834732,
+          "x" : 0.11704314128204799,
+          "y" : 0.8283333335423788
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Toutes les lignes de dépôts ont contribué à cette progression, avec en premier lieu les dépôts à terme, qui",
+          "width" : 0.8131416239923807,
+          "x" : 0.11704316459518493,
+          "y" : 0.8008333335226429
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "ont connu une progression de 19% suivi des comptes courants qui ont crû de 10%.",
+          "width" : 0.6529773941309629,
+          "x" : 0.11704313861213637,
+          "y" : 0.7833333330369935
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Cette bonne dynamique dans la collecte des dépôts a permis à la Banque d'avoir un niveau de liquidité",
+          "width" : 0.813141695883024,
+          "x" : 0.11498971887573656,
+          "y" : 0.7558139534078033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "lui permettant d'augmenter ses activités de financement, et aussi d'avoir un recours moins important au",
+          "width" : 0.8131416958830241,
+          "x" : 0.1149897338860031,
+          "y" : 0.7398255816879273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "refinancement, réduisant ainsi significativement ses charges d'intérêts.",
+          "width" : 0.5482546173922446,
+          "x" : 0.11704313165295334,
+          "y" : 0.7223837210411249
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les prêts pour leur part ont connu un accroissement de 21% en glissement annuel, pour se porter à",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498974940011399,
+          "y" : 0.6962209304670821
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "FCFA 753,3 milliards.",
+          "width" : 0.17659136768785888,
+          "x" : 0.11704312695689191,
+          "y" : 0.6787500000898099
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197113,
+          "text" : "Le renforcement des provisions au bilan, une constante importante depuis quelques années, a permis de",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313403517104,
+          "y" : 0.6511627908812412
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "relever le taux de couverture des créances en souffrance de 716 Pbs à 89%.",
+          "width" : 0.5893223631087126,
+          "x" : 0.11498973264824502,
+          "y" : 0.636627906889086
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "Le volume des titres de placement reste important (34% du total bilan), illustrant la place importante",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498976870196137,
+          "y" : 0.606104651031435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "qu'occupe Ecobank Côte d'Ivoire dans le financement des Etats de la zone UMOA.",
+          "width" : 0.6570841471354166,
+          "x" : 0.11704315298944389,
+          "y" : 0.5900000000554462
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139428,
+          "text" : "Au 31 décembre 2021, les ratios de fonds propres CET, de fonds propres de base T1 et de solvabilité se",
+          "width" : 0.8131416958830241,
+          "x" : 0.11498971684288246,
+          "y" : 0.5610465115727742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "sont renforcés, avec notamment un ratio de solvabilité qui s'établit à 15,14%, soit quasiment 400 points",
+          "width" : 0.8131416239923807,
+          "x" : 0.11704316459518493,
+          "y" : 0.5465116282384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "de base au-dessus de la norme de11,25%.",
+          "width" : 0.32648869706548145,
+          "x" : 0.1170431312413864,
+          "y" : 0.5304166668237642
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "Le Produit Net Bancaire a atteint FCFA 90,5 milliards, en hausse de 5% par rapport à 2020.",
+          "width" : 0.7330595450069936,
+          "x" : 0.11704313010430609,
+          "y" : 0.5012499998442492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "Cette progression du PNB sur l'exercice 2021, a été impulsée par les revenus hors intérêts qui ont connu",
+          "width" : 0.8090348709879269,
+          "x" : 0.11909653563539987,
+          "y" : 0.4737499999287652
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "une hausse de 9%, quand dans le même temps, la marge nette d'intérêt s'est relevée de 3% en comparaison",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313741470553,
+          "y" : 0.454941860648683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013367285728454581,
+          "text" : "de 2020.",
+          "width" : 0.0719715832821472,
+          "x" : 0.11493823359876759,
+          "y" : 0.4373570548441438
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "La marge nette d'intérêt a bénéficié de la bonne tenue des charges d'intérêts qui se sont rétractées de 6%",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498974940011399,
+          "y" : 0.40833333300065633
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "bénéficiant d'un niveau de refinancement plus bas mais également de la bonne dynamique observée sur",
+          "width" : 0.8131416239923808,
+          "x" : 0.11704315152194794,
+          "y" : 0.389534883950439
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "la collecte de ressources au cours de l'année 2021.",
+          "width" : 0.3921971045899588,
+          "x" : 0.11498974829536956,
+          "y" : 0.3735465116371479
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "La reprise des activités en 2021, après les perturbations liées à la pandémie à Coronavirus, a eu une",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498974940011399,
+          "y" : 0.34447674442057064
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "incidence sur le niveau des charges d'exploitation. Toutefois, le maintien des initiatives de réduction de",
+          "width" : 0.8151950364399294,
+          "x" : 0.11498975892582579,
+          "y" : 0.32703488388996216
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "charges en cours depuis 2019, a permis à la banque de continuer à baisser ses charges à FCFA 42,6",
+          "width" : 0.8110882834354755,
+          "x" : 0.11704311713749858,
+          "y" : 0.3095833331682487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "milliards au 31 décembre 2021, soit une baisse de 2% (FCFA 0,96 milliard) par rapport à 2020.",
+          "width" : 0.7453798759109981,
+          "x" : 0.11293635472930559,
+          "y" : 0.2906976743998092
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "Le coefficient d'exploitation est ainsi ressorti à 47,1%, en amélioration marquée par rapport à celui de",
+          "width" : 0.8131416239923807,
+          "x" : 0.11704316459518493,
+          "y" : 0.2658333335908284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "2020, qui était de 50,4%.",
+          "width" : 0.19712525851875368,
+          "x" : 0.11498973410817959,
+          "y" : 0.2456395348903614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "En lien avec la volonté affichée d'assainissement du portefeuille et d'une couverture optimale des",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313538698494,
+          "y" : 0.21947674451746968
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "créances en souffrance, la dynamique sur le coût du risque pour l'exercice 2021 a conduit à un",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313538698494,
+          "y" : 0.20203488405235348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "accroissement du niveau de provisions de 11% à quasiment FCFA 12,0 milliards. Sur l'année 2021, le",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498974940011399,
+          "y" : 0.184583333316105
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "coût du risque a été maîtrisé et s'affiche à 1,5% en baisse par rapport au 1,6% en 2020.",
+          "width" : 0.6776180559389722,
+          "x" : 0.11704313655823434,
+          "y" : 0.16708333364690153
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.12525666756961318,
+          "x" : 0.14784394704168208,
+          "y" : 0.1016666666099667
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666674,
+          "text" : "Immeuble Ecobank| Place de la République | Avenue Houdaille Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.6509239816834143,
+          "x" : 0.14579058133488407,
+          "y" : 0.08125000005868133
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "Tel: (225) 27 20 31 92 00 Fax : (225) 27 20 21 88 16 Swift : ECOCCIAB",
+          "width" : 0.40451743549396346,
+          "x" : 0.1457905679819709,
+          "y" : 0.06104651161543073
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "www.ecobank.com",
+          "width" : 0.1170431166290535,
+          "x" : 0.1457905581382453,
+          "y" : 0.04360465127274271
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519416809038,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A|",
+          "width" : 0.759753547371908,
+          "x" : 0.14579057758030187,
+          "y" : 0.02325581411309352
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2021-4\/page-003.pdf.png"
+}

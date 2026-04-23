@@ -1,0 +1,69 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.026162789662679042,
+          "text" : "SOMMAIRE",
+          "width" : 0.23045266349360627,
+          "x" : 0.1893004157840611,
+          "y" : 0.9142441864913349
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "Section 0 : Présentation de la LNB SA",
+          "width" : 0.47942384683860934,
+          "x" : 0.12551441199221808,
+          "y" : 0.6320833337173237
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02354518572489417,
+          "text" : "Section 1 : Faits marquants",
+          "width" : 0.35451169283884876,
+          "x" : 0.12517450006045294,
+          "y" : 0.5585449478082033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021831395626068173,
+          "text" : "Section 2 : Résultats opérationnels",
+          "width" : 0.45679013234264443,
+          "x" : 0.12551440011811532,
+          "y" : 0.48691860463581527
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02180232524871828,
+          "text" : "Section 3 : Perspectives",
+          "width" : 0.31069957085375516,
+          "x" : 0.12551441465028285,
+          "y" : 0.4156976748574722
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025601636568705177,
+          "text" : "Section 4 : Projet d'affectation du résultat net 2024",
+          "width" : 0.6731771793005603,
+          "x" : 0.12535472077015447,
+          "y" : 0.3447353552983409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Contact: +229 21 31 43 00 \/ 21 31 64 22 Email : secretariat.lnb@lnb.bj Site web : loteriebenin.bj Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.7695473005186836,
+          "x" : 0.11316872374614562,
+          "y" : 0.023255814209992787
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-002.pdf.png"
+}

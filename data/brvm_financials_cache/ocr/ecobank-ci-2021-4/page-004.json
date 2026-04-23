@@ -1,0 +1,357 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.04095284144083655,
+          "text" : "Ecobank",
+          "width" : 0.19165324827807528,
+          "x" : 0.7676230669002102,
+          "y" : 0.939552648914928
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7659137666018048,
+          "y" : 0.9244186047330782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Les évolutions positives des revenus et des charges permettent de compenser la hausse des provisions et",
+          "width" : 0.8151950364399292,
+          "x" : 0.11498976436045923,
+          "y" : 0.89825581416128
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602713584899951,
+          "text" : "donc d'afficher une progression de 10% sur le Résultat Avant Impôt et un accroissement de 14% sur",
+          "width" : 0.8131416239923808,
+          "x" : 0.1170431430346108,
+          "y" : 0.8808139533570164
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "le Résultat Net.",
+          "width" : 0.13963038396217514,
+          "x" : 0.11293634980536003,
+          "y" : 0.8662499998330345
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Ces derniers sont respectivement de FCFA 35,6 milliards pour le Résultat Avant Impôt et de FCFA 34,3",
+          "width" : 0.8110882834354756,
+          "x" : 0.1170431330695899,
+          "y" : 0.8357558140099628
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "milliards pour le Résultat Net.",
+          "width" : 0.24435316968722393,
+          "x" : 0.11293635455577195,
+          "y" : 0.8183139534695766
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01792582829793299,
+          "text" : "A la lumière du renforcement de la solidité financière de la Banque, illustrée notamment par un",
+          "width" : 0.8092275379122497,
+          "x" : 0.11898745804344005,
+          "y" : 0.7921735182709682
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "accroissement des fonds propres et par un ratio de solvabilité au-dessus de la norme de 389 Pbs, Le",
+          "width" : 0.8131416958830242,
+          "x" : 0.11704312526177305,
+          "y" : 0.7745833332581513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "Conseil d'Administration, a décidé de proposer à l'Assemblée Générale des actionnaires du 5 Avril 2022",
+          "width" : 0.8110882834354756,
+          "x" : 0.1170431330695899,
+          "y" : 0.7541666666307307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "le versement d'un dividende de FCFA 467 bruts par action en numéraire.",
+          "width" : 0.5790554087069346,
+          "x" : 0.11498975909622434,
+          "y" : 0.7383333332004607
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "La date de paiement des dividendes envisagée par la banque, suite à l'approbation des actionnaires est le",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498974940011399,
+          "y" : 0.7107558141880124
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "29 Avril 2022 (*).",
+          "width" : 0.14373716392562022,
+          "x" : 0.11498973605567034,
+          "y" : 0.6916666668511738
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "2. PERSPECTIVES",
+          "width" : 0.184804927614749,
+          "x" : 0.14579055599315352,
+          "y" : 0.6366279073081675
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Après un exercice 2021 ponctué par des résultats encourageants, l'année 2022 démarre avec des signaux",
+          "width" : 0.8090348709879269,
+          "x" : 0.11909653563539987,
+          "y" : 0.5944767443550785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "contradictoires. La sortie de la pandémie de la COVID 19, continue de doper l'activité économique.",
+          "width" : 0.8110882834354756,
+          "x" : 0.1149897310748702,
+          "y" : 0.5741279068671057
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "Pour l'année 2022, le taux de croissance du PIB est prévu à plus de 6,5% selon les estimations faites par",
+          "width" : 0.8131416958830242,
+          "x" : 0.11704312322891902,
+          "y" : 0.5552325581752452
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "le Gouvernement. Cependant, les premiers mois montrent des signaux préoccupant de hausse de",
+          "width" : 0.8131416239923808,
+          "x" : 0.11498974940011399,
+          "y" : 0.5391666668642267
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "l'inflation ainsi que de risques accrus au niveau sécuritaire régional et sur la scène géopolitique",
+          "width" : 0.8131416958830242,
+          "x" : 0.11498973513856994,
+          "y" : 0.5203488373783343
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "internationale (invasion de l'Ukraine par la Russie). Ces développements pourraient avoir un impact",
+          "width" : 0.8151950364399293,
+          "x" : 0.11498976096381326,
+          "y" : 0.5012499998878538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016938154697418106,
+          "text" : "négatif sur le rebond économique en cours.",
+          "width" : 0.3472435977068611,
+          "x" : 0.11690947680405703,
+          "y" : 0.4823819439557844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "Dans cet environnement économique porteur mais avec une visibilité réduite, la Banque veut conserver",
+          "width" : 0.8131416239923807,
+          "x" : 0.11704316459518493,
+          "y" : 0.45494186067290776
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "sa stratégie « Réussir Ensemble » axée sur la croissance, la diversification et l'efficience et, qui place son",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313538698494,
+          "y" : 0.43749999993405897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "capital humain au cœur de la réussite de l'entreprise.",
+          "width" : 0.4127310133935144,
+          "x" : 0.11498973095724692,
+          "y" : 0.41708333366256245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Aussi, outre la poursuite de son plan stratégique, Ecobank Côte d'Ivoire, en tant que banque résolument",
+          "width" : 0.8110882834354757,
+          "x" : 0.1190965255050546,
+          "y" : 0.39083333360899697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "africaine, va continuer à renforcer son rôle au niveau environnemental et sociétal pour le bien des",
+          "width" : 0.8110882834354757,
+          "x" : 0.1170431191652193,
+          "y" : 0.37208333315371367
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "communautés que nous servons.",
+          "width" : 0.2566735005912287,
+          "x" : 0.11704312970951904,
+          "y" : 0.3545833331478858
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "Enfin, les points d'attention que constituent la qualité du portefeuille et la montée en gamme des activités",
+          "width" : 0.809034870987927,
+          "x" : 0.1190965342870083,
+          "y" : 0.3254166665730025
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "des segments de la banque commerciale (financement des PME et des entreprises locales) et de celle des",
+          "width" : 0.8131416239923807,
+          "x" : 0.11704316459518493,
+          "y" : 0.30813953521514426
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "particuliers continueront de faire l'objet d'un suivi particulier.",
+          "width" : 0.48254617392244553,
+          "x" : 0.11704314083651839,
+          "y" : 0.2891666665092557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "En effet, la bonne gestion du risque de crédit et la redynamisation des activités de la banque commerciale",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704312238219398,
+          "y" : 0.2600000001828393
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "et de la banque des particuliers représentent des enjeux clés pour l'atteinte des ambitions de la Banque.",
+          "width" : 0.8008213649790195,
+          "x" : 0.1170431262887242,
+          "y" : 0.24273255845278952
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "L'exécution de la stratégie conduite par le management de la Banque, auquel s'associe le Conseil",
+          "width" : 0.8110882834354757,
+          "x" : 0.1170431191652193,
+          "y" : 0.2150000001596981
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "d'Administration, dans un environnement économique qui s'améliore bien que marqué encore par les",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704313538698494,
+          "y" : 0.19622093040158994
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "répercussions de deux années de crise sanitaire et les incertitudes géopolitiques actuelles, devrait",
+          "width" : 0.8131416958830241,
+          "x" : 0.11498971684288246,
+          "y" : 0.1773255814335668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "permettre à Ecobank Côte d'Ivoire, de maintenir la dynamique de résultats en progression observés ces",
+          "width" : 0.8110882834354756,
+          "x" : 0.11704312417035269,
+          "y" : 0.15833333361369883
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013295006354649863,
+          "text" : "dernières années.",
+          "width" : 0.13599473034394782,
+          "x" : 0.11684149567647412,
+          "y" : 0.142346575165043
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "(*) Date indicative à confirmer par les structures compétentes du marché",
+          "width" : 0.525667332086462,
+          "x" : 0.11088295763917863,
+          "y" : 0.1206395350697953
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.12525666756961318,
+          "x" : 0.14784394704168208,
+          "y" : 0.1016666666099667
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008866278727849397,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'lvoire",
+          "width" : 0.6509239816834143,
+          "x" : 0.1457905650446724,
+          "y" : 0.08124999998851457
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "Tel: (225) 27 20 31 92 00 Fax : (225) 27 20 21 88 16 Swift : ECOCCIAB",
+          "width" : 0.40246405899173665,
+          "x" : 0.14784395024403577,
+          "y" : 0.06104651161543073
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "www.ecobank.com",
+          "width" : 0.1170431166290535,
+          "x" : 0.1457905581382453,
+          "y" : 0.04360465127274271
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.7597535473719081,
+          "x" : 0.14579058011281384,
+          "y" : 0.023255814280159548
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2021-4\/page-004.pdf.png"
+}

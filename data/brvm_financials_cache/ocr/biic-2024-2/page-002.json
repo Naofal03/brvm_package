@@ -1,0 +1,157 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.030970204671224022,
+          "text" : "Deloitte.",
+          "width" : 0.16742919460983852,
+          "x" : 0.15030795910058525,
+          "y" : 0.9140207118722772
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00889534910519918,
+          "text" : "Deloitte Togo S.A.",
+          "width" : 0.08270676827867951,
+          "x" : 0.6390977445072767,
+          "y" : 0.94749999988256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "5082, Boulevard GNASSINGBE Eyadéma,",
+          "width" : 0.18984962307005127,
+          "x" : 0.6390977480201121,
+          "y" : 0.9374999999075897
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008759689728419007,
+          "text" : "Lomé II CITE OUA",
+          "width" : 0.08082706488451907,
+          "x" : 0.639097747100347,
+          "y" : 0.9258333332708906
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008798449436823508,
+          "text" : "06 B.P.: 61 825 Lomé 06 - Togo",
+          "width" : 0.13533833986218569,
+          "x" : 0.6390977490538695,
+          "y" : 0.9141666666099667
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008846899271011344,
+          "text" : "Téléphones : (228) 98 88 77 08 | 70 79 99 89",
+          "width" : 0.18421052111776903,
+          "x" : 0.6390977488020178,
+          "y" : 0.9040697674075897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "tgcontact@deloitte.com | www.deloitte.fr",
+          "width" : 0.1710526220492432,
+          "x" : 0.639097750660842,
+          "y" : 0.8908333334624445
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "ECOWAS Bank for Investment and Development",
+          "width" : 0.5093984922802051,
+          "x" : 0.2650375908711758,
+          "y" : 0.6495833334930313
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "INDEPENDENT AUDITOR'S REPORT ON THE FINANCIAL",
+          "width" : 0.4492481153502562,
+          "x" : 0.2669172912158494,
+          "y" : 0.5987499998124861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "STATEMENTS",
+          "width" : 0.11278195674365393,
+          "x" : 0.26691729311045015,
+          "y" : 0.5799418607965396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Financial year ended as of December 31, 2024",
+          "width" : 0.3251879711624359,
+          "x" : 0.2687969886105114,
+          "y" : 0.5319767443721208
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00891472816467287,
+          "text" : "S.A. au capital de 60 000 000 F CFA",
+          "width" : 0.17669172400152544,
+          "x" : 0.15225564396728236,
+          "y" : 0.11191860502879114
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.012185424963633285,
+          "text" : "Société d'Expertise Comptable - Commissariat aux comptes - Audit - Conseil",
+          "width" : 0.3572543081470806,
+          "x" : 0.1521880184618215,
+          "y" : 0.0998852349360273
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "ONECCA (Ordre National des Experts Comptables et des Comptables Agréés du Togo) N° : 003.03.A2",
+          "width" : 0.4830826941431533,
+          "x" : 0.1522556502404534,
+          "y" : 0.09156976767163238
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Numéro RCCM : 1995B2810",
+          "width" : 0.1315789413040638,
+          "x" : 0.15225564203593803,
+          "y" : 0.0812500000162879
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "NIF (Numér o d'identification Fiscale) : 1000115983",
+          "width" : 0.2349624057675128,
+          "x" : 0.15225564157113078,
+          "y" : 0.07122093046233013
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "Membre de Deloitte Touche Tohmatsu Limited",
+          "width" : 0.20864662409085924,
+          "x" : 0.15225563522900645,
+          "y" : 0.05232558145406874
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "12",
+          "width" : 0.016917292482773183,
+          "x" : 0.7725563911411323,
+          "y" : 0.05232558162762835
+        }
+      ],
+      "width" : 1854
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/biic-2024-2\/page-002.pdf.png"
+}

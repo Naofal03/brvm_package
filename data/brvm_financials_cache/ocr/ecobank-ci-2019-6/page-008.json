@@ -1,0 +1,101 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03540389696757007,
+          "text" : "Ecobank",
+          "width" : 0.18499993098498235,
+          "x" : 0.7822433596770074,
+          "y" : 0.9168910746229637
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7782340951438993,
+          "y" : 0.9011627909092778
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "Ecobank Côte d'Ivoire tiendra une conférence téléphonique le Vendredi 03 Avril 2020 à 14h30 GMT",
+          "width" : 0.8090348709879269,
+          "x" : 0.094455870460862,
+          "y" : 0.8473837207988768
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "pour présenter les résultats financiers audités pour l'exercice clos le 31 décembre 2019. Une séance de",
+          "width" : 0.8110882834354756,
+          "x" : 0.09445586639314502,
+          "y" : 0.829941860663218
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "questions-réponses est prévue à la fin de la conférence.",
+          "width" : 0.4312114738041998,
+          "x" : 0.0944558701307542,
+          "y" : 0.8137499999812045
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "Les détails de connexion de cette conférence téléphonique vous seront communiqués dès que possible.",
+          "width" : 0.8069815304310218,
+          "x" : 0.09240246869105974,
+          "y" : 0.7862499998706256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15400410035473722,
+          "x" : 0.10677618583392497,
+          "y" : 0.07412790718834761
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.7926077870794686,
+          "x" : 0.104722790597843,
+          "y" : 0.05958333346396183
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Tel: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIAB",
+          "width" : 0.4414784282059776,
+          "x" : 0.10472279269885931,
+          "y" : 0.04651162800956854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "www.ecobank.com",
+          "width" : 0.1396303839621752,
+          "x" : 0.10472279337141079,
+          "y" : 0.03343023259411304
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456204,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.8028747055359247,
+          "x" : 0.10677621297467926,
+          "y" : 0.0012500001061402921
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2019-6\/page-008.pdf.png"
+}

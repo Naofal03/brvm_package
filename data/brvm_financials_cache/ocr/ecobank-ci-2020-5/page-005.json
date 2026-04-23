@@ -1,0 +1,237 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03277813275655106,
+          "text" : "Ecobank",
+          "width" : 0.13002142816219697,
+          "x" : 0.8598864043361208,
+          "y" : 0.9618086079100162
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.12551439933057096,
+          "x" : 0.8600823080764841,
+          "y" : 0.9491279073543726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "relever la qualité de notre plateforme technologique, ont permis, dans un environnement où les mesures",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259261283722978,
+          "y" : 0.9156976745779466
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "de confinement et de distanciation sociale limitaient les déplacements, de continuer à servir nos clients",
+          "width" : 0.8127571681760393,
+          "x" : 0.092592619487083,
+          "y" : 0.8966666663881819
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "avec le même dévouement et une qualité inchangée. Cela s'est traduit par une augmentation significative",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259260090307377,
+          "y" : 0.8779069769736948
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "des transactions via les canaux digitaux.",
+          "width" : 0.31275720416374925,
+          "x" : 0.09259259654638306,
+          "y" : 0.8604166665557743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Cette crise se révèle, par ailleurs, être un accélérateur de tendances sociétales que la banque avait déjà",
+          "width" : 0.8127571681760393,
+          "x" : 0.09465023265580735,
+          "y" : 0.8328488375588942
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "identifié comme prioritaire : la Responsabilité Sociale et Environnementale. La Banque franchit une",
+          "width" : 0.8168724347960273,
+          "x" : 0.09053496580671905,
+          "y" : 0.8137499999448673
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "nouvelle étape en dédiant des financements et des solutions adaptées aux femmes, à travers un",
+          "width" : 0.8127571681760393,
+          "x" : 0.09259261916986757,
+          "y" : 0.7950000002382855
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "programme innovant « Ellever », tout en veillant au respect de ses objectifs tant dans les métiers que les",
+          "width" : 0.8148148014860332,
+          "x" : 0.09259260740513137,
+          "y" : 0.7774999998786127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011794023513793994,
+          "text" : "fonctions.",
+          "width" : 0.08235123472393684,
+          "x" : 0.09256923723298131,
+          "y" : 0.7615448486140899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "En 2021, la Banque restera pleinement engagée sur ses priorités (i) ses clients, (ii) le maintien d'une stricte",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.7311046514760453
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "discipline sur les coûts, la gestion du coût du risque et le digital, (iii) la création de valeur pour ses",
+          "width" : 0.8148148014860332,
+          "x" : 0.09259259857111232,
+          "y" : 0.7120833334277249
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "actionnaires.",
+          "width" : 0.10699587947917434,
+          "x" : 0.0925925970231014,
+          "y" : 0.6962209301933495
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "L'horizon économique s'éclaircit en ce début d'année 2021 et le retour attendu de la croissance, devrait",
+          "width" : 0.8127571681760393,
+          "x" : 0.09259261745519012,
+          "y" : 0.6656976746167063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "permettre à Ecobank Côte d'Ivoire, de continuer de jouer sa partition dans le financement de l'économie,",
+          "width" : 0.8168724347960273,
+          "x" : 0.09053498622852925,
+          "y" : 0.6466666669442109
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602713584899951,
+          "text" : "consolidant sa position d'acteur majeur du secteur bancaire en Côte d'Ivoire et dans la sous-région.",
+          "width" : 0.7736624951632517,
+          "x" : 0.09259263259670017,
+          "y" : 0.6308139533570164
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "4. CALENDRIER FINANCIER 2021",
+          "width" : 0.3353909546474241,
+          "x" : 0.12139916915262548,
+          "y" : 0.5770348836501367
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "• 8 Avril 2021 Assemblée générale",
+          "width" : 0.2901234536800744,
+          "x" : 0.12139918141099154,
+          "y" : 0.5290697674775707
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01959066867828374,
+          "text" : "• 272 Avril 2021 Détachement du coupon",
+          "width" : 0.34623354785847216,
+          "x" : 0.12113446610267445,
+          "y" : 0.5073808142987023
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "• 30 Avril 2021 Paiement du dividende",
+          "width" : 0.3251028600728737,
+          "x" : 0.12139918995670441,
+          "y" : 0.49124999984514695
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "2 Date indicative à confirmer par les structures compétentes du marché.",
+          "width" : 0.4897119054254495,
+          "x" : 0.09259261307945607,
+          "y" : 0.08866279101092911
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15432098676573555,
+          "x" : 0.002057616185033367,
+          "y" : 0.053750000140859844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "nmeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoir",
+          "width" : 0.748971183345003,
+          "x" : 0.014403292895399798,
+          "y" : 0.0420833332619126
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "1: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIA",
+          "width" : 0.4074074007430167,
+          "x" : 0.014403288723142123,
+          "y" : 0.03197674416881835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456204,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.7839505897378022,
+          "x" : 0.0020576400076417227,
+          "y" : 0.0012500001061402921
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02355476538340251,
+          "text" : "Ecobank",
+          "width" : 0.14001666374926303,
+          "x" : 0.855917594687564,
+          "y" : 0.031827268535797315
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817828893661561,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.13991768854968956,
+          "x" : 0.8518518570626038,
+          "y" : 0.020348837586930846
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2020-5\/page-005.pdf.png"
+}

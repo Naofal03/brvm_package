@@ -1,0 +1,29 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "Section 0 : Présentation de la LNB SA",
+          "width" : 0.4814814801486033,
+          "x" : 0.28806584910265304,
+          "y" : 0.49416666692810884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Contact: +229 21 31 43 00 \/ 21 31 64 22 Email : secretariat.lnb@lnb.bj Site web : loteriebenin.bj Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.7695473005186836,
+          "x" : 0.11316872374614562,
+          "y" : 0.023255814209992787
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-003.pdf.png"
+}

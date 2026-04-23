@@ -1,0 +1,381 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.02470930258433024,
+          "text" : "Deloitte.",
+          "width" : 0.16016426580673954,
+          "x" : 0.08829569210689713,
+          "y" : 0.9462209300595791
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02344961245854693,
+          "text" : "Grant Thornton",
+          "width" : 0.23408623325810696,
+          "x" : 0.6365503108570129,
+          "y" : 0.9416666665304461
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "les évidences obtenues à la date de notre rapport d'audit. Toutefois, des conditions et",
+          "width" : 0.7535933819199058,
+          "x" : 0.12731009275667945,
+          "y" : 0.9040697678023535
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016722938219706163,
+          "text" : "évènements futurs peuvent contraindre le Groupe à arrêter la poursuite de ses activités.",
+          "width" : 0.7475651357985498,
+          "x" : 0.12928267330609497,
+          "y" : 0.888857246196512
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "•",
+          "width" : 0.01437371639256202,
+          "x" : 0.09034907633486203,
+          "y" : 0.8779069768723067
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "Evaluons la présentation générale, l'organisation et le contenu des états financiers",
+          "width" : 0.7659137128239104,
+          "x" : 0.11293635464211776,
+          "y" : 0.8750000000624427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "consolidés, y compris les notes aux",
+          "width" : 0.30390144770502064,
+          "x" : 0.12936344756432738,
+          "y" : 0.8604166667763052
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "états financiers consolidés, et si les états financiers",
+          "width" : 0.44353180470820447,
+          "x" : 0.4353182868656102,
+          "y" : 0.8604166663740883
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "consolidés présentent les évènements et transactions sous-jacents de sorte à leur donner",
+          "width" : 0.7515400413630006,
+          "x" : 0.1293634570597727,
+          "y" : 0.8473837212616558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692381,
+          "text" : "une image fidèle.",
+          "width" : 0.14579054941417754,
+          "x" : 0.1293634540146771,
+          "y" : 0.8328488372185434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "• Obtenons des éléments probants appropriés et suffisants sur les informations financières",
+          "width" : 0.7885010340750148,
+          "x" : 0.09034908426297131,
+          "y" : 0.8183139538415125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "des entités ou des activités d'affaires au sein du Groupe afin d'exprimer une opinion sur",
+          "width" : 0.7515400413630006,
+          "x" : 0.1293634589386227,
+          "y" : 0.8052325582214503
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "les états financiers consolidés. Nous sommes responsables de la Direction, la supervision",
+          "width" : 0.7515400413630006,
+          "x" : 0.12731006781952617,
+          "y" : 0.789166666724934
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01175387620925894,
+          "text" : "et la mise en œuvre de l'audit du Groupe. Nous sommes seulement responsables de notre",
+          "width" : 0.7494866289154521,
+          "x" : 0.12936345422810572,
+          "y" : 0.7761627906197062
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "opinion d'audit.",
+          "width" : 0.1314168330216155,
+          "x" : 0.12936345248303205,
+          "y" : 0.7599999999962386
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nous communiquons avec le Comité d'Audit et les Administrateurs concernant, entre autres,",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240247023148626,
+          "y" : 0.7311046514397082
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "le plan, l'étendue et l'exécution de l'audit, les faiblesses significatives d'audit y compris celles",
+          "width" : 0.7905543746319199,
+          "x" : 0.09034910922750304,
+          "y" : 0.7165697676496521
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "liées au contrôle interne identifiées au cours de l'audit.",
+          "width" : 0.4640656775664384,
+          "x" : 0.09240248394094212,
+          "y" : 0.7033333336125456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Nous fournissons également au Comité d'Audit et Aux administrateurs une déclaration que",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240247023148626,
+          "y" : 0.6729166666284487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "nous avons satisfait aux exigences d'éthique relatives à l'indépendance et, les informons de",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240247023148626,
+          "y" : 0.6583333330733308
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "toutes relations",
+          "width" : 0.14373716392562022,
+          "x" : 0.09240246766073532,
+          "y" : 0.6453488374390742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "et",
+          "width" : 0.03080082052026395,
+          "x" : 0.23819301838463192,
+          "y" : 0.646802325617369
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018016444842020585,
+          "text" : "autres sujets pouvant raisonnablement porter atteinte à notre",
+          "width" : 0.6100906713550868,
+          "x" : 0.27093476353150137,
+          "y" : 0.6425431574801173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "indépendance et, le cas échéant, les mesures de sauvegarde.",
+          "width" : 0.5215605431366865,
+          "x" : 0.09240247915034255,
+          "y" : 0.6279069769736947
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433012,
+          "text" : "A partir des informations communiquées aux Administrateurs, nous relevons les points les",
+          "width" : 0.7885010340750148,
+          "x" : 0.09240245051896105,
+          "y" : 0.6002906976762994
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01646720727284756,
+          "text" : "plus significatifs identifiés lors de l'audit des états financiers consolidés de l'exercice sous revue",
+          "width" : 0.7866226034535114,
+          "x" : 0.09435090855541224,
+          "y" : 0.5855080676663491
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015392147699991865,
+          "text" : "qui sont ainsi considérés comme des points clés de l'audit. Nous présentons ces points dans",
+          "width" : 0.7865479090750148,
+          "x" : 0.09439785546853696,
+          "y" : 0.5711991712626109
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "notre rapport d'audit à moins que des dispositions légales ou réglementaires en disposent",
+          "width" : 0.7864476216274662,
+          "x" : 0.09445585409044224,
+          "y" : 0.5566666662740545
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "autrement ou lorsque, dans le cas extrême, nous décidions que le cas ne doit pas être présenté",
+          "width" : 0.7864476216274662,
+          "x" : 0.09445585409044224,
+          "y" : 0.542083333513665
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "dans notre rapport d'audit en considération de conséquences adverses pouvant en résulter et",
+          "width" : 0.7885010340750146,
+          "x" : 0.09445586160725601,
+          "y" : 0.5275000001523453
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "qui pourraient raisonnablement annihiler les avantages d'une telle communication.",
+          "width" : 0.698151964742528,
+          "x" : 0.09445585212565577,
+          "y" : 0.5129166666917893
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013100774685541827,
+          "text" : "Pour : Deloitte & Touche",
+          "width" : 0.22997946228099234,
+          "x" : 0.09445585599160508,
+          "y" : 0.3677325584588458
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Experts comptables",
+          "width" : 0.1663244312587419,
+          "x" : 0.09445585557186108,
+          "y" : 0.351666666575874
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Lagos, Nigeria",
+          "width" : 0.12320328208105584,
+          "x" : 0.09240246696768563,
+          "y" : 0.33575581415158995
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "09 Mars 2020",
+          "width" : 0.12320328208105583,
+          "x" : 0.09240246589992382,
+          "y" : 0.3224999996474014
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "Associé signataire : David Achugamonu",
+          "width" : 0.37166323173172483,
+          "x" : 0.09445586218341882,
+          "y" : 0.30958333346145395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "FRC\/2013\/ICAN\/0000000000084040",
+          "width" : 0.35728952432549327,
+          "x" : 0.09240246321126334,
+          "y" : 0.2936046513696292
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "ASTITUTE OF CHARTERED",
+          "width" : 0.10882956568849383,
+          "x" : 0.28747433601270034,
+          "y" : 0.2761627908257951
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "CCOUNTANTS OF NIGERIA",
+          "width" : 0.11498973114049615,
+          "x" : 0.28542094553173686,
+          "y" : 0.27034883725263603
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010174418290456178,
+          "text" : "36\/ICAN.",
+          "width" : 0.05749486557024813,
+          "x" : 0.33880903466867474,
+          "y" : 0.23255813960113814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015695290565490683,
+          "text" : "0166202",
+          "width" : 0.07436136306385271,
+          "x" : 0.34885627921800383,
+          "y" : 0.21308258740026043
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Pour : Grant Thornton",
+          "width" : 0.20739219494787065,
+          "x" : 0.5133470225722659,
+          "y" : 0.36773255806874117
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Experts comptables",
+          "width" : 0.16632443125874186,
+          "x" : 0.5154004138954165,
+          "y" : 0.35319767475002795
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Abidjan, Côte d'Ivoire",
+          "width" : 0.1868583220896367,
+          "x" : 0.5133470212104861,
+          "y" : 0.33708333328237605
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "09 Mars 2020",
+          "width" : 0.12114989659249853,
+          "x" : 0.5112936333515947,
+          "y" : 0.32412790705129935
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "Associé signataire : Georges Yao-Yao",
+          "width" : 0.35112935887349095,
+          "x" : 0.5154004164770122,
+          "y" : 0.30813953491943125
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2019-5\/page-010.pdf.png"
+}

@@ -1,0 +1,277 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Son chiffre d'affaires se divise en chiffre d'affaires aérien et chiffre d'affaires hors aérien. Ces",
+          "width" : 0.7618069598194567,
+          "x" : 0.1170431306652204,
+          "y" : 0.8995833335513566
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "chiffres d'affaires ne sont cependant pas issus de secteurs opérationnels distincts.",
+          "width" : 0.6447638162314119,
+          "x" : 0.11704315396506033,
+          "y" : 0.8791666665834974
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Faits marquants de l'exercice 2023",
+          "width" : 0.340862404471713,
+          "x" : 0.11909652418440335,
+          "y" : 0.8399999998786127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "La direction relève les faits suivants survenus sur l'exercice comptable 2023 :",
+          "width" : 0.5995893175104903,
+          "x" : 0.1170431287704221,
+          "y" : 0.802325581259241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "• Le départ de Mark BRASTAAD et la nomination de Frederic LIBAUD au poste de Directeur",
+          "width" : 0.7351128855638986,
+          "x" : 0.14579058899423114,
+          "y" : 0.7658333333413205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Général, en Novembre 2023,",
+          "width" : 0.22381929682899,
+          "x" : 0.1765913810772914,
+          "y" : 0.745639534892962
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "• Une inflation généralisée dans la continuité de l'année 2022 ; sur les matières premières et",
+          "width" : 0.7351128855638986,
+          "x" : 0.14579057234467652,
+          "y" : 0.7252906977151442
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "importations, les énergies, le transport, etc.,",
+          "width" : 0.3429158169192616,
+          "x" : 0.17659137628369564,
+          "y" : 0.7049418607383999
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "• Le transfert des activités Maritime sur une société filiale consécutivement à un changement",
+          "width" : 0.7351128855638986,
+          "x" : 0.14579059034604477,
+          "y" : 0.6860465114433496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "de réglementation juridique.",
+          "width" : 0.22176590235410226,
+          "x" : 0.1765913777757211,
+          "y" : 0.6656976744278457
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868798,
+          "text" : "Continuité d'exploitation",
+          "width" : 0.1991786350209806,
+          "x" : 0.11909651577150833,
+          "y" : 0.6308139535460628
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692381,
+          "text" : "Les états financiers ont été établis dans l'hypothèse de continuité d'exploitation de la société. La",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704312247733553,
+          "y" : 0.592916666787427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "convention avec l'Etat de Côte d'lvoire est finalisée et la convention de délégation de service",
+          "width" : 0.7638603722670052,
+          "x" : 0.11704312613549102,
+          "y" : 0.5724999996146979
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "publique a été signée entre les parties.",
+          "width" : 0.3039014117596989,
+          "x" : 0.1170431390209033,
+          "y" : 0.5537500001456119
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "Par ailleurs en dehors de ce point décrit ci-haut, la direction n'a connaissance d'aucun évènement",
+          "width" : 0.7618069598194567,
+          "x" : 0.1190965264386631,
+          "y" : 0.5174418605470319
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "ou changement dans l'environnement économique et juridique ou de toute autre nature susceptible",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312936957717,
+          "y" : 0.4970833332119461
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de compromettre la continuité d'exploitation.",
+          "width" : 0.35112935887349084,
+          "x" : 0.11704312929015376,
+          "y" : 0.4752906979573923
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "NOTE 3: Principales méthodes comptables",
+          "width" : 0.4250513442975191,
+          "x" : 0.11704311331618622,
+          "y" : 0.4360465115390326
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "Les principales méthodes comptables sont présentées ci-après.",
+          "width" : 0.49691991727399876,
+          "x" : 0.11704312972713447,
+          "y" : 0.3995833334811898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Comptabilisation des produits des activités ordinaires",
+          "width" : 0.5277207445340106,
+          "x" : 0.11704311472331445,
+          "y" : 0.35901162781810225
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "L'activité de SERVAIR ABIDJAN et ses contrats ont été analysés au regard de l'IFRS 15 et des",
+          "width" : 0.7659137128239104,
+          "x" : 0.11498976096850817,
+          "y" : 0.32122093040574284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "interprétations pertinentes. Cette norme requiert l'identification des obligations de prestation pour",
+          "width" : 0.7659137128239104,
+          "x" : 0.11498974592377395,
+          "y" : 0.30232558163592915
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "le transfert de biens et services envers le client pour chaque contrat. Le chiffre d'affaires est",
+          "width" : 0.7659137128239104,
+          "x" : 0.11498975635327396,
+          "y" : 0.2819767442267721
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "comptabilisé lorsque les obligations de prestation sont satisfaites sur la base du montant de la",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704313255232858,
+          "y" : 0.262916666720859
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "rémunération que la Société s'attend à recevoir en échange du transfert des services au client. Le",
+          "width" : 0.7618069598194567,
+          "x" : 0.11704312438185292,
+          "y" : 0.2441666665794573
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "revenu lié aux prestations de services est reconnu lorsque les services ont été rendus. Les",
+          "width" : 0.7618069598194567,
+          "x" : 0.11704312438185292,
+          "y" : 0.22374999991673783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "contreparties payables au client sous forme de remise, de prime à la signature viennent en",
+          "width" : 0.7618069598194568,
+          "x" : 0.1170431344982113,
+          "y" : 0.20203488358957444
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110465208689304,
+          "text" : "déduction des produits des activités ordinaires.",
+          "width" : 0.36960985522949796,
+          "x" : 0.11704312775828304,
+          "y" : 0.18313953492444646
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Les actifs transférés par les clients à l'entité dans le cadre de ses activités de gestion de cantine",
+          "width" : 0.7618069598194567,
+          "x" : 0.11704313694858781,
+          "y" : 0.1466666663325501
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ne sont pas comptabilisés en immobilisations dans la mesure où l'entité n'a pas de contrôle sur ces",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312769264356,
+          "y" : 0.127906977220958
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "actifs. Le chiffre d'affaires inclut les redevances aéroportuaires dues par la Société dans le cadre",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704312247733553,
+          "y" : 0.10750000014018268
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "de son activité d'avitaillement aérien.",
+          "width" : 0.29158109882835503,
+          "x" : 0.11704313101018919,
+          "y" : 0.08866279065846583
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "9",
+          "width" : 0.012320328657422164,
+          "x" : 0.8685831619546566,
+          "y" : 0.05959302334023697
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2023-3\/page-009.pdf.png"
+}

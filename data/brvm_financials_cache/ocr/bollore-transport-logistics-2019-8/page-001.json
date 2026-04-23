@@ -1,0 +1,45 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.057229900360107444,
+          "text" : "BOLLORÉ",
+          "width" : 0.2738873283818083,
+          "x" : 0.08630736324653318,
+          "y" : 0.7555420263560977
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02470930258433024,
+          "text" : "COMPTES CONSOLIDÉS",
+          "width" : 0.3600823024533829,
+          "x" : 0.32098765740058655,
+          "y" : 0.5000000000471205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017625968456268293,
+          "text" : "31 décembre 2019",
+          "width" : 0.22427983553904401,
+          "x" : 0.38888888791463433,
+          "y" : 0.444583333041382
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023372093041737818,
+          "text" : "Bolloré Transport & Logistics Côte d'Ivoire (BTL CI) S.A.",
+          "width" : 0.806584340221477,
+          "x" : 0.09876543676168957,
+          "y" : 0.3866279072277843
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-8\/page-001.pdf.png"
+}

@@ -1,0 +1,53 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.095813954671224,
+          "text" : "GROUPE ORANGE CI",
+          "width" : 0.6526162719726564,
+          "x" : 0.04505814580267379,
+          "y" : 0.8266666640681777
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.051851851851851816,
+          "text" : "Résultats financiers consolidés à fin Décembre 2023",
+          "width" : 0.7333333333333334,
+          "x" : 0.04583334066666656,
+          "y" : 0.7555555559259259
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.04041271351001885,
+          "text" : "orange\"",
+          "width" : 0.07729286193847651,
+          "x" : 0.848708220498537,
+          "y" : 0.8079590176055282
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.033695089552137514,
+          "text" : "Abidjan - Février 2024",
+          "width" : 0.19622091929117835,
+          "x" : 0.04505814745833516,
+          "y" : 0.5244444446716572
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.1703703703703704,
+          "text" : "1ЛЛЛЛ",
+          "width" : 0.27083333333333337,
+          "x" : 0.6458333314583334,
+          "y" : 0.059259260476190456
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2023-3\/page-001.pdf.png"
+}

@@ -1,0 +1,365 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.036337207158406715,
+          "text" : "Annexe 4.2",
+          "width" : 0.010266944292156091,
+          "x" : 0.10882956676562626,
+          "y" : 0.7063953505147889
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.10901162465413405,
+          "text" : "ETAT DES DEROGATIONS",
+          "width" : 0.012320343821854679,
+          "x" : 0.1211498887455775,
+          "y" : 0.219476746720898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.058139533996582005,
+          "text" : "ETAT: COTE D'IVOIRE",
+          "width" : 0.01026694653873872,
+          "x" : 0.16221765599141094,
+          "y" : 0.139534885133492
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.09011627833048508,
+          "text" : "L Lzlo| 2| al 1| al",
+          "width" : 0.02669405403631453,
+          "x" : 0.1848049234695224,
+          "y" : 0.1366279084728389
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03779069582621264,
+          "text" : "Date d'arrêté",
+          "width" : 0.010266945415447398,
+          "x" : 0.20533880586307418,
+          "y" : 0.17732558279183552
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.12645348866780592,
+          "text" : "ETABLISSEMENT: ALIOS FINANCE COTE D'IVOIRE",
+          "width" : 0.010266959456588676,
+          "x" : 0.1622176475667262,
+          "y" : 0.25726744297714355
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.061046511332193965,
+          "text" : "LA ol ol ol 1l",
+          "width" : 0.016427111990741067,
+          "x" : 0.18480492439477322,
+          "y" : 0.25000000091093777
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.055232556660970045,
+          "text" : "En millions de FCFA",
+          "width" : 0.010266947100384338,
+          "x" : 0.23203285050163389,
+          "y" : 0.6758720946830808
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.09883720397949225,
+          "text" : "INDICATIONS DES DEROGATIONS",
+          "width" : 0.010266952155195186,
+          "x" : 0.27926077433308,
+          "y" : 0.09593023686684299
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.10319766998291013,
+          "text" : "JUSTIFICATION DES DEROGATIONS",
+          "width" : 0.018480505342337528,
+          "x" : 0.27104722164094625,
+          "y" : 0.36773256138935884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.14244186401367176,
+          "text" : "NFLUENCE DES DEROGATION SUR LA SITUATION",
+          "width" : 0.012320346630082912,
+          "x" : 0.27310060689029736,
+          "y" : 0.6235465112780478
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.091569766998291,
+          "text" : "FINANCIERE ET LES RESULTATS",
+          "width" : 0.012320339890335152,
+          "x" : 0.285420938815955,
+          "y" : 0.6220930250037614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.13517442067464192,
+          "text" : "A- DEROGATION AUX PRINCIPES COMPTABLES",
+          "width" : 0.010266960579879969,
+          "x" : 0.3470225751364974,
+          "y" : 0.07412790729349295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.05377906799316412,
+          "text" : "FONDAMENTAUX",
+          "width" : 0.01026694653873872,
+          "x" : 0.3593429126905896,
+          "y" : 0.07267442016402847
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.13517442067464192,
+          "text" : "1. Non étalement des commissions reçues et coûts",
+          "width" : 0.01026696001823435,
+          "x" : 0.3963038898665208,
+          "y" : 0.07267441982256273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.030523255666097038,
+          "text" : "marginaux",
+          "width" : 0.010266944292156133,
+          "x" : 0.4086242279565913,
+          "y" : 0.07267441918730033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.39389533996582027,
+          "text" : "-e montant des commissions reçues et coûts marginaux de transaction n'est pas significatif au regard de l'ensemble des produits de la société (2%). La",
+          "width" : 0.012320376958948165,
+          "x" : 0.3963038771604986,
+          "y" : 0.22093024355875635
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.32412790934244795,
+          "text" : "SAFCA comptabilise ces montants en produits et charges intégralement dans l'exercice de leur perception ou décaissement.",
+          "width" : 0.010266980237477796,
+          "x" : 0.4086242100095978,
+          "y" : 0.21947674705479336
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.3938953399658204,
+          "text" : "En effet, en considérant que les dossiers de crédit bail courent généralement sur 4 ans en moyenne, et que sur les 4 dernières années les montants de",
+          "width" : 0.010266989223808198,
+          "x" : 0.4209445340585271,
+          "y" : 0.21947675354543283
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.37505564371744793,
+          "text" : "ces commissions sont sensiblement les mêmes, nous considérons que l'impact sur le résultat du non étalement des commissions ne serait pas",
+          "width" : 0.014696650286024071,
+          "x" : 0.4306591680730703,
+          "y" : 0.2194503370612313
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.030523255666097038,
+          "text" : "significatif.",
+          "width" : 0.010266944292156133,
+          "x" : 0.4435318254925256,
+          "y" : 0.21947674456520727
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.13953487396240238,
+          "text" : "Sur l'exercice 2024, les commissions comptabilisées dans le",
+          "width" : 0.008213568913220504,
+          "x" : 0.39835728111491614,
+          "y" : 0.6279069839490313
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.13953487396240238,
+          "text" : "cadre de la mise en olace dec docclere c'ilivent à ECSA 1711",
+          "width" : 0.0061601823013719414,
+          "x" : 0.4086242202999887,
+          "y" : 0.6279069839490313
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017441859245300284,
+          "text" : "nilllons",
+          "width" : 0.006160166013647994,
+          "x" : 0.4188911695085764,
+          "y" : 0.6889534894180476
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.133720932006836,
+          "text" : "2. Constatation des intérets de retard contractuels",
+          "width" : 0.012320348876665554,
+          "x" : 0.5174537862514296,
+          "y" : 0.07267441938902375
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.07994185765584316,
+          "text" : "ors de l'encaissement effectif",
+          "width" : 0.010266949908612655,
+          "x" : 0.5297741224789585,
+          "y" : 0.07412790971374494
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.375,
+          "text" : "Dans le cadre de son activité de crédit, la SAFCA a prévu dans ses contrats en commun accord avec les co-contractants, une clause prévoyant le",
+          "width" : 0.01026699540191045,
+          "x" : 0.5195071550682219,
+          "y" : 0.22093023630813946
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.38088188171386717,
+          "text" : "paiement d'une pénalité ou intérêt de retard lorsque l'échéance de versement des loyers n'est pas respectée. Ces intérêts ou pénalités sont donc",
+          "width" : 0.014102640365402874,
+          "x" : 0.5291279389132278,
+          "y" : 0.22089907825014377
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.2762412770589193,
+          "text" : "facturés au co-contractant dès la survenance du défaut et devraient être comptabilisés en même temps.",
+          "width" : 0.014462390131326885,
+          "x" : 0.5399967306709127,
+          "y" : 0.21943749283784908
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.27180231730143234,
+          "text" : "Toutefois, sur la base de l'historique observée, les intérêts ainsi facturés ne sont pas toujours encaissés.",
+          "width" : 0.010266973497729981,
+          "x" : 0.5544147677942561,
+          "y" : 0.22093024009565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.39825579325358074,
+          "text" : "Les intérêts sur créances douteuses comptabilisées doivent être provisionnées intégralement conformément à la reglementation. Leur comptabilisation",
+          "width" : 0.012320378082239514,
+          "x" : 0.5646817000245886,
+          "y" : 0.21947675951419787
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.125,
+          "text" : "est donc sans impact sur le compte de résultat.",
+          "width" : 0.010266955525069066,
+          "x" : 0.5770020457744265,
+          "y" : 0.2209302341206395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.37354649861653655,
+          "text" : "La SAFCA a donc décidé de ne comptabiliser les intérêts ou pénalités de retard qu'à leur encaissement ou pour les clients présentant une forte",
+          "width" : 0.010266994278619102,
+          "x" : 0.589322351331828,
+          "y" : 0.2209302452895997
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.2034883626302083,
+          "text" : "probabilité de recouvrement en fonction des procédures de gestion en cours.",
+          "width" : 0.01026696675798211,
+          "x" : 0.6016426966805132,
+          "y" : 0.22093023983315152
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.14825580596923826,
+          "text" : "-es Intéréts de retard comptabllisés au titre de l'exercice 2024",
+          "width" : 0.010266957771651763,
+          "x" : 0.5708418803544205,
+          "y" : 0.6250000064630552
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.07267441431681321,
+          "text" : "s'élèvent à FCFA 413 millions.",
+          "width" : 0.010266950470258274,
+          "x" : 0.5811088236400616,
+          "y" : 0.6613372123546748
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.1295541636149089,
+          "text" : "B- DEROGATION AUX REGLES ET METHODES",
+          "width" : 0.016195178733978355,
+          "x" : 0.6882192710891011,
+          "y" : 0.07402390389895686
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.04651162783304852,
+          "text" : "D'EVALUATION",
+          "width" : 0.012320334273878575,
+          "x" : 0.7022587239308227,
+          "y" : 0.07412790759510357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524204,
+          "text" : "Aucune",
+          "width" : 0.01232033090400464,
+          "x" : 0.739219711276266,
+          "y" : 0.23982558180142777
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.14429061889648442,
+          "text" : "ETOE PESEIAAUN DESCTATSOESISEISET",
+          "width" : 0.03353460040053158,
+          "x" : 0.8041590400308489,
+          "y" : 0.0724204379597313
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.12097197214762379,
+          "text" : "Deloitte. CÔTE D'IVOIRE",
+          "width" : 0.03439098084071224,
+          "x" : 0.8100391486492217,
+          "y" : 0.3464758540215708
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.12024599711100259,
+          "text" : "VISA POUR IDENTIFICATION",
+          "width" : 0.027092737078807105,
+          "x" : 0.8427904249148305,
+          "y" : 0.3483513341276959
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.15308678944905596,
+          "text" : "EBUR FIDUCIAIRE",
+          "width" : 0.05147315026452881,
+          "x" : 0.8858123280767447,
+          "y" : 0.5358234690946848
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.1478672536214194,
+          "text" : "VISA POUR IDENTIFICATION",
+          "width" : 0.04604925059036591,
+          "x" : 0.9351858770304351,
+          "y" : 0.5350564158956577
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/safca-ci-2024-1\/page-006.pdf.png"
+}

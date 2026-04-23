@@ -1,0 +1,101 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "OFFICE NATIONAL DES TELECOMMUNICATIONS DU BURKINA FASO",
+          "width" : 0.5596707541987581,
+          "x" : 0.11934157063724667,
+          "y" : 0.9445833331494531
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "Société Anonyme avec conseil d'Administration au capital de 34 000 000 000 F CFA",
+          "width" : 0.6275719696620725,
+          "x" : 0.11934158206711205,
+          "y" : 0.9258333331787435
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01333333333333342,
+          "text" : "Siège social : 705, avenue de la Nation, 01 BP 10 000, Ouagadougou 01 Burkina Faso",
+          "width" : 0.6460905255011792,
+          "x" : 0.1193415729489988,
+          "y" : 0.9112499998549646
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011753875811894798,
+          "text" : "Inscrit au RCCM : BF OUA 2001 B 480 et dernièrement modifié sous le numéro BF OUA 2020 M",
+          "width" : 0.7222222382167601,
+          "x" : 0.11728393359223747,
+          "y" : 0.8995833334085154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "4019, n° IFU 00000624 T",
+          "width" : 0.1893004111523898,
+          "x" : 0.11934156586413427,
+          "y" : 0.885000000013281
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.03938686370849609,
+          "text" : "Moov",
+          "width" : 0.19483402540098949,
+          "x" : 0.3702300441779981,
+          "y" : 0.7823899012896758
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04243316014607745,
+          "text" : "Africa",
+          "width" : 0.19444589794806716,
+          "x" : 0.3704241109638436,
+          "y" : 0.7454500861725508
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "Etats financiers au 31 décembre 2022",
+          "width" : 0.5658436181410302,
+          "x" : 0.23868312855808568,
+          "y" : 0.6016666668555622
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026250000000000107,
+          "text" : "Certifiés par les Commissaires aux comptes et",
+          "width" : 0.6893003931585349,
+          "x" : 0.1790123591691894,
+          "y" : 0.5479166670532227
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0279166666666667,
+          "text" : "Approuvés par l'Assemblée Générale Ordinaire",
+          "width" : 0.7078189489976414,
+          "x" : 0.16872427428947362,
+          "y" : 0.5187499997769613
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021821704705556333,
+          "text" : "du 09 mai 2023",
+          "width" : 0.23251027880974545,
+          "x" : 0.4053497992576787,
+          "y" : 0.4941666670031052
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/onatel-bf-2022-7\/page-001.pdf.png"
+}

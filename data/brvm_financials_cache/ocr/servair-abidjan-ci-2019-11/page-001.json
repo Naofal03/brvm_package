@@ -1,0 +1,69 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03375000000000006,
+          "text" : "ETATS FINANCIERS ANNUELS",
+          "width" : 0.7474332883585468,
+          "x" : 0.1704311995578929,
+          "y" : 0.7541666669084128
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04796511650085444,
+          "text" : "IFRS",
+          "width" : 0.19301848754163897,
+          "x" : 0.7186858273553848,
+          "y" : 0.6933139533048053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03564744472503656,
+          "text" : "pour l'exercice clos le",
+          "width" : 0.35213622327968563,
+          "x" : 0.56002930681368,
+          "y" : 0.6465607112363603
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.027674417495727632,
+          "text" : "31 décembre 2019",
+          "width" : 0.35318273537571776,
+          "x" : 0.5585215672197386,
+          "y" : 0.6148255819951256
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017441860834757517,
+          "text" : "SERVAIR",
+          "width" : 0.15400410035473722,
+          "x" : 0.7104722837548695,
+          "y" : 0.0988372092144042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015005288124084526,
+          "text" : "ABIDJAN",
+          "width" : 0.10074979424897856,
+          "x" : 0.7576333174348246,
+          "y" : 0.08116014671813232
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "a gategroup member",
+          "width" : 0.1437371639256202,
+          "x" : 0.7310061637592979,
+          "y" : 0.05958333340825217
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2019-11\/page-001.pdf.png"
+}

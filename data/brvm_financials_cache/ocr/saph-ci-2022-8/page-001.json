@@ -1,0 +1,69 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.026162789662679042,
+          "text" : "ETATS FINANCIERS",
+          "width" : 0.3572895243254932,
+          "x" : 0.31006160631774615,
+          "y" : 0.8531976750087767
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "1ER JANVIER 2022 - 31 DECEMBRE 2022",
+          "width" : 0.47022587896376256,
+          "x" : 0.26078028198629133,
+          "y" : 0.5637500001009316
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Société Africaine de Plantations d'Hévéas",
+          "width" : 0.36550306627972245,
+          "x" : 0.31211499924500236,
+          "y" : 0.16125000007039236
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Société anonyme avec conseil d'administration",
+          "width" : 0.3798767736859541,
+          "x" : 0.30595484077509266,
+          "y" : 0.143750000196755
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "Au capital social de 14.593.620.855 FCFA",
+          "width" : 0.33470223901971063,
+          "x" : 0.3285421067001769,
+          "y" : 0.12499999993405897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Siège social : Abidjan - Treichville RCCM Abidjan N°CI-ABJ-1962-B-2059",
+          "width" : 0.572895279200254,
+          "x" : 0.20944558899330215,
+          "y" : 0.10749999991844827
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "***",
+          "width" : 0.030800820520264005,
+          "x" : 0.48049281338805416,
+          "y" : 0.0959302327177447
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/saph-ci-2022-8\/page-001.pdf.png"
+}

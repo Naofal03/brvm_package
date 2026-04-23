@@ -1,0 +1,53 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.24031008119936348,
+          "text" : "2.",
+          "width" : 0.14389535268147785,
+          "x" : 0.03343023037922232,
+          "y" : 0.614987079064401
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.06234280904134115,
+          "text" : "Etats financiers",
+          "width" : 0.34011627197265626,
+          "x" : 0.029069769100881212,
+          "y" : 0.4570370364621956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.06718345924660007,
+          "text" : "consolidés",
+          "width" : 0.23982556660970053,
+          "x" : 0.027616287398274746,
+          "y" : 0.35917312867773354
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015503876297562225,
+          "text" : "4",
+          "width" : 0.007267441749572778,
+          "x" : 0.49127906989556247,
+          "y" : 0.03875968986155487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01559000792326748,
+          "text" : "Orange Restrict",
+          "width" : 0.06395348866780598,
+          "x" : 0.46366279134923655,
+          "y" : 0.01033591798400102
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2025-1\/page-004.pdf.png"
+}

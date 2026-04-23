@@ -1,0 +1,333 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.1172839470629422,
+          "x" : 0.13991769822778816,
+          "y" : 0.9433139535460627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés établis en IFRS",
+          "width" : 0.61111111910838,
+          "x" : 0.13991770165980147,
+          "y" : 0.9302325582456752
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "1.2. Fondement de l'opinion",
+          "width" : 0.2901234536800744,
+          "x" : 0.08436214354503038,
+          "y" : 0.859011627942687
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Nous avons effectué notre audit selon les normes internationales d'audit (ISA). Les",
+          "width" : 0.7551440112995652,
+          "x" : 0.1419753270045383,
+          "y" : 0.831250000196755
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "responsabilités qui nous incombent en vertu de ces normes sont plus amplement décrites",
+          "width" : 0.7572016446095593,
+          "x" : 0.13991770218081684,
+          "y" : 0.8137499997450126
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "dans la section « Responsabilités des commissaires aux comptes relatives à l'audit des états",
+          "width" : 0.7551440112995652,
+          "x" : 0.1419753119016579,
+          "y" : 0.7994186048372373
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "financiers consolidés annuels » du présent rapport.",
+          "width" : 0.4218106899621351,
+          "x" : 0.13991770731660025,
+          "y" : 0.7833333335216522
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nous sommes indépendants de la société conformément au Code d'éthique et de",
+          "width" : 0.7551440112995651,
+          "x" : 0.14197531001379787,
+          "y" : 0.7529069769484291
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "déontologie des professionnels de la comptabilité et de l'audit édicté par le règlement",
+          "width" : 0.7551440112995652,
+          "x" : 0.1419753119016579,
+          "y" : 0.7369186046022643
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "N°01\/2017\/CM\/OHADA portant harmonisation des pratiques des professionnels de la",
+          "width" : 0.753086377989571,
+          "x" : 0.14197532011015299,
+          "y" : 0.7208333334913712
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "comptabilité et de l'audit dans les pays membres de l'OHADA et les règles d'indépendance",
+          "width" : 0.7551440112995652,
+          "x" : 0.14197532889239828,
+          "y" : 0.7049418607783708
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "qui encadrent le commissariat aux comptes et nous avons satisfait aux autres responsabilités",
+          "width" : 0.7551440112995651,
+          "x" : 0.14197532668046411,
+          "y" : 0.6887499997995185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "éthiques qui nous incombent selon ces règles. Nous estimons que les éléments probants",
+          "width" : 0.7551440112995652,
+          "x" : 0.1419753270045383,
+          "y" : 0.6729166667763051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "que nous avons recueillis sont suffisants et appropriés pour fonder notre opinion d'audit.",
+          "width" : 0.7263374328613281,
+          "x" : 0.141975323754521,
+          "y" : 0.6583333331630477
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "1.3. Observations",
+          "width" : 0.18930041115238982,
+          "x" : 0.0843621416803208,
+          "y" : 0.6235465118114738
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Sans remettre en cause notre opinion ci-dessus exprimée, nous attirons votre attention sur :",
+          "width" : 0.7551440112995652,
+          "x" : 0.14197532277957256,
+          "y" : 0.591569767482586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "• la note 6.1.5.1.1 «Adoption des normes nouvelles et révisées au 01 Janvier 2019» de",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197530561608762,
+          "y" : 0.5695833334171295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "l'annexe des états financiers qui expose les effets de la première application d'IFRS 16",
+          "width" : 0.7181069715967718,
+          "x" : 0.18724280152157316,
+          "y" : 0.5537499999916993
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011792635917663663,
+          "text" : "« Contrats de location » ;",
+          "width" : 0.2098765283260705,
+          "x" : 0.18930042239389194,
+          "y" : 0.5377906974898612
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "l'information relative au litige en cours décrite dans la note 6.4.15 annexée au projet",
+          "width" : 0.7201646049067658,
+          "x" : 0.18724278931616473,
+          "y" : 0.5145348841977023
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "d'états financiers.",
+          "width" : 0.1481481408173183,
+          "x" : 0.18930041703990047,
+          "y" : 0.4985465118684872
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "1.4. Point clés de l'audit",
+          "width" : 0.2530864139772811,
+          "x" : 0.08436214418419892,
+          "y" : 0.456250000252294
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Les points clés de l'audit sont les points qui, selon notre jugement professionnel, ont été les",
+          "width" : 0.7530863779895711,
+          "x" : 0.1419753366739386,
+          "y" : 0.4244186045803692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "plus importants lors de l'audit des états financiers consolidés de l'exercice clos le 31",
+          "width" : 0.7530863779895711,
+          "x" : 0.14197533705459714,
+          "y" : 0.4098837212907256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "décembre 2019. Ces points ont été traités dans le contexte de notre audit des états",
+          "width" : 0.7551440112995652,
+          "x" : 0.1419753150035097,
+          "y" : 0.3937500002246058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "financiers consolidés pris dans leur ensemble, arrêtés dans les conditions rappelées",
+          "width" : 0.7572016446095593,
+          "x" : 0.13991768359371187,
+          "y" : 0.37790697697871
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015215792655944749,
+          "text" : "précédemment, et lors de la formation de notre opinion sur ceux-ci. Nous n'exprimons pas",
+          "width" : 0.755236859591502,
+          "x" : 0.14192542796879887,
+          "y" : 0.36155273054417625
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "une opinion distincte sur ces points.",
+          "width" : 0.29835389695077574,
+          "x" : 0.1419753186285215,
+          "y" : 0.3473837209394737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Identification et évaluation du risque de crédit",
+          "width" : 0.45061726840037225,
+          "x" : 0.1851851974664805,
+          "y" : 0.3125000000357103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666097104,
+          "text" : "Risques identifiés",
+          "width" : 0.14609053449810674,
+          "x" : 0.2386831296388067,
+          "y" : 0.28197674426796193
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703885,
+          "text" : "Le Groupe Orabank est exposé au risque de crédit et de contrepartie.",
+          "width" : 0.5699588487733085,
+          "x" : 0.2386831341781604,
+          "y" : 0.24999999984321586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641473293304452,
+          "text" : "Ces risques se définissent comme étant la probabilité qu'un débiteur soit dans",
+          "width" : 0.6584361814103037,
+          "x" : 0.23868314873243374,
+          "y" : 0.21791666637293494
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "l'incapacité de faire face",
+          "width" : 0.21604937427448778,
+          "x" : 0.23456790815596595,
+          "y" : 0.20333333334132053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "au remboursement des financements octroyés. Le",
+          "width" : 0.44855967107808814,
+          "x" : 0.44855966315780127,
+          "y" : 0.20203488395545433
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "défaut d'une contrepartie peut avoir une incidence significative sur les résultats",
+          "width" : 0.6604938147202979,
+          "x" : 0.23662550961516018,
+          "y" : 0.18749999983715981
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013290509382883675,
+          "text" : "du groupe.",
+          "width" : 0.09093317895565392,
+          "x" : 0.23642641614580331,
+          "y" : 0.17068032667613142
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le Groupe Orabank constitue des dépréciations sur ses expositions pour couvrir",
+          "width" : 0.6604938147202978,
+          "x" : 0.23662552861378772,
+          "y" : 0.13953488376165601
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "ces risques.",
+          "width" : 0.10082304252768459,
+          "x" : 0.23662551703348278,
+          "y" : 0.12500000017526602
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.2366255094420235,
+          "x" : 0.14197530821623114,
+          "y" : 0.04360465144706838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "3",
+          "width" : 0.014403291468350399,
+          "x" : 0.8189300413285819,
+          "y" : 0.04215116295860355
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-003.pdf.png"
+}

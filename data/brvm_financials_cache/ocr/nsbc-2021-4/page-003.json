@@ -1,0 +1,989 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "7% (+5,3 milliards FCFA).",
+          "width" : 0.13562386857028821,
+          "x" : 0.039783003779955334,
+          "y" : 0.9170833331406184
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692381,
+          "text" : "Cette évolution s'explique par l'effet combiné de :",
+          "width" : 0.2567811863056357,
+          "x" : 0.04159132505091929,
+          "y" : 0.8953488374123418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008759689331054643,
+          "text" : "- La croissance de 13% (+6,4 milliards FCFA) de la marqe d'intérêt qui ressort à",
+          "width" : 0.4448462838453871,
+          "x" : 0.04159133203752323,
+          "y" : 0.8779069771460393
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456093,
+          "text" : "55.4 milliards FCFA au 31 décembre 2021 contre 49. 2 milliards FCFA au 31",
+          "width" : 0.4339963667620267,
+          "x" : 0.05063291245985484,
+          "y" : 0.8648255816518532
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01171511650085455,
+          "text" : "décembre 2020, portée principalement par :",
+          "width" : 0.2296564094258542,
+          "x" : 0.05063291874096075,
+          "y" : 0.8487499998271137
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01744120279947914,
+          "text" : "• L'accroissement des revenus de l'activité « titres» (+ 3,8 milliards FCFA);",
+          "width" : 0.38723748551364756,
+          "x" : 0.05595434898462543,
+          "y" : 0.8327936027525843
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "• L'augmentation des revenus des engagements de la clientèle (+3,7 milliards FCFA);",
+          "width" : 0.4321880419719269,
+          "x" : 0.0560578831053565,
+          "y" : 0.8195833335394571
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "• La hausse du coût des ressources (-2,7 milliards FCFA);",
+          "width" : 0.2983725140203579,
+          "x" : 0.054249542718573504,
+          "y" : 0.8066666666182171
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "• La baisse du coût du refinancement (-1,1 milliard FCFA).",
+          "width" : 0.30018080715321904,
+          "x" : 0.0542495552540115,
+          "y" : 0.7936046512956634
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041075865427643,
+          "text" : "- La baisse",
+          "width" : 0.07419078874390156,
+          "x" : 0.03975813109436708,
+          "y" : 0.7731376440958454
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "de 5% des commissions au 31 décembre 2021 qui s'affichent à",
+          "width" : 0.3743218702894029,
+          "x" : 0.11211574354728146,
+          "y" : 0.7716666666813873
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "21,2 milliards FCFA contre 22,3 milliards FCFA réalisées au 31 décembre 2020",
+          "width" : 0.4321880419719269,
+          "x" : 0.052441247338328126,
+          "y" : 0.7587209300480007
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "Cette évolution est essentiellement liée à celle des produits sur devises, des",
+          "width" : 0.43580469155212653,
+          "x" : 0.052441240141658116,
+          "y" : 0.7441666667393411
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "commissions de transfert de fonds et des commissions sur cession de créances.",
+          "width" : 0.41410485738540587,
+          "x" : 0.0524412490951208,
+          "y" : 0.7311046511235821
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "La mise en œuvre de la politique de maîtrise des charges a permis de contenir les frais",
+          "width" : 0.44484628384538705,
+          "x" : 0.04159132955108574,
+          "y" : 0.7120833332291744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071326,
+          "text" : "d'exploitation à 41,4 milliards FCFA au 31 décembre 2021 contre 41 milliards FCFA",
+          "width" : 0.44484628384538705,
+          "x" : 0.04159132017495571,
+          "y" : 0.6991279068987759
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010203488270441707,
+          "text" : "à décembre 2020.",
+          "width" : 0.09403254876987567,
+          "x" : 0.041591319611445535,
+          "y" : 0.68604651171233
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Les frais de personnel ressortent en hausse de 3% par rapport à décembre 2020",
+          "width" : 0.44484628384538705,
+          "x" : 0.04159132017495571,
+          "y" : 0.6715116278580783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "et s'établissent à 19,4 milliards FCFA tandis que les frais généraux restent quasiment",
+          "width" : 0.44665460863548684,
+          "x" : 0.04159132582692197,
+          "y" : 0.6583333333545087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575725,
+          "text" : "à un niveau identique à celui de 2020 et s'affichent à 22,1 milliards FCFA.",
+          "width" : 0.3905967300858241,
+          "x" : 0.03978300444171741,
+          "y" : 0.6424418607576947
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "Les charges d'amortissement s'établissent à 6 milliards FCFA et sont en baisse de",
+          "width" : 0.4466546086354869,
+          "x" : 0.041591326943558424,
+          "y" : 0.622083333341634
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705102920466,
+          "text" : "8% par rapport à décembre 2020 en cohérence avec la progression",
+          "width" : 0.4231464496786664,
+          "x" : 0.04159132936500687,
+          "y" : 0.6090116280615666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "immobilisations d'exploitation.",
+          "width" : 0.15913199586986998,
+          "x" : 0.04159132774318429,
+          "y" : 0.5958333334623943
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011802325646082634,
+          "text" : "Le coefficient d'exploitation de la Banque s'améliore de plus de 4 points et s'établit à",
+          "width" : 0.44665460863548684,
+          "x" : 0.04159132880461918,
+          "y" : 0.5724999999745213
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01018410841623929,
+          "text" : "61,9% à fin décembre 2021 contre 66,6% au 31 décembre 2020.",
+          "width" : 0.34177215069656053,
+          "x" : 0.04159132636962186,
+          "y" : 0.5595833332629034
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461246,
+          "text" : "Le Résultat Brut d'Exploitation croit de 22% au 31 décembre 2021 et se chiffre à",
+          "width" : 0.444846283845387,
+          "x" : 0.04159132222739691,
+          "y" : 0.5319767440499387
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "29,2 milliards FCFA contre 23,9 milliards FCFA en décembre 2020. Cette progression",
+          "width" : 0.44484628384538705,
+          "x" : 0.04159132017495571,
+          "y" : 0.5187499998164333
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705500284718,
+          "text" : "est portée par l'augmentation de 7% du Produit Net Bancaire et une bonne maîtrise",
+          "width" : 0.4466546086354869,
+          "x" : 0.041591326943558424,
+          "y" : 0.5041666666561719
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "des charges d'exploitation.",
+          "width" : 0.14104882711196837,
+          "x" : 0.041591320576023015,
+          "y" : 0.4912499999990596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692381,
+          "text" : "Le coût net du risque s'améliore et ressort, au 31 décembre 2021, à 6 milliards FCFA",
+          "width" : 0.44484628384538705,
+          "x" : 0.04159132774276751,
+          "y" : 0.46791666667841547
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "contre 16,1 milliards FCFA au 31 décembre 2020, soit une baisse de 62%.",
+          "width" : 0.3942133796660237,
+          "x" : 0.04159132594456485,
+          "y" : 0.45624999994361337
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Pour rappel, les travaux d'assainissement du portefeuille en 2020 ont conduit à un",
+          "width" : 0.4466546086354869,
+          "x" : 0.04159132626543908,
+          "y" : 0.44166666672884625
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "niveau du coût du risque relativement élevé. L'exercice 2021 a enregistré de belles",
+          "width" : 0.4466546086354869,
+          "x" : 0.04159132681546915,
+          "y" : 0.427325581872121
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "performances en matière de recouvrement sur créances provisionnées (+15%",
+          "width" : 0.44484628384538705,
+          "x" : 0.041591329071881455,
+          "y" : 0.4141666667261529
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "comparé à 2020) avec des reprises de provisions à hauteur de 4,5 milliards FCFA. Les",
+          "width" : 0.44665460863548684,
+          "x" : 0.04159132880461918,
+          "y" : 0.401162790755365
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663552,
+          "text" : "dotations aux provisions de l'exercice sur le portefeuille se rapportent principalement",
+          "width" : 0.4466546086354869,
+          "x" : 0.041591326943558424,
+          "y" : 0.38791666647135126
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01017441868782043,
+          "text" : "à des créances déjà classées dans la catégorie des créances en souffrance (plus de",
+          "width" : 0.44665460863548684,
+          "x" : 0.04159132880461918,
+          "y" : 0.3749999998324077
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "90% des provisions constituées au titre de l'exercice 2021), confirmant les efforts mis",
+          "width" : 0.44484628384538705,
+          "x" : 0.04159132683860843,
+          "y" : 0.36041666670613837
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "en œuvre pour assurer la maîtrise du risque de crédit et maintenir la qualité du",
+          "width" : 0.44484628384538705,
+          "x" : 0.041591329071881455,
+          "y" : 0.34738372099761305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010794461568196634,
+          "text" : "portefeuille.",
+          "width" : 0.06344124093589941,
+          "x" : 0.04151627001544067,
+          "y" : 0.3339923041255499
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "Le résultat net réalisé de 20 998 millions FCFA est en progression de 192% par",
+          "width" : 0.44665460863548684,
+          "x" : 0.04159132582692197,
+          "y" : 0.309583333226481
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "rapport au 31 décembre 2020 pour un budget de 15 721 millions FCFA.",
+          "width" : 0.3707052207092032,
+          "x" : 0.041591327145398524,
+          "y" : 0.29651162784354335
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "Evolution du bilan (cf. États Financiers NSIA Banque 2021)",
+          "width" : 0.3092224311037182,
+          "x" : 0.04339963744994916,
+          "y" : 0.261627907015055
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Au terme de l'exercice 2021, le bilan de NSIA Banque Cl se consolide de 6% passant",
+          "width" : 0.45027122655844787,
+          "x" : 0.04159132503451937,
+          "y" : 0.2369186047174171
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "de 1 550 milliards FCFA au 31 décembre 2020 à 1 645 milliards FCFA. Après",
+          "width" : 0.45027122655844787,
+          "x" : 0.0415913261601975,
+          "y" : 0.22238372088133407
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "l'intégration effective des actifs de la succursale ivoirienne de NSIA Banque Bénin",
+          "width" : 0.45027122655844787,
+          "x" : 0.041591336291300386,
+          "y" : 0.2091666664815327
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01169573624928788,
+          "text" : "dans le cadre de l'APA en 2020, la croissance du bilan en 2021 est essentiellement",
+          "width" : 0.45027122655844787,
+          "x" : 0.041591337866044055,
+          "y" : 0.19622093043559763
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "portée par la hausse du niveau d'activité de la Banque.",
+          "width" : 0.28390594735679786,
+          "x" : 0.04159133485083541,
+          "y" : 0.18166666666666664
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011782945394515965,
+          "text" : "Les créances sur la clientèle (y compris les créances en souffrance) croissent de",
+          "width" : 0.45027122655844787,
+          "x" : 0.04159133189859399,
+          "y" : 0.15988372113327198
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "7% (soit +70 milliards FCFA) passant ainsi de 962 milliards FCFA en 2020 à 1 032,5",
+          "width" : 0.45027122655844787,
+          "x" : 0.041591336291300386,
+          "y" : 0.14534883755889416
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "milliards FCFA en 2021.",
+          "width" : 0.13200722690439817,
+          "x" : 0.041591322262086665,
+          "y" : 0.13372093055922918
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "Les engagements sains ressortent à 954 milliards FCFA au 31 décembre 2021 contre",
+          "width" : 0.45027122655844787,
+          "x" : 0.04159132454476662,
+          "y" : 0.11916666647286811
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "848",
+          "width" : 0.023508137192468914,
+          "x" : 0.04159132048604401,
+          "y" : 0.10755813991251217
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "milliards FCFA",
+          "width" : 0.08679927335240534,
+          "x" : 0.07956600527678107,
+          "y" : 0.10610465115031464
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "au",
+          "width" : 0.018083182607943588,
+          "x" : 0.17902350785214635,
+          "y" : 0.10610465141929504
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "31",
+          "width" : 0.016274863753576008,
+          "x" : 0.209764919140391,
+          "y" : 0.10755813991251217
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010489150683085202,
+          "text" : "décembre",
+          "width" : 0.05433977688991179,
+          "x" : 0.24046121547456903,
+          "y" : 0.10594728495890438
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "2020",
+          "width" : 0.030741408652784408,
+          "x" : 0.30741410528783325,
+          "y" : 0.10755813979138817
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "soit une",
+          "width" : 0.05786618355398848,
+          "x" : 0.35081374324410286,
+          "y" : 0.1061046514894618
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "hausse",
+          "width" : 0.03978299896746751,
+          "x" : 0.4231464758628606,
+          "y" : 0.10610465139256275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "de",
+          "width" : 0.01808318260794356,
+          "x" : 0.473779385338584,
+          "y" : 0.10465116287261311
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "105 milliards FCFA. Cette évolution est portée par la progression notable des emplois",
+          "width" : 0.45027122655844787,
+          "x" : 0.04159133516562226,
+          "y" : 0.09291666664693077
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945394515965,
+          "text" : "accordés aux PME. Conformément à son ambition de se positionner en acteur de",
+          "width" : 0.45027122655844787,
+          "x" : 0.041591333887744,
+          "y" : 0.07833333347221205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "référence sur ce segment, la Banque a mené tout au long de l'exercice des actions",
+          "width" : 0.45027122655844787,
+          "x" : 0.04159133358635765,
+          "y" : 0.0637499997450125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524204,
+          "text" : "COMMUNIQUÉ",
+          "width" : 0.1916817312913317,
+          "x" : 0.7685352659094878,
+          "y" : 0.9476744188169317
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "(prospection auprès des faitières, offres dédiées, renforcement de capacités) qui ont eu",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374376168655,
+          "y" : 0.915697674711183
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "pour effet d'accroître le niveau des financements accordés aux PME (+51 milliards FCFA",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374338646052,
+          "y" : 0.9025000001124597
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "nets correspondant à 68% de hausse par rapport à 2020).",
+          "width" : 0.3037974567334186,
+          "x" : 0.5081374417508313,
+          "y" : 0.8879166663186421
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Les engagements non performants s'affichent à 79 milliards FCFA au 31 décembre",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374403835923,
+          "y" : 0.861918604907404
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "2021 contre 114 milliards FCFA au 31 décembre 2020 (soit une diminution de 31%",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374338646052,
+          "y" : 0.8487499997979512
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "correspondant à 35 milliards FCFA) consécutivement à la mise en oeuvre d'actions",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374338646052,
+          "y" : 0.8357558141213942
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014817584355672264,
+          "text" : "vigoureuses de recouvrement.",
+          "width" : 0.1594422209806956,
+          "x" : 0.5080051817057734,
+          "y" : 0.8210266274024147
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Les actions de mobilisation de ressources ont permis de renforcer les ressources",
+          "width" : 0.450271226558448,
+          "x" : 0.5099457647949169,
+          "y" : 0.7949999998942234
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014641472498575836,
+          "text" : "clientèle qui ont enregistré une hausse de 19% et s'affichent à 1 128 milliards FCFA",
+          "width" : 0.45027122655844787,
+          "x" : 0.5099457577334344,
+          "y" : 0.7804166667800667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "au 31 décembre 2021 contre 945,6 milliards FCFA au 31 décembre 2020.",
+          "width" : 0.3905967300858241,
+          "x" : 0.5081374445411747,
+          "y" : 0.7687499996115632
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "A l'instar des emplois, la Banque enregistre une importante progression des encours",
+          "width" : 0.450271226558448,
+          "x" : 0.5099457647949169,
+          "y" : 0.7541666668935672
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "de ressources sur le segment des PME (+23,9 milliards FCFA, correspondant à une",
+          "width" : 0.4520795513485477,
+          "x" : 0.508137434994804,
+          "y" : 0.7412499999735307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "hausse de 56% comparé à 2020).",
+          "width" : 0.1790235052464908,
+          "x" : 0.5081374353876045,
+          "y" : 0.7266666665952461
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "PERSPECTIVES 2022",
+          "width" : 0.13381554378018834,
+          "x" : 0.5117540726668679,
+          "y" : 0.6700000003592392
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "La Banque a fait preuve de résilience au cours de l'exercice 2021 en maintenant",
+          "width" : 0.4520795513485477,
+          "x" : 0.5099457532588185,
+          "y" : 0.6482558141395627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "une dynamique commerciale, en assurant le pilotage des risques et la maîtrise des frais",
+          "width" : 0.44846290176834813,
+          "x" : 0.5117540750953319,
+          "y" : 0.6366279070611673
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "généraux.",
+          "width" : 0.05424954584525332,
+          "x" : 0.5117540688495253,
+          "y" : 0.6220930231681558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "L'année 2022 démarre dans un contexte d'incertitudes lié à l'évolution de la pandémie",
+          "width" : 0.4466546086354869,
+          "x" : 0.5135623927346977,
+          "y" : 0.6002906977417992
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475827,
+          "text" : "et à un contexte géopolitique fragilisé par des tensions internationales dont les",
+          "width" : 0.44846293342558674,
+          "x" : 0.5135623906108954,
+          "y" : 0.5857558140354038
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "conséquences affecteront la plupart des économies. Le défi pour la Banque est le",
+          "width" : 0.45027122655844787,
+          "x" : 0.5117540868111917,
+          "y" : 0.5724999999745213
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "déploiement de son nouveau Plan Stratégique.",
+          "width" : 0.24412296026079483,
+          "x" : 0.5117540733656845,
+          "y" : 0.5595833333330702
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Ce Plan, dénommé «Altitude 22-26», traduit les actions prioritaires à mettre en œuvre",
+          "width" : 0.4466546086354869,
+          "x" : 0.5135623872132994,
+          "y" : 0.5304166668552487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "sur les cinq prochaines années afin d'assurer un positionnement durable dans le top 5",
+          "width" : 0.4466546086354869,
+          "x" : 0.5135623919902734,
+          "y" : 0.5187499998139256
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "des banques en Côte d'Ivoire. Il est notamment marqué par :",
+          "width" : 0.3146473738167791,
+          "x" : 0.5135623921874511,
+          "y" : 0.505813953718144
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "- Des actions de rééquilibrage du portefeuille de la clientèle de Particuliers (Mass",
+          "width" : 0.45027122655844787,
+          "x" : 0.5117540868111917,
+          "y" : 0.49273255836930696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "Market, segments intermédiaires Clientèle haut de gamme);",
+          "width" : 0.31283904902667925,
+          "x" : 0.5226039867524832,
+          "y" : 0.47819767448598516
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "- L'adoption d'une politique de conquête plus complète avec une nouvelle « proposition",
+          "width" : 0.44846293342558674,
+          "x" : 0.511754061135308,
+          "y" : 0.4620833331771761
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "de valeurs clients » sur l'ensemble des marchés (Particulier, Professionnel, TPE,",
+          "width" : 0.44122963426518735,
+          "x" : 0.5207956637595103,
+          "y" : 0.44749999987762223
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014740103085835732,
+          "text" : "PME\/PMI, GE);",
+          "width" : 0.0778167930381426,
+          "x" : 0.5207661071209067,
+          "y" : 0.4315834366499369
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "- L'accroissement de nos financements aux champions locaux des secteurs d'activités",
+          "width" : 0.45027122655844787,
+          "x" : 0.5117540736782807,
+          "y" : 0.4186046512653824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "stratégiques;",
+          "width" : 0.06871608876588442,
+          "x" : 0.5226039809937908,
+          "y" : 0.4040697674293843
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635520299188,
+          "text" : "- L'amélioration de l'expérience client à travers le renouvellement du parc des",
+          "width" : 0.45027122655844787,
+          "x" : 0.5117540718021506,
+          "y" : 0.38791666669914193
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01017441868782043,
+          "text" : "Distributeurs Automatiques de Billets (DAB) et des Guichets Automatiques de",
+          "width" : 0.4376130163422264,
+          "x" : 0.5226039844509481,
+          "y" : 0.3749999998324076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "Banque (GAB), l'acquisition d'une nouvelle solution monétique, la révision de l'offre de",
+          "width" : 0.4394213411323262,
+          "x" : 0.522603973217743,
+          "y" : 0.36041666670613837
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "produits et la réduction des délais de traitement;",
+          "width" : 0.2513562277639555,
+          "x" : 0.5226039814344781,
+          "y" : 0.3473837208231946
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "- L'amélioration de la rentabilité et de la qualité des services bancaires.",
+          "width" : 0.37251354549930293,
+          "x" : 0.5117540818163521,
+          "y" : 0.3341666666112204
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "La pénétration des canaux de distribution alternatifs tels que l'application mobile,",
+          "width" : 0.44846293342558674,
+          "x" : 0.5135623906108954,
+          "y" : 0.3137500001108924
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "l'offre et la commercialisation des produits hors bilan (les lettres de crédit, virements",
+          "width" : 0.44846293342558674,
+          "x" : 0.5117540659273513,
+          "y" : 0.3008333331787435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "transfrontaliers, ...) aux entreprises sont autant de sources de commissions exploitées",
+          "width" : 0.45027122655844787,
+          "x" : 0.5117540799169785,
+          "y" : 0.28779069782900835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "insuffisamment qu'il conviendrait de renforcer.",
+          "width" : 0.24412296026079494,
+          "x" : 0.5117540673982344,
+          "y" : 0.27458333327762396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "L'aboutissement de la mise en oeuvre des actions du Plan «Altitude 22-26» permettra",
+          "width" : 0.4466546086354869,
+          "x" : 0.5135623919902734,
+          "y" : 0.2529069769618455
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "à la Banque de réaliser sa vision des cing prochaines années : être une Banque",
+          "width" : 0.45027122655844787,
+          "x" : 0.5117540838093836,
+          "y" : 0.23833333338223173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "innovante de référence pour tous.",
+          "width" : 0.1916817312913317,
+          "x" : 0.5099457547159977,
+          "y" : 0.22375000003301693
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715592543284137,
+          "text" : "CONTACTS",
+          "width" : 0.05970091443833481,
+          "x" : 0.5153574988837423,
+          "y" : 0.12931662226106577
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00890503883361815,
+          "text" : "Gomez KONAN",
+          "width" : 0.07775768897345448,
+          "x" : 0.5171790216073053,
+          "y" : 0.10901162782470697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849397,
+          "text" : "Directeur des Relations avec les Investisseurs",
+          "width" : 0.19710668983301183,
+          "x" : 0.5171790272655314,
+          "y" : 0.09738372128363604
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "et Partenaires Financiers",
+          "width" : 0.10849909169050664,
+          "x" : 0.5171790273916363,
+          "y" : 0.08866279077734529
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008798449039459255,
+          "text" : "Tél : (225) 80 200 800",
+          "width" : 0.09041590710398573,
+          "x" : 0.5171790280634381,
+          "y" : 0.07703488412278336
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008914728562037122,
+          "text" : "E-mail : relationsinvestisseurs@nsiabanque.com",
+          "width" : 0.19349004025281213,
+          "x" : 0.5171790337313394,
+          "y" : 0.06666666653029574
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Souleymane COULIBALY",
+          "width" : 0.12839059315281787,
+          "x" : 0.7667269448039407,
+          "y" : 0.10749999995980075
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849286,
+          "text" : "Directeur Financier et du Contrôle de Gestion",
+          "width" : 0.19349004025281225,
+          "x" : 0.7667269477156675,
+          "y" : 0.097383721186737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008837208747863756,
+          "text" : "Tél. : (225) 80 200 800",
+          "width" : 0.09403254876987577,
+          "x" : 0.7667269451448994,
+          "y" : 0.08866279114797726
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01621475537618,
+          "text" : "@ 80 200 800",
+          "width" : 0.1121654747927337,
+          "x" : 0.26218127619574505,
+          "y" : 0.0057007619782644126
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "e: 8-10, Avenue Joseph Anoma-nsiabanque.ci@nsiabanque.com -www.nsiabanque.cl",
+          "width" : 0.19529836504291198,
+          "x" : 0.4285714355617265,
+          "y" : 0.015833333387525572
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "NSIA Banque, le vrai visage de la Banque.",
+          "width" : 0.22784810046437376,
+          "x" : 0.3996383395960229,
+          "y" : 0.005813953396902161
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008779069582621313,
+          "text" : "Suivez-nous sur: + in You Tube",
+          "width" : 0.09403254876987566,
+          "x" : 0.6437613009013793,
+          "y" : 0.008720930489062417
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013081394831339521,
+          "text" : "ISIA",
+          "width" : 0.03435804438294221,
+          "x" : 0.9240506338844783,
+          "y" : 0.007267442075609365
+        }
+      ],
+      "width" : 1927
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/nsbc-2021-4\/page-003.pdf.png"
+}

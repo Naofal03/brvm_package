@@ -1,0 +1,789 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.0265773852666219,
+          "text" : "Deloitte.",
+          "width" : 0.15867366723374005,
+          "x" : 0.09006768266126015,
+          "y" : 0.9452868889818957
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02470930258433024,
+          "text" : "Grant Thornton",
+          "width" : 0.23408623325810696,
+          "x" : 0.638603702291451,
+          "y" : 0.9404069766459578
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Application de la comptabilité hyperinflationniste dans la préparation des états",
+          "width" : 0.7453798759109982,
+          "x" : 0.1006160221941048,
+          "y" : 0.8866279070124545
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "financiers des opérations du Groupe au Zimbabwe",
+          "width" : 0.47433263196821623,
+          "x" : 0.10061602231157979,
+          "y" : 0.8735465114965513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "L'enregistrement et",
+          "width" : 0.18275153313986126,
+          "x" : 0.10266941025245124,
+          "y" : 0.8590116280252293
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "la",
+          "width" : 0.03696098372568368,
+          "x" : 0.2956878865765832,
+          "y" : 0.8604651165088417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792450049,
+          "text" : "traduction des",
+          "width" : 0.13963038396217514,
+          "x" : 0.3367556512769549,
+          "y" : 0.8604166666479214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738371372223003,
+          "text" : "Nous avons effectué les procédures",
+          "width" : 0.31827515511125215,
+          "x" : 0.4743326490357497,
+          "y" : 0.8590116282601171
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012163290977478036,
+          "text" : "opérations",
+          "width" : 0.08843355212531748,
+          "x" : 0.10260047328092875,
+          "y" : 0.8456625406105519
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "au",
+          "width" : 0.02053387959798178,
+          "x" : 0.22176591430778528,
+          "y" : 0.847383721022016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Zimbabwe",
+          "width" : 0.08829568384392944,
+          "x" : 0.27104722847502366,
+          "y" : 0.8473837210146556
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "ont",
+          "width" : 0.03080082052026395,
+          "x" : 0.3880903489801144,
+          "y" : 0.8473837211382873
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "été",
+          "width" : 0.030800820520264005,
+          "x" : 0.4455852164082458,
+          "y" : 0.8459302328713941
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013394916852315197,
+          "text" : "suivantes :",
+          "width" : 0.09659323900130673,
+          "x" : 0.49071775326523653,
+          "y" : 0.8443199832738784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016201914151509622,
+          "text" : "considérablement affectées par les récents",
+          "width" : 0.3739290450852105,
+          "x" : 0.10256116517472103,
+          "y" : 0.8285675014786205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "changements de politique monétaire et la",
+          "width" : 0.37371660823395164,
+          "x" : 0.10266942285085416,
+          "y" : 0.81666666685723
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010582571029663201,
+          "text" : "situation",
+          "width" : 0.07403214435554925,
+          "x" : 0.10261431804921758,
+          "y" : 0.8035749936562231
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "économique",
+          "width" : 0.10266940023649149,
+          "x" : 0.2094455857818228,
+          "y" : 0.8023255818721209
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "•",
+          "width" : 0.016427104127701986,
+          "x" : 0.519507187292754,
+          "y" : 0.8154069768261015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "Évaluer les facteurs entourant la",
+          "width" : 0.28336753890146504,
+          "x" : 0.544147848413744,
+          "y" : 0.8183139538415125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01586826642354333,
+          "text" : "générale",
+          "width" : 0.07646367912157687,
+          "x" : 0.3426716508097778,
+          "y" : 0.8002054015439323
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720929622650142,
+          "text" : "au",
+          "width" : 0.02258726733312172,
+          "x" : 0.4517453804248149,
+          "y" : 0.8037790699997215
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "disponibilité d'indices de prix",
+          "width" : 0.24435318765988479,
+          "x" : 0.552361395595109,
+          "y" : 0.7994186048243475
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012050433953603057,
+          "text" : "Zimbabwe.",
+          "width" : 0.09660925264212493,
+          "x" : 0.10261939952561934,
+          "y" : 0.78757943422761
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "économiques pertinents qui seraient",
+          "width" : 0.30800820070947443,
+          "x" : 0.5523613989265771,
+          "y" : 0.784883721222811
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "appliqués dans la conversion des",
+          "width" : 0.2813141623992381,
+          "x" : 0.550308014719272,
+          "y" : 0.7687500003129413
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384838,
+          "text" : "Le 11 octobre 2019, le Conseil des experts-",
+          "width" : 0.3737166082339517,
+          "x" : 0.10266941626290094,
+          "y" : 0.757083333373432
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290619,
+          "text" : "comptables et des vérificateurs (« РAAB») а",
+          "width" : 0.3737166082339517,
+          "x" : 0.1026694203594101,
+          "y" : 0.7441666665914846
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "émis une alerte intitulée «Déclaration",
+          "width" : 0.37371660823395164,
+          "x" : 0.10266942285085416,
+          "y" : 0.7311046512204813
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013400510152180911,
+          "text" : "01\/2019",
+          "width" : 0.07608397970210817,
+          "x" : 0.10056170689055272,
+          "y" : 0.714956721828913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "sur l'application",
+          "width" : 0.15605749482962492,
+          "x" : 0.19712525929292188,
+          "y" : 0.7149999998786127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "d'IAS",
+          "width" : 0.04928131462968843,
+          "x" : 0.37166324381451926,
+          "y" : 0.7151162791649988
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "29:",
+          "width" : 0.03285420825540386,
+          "x" : 0.44353182787581824,
+          "y" : 0.7151162792558419
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "Information financière dans les économies",
+          "width" : 0.3737166441792734,
+          "x" : 0.10266940131898754,
+          "y" : 0.7020348837924636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "hyper inflationnistes,",
+          "width" : 0.2032854059980952,
+          "x" : 0.10266941537877568,
+          "y" : 0.6860465119108807
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "au",
+          "width" : 0.04722792464796588,
+          "x" : 0.32854209499976794,
+          "y" : 0.6874999999875239
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013806939125061035,
+          "text" : "Zimbabwe»",
+          "width" : 0.10079959649219672,
+          "x" : 0.3736248411525659,
+          "y" : 0.6856837396943698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "couvrant la préparation et la présentation",
+          "width" : 0.3737166082339517,
+          "x" : 0.1026694154928804,
+          "y" : 0.6700000002988475
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "des états financiers des entités opérant au",
+          "width" : 0.3737166082339517,
+          "x" : 0.10266942129370166,
+          "y" : 0.6569767445356384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Zimbabwe pour les exercices clos à compter",
+          "width" : 0.3778233971837272,
+          "x" : 0.1006160246627565,
+          "y" : 0.6408333334222956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951397,
+          "text" : "du 1er juillet 2019.",
+          "width" : 0.1663244312587419,
+          "x" : 0.10061601679362703,
+          "y" : 0.6262499997570399
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116505,
+          "text" : "états financiers historiques",
+          "width" : 0.22792606780610458,
+          "x" : 0.5523614030784673,
+          "y" : 0.7529069767097296
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "d'Ecobank Zimbabwe pour produire",
+          "width" : 0.29979465875524525,
+          "x" : 0.5523613996631518,
+          "y" : 0.7369186048451116
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018559926350911526,
+          "text" : "des états financiers hyper",
+          "width" : 0.22241349326988558,
+          "x" : 0.5519877890760181,
+          "y" : 0.7202728988153373
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "inflationnistes qui seraient",
+          "width" : 0.22792606780610458,
+          "x" : 0.5503080152242578,
+          "y" : 0.7062500003129413
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014728682041168173,
+          "text" : "conformes à IAS 29 et à la",
+          "width" : 0.22587269130387777,
+          "x" : 0.5523613972638721,
+          "y" : 0.6916666668304976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734705,
+          "text" : "déclaration réglementaire.",
+          "width" : 0.22381929682898993,
+          "x" : 0.5523614004121403,
+          "y" : 0.6744186046453449
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "En conséquence, le groupe Ecobank a dû",
+          "width" : 0.37166323173172483,
+          "x" : 0.10472279791750516,
+          "y" : 0.5973837208594389
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01528455257415784,
+          "text" : "appliquer",
+          "width" : 0.08239438761249444,
+          "x" : 0.10048658426623365,
+          "y" : 0.582474002929527
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "les",
+          "width" : 0.04312114917768606,
+          "x" : 0.18480492832012343,
+          "y" : 0.5857558141565278
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011744186083475716,
+          "text" : "dispositions d'IAS 29 :",
+          "width" : 0.23408623325810696,
+          "x" : 0.24435319117382115,
+          "y" : 0.5857558140596286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736249287991,
+          "text" : "Information financière dans les économies",
+          "width" : 0.37371664417927336,
+          "x" : 0.10266940176388822,
+          "y" : 0.5712209303144735
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "hyper inflationnistes aux états financiers",
+          "width" : 0.3757700206815003,
+          "x" : 0.10266941070647757,
+          "y" : 0.5552325584709581
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "historiques de ses opérations au Zimbabwe",
+          "width" : 0.3737166082339517,
+          "x" : 0.10266941195078606,
+          "y" : 0.5406976746228476
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "pour l'exercice clos le 31 décembre 2019.",
+          "width" : 0.37166323173172483,
+          "x" : 0.10472280356432229,
+          "y" : 0.5261627909745918
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Cela faisait suite à une politique monétaire",
+          "width" : 0.37166323173172483,
+          "x" : 0.10472280263516422,
+          "y" : 0.5116279073081675
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "antérieure qui a remplacé la parité des taux",
+          "width" : 0.37371660823395164,
+          "x" : 0.102669418316289,
+          "y" : 0.4970833332252621
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "de change entre les billets en dollars du",
+          "width" : 0.3737166082339517,
+          "x" : 0.10266941400417412,
+          "y" : 0.48250000006750837
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Zimbabwe et les dollars américains pour",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472280844975917,
+          "y" : 0.46947674428249686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "établir le dollar RTGS comme monnaie",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472281094120325,
+          "y" : 0.45494186052280683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "officielle à compter du 20 février 2019.",
+          "width" : 0.33059548601525696,
+          "x" : 0.10266940054986645,
+          "y" : 0.4375000001628905
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "• Examiner la sélection par les",
+          "width" : 0.2772073914221235,
+          "x" : 0.5195071887687467,
+          "y" : 0.6350000003039633
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789424,
+          "text" : "administrateurs des indices de prix",
+          "width" : 0.2956878877781306,
+          "x" : 0.5523613928079133,
+          "y" : 0.6191666669243873
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "appropriés appliqués à la conversion",
+          "width" : 0.30800820070947443,
+          "x" : 0.5523614046503963,
+          "y" : 0.6031976744452305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01723568439483636,
+          "text" : "des états financiers historiques en",
+          "width" : 0.2899035666098443,
+          "x" : 0.5521469010661954,
+          "y" : 0.5864405187136459
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "états financiers hyper inflationnistes.",
+          "width" : 0.3141683661614768,
+          "x" : 0.5523614022786044,
+          "y" : 0.5712209300357103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "• Recalculé les facteurs de conversion",
+          "width" : 0.3388090279694862,
+          "x" : 0.5195071887103287,
+          "y" : 0.531976744348937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "d'hyperinflation retenus par les",
+          "width" : 0.26488706051811883,
+          "x" : 0.5523613999514129,
+          "y" : 0.5158333331886114
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "administrateurs pour convertir les",
+          "width" : 0.2874743278512404,
+          "x" : 0.552361398805386,
+          "y" : 0.5012499996940554
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "chiffres historiques.",
+          "width" : 0.16837782573362958,
+          "x" : 0.5523613965445473,
+          "y" : 0.48541666657999916
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01752906958262135,
+          "text" : "• Évalué la pertinence et l'adéquation",
+          "width" : 0.3388090279694862,
+          "x" : 0.5174537995881522,
+          "y" : 0.44622093022215603
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "des informations fournies par le",
+          "width" : 0.2710472259701211,
+          "x" : 0.5523614006699702,
+          "y" : 0.4287500002386996
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "Groupe conformément aux IFRS.",
+          "width" : 0.2813141623992381,
+          "x" : 0.5523614021063358,
+          "y" : 0.414166666740595
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "En raison du jugement impliqué dans la",
+          "width" : 0.37166323173172483,
+          "x" : 0.10472279520189946,
+          "y" : 0.409883721116307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "sélection des",
+          "width" : 0.12320328208105585,
+          "x" : 0.10061601686501623,
+          "y" : 0.395348837366307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "indices de prix appropriés",
+          "width" : 0.2566735005912286,
+          "x" : 0.22176592277077845,
+          "y" : 0.39534883756244277
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01333333373069756,
+          "text" : "utilisés et de la complexité des calculs",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472280683442722,
+          "y" : 0.3820833331262693
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "Sur la base des procédures décrites ci-",
+          "width" : 0.33059548601525696,
+          "x" : 0.49281313946157074,
+          "y" : 0.3735465113910882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "effectués pour produire des états financiers",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472280844975917,
+          "y" : 0.36625000011887954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "dessus, la méthodologie utilisée par les",
+          "width" : 0.3326488625174839,
+          "x" : 0.4928131415852007,
+          "y" : 0.360416666649125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "hyper inflationnistes d'Ecobank Zimbabwe,",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472281087275698,
+          "y" : 0.35029069754306286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "administrateurs pour préparer les états",
+          "width" : 0.3305954860152569,
+          "x" : 0.4928131432552052,
+          "y" : 0.34583333322118714
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014660852750142395,
+          "text" : "nous considérons ce sujet comme point",
+          "width" : 0.38603693913795645,
+          "x" : 0.10266941930165828,
+          "y" : 0.33575581415158995
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "financiers hyper inflationnistes des",
+          "width" : 0.2977412642803574,
+          "x" : 0.4907597574491437,
+          "y" : 0.3312499999325266
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015532552401224864,
+          "text" : "d'audit clé.",
+          "width" : 0.09679985271044979,
+          "x" : 0.10252409949166859,
+          "y" : 0.3207220959049011
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "opérations au Zimbabwe s'est avérée",
+          "width" : 0.31827515511125226,
+          "x" : 0.49281313888859013,
+          "y" : 0.3154069770487763
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015893354415893568,
+          "text" : "appropriée.",
+          "width" : 0.09894529416788589,
+          "x" : 0.4926218097528505,
+          "y" : 0.3001928577184507
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Autres informations",
+          "width" : 0.18891169859186357,
+          "x" : 0.09445585636555248,
+          "y" : 0.25708333298092045
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "Les Administrateurs sont responsables des autres informations. Les autres informations",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240246390705106,
+          "y" : 0.2412499999879728
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "comprennent la déclaration des Administrateurs quant à leurs responsabilités. Les autres",
+          "width" : 0.7864476216274662,
+          "x" : 0.09445586152712929,
+          "y" : 0.2266666664328547
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018665615717570083,
+          "text" : "informations n'incluent pas les états financiers consolidés et notre rapport d'audit y afférent.",
+          "width" : 0.7845003916602252,
+          "x" : 0.09233791413005073,
+          "y" : 0.21142085489896512
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Notre opinion sur les états financiers consolidés ne concerne pas les autres informations et",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445585409772289,
+          "y" : 0.18458333332397958
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "nous n'y donnons aucune forme d'assurance ou de conclusion.",
+          "width" : 0.5297741210362374,
+          "x" : 0.0944558597077539,
+          "y" : 0.1699999997342545
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "En relation avec notre audit des états financiers consolidés, notre responsabilité est de lire les",
+          "width" : 0.7864476216274662,
+          "x" : 0.09445586267189314,
+          "y" : 0.14083333342229554
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018288906415303563,
+          "text" : "autres informations et, ce faisant, nous assurer qu'elles ne sont pas substantiellement",
+          "width" : 0.7886264113571113,
+          "x" : 0.09439769006865081,
+          "y" : 0.12430106450582168
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "contraires aux états financiers consolidés ou à nos connaissances obtenues lors de l'audit ou",
+          "width" : 0.7864476216274661,
+          "x" : 0.09445586041829977,
+          "y" : 0.11333333357109265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "qu'elles ne paraissent pas autrement contenir des anomalies significatives.",
+          "width" : 0.6344968977749558,
+          "x" : 0.0944558711587231,
+          "y" : 0.09738372107746218
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2019-5\/page-008.pdf.png"
+}

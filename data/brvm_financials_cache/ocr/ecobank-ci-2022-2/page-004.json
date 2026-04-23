@@ -1,0 +1,589 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03960767428080236,
+          "text" : "Ecobank",
+          "width" : 0.18701033485511442,
+          "x" : 0.7473572545328248,
+          "y" : 0.9169694185342587
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7453798846031737,
+          "y" : 0.9011627909007139
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• Les prêts accordés aux clients ont",
+          "width" : 0.4579055121144361,
+          "x" : 0.03285423309404792,
+          "y" : 0.856104651494214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "augmenté de 19,5%, passant de 753,3",
+          "width" : 0.40862422444373897,
+          "x" : 0.08008213420523531,
+          "y" : 0.8357558138438499
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "milliards de FCFA en décembre 2021 à",
+          "width" : 0.4086242244437389,
+          "x" : 0.0800821433992803,
+          "y" : 0.8212209305458128
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "900,2 milliards de FCFA en décembre 2022.",
+          "width" : 0.4127310133935145,
+          "x" : 0.08008213706607634,
+          "y" : 0.8023255815062412
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "Cette progression essentiellement liée à la",
+          "width" : 0.4065708479415121,
+          "x" : 0.08008212910932612,
+          "y" : 0.7833333329522066
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "croissance des crédits à moyen terme, a",
+          "width" : 0.4065708479415121,
+          "x" : 0.0800821361524472,
+          "y" : 0.7645348835240824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "été en partie atténuée par la baisse des",
+          "width" : 0.41067760094596584,
+          "x" : 0.08008214819231473,
+          "y" : 0.7485465118260086
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "crédits à long et court termes,",
+          "width" : 0.4127310133935144,
+          "x" : 0.08213552515642543,
+          "y" : 0.7311046512373458
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "respectivement de 39,4% et 13,4%.",
+          "width" : 0.322381908115706,
+          "x" : 0.07802876115433038,
+          "y" : 0.7136627908327915
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "Concernant les autres postes du bilan, il est à",
+          "width" : 0.45379875910998235,
+          "x" : 0.034907609527828565,
+          "y" : 0.6874999999825085
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01168604652086902,
+          "text" : "noter que :",
+          "width" : 0.10472279471137919,
+          "x" : 0.03285420752110712,
+          "y" : 0.6699999999088435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "Les créances en souffrance ont connu une",
+          "width" : 0.4147843898957413,
+          "x" : 0.0718685784265307,
+          "y" : 0.6453488371216441
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01744060357411703,
+          "text" : "augmentation de 2,3 milliards de FCFA sur",
+          "width" : 0.41096451650379123,
+          "x" : 0.07993183908188885,
+          "y" : 0.623256388438179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "la période passant à 56,0 milliards de",
+          "width" : 0.40862422444373897,
+          "x" : 0.07802874509332569,
+          "y" : 0.6061046510713208
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "FCFA. Cette hausse de 4,2% reste toutefois",
+          "width" : 0.40862422444373897,
+          "x" : 0.08008214169667943,
+          "y" : 0.5900000001038959
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071326,
+          "text" : "nettement inférieure à l'accroissement du",
+          "width" : 0.4065708479415121,
+          "x" : 0.08213552566990093,
+          "y" : 0.5741279070586596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "portefeuille de créances (+ 19,5%).",
+          "width" : 0.31211498965924983,
+          "x" : 0.08008213816147701,
+          "y" : 0.5537500003441627
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.018088439305623316,
+          "text" : "• Les provisions sur ces créances en",
+          "width" : 0.462334910326487,
+          "x" : 0.032679079445357834,
+          "y" : 0.5266536864519353
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709302584330342,
+          "text" : "souffrance se sont accrues de 3,6%, ce qui",
+          "width" : 0.4086242244437389,
+          "x" : 0.08213553319223024,
+          "y" : 0.509999999727258
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541716,
+          "text" : "a permis de porter la couverture des",
+          "width" : 0.4065708479415121,
+          "x" : 0.08213552566990093,
+          "y" : 0.4927325584891268
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "créances en souffrance à 88,4%.",
+          "width" : 0.3039014477050206,
+          "x" : 0.08008213045960472,
+          "y" : 0.4737499999226238
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "Le portefeuille titres a atteint 692,5 milliards",
+          "width" : 0.41067760094596584,
+          "x" : 0.07802876010196567,
+          "y" : 0.4474999996884983
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "de FCFA, enregistrant une progression de",
+          "width" : 0.4065708479415121,
+          "x" : 0.08008212912985999,
+          "y" : 0.42875000030774024
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014622093041737894,
+          "text" : "21,3% par rapport à décembre 2021 (570,7",
+          "width" : 0.4086242244437389,
+          "x" : 0.08008213573757614,
+          "y" : 0.41124999981611976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "milliards de FCFA). Cet accroissement est",
+          "width" : 0.40862422444373897,
+          "x" : 0.0800821373417856,
+          "y" : 0.39375000029226503
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "principalement le fait de la souscription",
+          "width" : 0.4086242244437389,
+          "x" : 0.0800821433992803,
+          "y" : 0.3762499998878538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "aux titres de",
+          "width" : 0.12936344753305817,
+          "x" : 0.08213552684948726,
+          "y" : 0.3619186047088535
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "placement des Etats de",
+          "width" : 0.2381930042352216,
+          "x" : 0.2505133581151064,
+          "y" : 0.36041666677630524
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01637873013814295,
+          "text" : "l'UEMOA.",
+          "width" : 0.08886605522236639,
+          "x" : 0.07774356449904861,
+          "y" : 0.34064784427288675
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895348707834816,
+          "text" : "+44% vs 2020",
+          "width" : 0.08624229835537223,
+          "x" : 0.7002053380913077,
+          "y" : 0.8561046514192951
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378758,
+          "text" : "753",
+          "width" : 0.024640657314844217,
+          "x" : 0.7412731003980194,
+          "y" : 0.8270348836648571
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "900",
+          "width" : 0.02874743278512404,
+          "x" : 0.8193018487682867,
+          "y" : 0.8459302326862601
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "624",
+          "width" : 0.026694045049984183,
+          "x" : 0.6611909648210038,
+          "y" : 0.8110465118601866
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Prêts à la clientèle",
+          "width" : 0.11293634565193889,
+          "x" : 0.6940451760104439,
+          "y" : 0.7078488371968261
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010184108416239512,
+          "text" : "• 2020 • 2021 • 2022",
+          "width" : 0.15400410035473722,
+          "x" : 0.6776180749509682,
+          "y" : 0.6845833333779712
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187796,
+          "text" : "DISTRIBUTION DES DIVIDENDES AUX",
+          "width" : 0.3552361478232664,
+          "x" : 0.5154004088014058,
+          "y" : 0.6395348835906154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ACTIONNAIRES",
+          "width" : 0.1478439438890653,
+          "x" : 0.5154004110416803,
+          "y" : 0.6220930235872373
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641473293304452,
+          "text" : "Le Conseil d'Administration a décidé d'affecter",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868512011274,
+          "y" : 0.5799418603943226
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "25% du résultat net obtenu au renforcement",
+          "width" : 0.4579055480597578,
+          "x" : 0.5092402501744331,
+          "y" : 0.5654069767897643
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750968933105468,
+          "text" : "des fonds propres, et de proposer à l'Assemblée",
+          "width" : 0.45379875910998235,
+          "x" : 0.5092402495774525,
+          "y" : 0.542083333096828
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Générale des actionnaires du 26 Avril 2023 le",
+          "width" : 0.45585213561220916,
+          "x" : 0.5092402598853004,
+          "y" : 0.5274999998786127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "versement d'un dividende en numéraire de 651",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868616220717,
+          "y" : 0.5099999998120448
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014583333333333393,
+          "text" : "FCFA bruts par action. La date de paiement des",
+          "width" : 0.45585213561220916,
+          "x" : 0.5092402598853004,
+          "y" : 0.49125000035800537
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "dividendes envisagée par la banque, suite à",
+          "width" : 0.4558521356122093,
+          "x" : 0.5092402596271601,
+          "y" : 0.47238372073338464
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "l'approbation des actionnaires, est le 25 mai",
+          "width" : 0.46201230106421154,
+          "x" : 0.5051334740828841,
+          "y" : 0.4549418604099835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "2023.",
+          "width" : 0.055441475588525524,
+          "x" : 0.5071868602036839,
+          "y" : 0.4389534885072103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "PERSPECTIVES 2023",
+          "width" : 0.19712525851875362,
+          "x" : 0.5154004077837444,
+          "y" : 0.40250000013062825
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650253,
+          "text" : "+30% vs 2020",
+          "width" : 0.08624229835537214,
+          "x" : 0.19096509420013733,
+          "y" : 0.3081395352613492
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008808139562606843,
+          "text" : "1 088",
+          "width" : 0.036960985972266325,
+          "x" : 0.24229979438553012,
+          "y" : 0.286250000088912
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008932256301244057,
+          "text" : "1 270",
+          "width" : 0.03705962218159925,
+          "x" : 0.322332611810227,
+          "y" : 0.3022199185847838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378758,
+          "text" : "979",
+          "width" : 0.026694045049984128,
+          "x" : 0.1704312112943098,
+          "y" : 0.27616279054712456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Dépôts de la clientèle",
+          "width" : 0.13347021851017277,
+          "x" : 0.19301848584244952,
+          "y" : 0.16416666684130587
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008875968853632621,
+          "text" : "• 2020 •2021 •2022",
+          "width" : 0.1519507238525103,
+          "x" : 0.1868583121189194,
+          "y" : 0.14083333350621952
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Dans la lignée de l'exercice 2022, qui a confirmé",
+          "width" : 0.45585213561220916,
+          "x" : 0.5092402598853004,
+          "y" : 0.35610465121926516
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "la bonne tendance",
+          "width" : 0.23408623325810696,
+          "x" : 0.509240254828852,
+          "y" : 0.34291666664693077
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "des performances",
+          "width" : 0.20123202949586838,
+          "x" : 0.7638603679351597,
+          "y" : 0.341569767402652
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "financières, les ambitions d'Ecobank Côte",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868539988685,
+          "y" : 0.3212209300357103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019281463623046835,
+          "text" : "d'lvoire pour l'année 2023 devraient conduire au",
+          "width" : 0.45615680815895543,
+          "x" : 0.5090496436527304,
+          "y" : 0.30311736530336686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "maintien de cette dynamique de croissance",
+          "width" : 0.4558521356122093,
+          "x" : 0.5092402520706921,
+          "y" : 0.2862499998124861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "entamée depuis le lancement du plan",
+          "width" : 0.45379875910998235,
+          "x" : 0.5112936434634892,
+          "y" : 0.2703488375407255
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "stratégique 2019-2023.",
+          "width" : 0.21971252585187528,
+          "x" : 0.5071868583676968,
+          "y" : 0.25124999982720664
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "Ecobank Côte d'Ivoire, entend en effet,",
+          "width" : 0.45379875910998235,
+          "x" : 0.5112936434634892,
+          "y" : 0.22529069778531097
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015426581700642927,
+          "text" : "consolider son positionnement parmi les leaders",
+          "width" : 0.45396349651934254,
+          "x" : 0.5112097499170392,
+          "y" : 0.20721304983925448
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "du secteur bancaire ivoirien, dans un",
+          "width" : 0.45379875910998224,
+          "x" : 0.5112936423820381,
+          "y" : 0.18875000019557864
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "environnement qui continue de faire l'objet de",
+          "width" : 0.4558521356122093,
+          "x" : 0.5092402623273654,
+          "y" : 0.17151162792451846
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "quelques incertitudes.",
+          "width" : 0.20944558942275837,
+          "x" : 0.5092402463974504,
+          "y" : 0.15406976758182267
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008769379456837978,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.12320328208105584,
+          "x" : 0.04312115122504363,
+          "y" : 0.0683139539386749
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010193798144658484,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | 01 B.P 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.5605749123509276,
+          "x" : 0.04106777062125111,
+          "y" : 0.056666666790298414
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008914728562037122,
+          "text" : "Tel: (225) 27 20 31 92 00 | Fax : (225) 27 20 21 88 16 | Swift : ECOCCIAB | Web : ww.ecobank.com",
+          "width" : 0.5174537901322328,
+          "x" : 0.04106775750061905,
+          "y" : 0.04941860490766714
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Société Anonyme avec Conseil d'Administration au Capital F CFA 27 525 300 000 * R CCM CI - ABJ - 1988 - B - 130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.825462026787029,
+          "x" : 0.043121134296424155,
+          "y" : 0.027499999974471057
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2022-2\/page-004.pdf.png"
+}

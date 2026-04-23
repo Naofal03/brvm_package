@@ -1,0 +1,333 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "BoLlore TraNsport & Logistics COTE D'Ivoire (BTL CI) S.A. - 31 DEcEMBRE 2019",
+          "width" : 0.5390946370250773,
+          "x" : 0.08230453873025949,
+          "y" : 0.94622093046233
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "Comptes consolidés",
+          "width" : 0.13991768854968956,
+          "x" : 0.7304526769597232,
+          "y" : 0.9445833333953272
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le groupe Bolloré Transport & Logistics Côte d'Ivoire est constitué de la société Bolloré Transport & Logistics Côte d'Ivoire et",
+          "width" : 0.8374485519697082,
+          "x" : 0.08024692580526926,
+          "y" : 0.8982558142849116
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "de ses filiales. La société Bolloré Transport & Logistics Côte d'Ivoire est contrôlée par le groupe Bolloré et est consolidée par",
+          "width" : 0.8395061852797022,
+          "x" : 0.08024691785397577,
+          "y" : 0.8849999997030332
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "intégration globale dans les comptes de ce groupe. La société Bolloré Transport & Logistics Côte d'Ivoire est également",
+          "width" : 0.8395061852797022,
+          "x" : 0.0781892836975977,
+          "y" : 0.8720833331682486
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "Le siège social de Bolloré Transport & Logistics Côte d'Ivoire (BTL CI) S.A. est situé Immeuble Bolloré - 1 Avenue Christiani",
+          "width" : 0.8415637466142764,
+          "x" : 0.07818932852413743,
+          "y" : 0.8400000001135857
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- 01 BP 1727 à Abidjan, Côte d'Ivoire.",
+          "width" : 0.25925925992569837,
+          "x" : 0.08024691648776806,
+          "y" : 0.8270348839978476
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "Les présents états financiers ont été préparés dans le cadre de la transition IFRS du groupe Bolloré Transport & Logistics",
+          "width" : 0.837448551969708,
+          "x" : 0.08024692789889054,
+          "y" : 0.8081395349292991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Côte d'Ivoire selon les modalités détaillées dans la note 15 - Transition aux normes IFRS en utilisant les données historiques",
+          "width" : 0.83333328534972,
+          "x" : 0.08230454032411155,
+          "y" : 0.7950000001401827
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "servant à l'établissement des comptes consolidés annuels du groupe Bolloré. Le Groupe ne préparait pas jusqu'à ce jour",
+          "width" : 0.83333328534972,
+          "x" : 0.08230455768522217,
+          "y" : 0.78333333318485
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "d'états financiers IFRS pour ses propres besoins.",
+          "width" : 0.3271604933828678,
+          "x" : 0.08230453242379229,
+          "y" : 0.7687500001386154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "En date du 29 mai 2020, le Conseil d'Administration se verra présenter les présents états financiers consolidés du Groupe,",
+          "width" : 0.8209876294405956,
+          "x" : 0.0802469362827884,
+          "y" : 0.747083333240923
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017645347913106346,
+          "text" : "conformément au référentiel IFRS en vigueur au 31 décembre 2019, dans le but de les arrêter.",
+          "width" : 0.6419752588811911,
+          "x" : 0.07818933089891049,
+          "y" : 0.7311046519907219
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "Note 1 - Faits marquants",
+          "width" : 0.21604937427448778,
+          "x" : 0.0823045336703692,
+          "y" : 0.7062499998139256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "Faits marquants de l'exercice 2019",
+          "width" : 0.26748970319639964,
+          "x" : 0.08024691349096358,
+          "y" : 0.6787500001456119
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Pour la première fois les comptes consolidés publiés par Bolloré Transport & Logistics Côte d'Ivoire se feront en conformité",
+          "width" : 0.8395061852797022,
+          "x" : 0.08024691785397577,
+          "y" : 0.6495833332944885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "avec le référentiel IFRS (International Financial Reporting Standards), en vigueur au 31 décembre 2019. Cette publication",
+          "width" : 0.8395061852797022,
+          "x" : 0.07818928579636304,
+          "y" : 0.6366279070004273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "est complète, c'est-à-dire qu'elle présente des comptes 2018 retraités en IFRS également.",
+          "width" : 0.6049382911538178,
+          "x" : 0.08024690987576577,
+          "y" : 0.6235465115571133
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "Il n'y a pas d'autres évènements marquants en 2019.",
+          "width" : 0.35802466914338893,
+          "x" : 0.08230454143653596,
+          "y" : 0.6061046512011015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Faits marquants de l'exercice 2018",
+          "width" : 0.26543208788026057,
+          "x" : 0.08230452997962286,
+          "y" : 0.5799418605616518
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154539744022,
+          "text" : "Le 5 mars 2018, la société Bolloré Transport & Logistics Côte d'Ivoire a racheté au Syndicat des Producteurs et Industriels",
+          "width" : 0.8374485519697081,
+          "x" : 0.0802469098433354,
+          "y" : 0.5508333334100827
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "du Bois (SPIB) 4 599 actions de la Société d'Exploitation du Parc à Bois d'Abidjan (SEPBA) pour 50 millions de francs CFA,",
+          "width" : 0.8374485519697081,
+          "x" : 0.08024692440952168,
+          "y" : 0.5377906979695046
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014660852750142395,
+          "text" : "portant sa détention de 80,168% à 93,902% du capital. Le 23 mars 2018, une acquisition complémentaire de 294 actions",
+          "width" : 0.8374485519697081,
+          "x" : 0.08230454455698362,
+          "y" : 0.5245833332339265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de SEPBA a été réalisée auprès de la Compagnie Forestière de L'Indénié (CFI), pour 3,2 millions de francs CFA. A l'issue de",
+          "width" : 0.8415637466142764,
+          "x" : 0.07818932852413743,
+          "y" : 0.5116279073081675
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "ces opérations, le taux de contrôle et d'intérêt du Groupe dans SEPBA s'élève à 94,78%.",
+          "width" : 0.5967077939015515,
+          "x" : 0.08024693603962177,
+          "y" : 0.4985465119108806
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Note 2 - Principes comptables généraux",
+          "width" : 0.34362137992427033,
+          "x" : 0.0823045398115273,
+          "y" : 0.47375000009115653
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "2.1 - Évolutions normatives",
+          "width" : 0.2386831247581626,
+          "x" : 0.08230453213395011,
+          "y" : 0.45041666662395985
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "2.1.1 - Principes comptables généraux",
+          "width" : 0.29629628163463667,
+          "x" : 0.08230453704276393,
+          "y" : 0.42874999985483686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "Les comptes consolidés du Groupe au titre des exercices 2018 et 2019 sont établis conformément au référentiel IFRS",
+          "width" : 0.837448551969708,
+          "x" : 0.08024690696267697,
+          "y" : 0.40988372086679914
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980448,
+          "text" : "(International Financial Reporting Standards), en vigueur au 31 décembre 2019.",
+          "width" : 0.5432098676573556,
+          "x" : 0.07818929942235113,
+          "y" : 0.39375000018212725
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "Dans la mesure où les comptes annuels consolidés du groupe Bolloré Transport et Logistics Côte d'Ivoire sont préparés à",
+          "width" : 0.8374485519697081,
+          "x" : 0.0802469187425122,
+          "y" : 0.3720833331632334
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "partir des comptes consolidés du groupe Bolloré, dont les titres sont admis sur un marché européen, le cadre référentiel",
+          "width" : 0.8374485519697081,
+          "x" : 0.08024692440952168,
+          "y" : 0.36041666649270454
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "utilisé pour la production des comptes consolidés est celui adopté par l'Union européenne.",
+          "width" : 0.6069958524883918,
+          "x" : 0.08024693478118126,
+          "y" : 0.34874999989485045
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Ce référentiel diffère des normes IFRS d'application obligatoire de l'IASB sur le point suivant :",
+          "width" : 0.6296296029720666,
+          "x" : 0.08024693215594184,
+          "y" : 0.32833333357871597
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014728682041168173,
+          "text" : "- normes d'application obligatoire selon l'IASB mais non encore adoptées ou d'application postérieure à la clôture selon",
+          "width" : 0.8395061852797023,
+          "x" : 0.07818929559060149,
+          "y" : 0.3166666668304976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "l'Union européenne.",
+          "width" : 0.13786007323355043,
+          "x" : 0.08024692041340302,
+          "y" : 0.30375000019406173
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01461240291595467,
+          "text" : "Cependant, il n'y a pas, à la date d'arrêté des comptes de l'exercice 2019, de norme obligatoire selon I'IASB qui serait",
+          "width" : 0.8395061852797022,
+          "x" : 0.08024691435603347,
+          "y" : 0.2891666668132694
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014670542081197113,
+          "text" : "d'application au 1er janvier 2019, qui n'aurait pas été adoptée par l'Union Européenne. Voir Note 2.1.3 - Normes comptables",
+          "width" : 0.8374485519697081,
+          "x" : 0.08024692341255917,
+          "y" : 0.27616279087085915
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ou interprétations que le Groupe appliquera dans le futur.",
+          "width" : 0.38888888089161994,
+          "x" : 0.08230452652949877,
+          "y" : 0.26453488419770244
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Page 10 sur 41",
+          "width" : 0.09259259026005584,
+          "x" : 0.825102882982112,
+          "y" : 0.04208333335024805
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-8\/page-010.pdf.png"
+}

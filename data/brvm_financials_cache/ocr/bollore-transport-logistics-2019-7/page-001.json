@@ -1,0 +1,53 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.05499785741170249,
+          "text" : "BOLLORÉ",
+          "width" : 0.24898208240738184,
+          "x" : 0.07982107502894721,
+          "y" : 0.8642161879634676
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "TRANSPORT & LOGISTICS",
+          "width" : 0.2156057369020999,
+          "x" : 0.08213552775018212,
+          "y" : 0.8531976745030277
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "COMPTES INDIVIDUELS IFRS",
+          "width" : 0.4517453826077555,
+          "x" : 0.273100611424195,
+          "y" : 0.4825000001017641
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021821704705556333,
+          "text" : "31 décembre 2019",
+          "width" : 0.2895277223261283,
+          "x" : 0.35728952578081,
+          "y" : 0.4215116282550013
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02686287562052403,
+          "text" : "Bolloré Transport & Logistics Côte d'Ivoire (BTL CI) S.A.",
+          "width" : 0.850320085900692,
+          "x" : 0.0758705012442106,
+          "y" : 0.3571580672781568
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-7\/page-001.pdf.png"
+}

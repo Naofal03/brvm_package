@@ -1,0 +1,53 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.24031008119936348,
+          "text" : "2.",
+          "width" : 0.14244186401367187,
+          "x" : 0.03343023053858556,
+          "y" : 0.6149870790143364
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.06234280904134126,
+          "text" : "Etats financiers",
+          "width" : 0.3401162719726563,
+          "x" : 0.029069769289834704,
+          "y" : 0.4570370364736799
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.06459948504412616,
+          "text" : "consolidés",
+          "width" : 0.2398255666097005,
+          "x" : 0.02761628513022728,
+          "y" : 0.3591731254796596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015503876297562225,
+          "text" : "4",
+          "width" : 0.007267441749572778,
+          "x" : 0.49127906989556247,
+          "y" : 0.03875968986155487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015590008629692953,
+          "text" : "Orange Restrict",
+          "width" : 0.0654069773356119,
+          "x" : 0.4636627910560312,
+          "y" : 0.01033591725173566
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2024-2\/page-004.pdf.png"
+}

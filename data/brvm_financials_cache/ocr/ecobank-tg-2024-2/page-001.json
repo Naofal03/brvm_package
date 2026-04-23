@@ -1,0 +1,389 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.041221354802449595,
+          "text" : "Deloitte.",
+          "width" : 0.2501422507606021,
+          "x" : 0.07323714650950536,
+          "y" : 0.9125288572815489
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.024767441749572683,
+          "text" : "Grant Thornton",
+          "width" : 0.24624059321167913,
+          "x" : 0.5676691750263659,
+          "y" : 0.9302325579495985
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "RAPPORT DES AUDITEURS INDÉPENDANTS SUR LES ÉTATS FINANCIERS CONSOLIDES RÉSUMÉS",
+          "width" : 0.6785714191654868,
+          "x" : 0.07330828343887284,
+          "y" : 0.8895348838838207
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Aux actionnaires de ECOBANK TRANSNATIONAL INCORPORATED",
+          "width" : 0.46616538828630666,
+          "x" : 0.0714285782252679,
+          "y" : 0.8706395348202876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Opinion",
+          "width" : 0.058270673535788325,
+          "x" : 0.07330827157327127,
+          "y" : 0.8357558142460668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "Les états financiers consolidés résumés d'Ecobank Transnational Incorporated, qui comprennent le bilan consolidé",
+          "width" : 0.8533834150822545,
+          "x" : 0.07330830668192988,
+          "y" : 0.8166666667820479
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "résumé au 31 décembre 2024, le compte de résultat consolidé résumé, l'état résumé des variations des capitaux",
+          "width" : 0.8533834150822546,
+          "x" : 0.07330829452654183,
+          "y" : 0.7979166667980224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "propres et le tableau résumé des flux de trésorerie pour l'exercice clos à cette date, ainsi que les notes annexes, sont",
+          "width" : 0.8515037692994877,
+          "x" : 0.07518796466886521,
+          "y" : 0.7775000001074444
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "tirés des états financiers consolidés audités d'Ecobank Transnational Incorporated pour l'exercice clos le 31 décembre",
+          "width" : 0.8515037692994875,
+          "x" : 0.0733082572111586,
+          "y" : 0.7599999997055409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "2024.",
+          "width" : 0.04135338413933977,
+          "x" : 0.07518797010138274,
+          "y" : 0.7412790697766829
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "À notre avis, les états financiers consolidés résumés ci-joints sont cohérents, dans tous leurs aspects significatifs, avec",
+          "width" : 0.8496240576751282,
+          "x" : 0.07518797824263636,
+          "y" : 0.7208333330491058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01469961166381828,
+          "text" : "les états financiers consolidés audités d'Ecobank Transnational Incorporated, conformément à la norme internationale",
+          "width" : 0.8533834150822546,
+          "x" : 0.07142859753406061,
+          "y" : 0.7004166670528087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "d'audit (ISA) 810 (révisée), Missions visant la délivrance d'un rapport sur des états financiers résumés.",
+          "width" : 0.7330826612223571,
+          "x" : 0.07518800002791907,
+          "y" : 0.6816666663709537
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "États financiers consolidés résumés",
+          "width" : 0.2575187971162436,
+          "x" : 0.07330827245423051,
+          "y" : 0.6495833332270051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les états financiers consolidés résumés ne contiennent pas toutes les informations requises par les Normes comptables",
+          "width" : 0.8533834150822546,
+          "x" : 0.07330830312616565,
+          "y" : 0.6308139538016267
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "IFRS publiées par l'International Accounting Standards Board. La lecture des états financiers résumés et du rapport de",
+          "width" : 0.8571428383309735,
+          "x" : 0.06954887087210744,
+          "y" : 0.609011627981532
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "l'auditeur sur ceux-ci ne saurait par conséquent se substituer à la lecture des états financiers consolidés audités",
+          "width" : 0.8552631267066141,
+          "x" : 0.07142859555176798,
+          "y" : 0.5900000001074444
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "d'Ecobank Transnational Incorporated et du rapport de l'auditeur sur ces derniers. Ni les états financiers résumés ni les",
+          "width" : 0.8533834150822546,
+          "x" : 0.07330829445135387,
+          "y" : 0.5712209303554778
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "états financiers audités ne reflètent les incidences d'événements postérieurs à la date de notre rapport sur les états",
+          "width" : 0.8515037692994876,
+          "x" : 0.07330827172243655,
+          "y" : 0.5508333331180035
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "financiers audités.",
+          "width" : 0.13157894130406383,
+          "x" : 0.07330827535360712,
+          "y" : 0.5348837209394737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "Les états financiers consolidés audités et notre rapport sur ces états",
+          "width" : 0.49436089804771777,
+          "x" : 0.07142856858892313,
+          "y" : 0.4985465115473382
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "Nous avons exprimé une opinion non modifiée sur les états financiers consolidés audités dans notre rapport daté du",
+          "width" : 0.8515037692994876,
+          "x" : 0.07330825964402646,
+          "y" : 0.4795833335482719
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "26 Mars 2025. Ce rapport comprend également la communication des questions clé d'audit. Les questions clés de",
+          "width" : 0.8533834150822546,
+          "x" : 0.07142858254345946,
+          "y" : 0.4607558139917063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "l'audit sont les questions qui, selon notre jugement professionnel, ont été les plus importantes dans l'audit des états",
+          "width" : 0.8533834150822546,
+          "x" : 0.07142858467691794,
+          "y" : 0.4404069766636173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "financiers de la période considérée.",
+          "width" : 0.25939849228020495,
+          "x" : 0.07330827698019814,
+          "y" : 0.4229166666794061
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Responsabilité de la direction pour les états financiers résumés",
+          "width" : 0.4567668960061017,
+          "x" : 0.07330828660691141,
+          "y" : 0.3879166665523264
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "La direction est responsable de la préparation des états financiers consolidés résumés conformément aux exigences",
+          "width" : 0.8383458537705636,
+          "x" : 0.07330828450569547,
+          "y" : 0.37063953521514426
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Responsabilité de l'auditeur",
+          "width" : 0.20488721730253842,
+          "x" : 0.07330827177636237,
+          "y" : 0.3357558141163789
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "Notre responsabilité consiste à exprimer une opinion indiquant si les états financiers consolidés résumés sont",
+          "width" : 0.855263126706614,
+          "x" : 0.07142857847000145,
+          "y" : 0.316666666656079
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "cohérents, dans tous leurs aspects significatifs, avec les états financiers audités, sur la base des procédures que nous",
+          "width" : 0.8515037034578951,
+          "x" : 0.07330830381616504,
+          "y" : 0.2979166663135263
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "avons mises en œuvre conformément à la Norme internationale d'audit (ISA) 810 (révisée), Missions visant la délivrance",
+          "width" : 0.8515037692994876,
+          "x" : 0.07330825508239937,
+          "y" : 0.2804166665850647
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "d'un rapport sur des états financiers résumés.",
+          "width" : 0.33082704019392195,
+          "x" : 0.07518798917622177,
+          "y" : 0.25999999975399035
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.026162789662679042,
+          "text" : "rogтl.",
+          "width" : 0.06015037692994876,
+          "x" : 0.13909774392850932,
+          "y" : 0.21220930262505588
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "Pour : Deloitte & Touche (FRC\/2022\/COY\/091021)",
+          "width" : 0.3477443460507686,
+          "x" : 0.07330828058632348,
+          "y" : 0.17583333324891026
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Expert-comptable",
+          "width" : 0.12781954274594207,
+          "x" : 0.07518797160948515,
+          "y" : 0.15988372097095804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465042034784958,
+          "text" : "Lagos, Nigeria",
+          "width" : 0.10182347961228257,
+          "x" : 0.07314841158275069,
+          "y" : 0.1416573484513507
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "26 Mars 2025",
+          "width" : 0.10150376106928855,
+          "x" : 0.07330827085633315,
+          "y" : 0.1279069769739578
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "Associé signataire : Saidi Bolaji",
+          "width" : 0.22368420186294835,
+          "x" : 0.07142857389622004,
+          "y" : 0.1074999996131305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "FRC\/2021\/004\/00000024025",
+          "width" : 0.2142857095827434,
+          "x" : 0.07142857392103431,
+          "y" : 0.09156976773443892
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040173,
+          "text" : "INSTITUTE OF CHARTERED",
+          "width" : 0.12969924614010248,
+          "x" : 0.16541353698633965,
+          "y" : 0.07412790733014774
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.0406976731618246,
+          "text" : "6 Kame",
+          "width" : 0.08458646344264087,
+          "x" : 0.5657894755742623,
+          "y" : 0.18604651220179125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.024881574312845878,
+          "text" : "Pour : Grant Thornton",
+          "width" : 0.1594527161237106,
+          "x" : 0.5441877109710194,
+          "y" : 0.16942991148949926
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Expert-comptable",
+          "width" : 0.1315789413040639,
+          "x" : 0.5432330873836823,
+          "y" : 0.1584302327417062
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Abidjan, Cote d'Ivoire",
+          "width" : 0.15789473944111543,
+          "x" : 0.5432330809843294,
+          "y" : 0.14083333302258627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014871287345886164,
+          "text" : "26 Mars 2025",
+          "width" : 0.10346198056250844,
+          "x" : 0.5413141212086168,
+          "y" : 0.12483179814697853
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "Associé signataire : Missa Koné",
+          "width" : 0.22556391348730787,
+          "x" : 0.5432330801736392,
+          "y" : 0.10750000033518481
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "0685626",
+          "width" : 0.07894736972055774,
+          "x" : 0.1785714287111497,
+          "y" : 0.007267441927845675
+        }
+      ],
+      "width" : 1854
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2024-2\/page-001.pdf.png"
+}

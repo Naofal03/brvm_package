@@ -1,0 +1,221 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.1172839470629422,
+          "x" : 0.13991769822778816,
+          "y" : 0.9433139535460627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés établis en IFRS",
+          "width" : 0.6069958524883918,
+          "x" : 0.14197531972631172,
+          "y" : 0.9302325580761015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "Si à la lumière des travaux que nous avons effectués lors de nos vérifications spécifiques ou",
+          "width" : 0.7633744725641215,
+          "x" : 0.1419753215197224,
+          "y" : 0.8633333332367978
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792612,
+          "text" : "sur les autres informations, nous concluons à la présence d'une anomalie significative, nous",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197530561608762,
+          "y" : 0.8458333337227104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "sommes tenus de signaler ce fait. Nous n'avons rien à signaler à cet égard.",
+          "width" : 0.6193415803729363,
+          "x" : 0.14197530654192675,
+          "y" : 0.8312500002693366
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "S'agissant des événements survenus et des éléments connus postérieurement à la date",
+          "width" : 0.7633744725641215,
+          "x" : 0.1419753215197224,
+          "y" : 0.8008333332367978
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "d'arrêté des comptes relatifs aux effets de la crise liée au Covid-19, la direction nous a indiqué",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197530752452375,
+          "y" : 0.7848837211453767
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "qu'ils feront l'objet d'une communication à l'assemblée générale appelée à statuer sur les",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.768749999666069
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641473293304452,
+          "text" : "Lomé, le 12 juin 2020",
+          "width" : 0.17901233457169444,
+          "x" : 0.14197531299535995,
+          "y" : 0.7049418603337605
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "Les commissaires aux comptes",
+          "width" : 0.26337447256412144,
+          "x" : 0.39094651114592277,
+          "y" : 0.668604651091997
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081395626068026,
+          "text" : "EXCO - FICAO",
+          "width" : 0.12345679301135948,
+          "x" : 0.2942386815824838,
+          "y" : 0.6395348835934007
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015267725785573338,
+          "text" : "KPMG Togo",
+          "width" : 0.10102963897417183,
+          "x" : 0.6871395025078977,
+          "y" : 0.6377149747793525
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.020542635917663588,
+          "text" : "KPMG Togo",
+          "width" : 0.11111111011145247,
+          "x" : 0.769547324820817,
+          "y" : 0.6002906977851252
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "FICAO",
+          "width" : 0.0946502055761949,
+          "x" : 0.10288065900202599,
+          "y" : 0.5872093028530398
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "COMPTABLES",
+          "width" : 0.09053497494391675,
+          "x" : 0.10493827497660126,
+          "y" : 0.5595930233377293
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.03488372166951503,
+          "text" : "1sgno.",
+          "width" : 0.028806587435164538,
+          "x" : 0.20987654182768523,
+          "y" : 0.5552325582059401
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333332935969056,
+          "text" : "LOME - TOGO",
+          "width" : 0.0884773686247052,
+          "x" : 0.10288065636665975,
+          "y" : 0.5450000001874211
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "*",
+          "width" : 0.012345678401443183,
+          "x" : 0.20781893026429898,
+          "y" : 0.5465116280350972
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.030523255666096927,
+          "text" : "ЧУ Ты 2141827)",
+          "width" : 0.1111111101114525,
+          "x" : 0.10082304695044655,
+          "y" : 0.5174418609205852
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.04219961166381836,
+          "text" : "11) аш",
+          "width" : 0.14814814981424584,
+          "x" : 0.2757201631815831,
+          "y" : 0.5479166671595885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Abalo Amouzou",
+          "width" : 0.12962962996284916,
+          "x" : 0.29218107108853425,
+          "y" : 0.5245833333043565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Associé",
+          "width" : 0.06790123345716942,
+          "x" : 0.3230452679679174,
+          "y" : 0.5072674419556964
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.023811207612355556,
+          "text" : "406 BP 6019 Lemé 06 - Togo",
+          "width" : 0.20360662352364023,
+          "x" : 0.727321834493573,
+          "y" : 0.5450223447758606
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017577518622080457,
+          "text" : "Toussaint O. de Souza",
+          "width" : 0.1893004111523897,
+          "x" : 0.6419753091871796,
+          "y" : 0.5216666665965
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010897750059763567,
+          "text" : "Associé",
+          "width" : 0.06400939653504567,
+          "x" : 0.7077072357898034,
+          "y" : 0.5098127528951799
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.23662550944202354,
+          "x" : 0.1419753072474383,
+          "y" : 0.0436046514894618
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-006.pdf.png"
+}

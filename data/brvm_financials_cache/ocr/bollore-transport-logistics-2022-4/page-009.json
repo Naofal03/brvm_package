@@ -1,0 +1,365 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.0387512048085531,
+          "text" : "KPMG",
+          "width" : 0.1340082570717388,
+          "x" : 0.09008006089012074,
+          "y" : 0.8541709092870092
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "Africa Global Logistics Côte d'Ivoire (AGL CI) S.A.",
+          "width" : 0.340862404471713,
+          "x" : 0.24229979824326753,
+          "y" : 0.8820833335286488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "(Ex Bolloré Transport & Logistics Côte d'Ivoire S.A. (BTLCI S.A.))",
+          "width" : 0.44558521715575305,
+          "x" : 0.2402464089785916,
+          "y" : 0.8677325584709581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers annuels",
+          "width" : 0.45379875910998235,
+          "x" : 0.24435318339846546,
+          "y" : 0.8561046511235821
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Exercice clos le 31 décembre 2022",
+          "width" : 0.22381929682899002,
+          "x" : 0.2443531874992627,
+          "y" : 0.8444767444158184
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "ECR International",
+          "width" : 0.18891169859186363,
+          "x" : 0.6960985634350744,
+          "y" : 0.8808139532515533
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "— nous recueillons, le cas échéant, des éléments probants suffisants et appropriés",
+          "width" : 0.644763816231412,
+          "x" : 0.24024642058039278,
+          "y" : 0.7920833335378898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "concernant le respect des dispositions des textes législatifs et réglementaires",
+          "width" : 0.6201232263140459,
+          "x" : 0.26488704593948637,
+          "y" : 0.7790697676279349
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "dont il est admis qu'elles ont une incidence directe sur la détermination des",
+          "width" : 0.6201232263140459,
+          "x" : 0.264887046973025,
+          "y" : 0.7645348837591481
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "données chiffrées significatives enregistrées et l'information fournie dans les",
+          "width" : 0.6201232263140459,
+          "x" : 0.2648870549743938,
+          "y" : 0.7500000001229197
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0160368212064107,
+          "text" : "états financiers, mettons en œuvre des procédures d'audit spécifiques visant à",
+          "width" : 0.6201231544234025,
+          "x" : 0.26488708844538295,
+          "y" : 0.7354166670027917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "identifier les cas de non-respect d'autres textes législatifs et réglementaires qui",
+          "width" : 0.6221765668709511,
+          "x" : 0.262833694038857,
+          "y" : 0.7223837212907256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542875925618,
+          "text" : "peuvent avoir une incidence significative sur les états financiers, et apporter une",
+          "width" : 0.6201231544234025,
+          "x" : 0.2648870958375798,
+          "y" : 0.7091666663518448
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171224,
+          "text" : "réponse appropriée aux cas avérés ou suspectés de non-respect des textes",
+          "width" : 0.620123226314046,
+          "x" : 0.2648870477112669,
+          "y" : 0.693313953516208
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "législatifs et réglementaires identifiés au cours de l'audit ;",
+          "width" : 0.4496919701602069,
+          "x" : 0.2628336899455638,
+          "y" : 0.6787500003477112
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "- nous fournissons également au Conseil d'Administration une déclaration",
+          "width" : 0.6468172286789605,
+          "x" : 0.2381930202857766,
+          "y" : 0.6641666666679205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "précisant que nous nous sommes conformés aux règles de déontologie",
+          "width" : 0.6201231544234025,
+          "x" : 0.2648870955809064,
+          "y" : 0.6495833332374751
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "pertinentes concernant l'indépendance, et leur communiquons, le cas échéant,",
+          "width" : 0.6180698138664973,
+          "x" : 0.26694045853560805,
+          "y" : 0.6350000001828393
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "toutes les relations et les autres facteurs qui peuvent raisonnablement être",
+          "width" : 0.6201232263140459,
+          "x" : 0.2648870583419502,
+          "y" : 0.6235465116952875
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705500284718,
+          "text" : "considérés comme susceptibles d'avoir une incidence sur notre indépendance",
+          "width" : 0.6180698138664973,
+          "x" : 0.2669404446837946,
+          "y" : 0.6090116278435433
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ainsi que les sauvegardes connexes. Parmi les points communiqués au Conseil",
+          "width" : 0.6201232263140459,
+          "x" : 0.26694044643229936,
+          "y" : 0.5944767445174698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "d'Administration, nous déterminons quels ont été les plus importants lors de",
+          "width" : 0.6180698138664975,
+          "x" : 0.26694045859036514,
+          "y" : 0.5799418607965396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705500284718,
+          "text" : "l'audit des états financiers de la période considérée : ce sont les points clés de",
+          "width" : 0.6201231544234026,
+          "x" : 0.26488708033450015,
+          "y" : 0.5666666665471602
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "l'audit. Nous décrivons ces points dans notre rapport, sauf si la loi ou la",
+          "width" : 0.6201232263140459,
+          "x" : 0.2648870583419502,
+          "y" : 0.5523255817267722
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "réglementation en empêchent la communication ou si, dans des circonstances",
+          "width" : 0.6201231544234026,
+          "x" : 0.26488707775065357,
+          "y" : 0.5377906978604929
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "extrêmement rares, nous déterminons que nous ne devrions pas communiquer",
+          "width" : 0.6201232263140459,
+          "x" : 0.26694043402983547,
+          "y" : 0.5232558141395627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "un point dans notre rapport parce que l'on peut raisonnablement s'attendre à ce",
+          "width" : 0.6180698138664974,
+          "x" : 0.266940449569147,
+          "y" : 0.5087209302732837
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "que les conséquences néfastes de la communication de ce point dépassent les",
+          "width" : 0.6180698138664974,
+          "x" : 0.26694045791959164,
+          "y" : 0.49416666669815124
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "avantages qu'elle aurait au regard de l'intérêt public ;",
+          "width" : 0.41273097744819276,
+          "x" : 0.2669404729802155,
+          "y" : 0.48110465139731484
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "— nous prenons connaissance du contrôle interne de la société afin de définir des",
+          "width" : 0.644763816231412,
+          "x" : 0.24024641789387693,
+          "y" : 0.4665697673542023
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "procédures d'audit appropriées aux circonstances, et non dans le but d'exprimer",
+          "width" : 0.6201232263140459,
+          "x" : 0.26694044643229936,
+          "y" : 0.45203488381738055
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014692222277323363,
+          "text" : "une opinion sur l'efficacité du contrôle interne de la société. Lorsque des",
+          "width" : 0.6182120854497939,
+          "x" : 0.26687112828853254,
+          "y" : 0.43648445087061705
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "faiblesses significatives sont identifiées, nous les communiquons à la direction,",
+          "width" : 0.6221765668709511,
+          "x" : 0.26488708212920603,
+          "y" : 0.42291666671816563
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "le cas échéant, au Conseil d'Administration ;",
+          "width" : 0.3490759464259423,
+          "x" : 0.26488708393966387,
+          "y" : 0.40833333352165224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056856,
+          "text" : "— nous évaluons l'incidence sur l'audit des anomalies relevées et l'incidence sur",
+          "width" : 0.644763816231412,
+          "x" : 0.24229980598422593,
+          "y" : 0.39534883712164415
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "les états financiers des anomalies non corrigées, s'il en existe. Nous les",
+          "width" : 0.6201231544234026,
+          "x" : 0.26488708033450015,
+          "y" : 0.3791666667784994
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "communiquons au niveau approprié de la direction, à moins que ceci ne lui soit",
+          "width" : 0.6201232263140459,
+          "x" : 0.26694043402983547,
+          "y" : 0.3648255815814232
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "interdit par la loi ou la réglementation ;",
+          "width" : 0.2977412642803574,
+          "x" : 0.26694045367433195,
+          "y" : 0.3502906978968302
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197113,
+          "text" : "— nous apprécions le caractère approprié des méthodes comptables retenues et le",
+          "width" : 0.648870641126509,
+          "x" : 0.23819300808150956,
+          "y" : 0.3341666670375616
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "caractère raisonnable des estimations comptables faites par la direction, de",
+          "width" : 0.6221765668709512,
+          "x" : 0.264887081092245,
+          "y" : 0.31958333362779245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020058630307515535,
+          "text" : "même que des informations y afférentes fournies par cette dernière ;",
+          "width" : 0.5362432365282686,
+          "x" : 0.26473143635986873,
+          "y" : 0.3031113293658624
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "— nous apprécions la présentation d'ensemble, la structure et le contenu des états",
+          "width" : 0.644763816231412,
+          "x" : 0.24024642674055685,
+          "y" : 0.29208333352457394
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.026298449039459215,
+          "text" : "finaeciers, y arciepsis les ient ma tioerationni es even eese notes, es apprécions s",
+          "width" : 0.6242299793184997,
+          "x" : 0.262833670436575,
+          "y" : 0.2645348840688543
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.020516183376312225,
+          "text" : "manière propre à donner une image fidèle ;",
+          "width" : 0.3394079848650066,
+          "x" : 0.2646134156697432,
+          "y" : 0.24511686693789891
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2022-4\/page-009.pdf.png"
+}

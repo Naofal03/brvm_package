@@ -1,0 +1,45 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.2144702826605902,
+          "text" : "1.",
+          "width" : 0.1337209320068359,
+          "x" : 0.034883720394990846,
+          "y" : 0.6330749362910839
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.05715762385615597,
+          "text" : "Commentaires sur les",
+          "width" : 0.4345929972330729,
+          "x" : 0.027616294254103054,
+          "y" : 0.4622222213140317
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.07407407407407407,
+          "text" : "résultats financiers 2023",
+          "width" : 0.4916666666666667,
+          "x" : 0.02083332781250012,
+          "y" : 0.3629629638888888
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015503876297562225,
+          "text" : "3",
+          "width" : 0.007267441749572778,
+          "x" : 0.49127906989556247,
+          "y" : 0.03875968986155487
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2023-3\/page-003.pdf.png"
+}

@@ -1,0 +1,301 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "1. Mission de la LNB SA",
+          "width" : 0.22633745085518317,
+          "x" : 0.11316872030286115,
+          "y" : 0.9462209303071133
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017596898873647127,
+          "text" : "La LNB SA a pour mission de mobiliser l'épargne publique volontaire à travers",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316873847522603,
+          "y" : 0.9040697678337452
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "l'exploitation des jeux de hasard, pour non seulement gratifier les gagnants à ces divers",
+          "width" : 0.7695473005186836,
+          "x" : 0.1131687420687004,
+          "y" : 0.8850000003499053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01600775241851804,
+          "text" : "jeux, mais aussi et surtout, financer des investissements à caractère social, culturel et",
+          "width" : 0.7716049338286778,
+          "x" : 0.1111111056165255,
+          "y" : 0.8648255812857103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "sportit.",
+          "width" : 0.06378600732335503,
+          "x" : 0.11522633835772282,
+          "y" : 0.8459302328895628
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "Une partie importante des revenus générés par les activités de la LNB est versée au",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.8254166665584677
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "trésor public, contribuant ainsi au financement des projets et services publics.",
+          "width" : 0.7674896672086896,
+          "x" : 0.11728396652425623,
+          "y" : 0.8052325580687412
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Toutefois, la LNB s'engage à sensibiliser les joueurs aux risques des jeux de hasard et",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522635432922376,
+          "y" : 0.7833333335956181
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "à promouvoir des pratiques de jeux responsables. La LNB met en place des",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522634818577904,
+          "y" : 0.7645348835895746
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "mécanismes pour garantir que tous les jeux sont menés de manière transparente",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728394034140609,
+          "y" : 0.7441666669234343
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "équitable et sécurisée afin de maintenir la confiance du public. Ces objectifs",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522636529336239,
+          "y" : 0.723749999932918
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "permettent à la LNB de contribuer de manière significative au développement",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.7033333331134294
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "économique et social du Bénin tout en offrant des divertissements légaux et",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522634701979832,
+          "y" : 0.6845833331924733
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "règlementaires aux citoyens.",
+          "width" : 0.2613168752418374,
+          "x" : 0.11316872046550112,
+          "y" : 0.6627906977973381
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0159980614980062,
+          "text" : "2. Organisation de la LNB SA",
+          "width" : 0.27572016446095593,
+          "x" : 0.11522633599997474,
+          "y" : 0.6220833337279115
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542875925618,
+          "text" : "Placée sous la tutelle du Ministère de l'Economie et des Finances et conformément à la",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728395290656352,
+          "y" : 0.5841666664608564
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441859245300284,
+          "text" : "loi N°2020-20 du 02 Septembre 2020 portant création, organisation et",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316874053283914,
+          "y" : 0.5610465124558383
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017635658582051628,
+          "text" : "fonctionnement des entreprises publiques en République du Bénin SA, la Loterie",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316874377357979,
+          "y" : 0.5406976748104894
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Nationale du Bénin est composée d'un organe d'administration, d'un organe de gestion",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.520348837257125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "et d'un organe de contrôle.",
+          "width" : 0.24279835539044076,
+          "x" : 0.11522633913605529,
+          "y" : 0.5012499998151794
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01889534791310632,
+          "text" : "• La Loterie Nationale du Bénin est administrée par un conseil d'administration",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.47819767496544296
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "composé de cinq (5) membres.",
+          "width" : 0.27777777977709495,
+          "x" : 0.146090536757543,
+          "y" : 0.46075581393105913
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01764534870783485,
+          "text" : "• La gestion courante et la mise en œuvre des orientations fixées par le Conseil",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728393775224293,
+          "y" : 0.4186046515546754
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197113,
+          "text" : "d'Administration sont assurées par un Directeur Général assisté d'un Directeur",
+          "width" : 0.7386830887704526,
+          "x" : 0.14609056176703694,
+          "y" : 0.40116279086670636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "Général Adjoint et des Directeurs Techniques.",
+          "width" : 0.41152263137529477,
+          "x" : 0.14609054130823726,
+          "y" : 0.38081395356292724
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "• Par décret n°2019-275 du 31 juillet 2019, sont nommés commissaires aux comptes",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316872887646084,
+          "y" : 0.3370833333767522
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "titulaires de la Loterie Nationale du Bénin pour une durée de six (6) exercices",
+          "width" : 0.7386830887704525,
+          "x" : 0.14403294648778958,
+          "y" : 0.31958333347993595
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734705,
+          "text" : "sociaux : le cabinet FIDUCIA CONSULTING GROUP, représenté par Monsieur",
+          "width" : 0.7386830887704525,
+          "x" : 0.14403293505578896,
+          "y" : 0.29941860452941194
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017558139165242515,
+          "text" : "Jacques SOGBOSSI et le cabinet SODEXCA, représenté par Monsieur Herbert",
+          "width" : 0.7366255274358785,
+          "x" : 0.1460905295330895,
+          "y" : 0.2775000003800433
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "HOUEDJISSIN®",
+          "width" : 0.13168723628206072,
+          "x" : 0.14609053726020424,
+          "y" : 0.2601744185338576
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014641472498575836,
+          "text" : "3. Les produits de la LNB",
+          "width" : 0.24074074007430168,
+          "x" : 0.11522633950135586,
+          "y" : 0.20494186065906506
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "Dans le cadre de sa mission, la LNB commercialise deux (02) gammes de produits à",
+          "width" : 0.7654321058741156,
+          "x" : 0.11522632751561727,
+          "y" : 0.18313953478619494
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "savoir, les Produits de Loterie et les Produits de Paris, et ce, à travers un réseau de",
+          "width" : 0.7654321058741155,
+          "x" : 0.11728395344154288,
+          "y" : 0.1641666668132693
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "vente dynamique et étoffé avec plus de trois mille (3.000) points de vente.",
+          "width" : 0.6604938147202977,
+          "x" : 0.11522635027359585,
+          "y" : 0.14244186044268703
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008827519019444785,
+          "text" : "Contact : +229 21 31 43 00 \/ 21 31 64 22 Email: secretariat.lnb@lnb.bj Site web : loteriebenin.bj",
+          "width" : 0.45679009635493445,
+          "x" : 0.11316873021759484,
+          "y" : 0.023255814209992787
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.29835389695077574,
+          "x" : 0.5864197543709773,
+          "y" : 0.023255814209992787
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-004.pdf.png"
+}

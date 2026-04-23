@@ -1,0 +1,69 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.04583333333333339,
+          "text" : "ETATS FINANCIERS ANNUELS",
+          "width" : 0.6117647168773925,
+          "x" : 0.2999999988722281,
+          "y" : 0.891666666875
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.05959302266438804,
+          "text" : "IFRS",
+          "width" : 0.16632443125874197,
+          "x" : 0.7453798796581033,
+          "y" : 0.815406977105306
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03862698872884118,
+          "text" : "pour l'exercice clos le",
+          "width" : 0.3320399128225302,
+          "x" : 0.580197377588956,
+          "y" : 0.768634407878491
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.029166666666666674,
+          "text" : "31 décembre 2020",
+          "width" : 0.31006161315702296,
+          "x" : 0.5995893140409273,
+          "y" : 0.7325000004945267
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019256971677144352,
+          "text" : "SERVAIR",
+          "width" : 0.13392067629541182,
+          "x" : 0.7492614267606085,
+          "y" : 0.09356918873910858
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013460275332132898,
+          "text" : "ABIDIAN",
+          "width" : 0.08840638644844112,
+          "x" : 0.7904990661327278,
+          "y" : 0.07975242054884957
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "a gategroup member",
+          "width" : 0.1232032820810558,
+          "x" : 0.7700205376042359,
+          "y" : 0.06104651202976019
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2020-9\/page-001.pdf.png"
+}

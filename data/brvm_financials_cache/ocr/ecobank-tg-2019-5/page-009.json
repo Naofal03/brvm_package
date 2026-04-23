@@ -1,0 +1,413 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.025159589449564645,
+          "text" : "Deloitte.",
+          "width" : 0.15864888293442653,
+          "x" : 0.09008007711578499,
+          "y" : 0.9452690424708975
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02344961245854693,
+          "text" : "Grant Thornton",
+          "width" : 0.23203285675588003,
+          "x" : 0.6386036930286308,
+          "y" : 0.9416666667865369
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "Au cas où nous concluions, sur la base des travaux effectués sur les autres informations, qu'il",
+          "width" : 0.7864476216274663,
+          "x" : 0.09240248429235824,
+          "y" : 0.9024999998131982
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "existe des anomalies significatives dans les autres informations obtenues avant l'émission de",
+          "width" : 0.7864476216274661,
+          "x" : 0.09240246780536356,
+          "y" : 0.8895348838161616
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018599639733632434,
+          "text" : "notre rapport d'audit, nous sommes tenus de rendre compte de ce fait. Nous n'avons pas",
+          "width" : 0.7866338183938826,
+          "x" : 0.09231562271390538,
+          "y" : 0.8716562370846107
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "relevé de telles anomalies.",
+          "width" : 0.2258726913038777,
+          "x" : 0.09240246620637729,
+          "y" : 0.8604166666854622
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01637214819590249,
+          "text" : "Responsabilités des Administrateurs vis-à-vis des Etats Financiers Consolidés",
+          "width" : 0.7311541553942138,
+          "x" : 0.09231614709459,
+          "y" : 0.823935966264384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154539744133,
+          "text" : "Les Administrateurs sont responsables de l'établissement des états financiers consolidés",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240247023148626,
+          "y" : 0.8110465119411616
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "donnant une image fidèle conformément aux normes Internationales d'Information Financière,",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240247344846075,
+          "y" : 0.7950000002382855
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ainsi que du contrôle interne qu'ils estiment nécessaire pour permettre l'établissement d'états",
+          "width" : 0.7885010340750146,
+          "x" : 0.09240247351690699,
+          "y" : 0.7819767445174698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "financiers consolidés ne comportant pas d'anomalies significatives, que celles-ci proviennent",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240246473867322,
+          "y" : 0.7658333331886114
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de la fraude ou d'erreurs.",
+          "width" : 0.21560573690209991,
+          "x" : 0.09240247155579465,
+          "y" : 0.7529069772209581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Dans le cadre de l'établissement des états financiers consolidés, les Administrateurs doivent",
+          "width" : 0.7864476216274661,
+          "x" : 0.09445586574341944,
+          "y" : 0.7237500001978232
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "apprécier la capacité de la société à poursuivre son exploitation, à rapporter, le cas échéant,",
+          "width" : 0.7864476216274661,
+          "x" : 0.09240247637825867,
+          "y" : 0.7078488371385085
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "les informations relatives à la continuité de l'exploitation et à le faire sur la base de la",
+          "width" : 0.7885010340750147,
+          "x" : 0.09034907372224615,
+          "y" : 0.6945833334849514
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290619,
+          "text" : "continuité de l'exploitation, à moins que les administrateurs entendent liquider le Groupe ou",
+          "width" : 0.7864476216274661,
+          "x" : 0.0924024627232282,
+          "y" : 0.6802325583074407
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "mettre fin à son exploitation, ou qu'ils n'ont d'autres alternatives réalistes que de le faire ainsi.",
+          "width" : 0.7926077870794684,
+          "x" : 0.09034909378059408,
+          "y" : 0.6627906976919603
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "Responsabilités des Auditeurs vis-à-vis de l'audit des Etats Financiers Consolidés",
+          "width" : 0.7618069598194568,
+          "x" : 0.0944558706241524,
+          "y" : 0.622083333461454
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Notre objectif est d'obtenir l'assurance raisonnable que les états financiers consolidés pris dans",
+          "width" : 0.7864476216274662,
+          "x" : 0.0944558685086487,
+          "y" : 0.6074999999063359
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "leur ensemble ne comportent pas d'anomalies significatives qu'elles proviennent de la fraude",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240246826023384,
+          "y" : 0.5929166667485821
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "ou résultent d'erreurs et, d'émettre un rapport d'audit qui comprend notre opinion.",
+          "width" : 0.7885010340750147,
+          "x" : 0.09240247023148626,
+          "y" : 0.5783333335363225
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "L'assurance raisonnable est un haut niveau d'assurance mais qui ne garantit pas que l'audit",
+          "width" : 0.7864476216274662,
+          "x" : 0.09445586719790267,
+          "y" : 0.5637500000478228
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "effectué conformément aux normes internationales d'audit (ISAs) permettront de toujours",
+          "width" : 0.7864476216274662,
+          "x" : 0.0944558685086487,
+          "y" : 0.5494186049825861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "détecter des anomalies significatives lorsqu'elles existent.",
+          "width" : 0.4907597518219965,
+          "x" : 0.09240245677209578,
+          "y" : 0.5348837211163071
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les anomalies peuvent provenir de la fraude ou d'erreurs et sont considérées comme",
+          "width" : 0.7864476216274662,
+          "x" : 0.09445587047476768,
+          "y" : 0.505813953837964
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "significatives si, prises individuellement ou de manière agrégée, peuvent raisonnablement",
+          "width" : 0.7885010340750146,
+          "x" : 0.09445586160725601,
+          "y" : 0.4898255816031404
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "influencer les décisions économiques des utilisateurs des états financiers consolidés.",
+          "width" : 0.7125256362034378,
+          "x" : 0.09240248854612482,
+          "y" : 0.4766666665092557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "Dans le cadre d'un audit effectué conformément aux normes internationales d'audit (ISAs),",
+          "width" : 0.7864476216274662,
+          "x" : 0.0944558736831864,
+          "y" : 0.44622093010120245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "nous exerçons notre jugement professionnel et gardons le scepticisme professionnel tout au",
+          "width" : 0.7864476216274661,
+          "x" : 0.09445587375163271,
+          "y" : 0.43313953521514426
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016101802190144898,
+          "text" : "long de la mission d'audit. Par ailleurs, nous :",
+          "width" : 0.38838007087842313,
+          "x" : 0.0922440040322528,
+          "y" : 0.4161112995616787
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "Identifions et évaluons les risques d'anomalies significatives des états financiers qu'elles",
+          "width" : 0.7494866289154519,
+          "x" : 0.13141685805254075,
+          "y" : 0.38953488401350866
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "proviennent de la fraude ou qu'elles résultent d'erreurs, concevons et mettons en œuvre",
+          "width" : 0.7474332164679034,
+          "x" : 0.13347025755660263,
+          "y" : 0.37499999993405897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "des diligences pour traiter ces risques et, obtenons des éléments probants suffisants et",
+          "width" : 0.7515400413630006,
+          "x" : 0.13141685016038843,
+          "y" : 0.36041666677630524
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.030523255666097038,
+          "text" : "aanomale suignititcetives pe vendet ede draudese est ions lelris aee eea deéteitint",
+          "width" : 0.7556467943674544,
+          "x" : 0.12936346585528713,
+          "y" : 0.3299418605299602
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "d'erreurs, puisque la fraude peut impliquer la collusion, la falsification, les omissions",
+          "width" : 0.7474332164679034,
+          "x" : 0.13347025755660263,
+          "y" : 0.3154069769422877
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "intentionnelles, les fausses déclarations, ou le contournement du contrôle interne.",
+          "width" : 0.6940451398474309,
+          "x" : 0.13141686206807093,
+          "y" : 0.30083333345481345
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "sur l'efficacité du contrôle interne du Groupe.",
+          "width" : 0.3839835626357295,
+          "x" : 0.13347023580225834,
+          "y" : 0.2587209304731384
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.053585869471232006,
+          "text" : "ren prop ade con ta lrcnesa o ot ron pou oxprner mne ope de",
+          "width" : 0.5785361785349492,
+          "x" : 0.30475240669146236,
+          "y" : 0.26165247099294053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "• Evaluons le caractère approprié des politiques comptables utilisées ainsi que le caractère",
+          "width" : 0.7864476216274661,
+          "x" : 0.09445585277969622,
+          "y" : 0.24273255816321793
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "raisonnable des estimations comptables faites et les déclarations et informations données",
+          "width" : 0.7474332164679034,
+          "x" : 0.13347025755660263,
+          "y" : 0.22958333343373083
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "en annexes des états financiers consolidés par la Direction.",
+          "width" : 0.5010266702784526,
+          "x" : 0.13347024076768668,
+          "y" : 0.21500000002396158
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "• Concluons sur le caractère approprié de l'utilisation par les Administrateurs du fondement",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584058056262,
+          "y" : 0.20041666654644041
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "comptable de continuité de l'exploitation et, sur la base des éléments probants recueillis,",
+          "width" : 0.749486628915452,
+          "x" : 0.13347022853508742,
+          "y" : 0.18604651179581289
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "si une incertitude significative existe due à des évènements et conditions qui jettent un",
+          "width" : 0.7474332164679034,
+          "x" : 0.13347025095495987,
+          "y" : 0.17151162819955512
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "doute sérieux sur la capacité du Groupe à poursuivre ses activités.",
+          "width" : 0.5626283247984761,
+          "x" : 0.13347023888412932,
+          "y" : 0.15697674446296406
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "•",
+          "width" : 0.01437371639256202,
+          "x" : 0.09445585251556018,
+          "y" : 0.14389534923906244
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Si nous concluons qu'une incertitude significative existe, nous sommes tenus d'attirer",
+          "width" : 0.7515400413630006,
+          "x" : 0.13141682510905459,
+          "y" : 0.14244186069964027
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "l'attention de l'utilisateur des états financiers consolidés dans notre rapport d'audit par",
+          "width" : 0.7515400413630006,
+          "x" : 0.13141682510905459,
+          "y" : 0.12916666653504782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "référence à l'information relayée en annexe aux états financiers consolidés ou, si cette",
+          "width" : 0.7474332164679034,
+          "x" : 0.13347024260793755,
+          "y" : 0.11333333333853435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0166327842076619,
+          "text" : "information est incomplète, de modifier notre opinion. Nos conclusions sont basées sur",
+          "width" : 0.7516230750561322,
+          "x" : 0.1313855565761599,
+          "y" : 0.09687262774689032
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2019-5\/page-009.pdf.png"
+}

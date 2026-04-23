@@ -1,0 +1,253 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.025644079844156842,
+          "text" : "ONATEL-SA",
+          "width" : 0.16659711246917328,
+          "x" : 0.04298481022386832,
+          "y" : 0.9661023788652497
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03171721776326497,
+          "text" : "Communiqué de presse",
+          "width" : 0.3174338908021386,
+          "x" : 0.04255776536227514,
+          "y" : 0.9302984694558529
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "Moov",
+          "width" : 0.08008213290336974,
+          "x" : 0.8193018496845231,
+          "y" : 0.9578488368791329
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020348836580912244,
+          "text" : "Africa",
+          "width" : 0.08418891286681485,
+          "x" : 0.8172484593947925,
+          "y" : 0.9418604656000478
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022449115117390894,
+          "text" : "Ouagadougou, 02 avril 2024",
+          "width" : 0.3147072224791115,
+          "x" : 0.4945670004558033,
+          "y" : 0.853286066793584
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031480458577473946,
+          "text" : "RESULTATS AU 31 DECEMBRE 2023",
+          "width" : 0.5963967259275618,
+          "x" : 0.09813550359664905,
+          "y" : 0.7805372068771725
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022125852902730392,
+          "text" : "Résultats financiers",
+          "width" : 0.25762502717466323,
+          "x" : 0.09814439329954834,
+          "y" : 0.7283942849271003
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026913690567016646,
+          "text" : "Malgré l'agressivité des offres concurrentielles, le contexte réglementaire et la",
+          "width" : 0.8239958171148042,
+          "x" : 0.09825043032767856,
+          "y" : 0.6883772118960667
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02180232524871828,
+          "text" : "situation securitaire dans le pays, ONATEL SA a pu réaliser une progression de la",
+          "width" : 0.825462026787029,
+          "x" : 0.09650924126767634,
+          "y" : 0.6627906978262222
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.022083333333333344,
+          "text" : "base clients de 5% à 11,7 millions de clients à fin 2023. Son parc internet connait une",
+          "width" : 0.825462026787029,
+          "x" : 0.09650924126767634,
+          "y" : 0.6349999996422003
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026475966771443815,
+          "text" : "forte croissance de 11%, grâce aux nouveaux investissements qui ont ciblé l'extension",
+          "width" : 0.8260406745757878,
+          "x" : 0.09415123948475573,
+          "y" : 0.6030081129766027
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022428812185923186,
+          "text" : "de la couverture, la modernisation du réseau mobile et data et l'extension du réseau",
+          "width" : 0.8237537613184629,
+          "x" : 0.09634276977320928,
+          "y" : 0.5780569698261182
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025846173763275138,
+          "text" : "très haut débit. Cette croissance du parc est aussi la conséquence d'une campagne",
+          "width" : 0.825983449623638,
+          "x" : 0.0941641924087217,
+          "y" : 0.5464740707355991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02456279834111519,
+          "text" : "de recrutements massifs et d'une refonte des offres. Ces différentes actions ont abouti",
+          "width" : 0.8239502384468861,
+          "x" : 0.09622312359547995,
+          "y" : 0.5196643543707664
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02605116526285811,
+          "text" : "à une croissance des revenus de l'Internet Mobile de 15%, tandis que ceux de la fibre",
+          "width" : 0.8239718056399074,
+          "x" : 0.09416489108987851,
+          "y" : 0.4886735866441705
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02594380776087435,
+          "text" : "optique ont été multipliés par plus de 3 fois par rapport à la même période de 2022.",
+          "width" : 0.8095861284415489,
+          "x" : 0.0942168957211634,
+          "y" : 0.4606755881436302
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02231344779332478,
+          "text" : "Néanmoins, la vandalisation des sites dans les zones d'insécurité et le recul du revenu",
+          "width" : 0.8237049475715915,
+          "x" : 0.09431313931600002,
+          "y" : 0.43565836121323476
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.026066315968831466,
+          "text" : "prépayé voix consécutif à l'usage massif des OTTs (Facebook, WhatsApp, ...) ont eu",
+          "width" : 0.8239312593170274,
+          "x" : 0.09418189027669002,
+          "y" : 0.40343412792003397
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02628683090209971,
+          "text" : "un impact négatif sur le chiffre d'affaires global de ONATEL SA, qui affiche une baisse",
+          "width" : 0.8238955296672557,
+          "x" : 0.09419205524211924,
+          "y" : 0.37449852202234235
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02054263512293497,
+          "text" : "de 4% à fin décembre 2023 et s'établit à 139,2 Mds FCFA.",
+          "width" : 0.5708418667527054,
+          "x" : 0.09240246953945855,
+          "y" : 0.3502906979886137
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023181568781534767,
+          "text" : "Cette performance impacte directement le résultat d'exploitation qui affiche un recul",
+          "width" : 0.8258389494303962,
+          "x" : 0.09220620275902071,
+          "y" : 0.3199518061165577
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.024741579691568982,
+          "text" : "de 7% en 2023, malgré les efforts d'optimisation sur les coûts impactés par l'inflation.",
+          "width" : 0.8259498766931684,
+          "x" : 0.09216409474949737,
+          "y" : 0.29102834689743096
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02050387541453047,
+          "text" : "Le résultat net ressort à plus de 21,1 Mds FCFA.",
+          "width" : 0.47433263196821623,
+          "x" : 0.09240247516065563,
+          "y" : 0.26583333331923975
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02416934331258136,
+          "text" : "Le chiffre d'affaires IFRS s'affiche à 140,7 Mds FCFA au 31 décembre 2023.",
+          "width" : 0.7438915239206051,
+          "x" : 0.09213760541529649,
+          "y" : 0.22805843925609126
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.0242614301045736,
+          "text" : "Malgré les défis rencontrés en 2023 et grâce aux nombreuses initiatives lancées et",
+          "width" : 0.823880288850854,
+          "x" : 0.09215572690852891,
+          "y" : 0.1913816999228447
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023809560934702545,
+          "text" : "concrétisées, ONATEL a pu maintenir un taux de marge d'EBITDA élevé qui s'affiche",
+          "width" : 0.8238347820735792,
+          "x" : 0.09014920262224987,
+          "y" : 0.16342028573350476
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02088993549346918,
+          "text" : "à 47,7%.",
+          "width" : 0.09114276899465824,
+          "x" : 0.08995222958048861,
+          "y" : 0.13853759020120704
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008846898873647091,
+          "text" : "- 1",
+          "width" : 0.026694045049984128,
+          "x" : 0.09240246446166092,
+          "y" : 0.02906976781948889
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Communiqué de presse sur les Résultats 2023",
+          "width" : 0.3839835626357295,
+          "x" : 0.1601642697772758,
+          "y" : 0.02166666643913917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "ONATEL-SA",
+          "width" : 0.10061601474793413,
+          "x" : 0.7946611926431445,
+          "y" : 0.01598837227659
+        }
+      ],
+      "width" : 1698
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/onatel-bf-2023-6\/page-001.pdf.png"
+}

@@ -1,0 +1,125 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "OFFICE NATIONAL DES TELECOMMUNICATIONS DU BURKINA FASO",
+          "width" : 0.5596707541987581,
+          "x" : 0.11934157063724667,
+          "y" : 0.9445833331494531
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013392802874247156,
+          "text" : "Société Anonyme avec conseil d'Administration au capital de 34 000 000 000 F CFA",
+          "width" : 0.6276639542489681,
+          "x" : 0.11929958531048686,
+          "y" : 0.9256101063796066
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "Siège social : 705, avenue de la Nation, 01 BP 10 000, Ouagadougou 01 Burkina Faso",
+          "width" : 0.6460905255011792,
+          "x" : 0.11934156907382736,
+          "y" : 0.9112500001128736
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011753876209259051,
+          "text" : "Inscrit au RCCM : BF OUA 2001 B 480 et dernièrement modifié sous le numéro BF OUA 2020 M",
+          "width" : 0.72222223821676,
+          "x" : 0.11728395164779255,
+          "y" : 0.8995833331565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "4019, n° IFU 00000624 T",
+          "width" : 0.18930041115238977,
+          "x" : 0.11934156575439488,
+          "y" : 0.8849999999962386
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03528194427490239,
+          "text" : "Moov",
+          "width" : 0.1915027330506523,
+          "x" : 0.37647085474041336,
+          "y" : 0.7861380975553247
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03714093844095867,
+          "text" : "Africa",
+          "width" : 0.19215761940434295,
+          "x" : 0.3740857981533542,
+          "y" : 0.7517783679121307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666554,
+          "text" : "Etats financiers au 31 décembre 2021",
+          "width" : 0.5637859848310363,
+          "x" : 0.25308642832065015,
+          "y" : 0.5362500001491104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "Provisoires",
+          "width" : 0.1440329191819677,
+          "x" : 0.4567901233308269,
+          "y" : 0.5130813950768072
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021850775082906115,
+          "text" : "Certifiés par les Commissaires aux comptes",
+          "width" : 0.6460905255011793,
+          "x" : 0.2119341651557889,
+          "y" : 0.48541666667481065
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02327213764190672,
+          "text" : "• Bilan",
+          "width" : 0.11781423496750171,
+          "x" : 0.4318336242332868,
+          "y" : 0.3960674195997482
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524204,
+          "text" : "• Compte de résultat",
+          "width" : 0.3168724347960274,
+          "x" : 0.43209876161433197,
+          "y" : 0.3531976742917379
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "• Tableau de flux de",
+          "width" : 0.3106995708537551,
+          "x" : 0.43004116329446285,
+          "y" : 0.3166666662934895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020998374621073457,
+          "text" : "trésorerie",
+          "width" : 0.14626906053075256,
+          "x" : 0.4731617663377416,
+          "y" : 0.2874659287636756
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/onatel-bf-2021-9\/page-001.pdf.png"
+}

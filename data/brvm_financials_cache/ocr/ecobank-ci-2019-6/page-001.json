@@ -1,0 +1,309 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03633721033732096,
+          "text" : "Ecobank",
+          "width" : 0.18275153313986126,
+          "x" : 0.7946611947322597,
+          "y" : 0.915697674052512
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7885010303252821,
+          "y" : 0.8982558139142798
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01756782929102574,
+          "text" : "Abidjan, Côte d'Ivoire",
+          "width" : 0.20533880047298292,
+          "x" : 0.0985626345684366,
+          "y" : 0.8370833331077872
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "30 Mars 2020",
+          "width" : 0.1273100620445009,
+          "x" : 0.7638603706615278,
+          "y" : 0.8399999998786127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017558139165242515,
+          "text" : "Ecobank Côte d'Ivoire annonce au 31 Décembre 2019 un Résultat Avant Impôts",
+          "width" : 0.7926077870794684,
+          "x" : 0.10061601441714496,
+          "y" : 0.777499999723396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01762596925099691,
+          "text" : "de 28 milliards de FCFA, en hausse de 30% par rapport à Décembre 2018.",
+          "width" : 0.7310061325594449,
+          "x" : 0.1334702469851644,
+          "y" : 0.7570833332884749
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "« L'année 2019 a été marquée par de profondes mutations au sein de notre établissement, tant d'un point",
+          "width" : 0.8131416958830241,
+          "x" : 0.09240246817758417,
+          "y" : 0.7091666663881819
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "de vue organisationnel que stratégique.",
+          "width" : 0.3059548242072475,
+          "x" : 0.09240246301615727,
+          "y" : 0.6904069770973265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Au niveau des performances financières, la banque a atteint le niveau de profit le plus élevé de son",
+          "width" : 0.8110882834354757,
+          "x" : 0.0924024600533097,
+          "y" : 0.662790697951336
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "histoire, en dépit d'un PNB légèrement en retrait par rapport à 2018. Cela a été rendu possible par une",
+          "width" : 0.8131416958830241,
+          "x" : 0.09034906314678377,
+          "y" : 0.642441860391815
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "gestion rigoureuse des charges d'exploitation et une diminution de notre coût du risque.",
+          "width" : 0.6878849743954284,
+          "x" : 0.09240249346621424,
+          "y" : 0.6262499999872606
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "Nous avons travaillé au cours de l'année 2019 à l'élargissement de notre réseau, avec l'implémentation de",
+          "width" : 0.8110882834354757,
+          "x" : 0.09445587180040006,
+          "y" : 0.5973837211380242
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "nouveaux points de distribution, renforçant ainsi notre offre et notre proximité auprès des clients.",
+          "width" : 0.7659137128239104,
+          "x" : 0.09240248627284978,
+          "y" : 0.5783333334222956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Cette année a également vu le renforcement de notre plateforme technologique, illustrée par la montée",
+          "width" : 0.8090348709879269,
+          "x" : 0.09445587720281935,
+          "y" : 0.5508333334984181
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016398792266845708,
+          "text" : "en puissance de produits digitaux tels que nos applications Ecobank Mobile et Rapid Transfer. La",
+          "width" : 0.8111713890192506,
+          "x" : 0.09236133468674015,
+          "y" : 0.5316751937195072
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "première permettant aux clients particuliers de faire une multitude de transactions à l'aide de leur",
+          "width" : 0.8110882834354756,
+          "x" : 0.09240246591402144,
+          "y" : 0.5129166668807275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "téléphone portable, et la seconde de faire des transferts d'argent sur l'ensemble du réseau Ecobank en",
+          "width" : 0.8110882834354756,
+          "x" : 0.09240247830279592,
+          "y" : 0.4956395350527528
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "Afrique à des tarifs très compétitifs.",
+          "width" : 0.28131416239923807,
+          "x" : 0.09240246939928576,
+          "y" : 0.4766666667648197
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "Les grandes entreprises tout comme les PME ont-elles également bénéficié de notre avancée sur le digital",
+          "width" : 0.8131416239923807,
+          "x" : 0.09240250662119462,
+          "y" : 0.4491279068453885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "respectivement via des versions améliorées de nos services électroniques OMNI et OMNI LITE.",
+          "width" : 0.7597535473719081,
+          "x" : 0.09240249659125317,
+          "y" : 0.43166666637095374
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "Notre leadership sur le digital et divers investissements nous ont aussi permis de garantir à nos clients",
+          "width" : 0.8110882834354757,
+          "x" : 0.09445587180040006,
+          "y" : 0.4025000001523453
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "une plateforme stable mais également un parcours client amélioré qui continue de faire l'objet de toute",
+          "width" : 0.8131416239923808,
+          "x" : 0.09240249163146207,
+          "y" : 0.3837209299291211
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "notre attention pour l'exercice en cours.",
+          "width" : 0.31416836616147675,
+          "x" : 0.0924024751328138,
+          "y" : 0.36625000029571286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "En effet, l'amélioration de l'expérience client constitue un enjeu majeur dans l'exécution de notre",
+          "width" : 0.8151950364399293,
+          "x" : 0.09034910184163683,
+          "y" : 0.33708333308122496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "stratégie, et plusieurs initiatives ont d'ores et déjà été mises en place afin de garantir à nos clients une",
+          "width" : 0.8151950364399293,
+          "x" : 0.09034910048297837,
+          "y" : 0.31831395353619485
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "expérience conforme aux standards internationaux.",
+          "width" : 0.4024640589917366,
+          "x" : 0.09240246239324888,
+          "y" : 0.3023255815632546
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Les événements observés à l'échelle du monde au cours de ces derniers mois, notamment l'expansion de",
+          "width" : 0.8131416958830241,
+          "x" : 0.09240246817758417,
+          "y" : 0.27325581413705513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "la pandémie du COVID 19 sont de nature à bouleverser profondément l'ordre économique. Cependant,",
+          "width" : 0.8131416239923808,
+          "x" : 0.09240250751099599,
+          "y" : 0.25416666668514876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "en tant qu'acteur majeur du secteur bancaire en Côte d'Ivoire, notre établissement entend continuer de",
+          "width" : 0.8131416239923807,
+          "x" : 0.09240248040627419,
+          "y" : 0.2369186046651559
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575947,
+          "text" : "jouer sa partition dans le financement de l'économie tout en préservant les intérêts de nos actionnaires. »",
+          "width" : 0.8151950364399293,
+          "x" : 0.09034908010310223,
+          "y" : 0.21791666687696576
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Paul-Harry AITHNARD",
+          "width" : 0.1601642658067396,
+          "x" : 0.7433264911212708,
+          "y" : 0.17151162777086892
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.03175600687662761,
+          "text" : "Pank Farny",
+          "width" : 0.1410474204343115,
+          "x" : 0.7335285388690141,
+          "y" : 0.1283074399109284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15400410035473716,
+          "x" : 0.14784394725589628,
+          "y" : 0.0958333334878303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.7946611995270172,
+          "x" : 0.1457905503733839,
+          "y" : 0.07833333294144873
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011666666666666714,
+          "text" : "Tel: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIAB",
+          "width" : 0.4414784282059776,
+          "x" : 0.14784395252945468,
+          "y" : 0.06250000009645018
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "www.ecobank.com",
+          "width" : 0.13757699847361787,
+          "x" : 0.14784394567078857,
+          "y" : 0.04796511634645029
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 | * CC 8901 810 A",
+          "width" : 0.8069815304310218,
+          "x" : 0.14784394713048468,
+          "y" : 0.011627907188347608
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2019-6\/page-001.pdf.png"
+}

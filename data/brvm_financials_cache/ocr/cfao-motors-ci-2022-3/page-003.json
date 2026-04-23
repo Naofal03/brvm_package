@@ -1,0 +1,61 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "Fait à Abidjan, le 12\/04\/2023",
+          "width" : 0.15605749482962494,
+          "x" : 0.08418890912180642,
+          "y" : 0.8662500000439607
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00883720914522812,
+          "text" : "Président Directeur Général",
+          "width" : 0.16221766028162726,
+          "x" : 0.08418890842865943,
+          "y" : 0.8399999998036939
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Edouard ROCHET",
+          "width" : 0.0965092347844891,
+          "x" : 0.08418891540036326,
+          "y" : 0.765833333489177
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "Directeur Administratif & Financier",
+          "width" : 0.262833666043231,
+          "x" : 0.5646817328921421,
+          "y" : 0.8370833332861878
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.03632449467976884,
+          "text" : "9.phumans",
+          "width" : 0.13246240155295286,
+          "x" : 0.610795209422108,
+          "y" : 0.7745643603164746
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Guillaume THAUMIAUX",
+          "width" : 0.15811087133185175,
+          "x" : 0.5646817290774007,
+          "y" : 0.7645348838053534
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/cfao-motors-ci-2022-3\/page-003.pdf.png"
+}

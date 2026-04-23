@@ -1,0 +1,749 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "PUBLIC",
+          "width" : 0.024640657314844217,
+          "x" : 0.08624229926865594,
+          "y" : 0.9825581395176555
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.029645776748657204,
+          "text" : "Ecobank",
+          "width" : 0.12552163850853948,
+          "x" : 0.7657812759839193,
+          "y" : 0.9139561814512218
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008837209145228009,
+          "text" : "The Pan African Bank",
+          "width" : 0.12114989659249853,
+          "x" : 0.7659137560500889,
+          "y" : 0.9011627909541788
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Le Groupe Ecobank publie ses résultats financiers de l'exercice 2025 :",
+          "width" : 0.5359342864882398,
+          "x" : 0.1519507256983851,
+          "y" : 0.8735465117098224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071326,
+          "text" : "- Produit net bancaire : +17% à 2,4 milliards $EU ( 1 424 milliards FCFA)",
+          "width" : 0.5503079938944715,
+          "x" : 0.14784394278582394,
+          "y" : 0.8516666665662691
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- Résultat avant impôt:+21% à 801 millions $EU ( 466 milliards FCFA)",
+          "width" : 0.5277207085886889,
+          "x" : 0.14784396038738024,
+          "y" : 0.8183139539651442
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- Total du bilan : +23% à 34,5 milliards $EU ( 19 244 milliards FCFA)",
+          "width" : 0.5195071666344597,
+          "x" : 0.14784394612322205,
+          "y" : 0.7877906978423244
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "-Total capitaux propres: +3% à 1,8 milliards $EU (1 133 milliards FCFA)",
+          "width" : 0.5441478284424691,
+          "x" : 0.14784395932428196,
+          "y" : 0.7587209305639814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "Chiffres Clés",
+          "width" : 0.06776180649253027,
+          "x" : 0.14373716769829337,
+          "y" : 0.7325000000519479
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895348310470563,
+          "text" : "31 Décembre 2025",
+          "width" : 0.09034906933248676,
+          "x" : 0.43121150380056017,
+          "y" : 0.731104651564644
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013333332935969056,
+          "text" : "milliers SEU",
+          "width" : 0.18480492761474898,
+          "x" : 0.27720738937537714,
+          "y" : 0.7208333335216521
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025925,
+          "text" : "millions FCFA",
+          "width" : 0.07392196745136737,
+          "x" : 0.4887063686357126,
+          "y" : 0.720833333291617
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00749999999999984,
+          "text" : "31 Décembre 2024",
+          "width" : 0.09240246380737449,
+          "x" : 0.6324435304166414,
+          "y" : 0.7324999999550488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025814,
+          "text" : "milliers $EU",
+          "width" : 0.06981519198108754,
+          "x" : 0.6016427124283473,
+          "y" : 0.7208333333400667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "millions FCFA",
+          "width" : 0.10882956568849389,
+          "x" : 0.6919917861838162,
+          "y" : 0.7208333331510204
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "$EU",
+          "width" : 0.02874743278512404,
+          "x" : 0.8008213553391286,
+          "y" : 0.7209302330084424
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0077929194768269205,
+          "text" : "Variation",
+          "width" : 0.045337780344753,
+          "x" : 0.821273615524431,
+          "y" : 0.732295400787782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009109129905700675,
+          "text" : "FCFA",
+          "width" : 0.031016492450475996,
+          "x" : 0.8746354913822469,
+          "y" : 0.7207361325706152
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "Produit net bancaire",
+          "width" : 0.09034906933248676,
+          "x" : 0.14373717077523504,
+          "y" : 0.7020348838308823
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "2,448,994",
+          "width" : 0.04722792464796588,
+          "x" : 0.4106776188589967,
+          "y" : 0.702034883756189
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007358757654825965,
+          "text" : "1,424,261",
+          "width" : 0.047255854162928324,
+          "x" : 0.5092262815772725,
+          "y" : 0.7019892257495532
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007351838747660322,
+          "text" : "2,086,073",
+          "width" : 0.04725375136160881,
+          "x" : 0.6201102907416921,
+          "y" : 0.701992685260991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "1,266,559",
+          "width" : 0.04928131462968843,
+          "x" : 0.7125256662991188,
+          "y" : 0.702034883703702
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "17%",
+          "width" : 0.024640657314844217,
+          "x" : 0.8213552364349802,
+          "y" : 0.7020348838490509
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "12%",
+          "width" : 0.024640657314844217,
+          "x" : 0.9014373719585943,
+          "y" : 0.7020348838490509
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007277131875356058,
+          "text" : "Résultat avant impôts",
+          "width" : 0.09650923478448911,
+          "x" : 0.1437371702617595,
+          "y" : 0.6845833332399827
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "800,905",
+          "width" : 0.039014373707406236,
+          "x" : 0.4188911699481449,
+          "y" : 0.6845930232567543
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "465,782",
+          "width" : 0.039014373707406236,
+          "x" : 0.5174537982849007,
+          "y" : 0.6845930232567543
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00776130358378091,
+          "text" : "401,850",
+          "width" : 0.03919250074910052,
+          "x" : 0.7227035449349354,
+          "y" : 0.6843460924750693
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "21%",
+          "width" : 0.024640657314844217,
+          "x" : 0.8213552364349802,
+          "y" : 0.6845930233839346
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "16%",
+          "width" : 0.022587267333121663,
+          "x" : 0.903490760960407,
+          "y" : 0.6845930233839346
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Résultat net consolidé",
+          "width" : 0.10266940023649146,
+          "x" : 0.14168377866341073,
+          "y" : 0.668604651194012
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "Total du bilan",
+          "width" : 0.06160164104052793,
+          "x" : 0.143737167929428,
+          "y" : 0.6540697675518125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "594,122",
+          "width" : 0.039014373707406236,
+          "x" : 0.4188911699481449,
+          "y" : 0.6686046511637311
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650031,
+          "text" : "34,487,211",
+          "width" : 0.05133470011824576,
+          "x" : 0.4065708435411509,
+          "y" : 0.6540697678921634
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "345,523",
+          "width" : 0.039014373707406236,
+          "x" : 0.5174537982849007,
+          "y" : 0.6686046511637311
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "19,243,865",
+          "width" : 0.053388090099968255,
+          "x" : 0.5051334696830755,
+          "y" : 0.6540697674428009
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00879750092824294,
+          "text" : "299,708",
+          "width" : 0.041100150423982296,
+          "x" : 0.7207230247193847,
+          "y" : 0.6685663657677755
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "17,650,776",
+          "width" : 0.053388090099968255,
+          "x" : 0.7084188921847867,
+          "y" : 0.654069767795264
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "20%",
+          "width" : 0.024640657314844217,
+          "x" : 0.8213552359216334,
+          "y" : 0.668604651248518
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "23%",
+          "width" : 0.024640657314844217,
+          "x" : 0.8213552357162944,
+          "y" : 0.6540697674428009
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "15%",
+          "width" : 0.024640657314844217,
+          "x" : 0.9014373716848091,
+          "y" : 0.6686046516130935
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650031,
+          "text" : "9%",
+          "width" : 0.01848049186284184,
+          "x" : 0.9075975366404476,
+          "y" : 0.6540697678194889
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572612,
+          "text" : "Crédits à la clientèle",
+          "width" : 0.09034906933248676,
+          "x" : 0.14373717077523504,
+          "y" : 0.6395348838308823
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "11,774,883",
+          "width" : 0.053388090099968255,
+          "x" : 0.4045174530335203,
+          "y" : 0.639534883703702
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "6,570,385",
+          "width" : 0.04722792464796588,
+          "x" : 0.5092402465312532,
+          "y" : 0.6395348837218706
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "6,255,123",
+          "width" : 0.04928131462968843,
+          "x" : 0.7125256679418293,
+          "y" : 0.6395348838490509
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "19%",
+          "width" : 0.022587267333121663,
+          "x" : 0.8213552365935349,
+          "y" : 0.639534883703702
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "5%",
+          "width" : 0.016427104127701986,
+          "x" : 0.9075975361291676,
+          "y" : 0.639534883821798
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "Dépôts de la clientèle",
+          "width" : 0.09650923478448911,
+          "x" : 0.1437371702617595,
+          "y" : 0.625000000109952
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "25,304,908",
+          "width" : 0.053388090099968255,
+          "x" : 0.4045174530335203,
+          "y" : 0.6249999999827718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007482262452443322,
+          "text" : "14,120,139",
+          "width" : 0.05139465242167951,
+          "x" : 0.5051034945022684,
+          "y" : 0.6248925896521929
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "20,423,736",
+          "width" : 0.053388090099968255,
+          "x" : 0.613963040028729,
+          "y" : 0.6250000001281206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "12,895,459",
+          "width" : 0.055441475588525635,
+          "x" : 0.7063655054295566,
+          "y" : 0.6250000001281206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "24%",
+          "width" : 0.022587267333121663,
+          "x" : 0.8213552366876486,
+          "y" : 0.6250000000009404
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "9%",
+          "width" : 0.01848049186284184,
+          "x" : 0.9075975367174498,
+          "y" : 0.6250000001281206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895348310470563,
+          "text" : "Capitaux propres",
+          "width" : 0.07802874741481244,
+          "x" : 0.14373716730902086,
+          "y" : 0.6061046515404191
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2,863,523",
+          "width" : 0.04722792464796588,
+          "x" : 0.41067761937519565,
+          "y" : 0.6075581396448357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007538081804911334,
+          "text" : "1.597,846",
+          "width" : 0.04730973170699437,
+          "x" : 0.5091993434942776,
+          "y" : 0.6074228195797391
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "1,794,802",
+          "width" : 0.04722792464796588,
+          "x" : 0.6201232045908014,
+          "y" : 0.6075581396448357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007844956715901685,
+          "text" : "1,133,230",
+          "width" : 0.04944513992651045,
+          "x" : 0.7124437552916026,
+          "y" : 0.6072693821894718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "60%",
+          "width" : 0.02258726957970436,
+          "x" : 0.8213552357542957,
+          "y" : 0.607558139626667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "41%",
+          "width" : 0.024640657314844217,
+          "x" : 0.9014373719585943,
+          "y" : 0.6075581396145547
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00883720914522812,
+          "text" : "Résultat net par action (en cents SEU \/ Franc CFA)|",
+          "width" : 0.22792606780610458,
+          "x" : 0.14373717428483263,
+          "y" : 0.5899999999248179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "1.68",
+          "width" : 0.02258726733312172,
+          "x" : 0.4353182760870326,
+          "y" : 0.5915697676184306
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "10.00",
+          "width" : 0.030800820520264005,
+          "x" : 0.5256673517864114,
+          "y" : 0.5915697676184306
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "1.37",
+          "width" : 0.022587267333121663,
+          "x" : 0.6447638615764234,
+          "y" : 0.5915697675699811
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650031,
+          "text" : "8.00",
+          "width" : 0.024640657314844217,
+          "x" : 0.7371663241830981,
+          "y" : 0.5901162792293726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "23%",
+          "width" : 0.024640657314844217,
+          "x" : 0.8213552364349802,
+          "y" : 0.587209302453702
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "25%",
+          "width" : 0.024640657314844217,
+          "x" : 0.9014373712056853,
+          "y" : 0.5872093027758842
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008924418290456093,
+          "text" : "Jeremy Awori, Directeur Général du Groupe Ecobank, a déclaré : « Nos résultats pour 2025 ont une nouvelle fois démontré que notre stratégie de",
+          "width" : 0.7330595450069936,
+          "x" : 0.1437371801659073,
+          "y" : 0.5637500000576907
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "croissance, de transformation et de rentabilité (GTR), associée à notre modèle économique géographiquement diversifié, porte ses fruits. Le chiffre",
+          "width" : 0.7412730510159011,
+          "x" : 0.14373720039040655,
+          "y" : 0.5537500001650846
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "d'affaires du groupe a augmenté de 17 % pour atteindre 2,45 milliards de dollars, les revenus de la banque d'entreprise et d'investissement (CIB) ayant",
+          "width" : 0.7597535473719081,
+          "x" : 0.14373720201561974,
+          "y" : 0.5436046513925628
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849286,
+          "text" : "progressé de 21 % et ceux de la banque de détail et commerciale (CCB) de 14 %. Le bénéfice avant impôts du groupe a augmenté de 21 % pour atteindre",
+          "width" : 0.7782340437279152,
+          "x" : 0.14373719730955342,
+          "y" : 0.534883721307861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008846899271011344,
+          "text" : "801 millions de dollars, ce qui s'est traduit par un rendement des capitaux propres corporels de 27,8 %. Nous avons également augmenté le bénéfice par",
+          "width" : 0.767967125271459,
+          "x" : 0.1437371689043117,
+          "y" : 0.524583333321399
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968456268257,
+          "text" : "action et la valeur comptable tangible de 23 % et 83 %, respectivement.",
+          "width" : 0.3634496897774956,
+          "x" : 0.14168377328373705,
+          "y" : 0.5158333334674599
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378647,
+          "text" : "Les dépôts de la clientèle ont augmenté de 4,2 milliards de dollars pour atteindre 25,3 milliards de dollars, et le ratio CASA (comptes courants et comptes",
+          "width" : 0.767967125271459,
+          "x" : 0.1437371689043117,
+          "y" : 0.4956395347331711
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "d'épargne) s'est amélioré pour atteindre 87,1%, ce qui nous a permis de réduire nos coûts de financement moyens. Les prêts ont augmenté de 1,7 milliard",
+          "width" : 0.7802874561754638,
+          "x" : 0.143737185156621,
+          "y" : 0.48541666669282246
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "de dollars pour atteindre 12,8 milliards de dollars. Notre programme de transformation porte ses fruits, comme en témoigne un coefficient d'exploitation",
+          "width" : 0.7577002068150029,
+          "x" : 0.1437371750575907,
+          "y" : 0.4766666666099667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "record de 48,3 %, en baisse par rapport aux 52,8 % enregistrés il y a un an, avec des améliorations dans divers secteurs d'activité et régions. Nous avons",
+          "width" : 0.7741272907234615,
+          "x" : 0.14373716535011086,
+          "y" : 0.46656976776853154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025814,
+          "text" : "continué à investir dans l'amélioration des interactions avec la clientèle, tant sur les canaux physiques que numériques, ce qui s'est traduit par une",
+          "width" : 0.7351128855638986,
+          "x" : 0.14373720396685252,
+          "y" : 0.4578488375627059
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895348707834816,
+          "text" : "augmentation de 1 000 points de base de la satisfaction client, qui atteint désormais 70 %. De plus, nous avons réalisé des progrès significatifs dans les",
+          "width" : 0.7638603722670052,
+          "x" : 0.14373717454411528,
+          "y" : 0.4474999998970949
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008750000000000036,
+          "text" : "filiales clés en redressement de la région CESA, notamment au Kenya, en Ouganda et en Zambie, où les ratios d'efficacité se sont nettement améliorés.",
+          "width" : 0.7618069598194567,
+          "x" : 0.1437371866970476,
+          "y" : 0.437499999980264
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "Nous avons toutefois pris la décision difficile de céder nos activités au Mozambique, car celles-ci ne répondaient pas à nos critères de performance et de",
+          "width" : 0.7700205377190077,
+          "x" : 0.14373716204398695,
+          "y" : 0.42874999984039486
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "rentabilité sur un marché concurrentiel.",
+          "width" : 0.19712525851875368,
+          "x" : 0.1437371678658798,
+          "y" : 0.42000000008222893
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008846898873647091,
+          "text" : "Dans l'ensemble, ces résultats n'auraient pas été possibles sans le dévouement des quelque 14 000 collaborateurs d'Ecobank à travers l'Afrique, qui ont",
+          "width" : 0.7659137128239104,
+          "x" : 0.1437371983365045,
+          "y" : 0.39958333345221286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449834187871,
+          "text" : "adhéré à notre transformation en cours et ont donné la priorité à la satisfaction des besoins de nos clients. Je suis fier de leurs efforts. De plus, les",
+          "width" : 0.7351129574545421,
+          "x" : 0.1437371631207782,
+          "y" : 0.38953488368665945
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00891472816467287,
+          "text" : "conditions économiques en Afrique se sont améliorées, les banques centrales ayant abaissé leurs taux d'intérêt dans un contexte de baisse de l'inflation et",
+          "width" : 0.7761807031710101,
+          "x" : 0.1437371541126472,
+          "y" : 0.379166666806536
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "de plus grande stabilité monétaire. Alors que nous nous tournons vers 2026, nous restons confiants dans notre capacité à mettre en œuvre nos initiatives",
+          "width" : 0.7720738782759129,
+          "x" : 0.14373719782302893,
+          "y" : 0.3706395352613492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00876937985420223,
+          "text" : "stratégiques GTR. Notre priorité reste de mener à bien nos actions avec agilité et résilience, tout en assurant une gestion rigoureuse des risques et des",
+          "width" : 0.7618069598194568,
+          "x" : 0.14373718479253023,
+          "y" : 0.36041666680797546
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968456268257,
+          "text" : "dépenses sur l'ensemble de nos marchés », a conclu M. Awori.",
+          "width" : 0.31827515511125226,
+          "x" : 0.14373716974930192,
+          "y" : 0.35029069805204704
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "PUBLIC",
+          "width" : 0.024640657314844217,
+          "x" : 0.08624229926865594,
+          "y" : 0.0058139534711437735
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2025-1\/page-001.pdf.png"
+}

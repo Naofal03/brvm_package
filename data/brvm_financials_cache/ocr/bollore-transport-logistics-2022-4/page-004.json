@@ -1,0 +1,341 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.039573465983072986,
+          "text" : "KPMG",
+          "width" : 0.1344595326130466,
+          "x" : 0.091907810026354,
+          "y" : 0.8537597785726568
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Africa Global Logistics Côte d'lvoire (AGL Cl) S.A.",
+          "width" : 0.34291581691926165,
+          "x" : 0.24435318269368886,
+          "y" : 0.8791666668693424
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "(Ex Bolloré Transport & Logistics Côte d'Ivoire S.A. (BTLCI S.A.))",
+          "width" : 0.4476385936579799,
+          "x" : 0.24024640599441877,
+          "y" : 0.8677325580761015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers annuels",
+          "width" : 0.4579055480597578,
+          "x" : 0.244353175071764,
+          "y" : 0.8531976743271348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Exercice clos le 31 décembre 2022",
+          "width" : 0.22381929682899,
+          "x" : 0.24640657680795525,
+          "y" : 0.8458333332164351
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017635659376780133,
+          "text" : "ECR International",
+          "width" : 0.19917863502098054,
+          "x" : 0.6919917893272921,
+          "y" : 0.8791666663312963
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Fondement de l'opinion",
+          "width" : 0.2156057369020999,
+          "x" : 0.2443531926372456,
+          "y" : 0.7949999998578863
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017873081366221122,
+          "text" : "Nous avons effectué notre audit selon les normes internationales d'audit (ISA).",
+          "width" : 0.5834093576887331,
+          "x" : 0.2421895274108487,
+          "y" : 0.7483402190839376
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "Les responsabilités qui nous incombent en vertu de ces normes sont plus amplement",
+          "width" : 0.648870641126509,
+          "x" : 0.24024639617185858,
+          "y" : 0.7266666667042576
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01714385827382403,
+          "text" : "décrites dans la section « Responsabilités du commissaire aux comptes relatives à",
+          "width" : 0.6448190282455462,
+          "x" : 0.24227220535051128,
+          "y" : 0.713085047512858
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "l'audit des états financiers annuels » du présent rapport.",
+          "width" : 0.41889117884551685,
+          "x" : 0.24024640558066382,
+          "y" : 0.6991279072087606
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016027131875356093,
+          "text" : "Nous sommes indépendants de la société conformément au Code d'éthique des",
+          "width" : 0.6406570632269581,
+          "x" : 0.24435318522430344,
+          "y" : 0.6758333332233812
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "professionnels de la comptabilité et de l'audit édicté par le Règlement",
+          "width" : 0.6406570632269581,
+          "x" : 0.24435318789370783,
+          "y" : 0.6627906975284428
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "V°01\/2017\/CM\/OHADA portant harmonisation des pratiques des professionnels de",
+          "width" : 0.6324435572180507,
+          "x" : 0.2484599483930281,
+          "y" : 0.6453488370391018
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "la comptabilité et de l'audit dans les pays membres de l'OHADA et les règle:",
+          "width" : 0.6365503102225043,
+          "x" : 0.24435317368751594,
+          "y" : 0.633720930270776
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "d'indépendance qui encadrent le commissariat aux comptes et nous avons satisfait",
+          "width" : 0.648870641126509,
+          "x" : 0.24024640977555434,
+          "y" : 0.6177325580687412
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016084141731262158,
+          "text" : "aux autres responsabilités éthiques qui nous incombent selon ces règles.",
+          "width" : 0.5442261892437794,
+          "x" : 0.2402072271190314,
+          "y" : 0.6038765336571538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "Nous estimons que les éléments probants que nous avons obtenus sont suffisants et",
+          "width" : 0.6488706411265092,
+          "x" : 0.24024639964795114,
+          "y" : 0.5812500001779743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "appropriés pour fonder notre opinion d'audit.",
+          "width" : 0.3305954860152569,
+          "x" : 0.24024640247491777,
+          "y" : 0.5666666667603308
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Points clés de l'audit",
+          "width" : 0.19301846956897822,
+          "x" : 0.24024641341146274,
+          "y" : 0.5245833334060078
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Nous portons à votre connaissance les points clés de l'audit qui, selon notre jugement",
+          "width" : 0.6488706411265092,
+          "x" : 0.24024640833818278,
+          "y" : 0.47819767444523076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "professionnel, ont été les plus importants lors de l'audit des états financiers de la période",
+          "width" : 0.6468172286789606,
+          "x" : 0.2402464124187333,
+          "y" : 0.46366279057895154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538759708404572,
+          "text" : "en cours. Ces points ont été traités dans le contexte de notre audit des états financiers",
+          "width" : 0.6509239816834143,
+          "x" : 0.2381930396921738,
+          "y" : 0.4491279069663422
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01749999999999996,
+          "text" : "pris dans leur ensemble et lors de la formation de notre opinion sur ceux-ci. Nous",
+          "width" : 0.648870641126509,
+          "x" : 0.23819301307124235,
+          "y" : 0.4345833331196287
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "n'exprimons pas une opinion distincte sur ces points.",
+          "width" : 0.3983572700419611,
+          "x" : 0.23819303220694546,
+          "y" : 0.42000000034721197
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- Comptabilisation du chiffre d'affaires",
+          "width" : 0.34291581691926154,
+          "x" : 0.23613962404550268,
+          "y" : 0.37790697693026043
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016250000000000098,
+          "text" : "Au 31 décembre 2022, le chiffre d'affaires s'élève à 86 997 millions FCFA et",
+          "width" : 0.6509239816834144,
+          "x" : 0.23819303453474747,
+          "y" : 0.35458333340214565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "représcntc 82% du total des produits des activités ordinaires de l'exercice 2022.",
+          "width" : 0.6262833198754049,
+          "x" : 0.2361396479678418,
+          "y" : 0.3399999999973067
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Le chiffre d'affaires provient d'activités diverses et variées : consignation,",
+          "width" : 0.6529773941309629,
+          "x" : 0.2361396478523829,
+          "y" : 0.3166666665191237
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "manutention, transit maritime, transport aérien\/express, transport ferroviaire, agence",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024640837612568,
+          "y" : 0.30375000002803654
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de voyage, location immobilière et autres. Cette situation nécessite un niveau de",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024642292951348,
+          "y" : 0.2906976747209581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "contrôle interne approprié afin de s'assurer de l'exhaustivité et de l'exactitude de la",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024642292951348,
+          "y" : 0.27616279100002794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015843683878580705,
+          "text" : "facturation.",
+          "width" : 0.0927964964238718,
+          "x" : 0.23594261498161404,
+          "y" : 0.2595200185391149
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "En outre, considérant que le chiffre d'affaires constitue un indicateur de performance",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024640842746045,
+          "y" : 0.23982558181761515
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "clé, il existe un risque d'anticipation dans la comptabilisation des revenus.",
+          "width" : 0.572895279200254,
+          "x" : 0.24024641273560174,
+          "y" : 0.2252906976836596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Notre audit a, de manière spécifique, consisté à réaliser les diligences suivantes :",
+          "width" : 0.6324434853274072,
+          "x" : 0.24024643614533117,
+          "y" : 0.20203488405235348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "- vérifier l'efficacité opérationnelle des contrôles portant sur la facturation et la",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024642454655648,
+          "y" : 0.18023255848912667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "comptabilisation du chiffre d'affaires ;",
+          "width" : 0.2915810988283551,
+          "x" : 0.26694045431614416,
+          "y" : 0.16416666666792046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "- examiner le caractère approprié des incoterms retenus pour la comptabilisation",
+          "width" : 0.6509239816834144,
+          "x" : 0.2361396410200317,
+          "y" : 0.1437500003638985
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014593023459116616,
+          "text" : "du chiffre d'affaires de chaque activité ;",
+          "width" : 0.31006161315702296,
+          "x" : 0.2648870547972586,
+          "y" : 0.12790697679693874
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333332935969056,
+          "text" : "- rapprocher les données de gestion avec celles comptabilisées ;",
+          "width" : 0.5256673320864619,
+          "x" : 0.2361396333407527,
+          "y" : 0.10750000017652006
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2022-4\/page-004.pdf.png"
+}

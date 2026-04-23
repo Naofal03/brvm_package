@@ -1,0 +1,245 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.024043320020039838,
+          "text" : "Informations complémentaires",
+          "width" : 0.3931458454109614,
+          "x" : 0.10219552521919503,
+          "y" : 0.9407557591757132
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026094586054484115,
+          "text" : "Les comptes de ONATEL-SA au 31 décembre 2023 ont été audités par les cabinets",
+          "width" : 0.8260311850108583,
+          "x" : 0.10031368222999655,
+          "y" : 0.9068492406938639
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026258050600687644,
+          "text" : "SOFIDEC et SECCAPI et établis selon les normes du SYSCOHADA révisé et de",
+          "width" : 0.8240492318628534,
+          "x" : 0.10030370758178776,
+          "y" : 0.8781984001880918
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01598837216695148,
+          "text" : "l'IFRS.",
+          "width" : 0.0718685819628101,
+          "x" : 0.0985626298348167,
+          "y" : 0.859011627851844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023153486251831112,
+          "text" : "Après la déduction de la contribution spéciale de 2% sur les bénéfices nets",
+          "width" : 0.8238034377530551,
+          "x" : 0.10041370280926613,
+          "y" : 0.8230571103133472
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.027474959691365597,
+          "text" : "conformément au communiqué n°0001\/MEFP\/SG\/DGI\/DLC du 19 janvier 2024 du",
+          "width" : 0.8239691456861014,
+          "x" : 0.09830562951064198,
+          "y" : 0.7918062789044729
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0273841222127279,
+          "text" : "Directeur Générale des Impôts, le Conseil d'Administration de ONATEL-SA proposera",
+          "width" : 0.821993375133429,
+          "x" : 0.10025491723228228,
+          "y" : 0.7619080085153457
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02443999926249185,
+          "text" : "à l'Assemblée Générale des actionnaires la distribution d'un dividende ordinaire brut",
+          "width" : 0.8260452755769656,
+          "x" : 0.0982732057222057,
+          "y" : 0.7364271135593426
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.027301232020060295,
+          "text" : "de 304,51 FCFA par action pour chacune des 68 000 000 actions composant le capital",
+          "width" : 0.8260759728816991,
+          "x" : 0.09819784025668049,
+          "y" : 0.705345987806683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.024815748532613147,
+          "text" : "social et ayant droit du fait de leur date de jouissance. Ce dividende sera mis en",
+          "width" : 0.8259454913639208,
+          "x" : 0.09627149372976157,
+          "y" : 0.6789286189146724
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02291840553283686,
+          "text" : "paiement à partir du 15 juin 2024.",
+          "width" : 0.3313386195961241,
+          "x" : 0.09620177332009541,
+          "y" : 0.65344846253629
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020532945791880253,
+          "text" : "A propos de ONATEL-SA",
+          "width" : 0.322381908115706,
+          "x" : 0.09856264205782117,
+          "y" : 0.6320833330121418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025378044446309422,
+          "text" : "ONATEL-SA est un opérateur global de télécommunications au Burkina Faso, coté au",
+          "width" : 0.8239649760287839,
+          "x" : 0.09622083520338184,
+          "y" : 0.6067136048374362
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023493688901265575,
+          "text" : "compartiment prestige du marché des actions de la BRVM de l'UEMOA, offrant une",
+          "width" : 0.8238501666712676,
+          "x" : 0.09629764762089697,
+          "y" : 0.5905775794105841
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02493736267089841,
+          "text" : "diversité de produits et services sur l'ensemble de ses segments d'activités, Fixe,",
+          "width" : 0.8259729535897011,
+          "x" : 0.09626581444435503,
+          "y" : 0.5725929545660948
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.029067042668660448,
+          "text" : "Mobile et Internet. Les actionnaires de référence sont le groupe Maroc Telecom (61%)",
+          "width" : 0.8241836673660188,
+          "x" : 0.09613172049771931,
+          "y" : 0.554873228984814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022781751155853236,
+          "text" : "et l'État du Burkina Faso (16%).",
+          "width" : 0.304836349577168,
+          "x" : 0.09411948024079438,
+          "y" : 0.5435791013289937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020584538777669192,
+          "text" : "Pour plus d'informations, veuillez en faire la demande au siège social de la société, sis au 705, Avenue de la",
+          "width" : 0.8217704422482333,
+          "x" : 0.09835134362399843,
+          "y" : 0.5200220800092583
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01470930258433023,
+          "text" : "nation - 01 BP 10 000 Ouagadougou 01 ou bien consulter le site web : www.moov-africa.bf",
+          "width" : 0.6817248089434261,
+          "x" : 0.09650927013472047,
+          "y" : 0.5099999996303588
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017680891354878714,
+          "text" : "(1) Selon ONATEL, le parc actif correspond à l'ensemble des clients ayant émis ou reçu un appel téléphonique, envoyé un SMS, effectué",
+          "width" : 0.8195818753910851,
+          "x" : 0.09634468112954109,
+          "y" : 0.4772238267983687
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015697507858276394,
+          "text" : "une transaction Mobile Money (émission ou réception) ou effectué au moins une connexion au cours des trois derniers mois.",
+          "width" : 0.7435568729755594,
+          "x" : 0.09640514874157055,
+          "y" : 0.46769769493222424
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.04412769317626952,
+          "text" : "piresteu",
+          "width" : 0.09155654457910045,
+          "x" : 0.46528559315880536,
+          "y" : 0.3817508848811192
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "N aev",
+          "width" : 0.04312114917768606,
+          "x" : 0.5071868579573582,
+          "y" : 0.3706395350917756
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.011627906958262102,
+          "text" : "lafiàm",
+          "width" : 0.04928131462968843,
+          "x" : 0.5051334704880305,
+          "y" : 0.36046511637552014
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.011627906958262102,
+          "text" : "NATEL",
+          "width" : 0.05749486557024808,
+          "x" : 0.5030800833339725,
+          "y" : 0.3226744187229038
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.03468038558959963,
+          "text" : "neral",
+          "width" : 0.03793625668726763,
+          "x" : 0.5675295153026326,
+          "y" : 0.37302686955149955
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01041666666666674,
+          "text" : "- 3 -",
+          "width" : 0.03696098372568371,
+          "x" : 0.09240246547802056,
+          "y" : 0.027500000156157167
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014050130844116215,
+          "text" : "Communiqué de presse sur les Résultats 2023",
+          "width" : 0.3821581873090585,
+          "x" : 0.16210582504046292,
+          "y" : 0.020053528169822643
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "ONATEL-SA",
+          "width" : 0.09856262925937676,
+          "x" : 0.7946611896824266,
+          "y" : 0.01744186040168305
+        }
+      ],
+      "width" : 1698
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/onatel-bf-2023-6\/page-003.pdf.png"
+}

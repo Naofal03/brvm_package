@@ -1,0 +1,149 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.014363582928975327,
+          "text" : "Abréviations",
+          "width" : 0.08064624498475273,
+          "x" : 0.07181679462838553,
+          "y" : 0.9295914643067513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "AUDCIF Acte uniforme de l'OHADA relatif au droit comptable et à l'information financière",
+          "width" : 0.5473250982896337,
+          "x" : 0.07201646776190462,
+          "y" : 0.8953488373686442
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016244832674662257,
+          "text" : "ALIDSCGIE",
+          "width" : 0.06802138742410911,
+          "x" : 0.07401399821226447,
+          "y" : 0.8646973511629514
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "Acte uniforme de l'OHADA relatif au droit des sociétés commerciales et du GIE",
+          "width" : 0.4773662495163252,
+          "x" : 0.19135803075624072,
+          "y" : 0.8633333334377709
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "BIC",
+          "width" : 0.028806582936700784,
+          "x" : 0.07201646185812423,
+          "y" : 0.8328488373928691
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "Bénéfices Industriels et Commerciaux",
+          "width" : 0.24485595271272476,
+          "x" : 0.12345679450269119,
+          "y" : 0.8328488375018808
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "CNPS Caisse Nationale de Prévoyance Sociale",
+          "width" : 0.3045267428991929,
+          "x" : 0.07201646584464219,
+          "y" : 0.8023255817176878
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "COVID-19 Maladie à coronavirus 2019",
+          "width" : 0.23045266349360627,
+          "x" : 0.07201646804743554,
+          "y" : 0.7703488373928691
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "IAS",
+          "width" : 0.028806582936700798,
+          "x" : 0.06995884820929021,
+          "y" : 0.7383720930856985
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "International Accounting Standards",
+          "width" : 0.22222222022290503,
+          "x" : 0.12962963285151044,
+          "y" : 0.7369186048492644
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "IFRIC",
+          "width" : 0.03909465052046865,
+          "x" : 0.06995884792906608,
+          "y" : 0.7063953486403615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "International Financial Reporting Interpretations Committee",
+          "width" : 0.36831276371793925,
+          "x" : 0.12962962268835554,
+          "y" : 0.7049418603845474
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "IFRS",
+          "width" : 0.03292180907051517,
+          "x" : 0.06995884813963954,
+          "y" : 0.6758720932274989
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036821206410812,
+          "text" : "International financial reporting standards",
+          "width" : 0.26131685724798237,
+          "x" : 0.1316872519572845,
+          "y" : 0.6729166670027917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01755813995997113,
+          "text" : "OHADA Organisation pour l'harmonisation en Afrique du droit des affaires",
+          "width" : 0.4650205576194907,
+          "x" : 0.07201647306782666,
+          "y" : 0.6424418603348014
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "SYSCOHADA Système comptable de Y'OHADA",
+          "width" : 0.2798353950932341,
+          "x" : 0.07201646058095494,
+          "y" : 0.6104166663327357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "4",
+          "width" : 0.010288065334535967,
+          "x" : 0.9218106997401394,
+          "y" : 0.045058139861554825
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bernabe-ci-2019-8\/page-005.pdf.png"
+}

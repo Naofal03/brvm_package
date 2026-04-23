@@ -1,0 +1,421 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.008958450158437103,
+          "text" : "Annexe 4.1",
+          "width" : 0.05756597440290512,
+          "x" : 0.6734757398116069,
+          "y" : 0.8937765889231902
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "REGLES ET METHODES COMPTABLES APPLIQUEES",
+          "width" : 0.3696098552294979,
+          "x" : 0.18685831211831067,
+          "y" : 0.8749999998721929
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007499999999999951,
+          "text" : "ETAT: COTE D'IVOIRE",
+          "width" : 0.09445584929593182,
+          "x" : 0.18891170563950843,
+          "y" : 0.8604166665082276
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705500284718,
+          "text" : "ETABLISSEMENT: ALIOS FINANCE COTE D'IVOIRE",
+          "width" : 0.21971252585187534,
+          "x" : 0.3983572916325839,
+          "y" : 0.8590116279743574
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.02050387541453036,
+          "text" : "( L2\/ 0| 21 41 112",
+          "width" : 0.14579054941417752,
+          "x" : 0.18480493167308137,
+          "y" : 0.8283333336981848
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "Date d'arrêté",
+          "width" : 0.059548255551970575,
+          "x" : 0.2587268988153905,
+          "y" : 0.8283333333273813
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.004360465010007308,
+          "text" : "en mitions de rorA",
+          "width" : 0.08829568384392938,
+          "x" : 0.5934291582320396,
+          "y" : 0.8081395349271863
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01180232524871827,
+          "text" : "A- DECLARATION DE CONFORMITE AU PLAN COMPTABLE BANCAIRE DE L'UEMOA",
+          "width" : 0.4640657135117601,
+          "x" : 0.12320328564658385,
+          "y" : 0.7600000001780872
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010287506580352712,
+          "text" : "Nous, SAFCA (ALIOS Finance Côte d'Ivoire), déclarons que les états financiers ci-après sont conformes aux exigences du PLAN",
+          "width" : 0.552449220762938,
+          "x" : 0.1231552993184938,
+          "y" : 0.7310594073655332
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007500000000000062,
+          "text" : "COMPTABLE BANCAIRE DE L'UMOA (PCB)",
+          "width" : 0.18275153313986126,
+          "x" : 0.12320328658715363,
+          "y" : 0.7208333332880685
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "B- INDICATION DES REGLES ET METHODE COMPTABLES APPLIQUEES PAR L'ETABLISSEMENT",
+          "width" : 0.5297741210362374,
+          "x" : 0.12320327972828812,
+          "y" : 0.6860465117123301
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008885658582051592,
+          "text" : "Dans le cadre de l'Agrément unique de l'UMOA, SAFCA a ouvert une succursale au Sénégal, opérationnelle depuis Juin 2006. Deux autres",
+          "width" : 0.5995893175104903,
+          "x" : 0.12114990975947046,
+          "y" : 0.575416666791289
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008759689728419007,
+          "text" : "succursales sont opérationnelles respectivement, au Burkina Faso depuis le 1er août 2007, et au Mali depuis Août 2008. La comptabilité de",
+          "width" : 0.6078028954100412,
+          "x" : 0.12320328268512296,
+          "y" : 0.5654069771218144
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008749999999999925,
+          "text" : "chacune de ces succursales est autonome et est rattachée à celle du siège par l'intermédiaire de comptes de liaison.",
+          "width" : 0.5112936246802305,
+          "x" : 0.12320329885084962,
+          "y" : 0.55375000014086
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009059301217397175,
+          "text" : "COMPTABILISATIONS DES PRODUITS & CHARGES",
+          "width" : 0.22192830331755192,
+          "x" : 0.12107025221040697,
+          "y" : 0.5316946769377888
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759708404426,
+          "text" : "Les intérêts et commissions assimilées sont comptabilisés pour leurs montants courus prorata temporis. Les commissions non assimilées à",
+          "width" : 0.6139630608620437,
+          "x" : 0.121149888562818,
+          "y" : 0.511627906917876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "des intérêts et correspondant à des prestations de services sont enregistrées à la date de réalisation de l'opération.",
+          "width" : 0.5030800827260011,
+          "x" : 0.12114990332385762,
+          "y" : 0.499999999980264
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014302800496419299,
+          "text" : "Les loyers de crédit-bail sont comptabilisés, pour leur part d'intérêts courus prorata temporis, dans les produits de l'exercice se rapportant à",
+          "width" : 0.6141196386833775,
+          "x" : 0.12108681386090737,
+          "y" : 0.4746484751580169
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "la période couverte par chaque échéance. Les intérêts perçus d'avance sont enregistrés dans les comptes de régularisation au passif du bilan.",
+          "width" : 0.6201231544234025,
+          "x" : 0.12114991142621839,
+          "y" : 0.4665697673542023
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849286,
+          "text" : "Les autres produits (intérêts de retard, frais impayés, clauses pénales) sont comptabilisés lors de leur encaissement effectif.",
+          "width" : 0.5462012049446959,
+          "x" : 0.12114991997802814,
+          "y" : 0.4562500001338633
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "IMMOBILISATIONS CORPORELLES ET AMORTISSEMENT",
+          "width" : 0.24435316968722393,
+          "x" : 0.12114989979020062,
+          "y" : 0.4345833333380854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968853632621,
+          "text" : "Les immobilisations corporelles sont évaluées au coût historique d'acquisition, à l'exception de celles acquises antérieurement au 12 janvier",
+          "width" : 0.6180698138664974,
+          "x" : 0.12114989026901017,
+          "y" : 0.4127906979066982
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008837209145228009,
+          "text" : "1994 qui ont fait l'objet d'une réévaluation par l'application d'un coefficient uniforme de 1,40 conformément à la loi de finances pour la",
+          "width" : 0.5913757396109394,
+          "x" : 0.12114992239165522,
+          "y" : 0.40249999994904273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "gestion 1995.",
+          "width" : 0.06365503102225045,
+          "x" : 0.11909650859051749,
+          "y" : 0.38953488391687263
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "Les immobilisations corporelles sont amorties selon le mode linéaire et en fonction de leur durée d'utilisation estimée à compter de leur date",
+          "width" : 0.6180698138664974,
+          "x" : 0.12114990572075525,
+          "y" : 0.3706395352613492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008905038436253787,
+          "text" : "de mise en service. Les durées d'amortissement retenues",
+          "width" : 0.25462012408900175,
+          "x" : 0.12114990007048881,
+          "y" : 0.3590116282846051
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007499999999999951,
+          "text" : "sont les suivantes:",
+          "width" : 0.08624229835537212,
+          "x" : 0.12114989892292993,
+          "y" : 0.3487499999060224
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "Bâtiments 20 ans",
+          "width" : 0.08008213290336975,
+          "x" : 0.11909650921566632,
+          "y" : 0.33866279068044625
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Mobilier de bureau et de logement 10 ans",
+          "width" : 0.18480492761474898,
+          "x" : 0.11909650939706451,
+          "y" : 0.3270348837804592
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010600879987080924,
+          "text" : "Agencements, installations 10 ans",
+          "width" : 0.15633134426301162,
+          "x" : 0.11894271879240134,
+          "y" : 0.3138255811951328
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "Matériel de bureau et de logement 5 ans",
+          "width" : 0.17659136768785885,
+          "x" : 0.12114989916428417,
+          "y" : 0.30523255814047534
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "Matériel informatique 2 ans",
+          "width" : 0.12114989659249853,
+          "x" : 0.12114989921401764,
+          "y" : 0.29500000008222893
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025814,
+          "text" : "Matériel de transport 3 ans",
+          "width" : 0.12114989659249854,
+          "x" : 0.11909650814625587,
+          "y" : 0.28333333330372945
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008856588999430315,
+          "text" : "Logiciels 2 à 4 ans",
+          "width" : 0.08418891286681482,
+          "x" : 0.11909651006214353,
+          "y" : 0.2716666666064683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007500000000000062,
+          "text" : "TITRES DE PARTICIPATION",
+          "width" : 0.11909651110394122,
+          "x" : 0.11909650820939637,
+          "y" : 0.25125000016358623
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Les titres de participation sont valorisés au coût historique d'acquisition. Des provisions pour dépréciation sont constituées lorsque la valeur",
+          "width" : 0.6160164014189488,
+          "x" : 0.11909652978333864,
+          "y" : 0.2398255816432895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040173,
+          "text" : "comptable des titres de participation est supérieure à l'estimation de la quote-part détenue dans les capitaux propres de la société émettrice",
+          "width" : 0.6180698138664973,
+          "x" : 0.11909652020569693,
+          "y" : 0.2295833335041607
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "des titres.",
+          "width" : 0.047227924647965894,
+          "x" : 0.11909650916814575,
+          "y" : 0.21791666679729493
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008779069582621313,
+          "text" : "CREDIT A LA CLIENTELE",
+          "width" : 0.1067761801999365,
+          "x" : 0.12114989891440543,
+          "y" : 0.19622093061018664
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "Les crédits sont accordés à la clientèle pour l'acquisition de matériel de transport ou de matériel industriel et agricole. Ces crédits sont",
+          "width" : 0.5913757396109394,
+          "x" : 0.11909651705284684,
+          "y" : 0.1860465118601865
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "matérialisés par des avis de prélèvement avec des tombées d'échéances mensuelles et sont généralement assortis de súretés réelles",
+          "width" : 0.5872689866064855,
+          "x" : 0.11909650306910521,
+          "y" : 0.17441860468713632
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "(hypothèques et nantissement) ou personnelles (cautions personnelles notamment).",
+          "width" : 0.3757700206815003,
+          "x" : 0.11909651542927017,
+          "y" : 0.16416666663419144
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008846899271011344,
+          "text" : "Les échéances saines, restructurées ou douteuses sont enregistrées dans des comptes spécifiques et font l'objet de provisions pour",
+          "width" : 0.5790554446522563,
+          "x" : 0.1190965075957174,
+          "y" : 0.15406976735167488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "dépréciation selon les règles de l'Instruction n°026-11-2016 relative à la comptabilisation et évaluation des engagements en souffrance. Une",
+          "width" : 0.6201231544234026,
+          "x" : 0.1190965414227954,
+          "y" : 0.14244186071305687
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "provision complémentaire globale est constatée, le cas échéant, dans le compte « Autres provisions » et représente l'insuffisance du niveau",
+          "width" : 0.611909648414495,
+          "x" : 0.11909651814388168,
+          "y" : 0.13081395373631266
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "de provisionnement globale par rapport aux normes du Groupe ALIOS finance.",
+          "width" : 0.34291581691926154,
+          "x" : 0.11909651061121099,
+          "y" : 0.12063953526134918
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02187879323959352,
+          "text" : "Deloitte. CÔTE D'IVOIRE",
+          "width" : 0.1706169766447429,
+          "x" : 0.06258087930525717,
+          "y" : 0.051369720703657085
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019523119926452615,
+          "text" : "VISA POUR IDENTIFICATION",
+          "width" : 0.16624666355523965,
+          "x" : 0.06262327953129079,
+          "y" : 0.03189191057362828
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04101040681203205,
+          "text" : "EBUR FIDUCIAIRE",
+          "width" : 0.20892630533279044,
+          "x" : 0.3155902684155997,
+          "y" : 0.05734349251772297
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "..",
+          "width" : 0.024640657314844217,
+          "x" : 0.3490759755862466,
+          "y" : 0.0508720931828609
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04180669466654452,
+          "text" : "VISA POUR IDENTIFICATION",
+          "width" : 0.20960802633152975,
+          "x" : 0.3213927075789038,
+          "y" : 0.023608683612245662
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/safca-ci-2024-1\/page-005.pdf.png"
+}

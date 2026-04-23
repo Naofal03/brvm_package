@@ -1,0 +1,613 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.04444444444444451,
+          "text" : "Résultats financiers consolidés au 31 Décembre 2025",
+          "width" : 0.5375000000000001,
+          "x" : 0.4125000067187498,
+          "y" : 0.9481481485185185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03875968933105467,
+          "text" : "Groupe Orange Côte d'lvoire",
+          "width" : 0.2863372039794922,
+          "x" : 0.037790702381101084,
+          "y" : 0.9095607239391238
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026098190590187365,
+          "text" : "Côte d'Ivoire",
+          "width" : 0.08284883499145507,
+          "x" : 0.050872094822586394,
+          "y" : 0.4777777782910513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023703704410129145,
+          "text" : "Burkina Faso",
+          "width" : 0.08720930099487306,
+          "x" : 0.05232558118861,
+          "y" : 0.40814814806823463
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023603916874638253,
+          "text" : "Libéria",
+          "width" : 0.045114596684773765,
+          "x" : 0.05375084156824112,
+          "y" : 0.343495199290182
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031214468214246893,
+          "text" : "Chiffres clés",
+          "width" : 0.11337209065755208,
+          "x" : 0.010174419169770488,
+          "y" : 0.2532299756320845
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02616709673846218,
+          "text" : "Parc FMI (en milliers)",
+          "width" : 0.13226744333902998,
+          "x" : 0.01744185889916237,
+          "y" : 0.18346253239998445
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025839792887369817,
+          "text" : "2025",
+          "width" : 0.033430233001708984,
+          "x" : 0.021802325568549583,
+          "y" : 0.1214470287501136
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.029548666212293906,
+          "text" : "38 544",
+          "width" : 0.05396377563476562,
+          "x" : 0.09874485666827212,
+          "y" : 0.12088458245189027
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02375716880515777,
+          "text" : "2024",
+          "width" : 0.03353957494099935,
+          "x" : 0.021747654599434264,
+          "y" : 0.04626095059104851
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026004998948838898,
+          "text" : "35 372",
+          "width" : 0.05235131899515787,
+          "x" : 0.10173131762047134,
+          "y" : 0.04384504656120569
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02596037970648868,
+          "text" : "eCapex (Gxof)",
+          "width" : 0.09302325566609698,
+          "x" : 0.17296511661462594,
+          "y" : 0.18592592526432783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0361757094771773,
+          "text" : "184,0",
+          "width" : 0.04505813916524251,
+          "x" : 0.19476744229237875,
+          "y" : 0.1136950906360884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03510924162688078,
+          "text" : "159,1",
+          "width" : 0.04252683957417808,
+          "x" : 0.1960330920741093,
+          "y" : 0.038000934470565295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015503874884711277,
+          "text" : "Indicateurs",
+          "width" : 0.04941860198974607,
+          "x" : 0.39389535099156103,
+          "y" : 0.8733850135481698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015555555555555545,
+          "text" : "FY 2025",
+          "width" : 0.03633720715840649,
+          "x" : 0.5988372107376573,
+          "y" : 0.8888888888279631
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015555555555555545,
+          "text" : "FY 2024",
+          "width" : 0.03633721033732096,
+          "x" : 0.6933139529012281,
+          "y" : 0.8888888887569036
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015555555555555545,
+          "text" : "Variation N\/N-1",
+          "width" : 0.06976743698120125,
+          "x" : 0.8008720945907949,
+          "y" : 0.8888888885954049
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01851851851851849,
+          "text" : "Chiffre d'affaires",
+          "width" : 0.07558139165242511,
+          "x" : 0.39534884000227577,
+          "y" : 0.8266666669442794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018403970223885957,
+          "text" : "EBITDAaL",
+          "width" : 0.045097955067952444,
+          "x" : 0.39532893014461234,
+          "y" : 0.7957075753051784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015555555555555656,
+          "text" : "Résultat d'exploitation",
+          "width" : 0.09447674433390302,
+          "x" : 0.39534883808014143,
+          "y" : 0.7674074073300531
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015796726368091596,
+          "text" : "Résultat Financier",
+          "width" : 0.07703488032023109,
+          "x" : 0.3953488398725879,
+          "y" : 0.7390180885266366
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015693367852105067,
+          "text" : "Résultat des activités ordinaires",
+          "width" : 0.14244185129801434,
+          "x" : 0.3953488432172718,
+          "y" : 0.7080103358563868
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01559000792326759,
+          "text" : "Impôts sur le résultat",
+          "width" : 0.091569766998291,
+          "x" : 0.3938953502036161,
+          "y" : 0.6770025846506675
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022412814387568814,
+          "text" : "Résultat net",
+          "width" : 0.05562849044799806,
+          "x" : 0.39515087036994023,
+          "y" : 0.6438323527439764
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021416488223605756,
+          "text" : "1 197,1",
+          "width" : 0.03502109845479329,
+          "x" : 0.5987685202484943,
+          "y" : 0.8239170791158541
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020671834592466132,
+          "text" : "424,1",
+          "width" : 0.026162789662679042,
+          "x" : 0.6031976747492253,
+          "y" : 0.7932816536524565
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02067183459246602,
+          "text" : "287,2",
+          "width" : 0.029069766998291002,
+          "x" : 0.6017441865589941,
+          "y" : 0.7648578812567386
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813033492445,
+          "text" : "(28,8)",
+          "width" : 0.027616278330484967,
+          "x" : 0.6031976746610657,
+          "y" : 0.7312661500401013
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "258,4",
+          "width" : 0.029069766998291002,
+          "x" : 0.6017441859775986,
+          "y" : 0.7028423771740513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813033492445,
+          "text" : "(90,6)",
+          "width" : 0.026162789662679042,
+          "x" : 0.6031976748876527,
+          "y" : 0.6718346255891969
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "167,8",
+          "width" : 0.027616278330485078,
+          "x" : 0.603197674985505,
+          "y" : 0.6434108528403488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01929585350884333,
+          "text" : "1 084,1",
+          "width" : 0.03363072713216142,
+          "x" : 0.6946671949332932,
+          "y" : 0.8262693862216499
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246602,
+          "text" : "390,3",
+          "width" : 0.027616278330484967,
+          "x" : 0.6962209309110657,
+          "y" : 0.7932816535048006
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858876,
+          "text" : "263,2",
+          "width" : 0.027616278330484967,
+          "x" : 0.6962209303260366,
+          "y" : 0.7648578812870364
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246602,
+          "text" : "(20,5)",
+          "width" : 0.027616278330484967,
+          "x" : 0.6962209303260366,
+          "y" : 0.7338501290603562
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020853691101074157,
+          "text" : "242,7",
+          "width" : 0.026208093961079926,
+          "x" : 0.6976517670972072,
+          "y" : 0.7027514488745847
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015503874884711388,
+          "text" : "(84,5)",
+          "width" : 0.026162789662679042,
+          "x" : 0.6976744187951139,
+          "y" : 0.6770025843922696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "158,2",
+          "width" : 0.027616278330484967,
+          "x" : 0.6976744193194958,
+          "y" : 0.6434108528588058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025839792887369706,
+          "text" : "%",
+          "width" : 0.01598837216695148,
+          "x" : 0.7921511628679362,
+          "y" : 0.8527131786024577
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "10,4%",
+          "width" : 0.03197674433390307,
+          "x" : 0.7834302327506841,
+          "y" : 0.824289405830382
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246602,
+          "text" : "8,7%",
+          "width" : 0.026162789662679042,
+          "x" : 0.7863372100378465,
+          "y" : 0.7932816538923975
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01808785473858876,
+          "text" : "9,1%",
+          "width" : 0.026162789662679042,
+          "x" : 0.7863372100814511,
+          "y" : 0.7648578815454343
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246602,
+          "text" : "(40,7,%)",
+          "width" : 0.039244184494018564,
+          "x" : 0.7805232570807523,
+          "y" : 0.7338501292799944
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020671834592466132,
+          "text" : "6,5%",
+          "width" : 0.026162789662679042,
+          "x" : 0.7863372097471487,
+          "y" : 0.7028423770190124
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858865,
+          "text" : "(7,2,%)",
+          "width" : 0.03197674433390296,
+          "x" : 0.783430232411537,
+          "y" : 0.674418604971556
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "6,1%",
+          "width" : 0.026162789662679042,
+          "x" : 0.7863372098488931,
+          "y" : 0.6434108529363252
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015503876297562225,
+          "text" : "Valeur",
+          "width" : 0.029069766998291002,
+          "x" : 0.8619186051636452,
+          "y" : 0.8578811368899786
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "113,0",
+          "width" : 0.027616278330484967,
+          "x" : 0.8619186052509397,
+          "y" : 0.824289405830382
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020671834592466132,
+          "text" : "33,8",
+          "width" : 0.023255813916524315,
+          "x" : 0.8633720927510402,
+          "y" : 0.7932816536339995
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246602,
+          "text" : "24,1",
+          "width" : 0.023255813916524204,
+          "x" : 0.8633720928479394,
+          "y" : 0.7648578810241804
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02067183459246602,
+          "text" : "(8,3)",
+          "width" : 0.023255813916524315,
+          "x" : 0.8633720927510402,
+          "y" : 0.733850129086196
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020671834592466132,
+          "text" : "15,7",
+          "width" : 0.02180232524871817,
+          "x" : 0.864825581670699,
+          "y" : 0.7028423771051451
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858865,
+          "text" : "(6,1)",
+          "width" : 0.02180232524871828,
+          "x" : 0.864825581489013,
+          "y" : 0.6744186049907401
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246591,
+          "text" : "9,6",
+          "width" : 0.01889534791310621,
+          "x" : 0.8662790704656853,
+          "y" : 0.6434108528588058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01851851851851849,
+          "text" : "Montants en milliards de FCFA",
+          "width" : 0.14389533996582032,
+          "x" : 0.39389535183395025,
+          "y" : 0.59407407410916
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020671834592466132,
+          "text" : "Chiffre d'affaires, données IFRS",
+          "width" : 0.1380813852945963,
+          "x" : 0.40116279623351575,
+          "y" : 0.5426356585866265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01851851851851849,
+          "text" : "Au 31 décembre 2025, le chiffre d'affaires consolidé du Groupe Orange Côte d'Ivoire s'établit à 1 197,1 milliards de FCFA, affichant une",
+          "width" : 0.5886627705891927,
+          "x" : 0.40116280811019994,
+          "y" : 0.5140740743845438
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01851851851851849,
+          "text" : "progression de 10,4 % par rapport à l'exercice précédent. Ce résultat illustre la solidité de la performance opérationnelle dans les trois pays.",
+          "width" : 0.5813953145345052,
+          "x" : 0.40116281753894856,
+          "y" : 0.4933333335571132
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858876,
+          "text" : "Orange Côte d'Ivoire enregistre une croissance soutenue, portée par des investissements ciblés et efficaces dans les réseaux mobiles et",
+          "width" : 0.5901162719726563,
+          "x" : 0.4011628016226833,
+          "y" : 0.46511627951055057
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020740740740740726,
+          "text" : "fibre optique. Cette dynamique s'appuie également sur une stratégie commerciale robuste et une forte adhésion aux offres commerciales.",
+          "width" : 0.5726744079589844,
+          "x" : 0.39970930740616684,
+          "y" : 0.44444444411634243
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0185185185185186,
+          "text" : "Orange Burkina Faso maintient une trajectoire ascendante grâce à la forte croissance des bases actives et à l'accélération des",
+          "width" : 0.5886627705891927,
+          "x" : 0.40116280663854315,
+          "y" : 0.41851851853271804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01577949947781032,
+          "text" : "investissements d'extension des réseaux mobile et fixe.",
+          "width" : 0.23255813598632807,
+          "x" : 0.3997093070068359,
+          "y" : 0.40051679647237304
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020861326853434226,
+          "text" : "Orange Libéria affiche également une croissance solide, stimulée par la mise en œuvre du tarif plancher sur la voix, les investissements dans",
+          "width" : 0.5886627705891927,
+          "x" : 0.4011627993711013,
+          "y" : 0.3695090435995465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0185185185185186,
+          "text" : "le réseau et une activité commerciale particulièrement dynamique, favorisant ainsi les activations sur la data, Orange Money et Orange",
+          "width" : 0.5901162719726563,
+          "x" : 0.39970929849768366,
+          "y" : 0.35111111114563986
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018705534758391207,
+          "text" : "Energies.",
+          "width" : 0.04078314145406087,
+          "x" : 0.40112005732673905,
+          "y" : 0.33044051397530627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858865,
+          "text" : "EBITDAaL, données IFRS",
+          "width" : 0.10755813598632818,
+          "x" : 0.40116279354753354,
+          "y" : 0.29457364381933615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858865,
+          "text" : "L'EBITDAaL atteint 424,1 milliards de FCFA au 31 décembre 2025, soit une progression de 8,7 %. Cette amélioration reflète la progression",
+          "width" : 0.5886627705891927,
+          "x" : 0.40116280663854315,
+          "y" : 0.2687338505376824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858865,
+          "text" : "du chiffre d'affaires, associée à une bonne maîtrise des coûts d'exploitation, malgré l'augmentation des charges liée à l'intensification des",
+          "width" : 0.5886627705891927,
+          "x" : 0.40116279486528755,
+          "y" : 0.24806201565396158
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858876,
+          "text" : "actions commerciales autour d'Orange Money.",
+          "width" : 0.19331395467122403,
+          "x" : 0.40116279157790546,
+          "y" : 0.22739018093173935
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018139534703007443,
+          "text" : "Toutefois, la performance du groupe continue d'être impactée négativement par une pression règlementaire et fiscale accrue.",
+          "width" : 0.5218023173014323,
+          "x" : 0.401162803534361,
+          "y" : 0.20666666661116184
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01851851851851849,
+          "text" : "Résultat Net, données IFRS",
+          "width" : 0.1177325566609701,
+          "x" : 0.4011627895231972,
+          "y" : 0.16518518532236448
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785473858865,
+          "text" : "Le résultat net du cluster s'élève à 167,8 Milliards de FCFA au 31 décembre 2025, en hausse de +6,1% par rapport à l'exercice précèdent.",
+          "width" : 0.5886627705891927,
+          "x" : 0.40116280811019994,
+          "y" : 0.13178294611261798
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01808785544501401,
+          "text" : "Une performance atténuée par des effets exceptionnels, notamment par les amendes douanières à Orange Burkina Faso. Hors cet impact, le",
+          "width" : 0.5886627705891927,
+          "x" : 0.40116280811019994,
+          "y" : 0.11111111084546899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015865632516366523,
+          "text" : "résultat net aurait affiché une croissance de +9,3%.",
+          "width" : 0.21656974792480466,
+          "x" : 0.39970931569360524,
+          "y" : 0.09302325635609388
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2025-1\/page-003.pdf.png"
+}

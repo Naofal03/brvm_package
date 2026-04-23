@@ -1,0 +1,197 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "-participé au sommet mondial des loteries organisé par la WORLD LOTTERY",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522636529336239,
+          "y" : 0.9287500002412951
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "ASSOCIATION (WLA) du 19 au 27 octobre 2024 à Paris ;",
+          "width" : 0.5061728279545622,
+          "x" : 0.1152263368972046,
+          "y" : 0.9098837209684505
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "-participé à la manifestation du Grand Prix d'Afrique du 29 octobre au 04 novembre",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.8691666664436282
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "2024 à Marrakech.",
+          "width" : 0.17283950661713227,
+          "x" : 0.11522633645480836,
+          "y" : 0.8487499999226238
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "-la réorganisation des services centraux par décision n°001-c\/LNB\/DG en date du 05",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.8081395349315437
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "janvier 2024 portant attribution, organisation et fonctionnement de la Loterie Nationale",
+          "width" : 0.7716049338286778,
+          "x" : 0.1111111056165255,
+          "y" : 0.78779069756478
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01643236001332604,
+          "text" : "du Bénin ;",
+          "width" : 0.0927442244763644,
+          "x" : 0.11515052148287627,
+          "y" : 0.7672198667049384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "-la signature de l'avenant n°001 au contrat de partenariat avec la société UBIQ en date",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522635150368013,
+          "y" : 0.7266666663928838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "du 09 janvier 2024 pour la définition des modalités d'exploitation des paris sportifs, du",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522635213639612,
+          "y" : 0.7062500000488057
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "pari mutuel urbain, des jeux virtuels et jeux rapides, du Loto sportif et du Loto 5\/90",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522636407055231,
+          "y" : 0.686046511617505
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0161272875467936,
+          "text" : "physique;",
+          "width" : 0.09469703458390145,
+          "x" : 0.11520292233721004,
+          "y" : 0.6656282168505758
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951397,
+          "text" : "-la signature du contrat de partenariat n°079\/LNB\/DG\/DE-DAF-DSI-DCM du 17 janvier",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.6262499997425051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "2024 avec la société African Innovation Limited pour la définition des modalités",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.6061046511863886
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "dexploitation des paris sportifs, du pari mutuel urbain, des jeux virtuels et jeux rapides,",
+          "width" : 0.7695473005186837,
+          "x" : 0.11522635930855919,
+          "y" : 0.5841666667625249
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "du Loto sportif et du Loto 5\/90 physique ;",
+          "width" : 0.3744855916725015,
+          "x" : 0.11522633684550511,
+          "y" : 0.5654069766466598
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "-la remise en septembre 2024 du site de l'ancienne direction générale de la LNB à la",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.5245833331102948
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Société des Infrastructures Routières et de l'Aménagement du Territoire (SIRAT) pour",
+          "width" : 0.7695473005186837,
+          "x" : 0.1152263574361312,
+          "y" : 0.5041666666099667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018513741493225155,
+          "text" : "les travaux d'aménagement ;",
+          "width" : 0.25987918421907247,
+          "x" : 0.11489104390033099,
+          "y" : 0.48416865273472987
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "-la suspension provisoire, pour compter du 14 octobre 2024, de lobligation de",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728395663084316,
+          "y" : 0.44458333362779245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0160368212064107,
+          "text" : "paiement par les masters distributeurs d'une caution par terminal avant la remise de la",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316873909250996,
+          "y" : 0.42291666700279185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013363092740376836,
+          "text" : "machine ;",
+          "width" : 0.0865043244271908,
+          "x" : 0.11724166631720093,
+          "y" : 0.40538240689568905
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "Contact: +229 21 31 43 00 \/ 21 3164 22 Email: secretariat.lnb@lnb.bi Site web: loteriebenin.bi",
+          "width" : 0.4732510188840471,
+          "x" : 0.10905351079117234,
+          "y" : 0.024583333202705115
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.3024691095891989,
+          "x" : 0.5802469317280342,
+          "y" : 0.02325581435534141
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-010.pdf.png"
+}

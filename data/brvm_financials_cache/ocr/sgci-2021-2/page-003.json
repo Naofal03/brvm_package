@@ -1,0 +1,1005 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "II - COMMENTAIRES",
+          "width" : 0.1975308544230911,
+          "x" : 0.0432098838995655,
+          "y" : 0.9491279072899989
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "L'année 2021 a été marquée par une reprise progressive de l'activité",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526751095947913,
+          "y" : 0.9302325586163069
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "économique en dépit de la pandémie persistante de Covid-19 qui",
+          "width" : 0.43827161249124774,
+          "x" : 0.04526749031816205,
+          "y" : 0.9170833331987579
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565540313659,
+          "text" : "sévit depuis fin d'année 2019.",
+          "width" : 0.18930041115238982,
+          "x" : 0.045267489485533496,
+          "y" : 0.9040697676449
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "Les pouvoirs publics à travers les campagnes de vaccinations et de",
+          "width" : 0.4382715765035377,
+          "x" : 0.04526750189740812,
+          "y" : 0.8866279071313341
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "sensibilisations ainsi que la Banque Centrale continuent de déployer",
+          "width" : 0.44032920981353185,
+          "x" : 0.045267501197486223,
+          "y" : 0.8720833332361709
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "des plans d'action de relances économiques visant à atténuer",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526750940769603,
+          "y" : 0.8590116279888922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "l'impact de la pandémie du Covid-19 sur le système bancaire et le",
+          "width" : 0.43827161249124774,
+          "x" : 0.04526749031816205,
+          "y" : 0.8458333333545087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "financement de l'économie.",
+          "width" : 0.1810699498878335,
+          "x" : 0.04526749720971826,
+          "y" : 0.8328488371700937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "Cohérent avec sa raison d'être, Société Générale Côte d'Ivoire (SGCI).",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526750338917765,
+          "y" : 0.8154069766080783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "a démontré sa mobilisation, sa résilience, sa capacité à aller de",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526749845090618,
+          "y" : 0.8023255812955783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'avant pour préparer l'avenir et sa détermination à agir en",
+          "width" : 0.4382715765035377,
+          "x" : 0.04526750890186609,
+          "y" : 0.7877906981511907
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "responsabilité vis-à-vis de ses clients, collaborateurs et, plus",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526749845090618,
+          "y" : 0.7745833334085154
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "généralement, de toutes ses parties prenantes. La première et",
+          "width" : 0.44032920981353185,
+          "x" : 0.045267501197486223,
+          "y" : 0.7599999998508897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110465208689415,
+          "text" : "constante préoccupation a été, et demeure, de concilier",
+          "width" : 0.4382715765035377,
+          "x" : 0.04526750794164661,
+          "y" : 0.7456395349244465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "l'inconditionnelle sécurité sanitaire de ses collaborateurs et de ses",
+          "width" : 0.43827161249124774,
+          "x" : 0.04526749031816205,
+          "y" : 0.7354166666455841
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666663,
+          "text" : "clients et la continuité de l'activité pour assurer le bon",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526750940769603,
+          "y" : 0.7208333334987315
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "fonctionnement de l'économie ivoirienne.",
+          "width" : 0.2695473185125387,
+          "x" : 0.04526749637644663,
+          "y" : 0.7078488373845684
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "Ces différentes mesures permettent ainsi à Société Générale Côte",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526749845090618,
+          "y" : 0.6904069766807527
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "d'Ivoire de poursuivre son exploitation et continuer d'assurer son",
+          "width" : 0.43827157650353776,
+          "x" : 0.04526750940769603,
+          "y" : 0.6758333333967668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "rôle d'acteur économique majeur et de confiance sur le marché",
+          "width" : 0.43827161249124785,
+          "x" : 0.045267482283182746,
+          "y" : 0.6627906978483806
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "bancaire.",
+          "width" : 0.061728392007215964,
+          "x" : 0.04320987858486936,
+          "y" : 0.648255814011179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "Au terme de l'exercice 2021, Société Générale Côte d'lvoire affiche",
+          "width" : 0.4382715765035377,
+          "x" : 0.04526750313197606,
+          "y" : 0.632083333308118
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "des résultats historiques avec des performances commerciales et",
+          "width" : 0.43827157650353765,
+          "x" : 0.04526750506098828,
+          "y" : 0.6177325586163069
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "financières excellentes dans tous les métiers dans un contexte de",
+          "width" : 0.4382716124912478,
+          "x" : 0.0452674895877094,
+          "y" : 0.6061046513804502
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "reprise de l'activité économique en Côte d'Ivoire.",
+          "width" : 0.3127572041637493,
+          "x" : 0.045267492362569696,
+          "y" : 0.5915697674874387
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071326,
+          "text" : "•Ces bons résultats se traduisent pleinement sur les grands",
+          "width" : 0.4403292098135318,
+          "x" : 0.04320987335112184,
+          "y" : 0.5741279068890859
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "équilibres financiers de la banque :",
+          "width" : 0.2283950481774672,
+          "x" : 0.05349795296887945,
+          "y" : 0.5610465116855976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010416666666666519,
+          "text" : "- en termes de solidité financière, Société Générale Côte",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995886201437919,
+          "y" : 0.5450000001838804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "d'Ivoire bénéficie d'une solide capitalisation qui s'illustre par le",
+          "width" : 0.4135802286975789,
+          "x" : 0.0699588579763134,
+          "y" : 0.5304166666201984
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "niveau du ratio de solvabilité qui ressort à 14,78% à fin décembre",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995886201437919,
+          "y" : 0.5158333333413205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "2021 en amélioration de +55 pbs comparé au niveau de",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995886201437919,
+          "y" : 0.5012500000538789
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154539744133,
+          "text" : "décembre 2020 (14,23%) contre un minimum réglementaire de",
+          "width" : 0.4135802286975788,
+          "x" : 0.06995886071979754,
+          "y" : 0.4883333333555768
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011768256028493296,
+          "text" : "11,25% ;",
+          "width" : 0.05766962159354733,
+          "x" : 0.0699306203420147,
+          "y" : 0.4752205230977544
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "- en termes de liquidité, Société Générale Côte d'Ivoire bénéficie",
+          "width" : 0.41563786200757297,
+          "x" : 0.06790123161624102,
+          "y" : 0.45916666680501894
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "d'une position de liquidité très confortable induite par (i) des",
+          "width" : 0.41152263137529477,
+          "x" : 0.07201646620535665,
+          "y" : 0.4445833335116063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "réserves de liquidité importantes ; (ii) le respect des ratios",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995886098042862,
+          "y" : 0.43166666672480636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "réglementaires de liquidité court terme et moyen et long termes",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995885550717773,
+          "y" : 0.4170833331817153
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "qui ressortent au-dessus des normes réglementaires ; (iii) ainsi",
+          "width" : 0.4115226313752949,
+          "x" : 0.07201646723416318,
+          "y" : 0.40406976756011315
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "qu'un ratio prêts\/dépôts (L\/D) relativement bas et inférieur à",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995884995162231,
+          "y" : 0.39083333317174684
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "75%;",
+          "width" : 0.04115226133814398,
+          "x" : 0.067901236049035,
+          "y" : 0.3750000000952314
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "- en termes de qualité de portefeuille et profil de risque,",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995886201437919,
+          "y" : 0.3604166668514872
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945394515965,
+          "text" : "Société Générale Côte d'Ivoire détient un portefeuille crédit",
+          "width" : 0.41152263137529477,
+          "x" : 0.07201645660316212,
+          "y" : 0.347383721133272
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "diversifié et relativement sain illustré par (i) le respect des",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995885167487319,
+          "y" : 0.332848837145869
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "normes de division de risques",
+          "width" : 0.23662550944202349,
+          "x" : 0.06995885416101828,
+          "y" : 0.31958333350191637
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "en vigueur en termes",
+          "width" : 0.1769547192555554,
+          "x" : 0.3065843658180386,
+          "y" : 0.31958333352864876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "d'expositions ; (ii) un taux de dégradation du portefeuille en",
+          "width" : 0.4115226313752948,
+          "x" : 0.07201646236447878,
+          "y" : 0.30523255861630694
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "amélioration à 7,4% (vs 7,8% en 2020) malgré une augmentation",
+          "width" : 0.4135802286975789,
+          "x" : 0.06995886201437919,
+          "y" : 0.29208333318422297
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "des encours de crédits ; (iii) et une excellente couverture des",
+          "width" : 0.4115226313752948,
+          "x" : 0.0720164606498012,
+          "y" : 0.2790697674293843
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "créances en souffrance par des provisions à plus de 93%.",
+          "width" : 0.36213989977566696,
+          "x" : 0.07201647348665205,
+          "y" : 0.2658333333267857
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "•Sur l'exercice 2021, Société Générale Côte d'Ivoire affiche de",
+          "width" : 0.43827161249124774,
+          "x" : 0.04526749031816205,
+          "y" : 0.24854651169528763
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "bonnes performances commerciales qui se traduisent par la",
+          "width" : 0.4300411512266915,
+          "x" : 0.0534979500725251,
+          "y" : 0.23401162801311703
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724805831909157,
+          "text" : "hausse des encours de crédits (+16,4%) et de dépôts (+26%)",
+          "width" : 0.4300411512266915,
+          "x" : 0.053497947534802276,
+          "y" : 0.22083333349993495
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "comparés à l'exercice précédent, maintenant ainsi sa position de",
+          "width" : 0.43004115122669145,
+          "x" : 0.05349793752965853,
+          "y" : 0.207848837145869
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "leader dans le secteur bancaire avec des parts de marché sur les",
+          "width" : 0.4300411512266915,
+          "x" : 0.0534979357378205,
+          "y" : 0.19458333317973409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Crédits et Dépôts respectivement de 19% et 18% (statistiques à",
+          "width" : 0.42798351791669736,
+          "x" : 0.05555556216648,
+          "y" : 0.1802325579549774
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "09\/21 communiquées par APBEF - CI) ; Aussi, le total bilan de",
+          "width" : 0.4300411512266915,
+          "x" : 0.053497947205584234,
+          "y" : 0.16708333316968804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "Société Générale Côte d'Ivoire atteint pour la première fois la barre",
+          "width" : 0.43004115122669145,
+          "x" : 0.05349793752965853,
+          "y" : 0.15406976737842704
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "symbolique et historique des 3 021 Milliards FCFA, soit une",
+          "width" : 0.4300411512266915,
+          "x" : 0.053497947205584234,
+          "y" : 0.1395348837883108
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.0118313952287038,
+          "text" : "progression de +26% comparé à 2020 ;",
+          "width" : 0.24897118334500293,
+          "x" : 0.05555556266563292,
+          "y" : 0.12625000015934196
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "•Le Produit Net Bancaire de Société Générale Côte d'Ivoire, qui",
+          "width" : 0.4403292098135318,
+          "x" : 0.04320987335112184,
+          "y" : 0.10901162786776808
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "atteint 189 096 Millions FCFA, progresse fortement de +15%",
+          "width" : 0.43004115122669145,
+          "x" : 0.053497944105447094,
+          "y" : 0.09447674400148909
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "comparé à 2020 soutenu par (i) une croissance de +15% de la",
+          "width" : 0.4300411512266915,
+          "x" : 0.05349793745249805,
+          "y" : 0.08284883741234161
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "marge nette d'intérêts en lien avec l'évolution des encours de",
+          "width" : 0.4300411512266915,
+          "x" : 0.0534979357378205,
+          "y" : 0.06831395340071367
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010193798144658373,
+          "text" : "crédits (ii) une bonne résistance des commissions et autres",
+          "width" : 0.4300411512266915,
+          "x" : 0.0534979357378205,
+          "y" : 0.05666666669339904
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "produits en progression de +16% portés notamment par",
+          "width" : 0.43209874854897556,
+          "x" : 0.05349795741275482,
+          "y" : 0.04069767423404713
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744185686111464,
+          "text" : "l'ensemble des commissions de service ;",
+          "width" : 0.2633744725641215,
+          "x" : 0.053497953224111966,
+          "y" : 0.02750000015736076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663552,
+          "text" : "• Les Frais de gestion sous-jacents ressortent à 90 651 Millions FCFA",
+          "width" : 0.44444444044581,
+          "x" : 0.5123456865672184,
+          "y" : 0.9504166665076884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "soit une augmentation de +12% par rapport à 2020 (80 732 Millions",
+          "width" : 0.43415638185896965,
+          "x" : 0.5226337455245617,
+          "y" : 0.9374999998056752
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "FCFA) dans un contexte de reprise de l'activité après une année",
+          "width" : 0.43415638185896965,
+          "x" : 0.5226337498455492,
+          "y" : 0.9229166665242897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "2020 marquée par la crise Covid-19 et impactée par une série de",
+          "width" : 0.43415638185896954,
+          "x" : 0.5226337486538485,
+          "y" : 0.909883721012148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "mesures d'économies mises en place en 2020 de manière",
+          "width" : 0.43415638185896954,
+          "x" : 0.5226337486538485,
+          "y" : 0.8966666666838949
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "conjoncturelle. Ainsi, le coefficient d'exploitation ressort à 47,9% en",
+          "width" : 0.43415638185896965,
+          "x" : 0.5226337504628332,
+          "y" : 0.8837209302902488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "amélioration de 127 pbs par rapport à 2020 (49,2%) ;",
+          "width" : 0.3395061492919922,
+          "x" : 0.5226337523858969,
+          "y" : 0.8691666665939922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705425977706851,
+          "text" : "• Le Coût net du risque ressort en repli de -25% comparé à 2020, à",
+          "width" : 0.44444444044581,
+          "x" : 0.5123456879389603,
+          "y" : 0.8516666668425095
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "112 points de base de nos encours moyens (vs 165 pbs en 2020),",
+          "width" : 0.43415638185896965,
+          "x" : 0.5226337377999392,
+          "y" : 0.838662790634241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015440715154012019,
+          "text" : "reflétant ainsi une maitrise du coût du crédit malgré le contexte de",
+          "width" : 0.4343895102446933,
+          "x" : 0.5225222260982467,
+          "y" : 0.8233079863227218
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "crise sanitaire et une augmentation du portefeuille crédit.",
+          "width" : 0.37037036104022325,
+          "x" : 0.5226337433482013,
+          "y" : 0.8110465115886983
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "Au final, la Banque dégage aux termes de l'exercice 2021 un Résultat",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.7950000000541924
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "net historique de 67 438 Millions FCFA, en croissance de +39%",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.7804166664990744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "comparé à 2020 (48 435 Millions FCFA).",
+          "width" : 0.251028798661142,
+          "x" : 0.51440329928054,
+          "y" : 0.7674418604743574
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "Fort des performances réalisées en 2021 et tenant compte de la",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.7512499999522275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "solidité de la banque illustrée par le niveau élevé des fonds propres",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.7369186047330782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "et le niveau très confortable de notre ratio de solvabilité à fin",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144032968779085,
+          "y" : 0.7252906977103921
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "décembre 2021 (14.78% vs un seuil réglementaire de 11.25%), il sera",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144032968779085,
+          "y" : 0.7091666665627709
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736249287991,
+          "text" : "proposé à la prochaine Assemblée Générale de la Banque la",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609150006414,
+          "y" : 0.6962209303144735
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "distribution d'un dividende brut par action de 1 112 FCFA en",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609101138101,
+          "y" : 0.6816666664728682
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "hausse de +175% par rapport à 2020 (405 FCFA) soit un taux de",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144033086748903,
+          "y" : 0.668604651259241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692381,
+          "text" : "distribution du résultat net 2021 de 51% (vs 26% en 2020).",
+          "width" : 0.3806584196270636,
+          "x" : 0.5164609199875654,
+          "y" : 0.6554166668237642
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "III - PERSPECTIVES",
+          "width" : 0.19135802646852895,
+          "x" : 0.512345675731785,
+          "y" : 0.6162499999916993
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456066,
+          "text" : "L'année 2021 a été une année",
+          "width" : 0.22839504817746714,
+          "x" : 0.5144033027631182,
+          "y" : 0.600290697855741
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "exceptionnelle en termes de",
+          "width" : 0.21193414364220964,
+          "x" : 0.744855969914149,
+          "y" : 0.5987499998441563
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "performances commerciales et financières dans un contexte",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033116241358,
+          "y" : 0.5857558140111789
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "toujours marqué par la crise sanitaire mondiale.",
+          "width" : 0.3106995708537552,
+          "x" : 0.5144033048766202,
+          "y" : 0.5712209302781364
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "L'année 2022 sera une nouvelle année de mobilisation face à",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.5552325582214503
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "l'évolution incertaine de la pandémie encore active en ce début",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144033036080181,
+          "y" : 0.5406976742824969
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475827,
+          "text" : "d'année et dont les impacts économiques et sociaux pourraient être",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609168353463,
+          "y" : 0.5275000000022443
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "profonds.",
+          "width" : 0.06584361814103035,
+          "x" : 0.5144032949075369,
+          "y" : 0.514534883853803
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "En 2022, notre raison d'être sera plus que jamais notre boussole pour",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609150006414,
+          "y" : 0.49563953500197344
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "relever les défis du court et moyen terme, pour répondre aux",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.4825000000905295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "multiples enjeux macro-économiques,",
+          "width" : 0.27572016446095593,
+          "x" : 0.5144032957016207,
+          "y" : 0.4694767441952876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025814,
+          "text" : "environnementaux et",
+          "width" : 0.15432098676573558,
+          "x" : 0.8024691381757741,
+          "y" : 0.4708333332673923
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461246,
+          "text" : "sociétaux, pour trouver avec nos clients des solutions responsables",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.45624999981392567
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "et innovantes répondant à leurs besoins.",
+          "width" : 0.2633744725641215,
+          "x" : 0.5144032943077885,
+          "y" : 0.4416666665350478
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nous allons travailler à finaliser notre nouvelle trajectoire stratégique",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.4244186050007547
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116500854439,
+          "text" : "RISE+ dans la continuité du plan initial RISE, en lançant de nouvelles",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609150006414,
+          "y" : 0.41124999987798583
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "initiatives structurelles articulées autour du client, de la",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144032987211868,
+          "y" : 0.39825581389005493
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "responsabilité sociale et environnementale et de l'efficacité",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.38499999999874623
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "opérationnelle, de la digitalisation et de la Data.",
+          "width" : 0.30864197353147105,
+          "x" : 0.51440329692768,
+          "y" : 0.37063953492929913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "Ainsi, nos principales priorités s'articuleront autour de l'animation",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033116241358,
+          "y" : 0.35319767452474504
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744185686111464,
+          "text" : "de notre raison d'être visant à :",
+          "width" : 0.19958846973923017,
+          "x" : 0.51440329925247,
+          "y" : 0.34000000015736076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "- Satisfaire au mieux nos clients en travaillant notamment sur la",
+          "width" : 0.44650203776809405,
+          "x" : 0.5102880713165704,
+          "y" : 0.3224999999417326
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "réduction des délais et l'équipement en canaux digitaux;",
+          "width" : 0.37037036104022336,
+          "x" : 0.5144033005498471,
+          "y" : 0.30958333319741127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "- Poursuivre nos actions d'inclusion financière avec le renforcement",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.2950000001838802
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "de notre présence à l'intérieur du pays notamment et en soutenant",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144032968779085,
+          "y" : 0.279069767402652
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "l'insertion professionnelle et culturelle;",
+          "width" : 0.26131685724798237,
+          "x" : 0.5144033041263515,
+          "y" : 0.26583333344072746
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "- Demeurer un employeur responsable pour l'ensemble de nos",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033097808575,
+          "y" : 0.24854651170982245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "collaborateurs investis chaque jour dans le développement de notre",
+          "width" : 0.4423868071358158,
+          "x" : 0.5144033062057546,
+          "y" : 0.23541666664792138
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "établissement.",
+          "width" : 0.09670781189540656,
+          "x" : 0.5164609104789085,
+          "y" : 0.2223837211115549
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "Notre objectif principal demeure celui de transformer la banque afin",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609168353463,
+          "y" : 0.20494186052280683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "de bénéficier d'une croissance durable sur le long terme dans la",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144032968779085,
+          "y" : 0.19040697670497742
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014534883499145557,
+          "text" : "lignée de notre raison d'être « Etre le partenaire de confiance,",
+          "width" : 0.4423868071358159,
+          "x" : 0.5144032974266053,
+          "y" : 0.17441860451980706
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "engagé auprès de tous, dans le développement de la Côte",
+          "width" : 0.44032920981353185,
+          "x" : 0.5164609150006414,
+          "y" : 0.16279069802401047
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01222508827845259,
+          "text" : "d'lvoire ».",
+          "width" : 0.07015292599516099,
+          "x" : 0.5143062539262238,
+          "y" : 0.14941071168220255
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/sgci-2021-2\/page-003.pdf.png"
+}

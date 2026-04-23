@@ -1,0 +1,317 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.023594420750935874,
+          "text" : "Stats Financiers Annuals IFRS pour l'exercice clos 1C",
+          "width" : 0.33176597352583925,
+          "x" : 0.570451791591341,
+          "y" : 0.9344276744575265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "e 31 décembre 2021",
+          "width" : 0.1190965021176108,
+          "x" : 0.7371663265079297,
+          "y" : 0.9302325583718145
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01751938025156652,
+          "text" : "2. Continuité d exploitation",
+          "width" : 0.2197125258518753,
+          "x" : 0.09650924103710132,
+          "y" : 0.8808139531291329
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01762596925099691,
+          "text" : "Les états financiers ont été établis dans l'hypothèse de continuité d'exploitation de la société. Cependant",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650926747151498,
+          "y" : 0.8502906975622724
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017596899668375632,
+          "text" : "il est important de relever ce qui suit : les négociations sur la convention de délégation de service public",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650926906716858,
+          "y" : 0.8283333331472589
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018914728164672878,
+          "text" : "(DSP) avec l'Etat de Côte d'lvoire entamées les années antérieures se poursuivent. Il a été demandé à",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650925696073484,
+          "y" : 0.8066666669583047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017529070377349854,
+          "text" : "SERVAIR ABIDJAN de présenter dans le cadre de ces négociations un nouveau plan d'affaire et",
+          "width" : 0.767967125271459,
+          "x" : 0.09650925818562556,
+          "y" : 0.7862499996330521
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "d'investissement. Ce plan d'affaire et d'investissement présenté à l'administration publique traduit une",
+          "width" : 0.7638603722670052,
+          "x" : 0.09650923481105594,
+          "y" : 0.7645348844191736
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "avancée notable dans la négociation. La direction estime par conséquent que cette situation bien que",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650927034369147,
+          "y" : 0.7427325580128538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017616279125213574,
+          "text" : "constitutive de menace à la poursuite de l'activité aérienne ne remet pas en cause la continuité",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650926815536648,
+          "y" : 0.7223837208284685
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01754844903945907,
+          "text" : "d'exploitions de l'entreprise.",
+          "width" : 0.21355236039987302,
+          "x" : 0.09650924053928323,
+          "y" : 0.7020348845488615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01895348787307738,
+          "text" : "Par ailleurs en dehors de ce point décrit ci-haut, la direction n'a connaissance d'aucun évènement ou",
+          "width" : 0.7659137128239105,
+          "x" : 0.09650926486627878,
+          "y" : 0.670000000273156
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310643,
+          "text" : "changement dans l'envirannement économique et juridique ou de tuute autre nature susceptible de",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650925423999576,
+          "y" : 0.648255814179348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017509690125783295,
+          "text" : "compromettre la continuité d'exploitation.",
+          "width" : 0.3141683661614767,
+          "x" : 0.09650924921905625,
+          "y" : 0.6279069765593654
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "NOTE 3 : PRINCIPALES METHODES COMPTABLES",
+          "width" : 0.37782339718372715,
+          "x" : 0.09650924911518635,
+          "y" : 0.5987499998075559
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "Les principales méthodes comptables sont présentées ci-après.",
+          "width" : 0.48049279742021866,
+          "x" : 0.09445586602295007,
+          "y" : 0.5654069772244061
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "1. Comptabilisation des produits des activités ordinaires",
+          "width" : 0.4681724665162139,
+          "x" : 0.10677619081786835,
+          "y" : 0.5348837216284759
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017635658582051517,
+          "text" : "L'activité de SERVAIR ABIDJAN et ses contrats ont été analysés au regard de MIFRS 15 et des",
+          "width" : 0.7638603722670053,
+          "x" : 0.09650924286033713,
+          "y" : 0.5041666670097458
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "interprétations pertinentes. Gette norme requiert l'identification des obligations de prestation pour le",
+          "width" : 0.767967125271459,
+          "x" : 0.09445585473593389,
+          "y" : 0.4825000001557509
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017567830085754466,
+          "text" : "transfert de biens et services envers le client pour chaque contrat. Le chiffre d'affaires est comptabilisé",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650926815536648,
+          "y" : 0.46208333295205617
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310621,
+          "text" : "lorsque les obligations de prestation sont satisfaites sur la base du montant de la rémunération que la",
+          "width" : 0.7679671252714589,
+          "x" : 0.09445586498234022,
+          "y" : 0.4404069774424295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "Société s'attend à recevoir en échange du transfert des services au client. Le revenu lié aux prestations",
+          "width" : 0.7659137128239105,
+          "x" : 0.09650927225847576,
+          "y" : 0.4200000002211578
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017577519416809073,
+          "text" : "de services est reconnu lorsque les services ont été rendus. Les contreparties payables au client sous",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650927034369147,
+          "y" : 0.3982558138268073
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "forme de remise, de prime à la signature viennent en déduction des produits des activités ordinaires.",
+          "width" : 0.7535933819199058,
+          "x" : 0.09650926635524212,
+          "y" : 0.3762499996078018
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "Les actifs transférés par les clients à l'entité dans le cadre de ses activités de gestion de cantine ne",
+          "width" : 0.7659137128239104,
+          "x" : 0.09445586804903056,
+          "y" : 0.34583333358800716
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017606588204701734,
+          "text" : "sont pas comptabilisés en immobilisation dans la mesure où l'entité n'a pas de contrôle sur ces actifs.",
+          "width" : 0.7659137128239105,
+          "x" : 0.09650927225847576,
+          "y" : 0.32541666696300653
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "Le chiffre d'affaires inclut les redevances aéroportuaires dues par la Société dans le cadre de son",
+          "width" : 0.7638603722670053,
+          "x" : 0.09650924528333506,
+          "y" : 0.30375000004844976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "activité d'avitaillement aérien.",
+          "width" : 0.22587269130387772,
+          "x" : 0.09650924238707544,
+          "y" : 0.28488372100478776
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017645347913106346,
+          "text" : "2. les immobilisations incorporelles.",
+          "width" : 0.30184803525747206,
+          "x" : 0.10882957798214689,
+          "y" : 0.2512500000961718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538758913675956,
+          "text" : "Les immobilisations incorporelles sont comptabilisées s'il est probable que les avantages économiques",
+          "width" : 0.7659137128239105,
+          "x" : 0.09445586502028318,
+          "y" : 0.22083333346333456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538758913675956,
+          "text" : "futurs attribuables à l'actif iront à l'entité et si le coût de cet actif peut être évalué de façon fiable. Ces",
+          "width" : 0.7679671252714592,
+          "x" : 0.09445585281601608,
+          "y" : 0.19912790751397758
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018924418290456102,
+          "text" : "immobilisations entrent initialement en comptabilité par le coût d'acquisition. Ultérieurement SERVAIR",
+          "width" : 0.767967125271459,
+          "x" : 0.09445586790108475,
+          "y" : 0.17732558195083892
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01760658899943035,
+          "text" : "ABIDJAN adopte le modèle de coût pour les évaluer. Ainsi après leur comptabilisation initiale, les",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650927034369147,
+          "y" : 0.15697674405936535
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017616279125213685,
+          "text" : "immobilisations incorporelles sont comptabilisées à leur coût diminué du cumul des amortissements et",
+          "width" : 0.7679671252714592,
+          "x" : 0.09445585814455806,
+          "y" : 0.1349999999549557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01893410762151082,
+          "text" : "du cumul des pertes de valeur. Elles sont linéairement amorties sur leur durée d'utilité dès qu'elles",
+          "width" : 0.7659137128239105,
+          "x" : 0.09650925736627883,
+          "y" : 0.11333333358794939
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187796,
+          "text" : "sont prêtes à être utilisées. Aucune valeur résiduelle n'a été retenue pour la détermination du montant",
+          "width" : 0.7659137128239104,
+          "x" : 0.09650925721374155,
+          "y" : 0.09291666654664599
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010174418290456178,
+          "text" : "SERVAIR",
+          "width" : 0.09445584929593187,
+          "x" : 0.8562628335313633,
+          "y" : 0.055232558223957895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "ABIDIAN",
+          "width" : 0.055441475588525524,
+          "x" : 0.882956880968571,
+          "y" : 0.04651162828460509
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2020-9\/page-010.pdf.png"
+}

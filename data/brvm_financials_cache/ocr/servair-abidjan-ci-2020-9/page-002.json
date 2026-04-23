@@ -1,0 +1,61 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03750000000000009,
+          "text" : "SERVAIR ABIDJAN SA",
+          "width" : 0.3058823584386962,
+          "x" : 0.34117646651594596,
+          "y" : 0.5916666661979166
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02791666666666659,
+          "text" : "GATE GROUP MEMBER",
+          "width" : 0.29774126428035746,
+          "x" : 0.3511293691431889,
+          "y" : 0.5129166661944842
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04583333333333328,
+          "text" : "ETATS FINANCIERS ANNUELS IFRS",
+          "width" : 0.5882352687444788,
+          "x" : 0.20588236056893708,
+          "y" : 0.4499999995416667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.027616278330484967,
+          "text" : "EXERCICE DE 12 MOIS CLOS AU 31\/12\/2020",
+          "width" : 0.5893223631087126,
+          "x" : 0.20533881776545898,
+          "y" : 0.3982558141505279
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "SERVAIR\/",
+          "width" : 0.10061601474793413,
+          "x" : 0.8542094472256223,
+          "y" : 0.05377906989036152
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009108415444691986,
+          "text" : "ABIDIAN",
+          "width" : 0.05965932210286451,
+          "x" : 0.8808479580095522,
+          "y" : 0.04631788540426918
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2020-9\/page-002.pdf.png"
+}

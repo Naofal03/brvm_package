@@ -1,0 +1,349 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.0381028811136882,
+          "text" : "KPMG",
+          "width" : 0.13364636855917347,
+          "x" : 0.09436778128983198,
+          "y" : 0.8544950711426212
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "Africa Global Logistics Côte d'Ivoire (AGL C\/) S.A.",
+          "width" : 0.3449691934214885,
+          "x" : 0.24229979409007713,
+          "y" : 0.8791666666270092
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310621,
+          "text" : "ECR International",
+          "width" : 0.20123202949586827,
+          "x" : 0.6899383988865629,
+          "y" : 0.8808139541393771
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01601744174957276,
+          "text" : "(Ex Bolloré Transport & Logistics Côte d'Ivolre S.A. (BTLCI S.A.))",
+          "width" : 0.44763859365798,
+          "x" : 0.24229980341057186,
+          "y" : 0.8662500002326433
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers annue\/s",
+          "width" : 0.4558521356122093,
+          "x" : 0.2443531872760311,
+          "y" : 0.8561046511356944
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025814,
+          "text" : "Exercice clos le 31 décembre 2022",
+          "width" : 0.22381929682899,
+          "x" : 0.24640657708174035,
+          "y" : 0.8458333332916171
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "- analyser l'évolution du chiffre d'affaires par activité à partir de notre",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024642151780912,
+          "y" : 0.7920833332628531
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "compréhension de chaque métier ;",
+          "width" : 0.2751539969472357,
+          "x" : 0.2689938461259714,
+          "y" : 0.777499999747706
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "- vérifier des transactions réalisées avant et après la date de clôture afin de",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024642454655648,
+          "y" : 0.7570833335914553
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016207420031229658,
+          "text" : "déterminer si les revenus ont été enregistrés dans la bonne période.",
+          "width" : 0.5298606054802526,
+          "x" : 0.26895060737274407,
+          "y" : 0.7433497783355697
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.0117926355202993,
+          "text" : "- Evaluation des débours",
+          "width" : 0.22792606780610464,
+          "x" : 0.24024640788339546,
+          "y" : 0.7004166667475915
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016027131875356093,
+          "text" : "Au 31 décembre 2022, le compte débours présente un solde créditeur de",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024641107119743,
+          "y" : 0.6758333332173251
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01762596925099691,
+          "text" : "11 734 millions FCFA. Ce montant représente 8% du total bilan inscrit dans les états",
+          "width" : 0.6509239816834144,
+          "x" : 0.238193033449874,
+          "y" : 0.6627906974605282
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "financiers clos à cette date.",
+          "width" : 0.21560575487476075,
+          "x" : 0.24024640567350253,
+          "y" : 0.6482558142485744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "Les débours résultent de milliers de commandes clients en cours de traitement.",
+          "width" : 0.6468172286789604,
+          "x" : 0.24024641816565315,
+          "y" : 0.6262499999605282
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016036822001139317,
+          "text" : "Ils font l'objet d'une analyse mensuelle par les services financiers de la société.",
+          "width" : 0.648870641126509,
+          "x" : 0.23819301078513708,
+          "y" : 0.6104166663473558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538759708404572,
+          "text" : "Cependant, au regard du risque d'erreur découlant du volume élevé de transactions",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024641107119743,
+          "y" : 0.5958333334269974
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01755813995997113,
+          "text" : "à analyser et du fait de l'incidence de leur apurement sur le compte d'exploitation,",
+          "width" : 0.6488706411265092,
+          "x" : 0.24024641077144762,
+          "y" : 0.5799418602802957
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "le contrôle des débours requiert une attention particulière.",
+          "width" : 0.4537987591099823,
+          "x" : 0.23613963838648716,
+          "y" : 0.5666666663374376
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999876,
+          "text" : "Notre audit a, de manière spécifique, consisté à réaliser les diligences suivantes :",
+          "width" : 0.6324435572180506,
+          "x" : 0.2402463939440205,
+          "y" : 0.544999999671185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "- vérifier l'efficacité opérationnelle des contrôles portant sur l'enregistrement des",
+          "width" : 0.648870641126509,
+          "x" : 0.23819300808150956,
+          "y" : 0.5232558140280436
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "- rapprocher les données de gestion avec celles comptabilisées ;",
+          "width" : 0.5236139555842351,
+          "x" : 0.2381930156627081,
+          "y" : 0.486918604725718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "- analyser les pièces justificatives des charges et produits d'exploitation résultant",
+          "width" : 0.6509239816834144,
+          "x" : 0.238193033449874,
+          "y" : 0.4649999999973067
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "de l'apurement des débours ;",
+          "width" : 0.22997946228099236,
+          "x" : 0.26694045174793646,
+          "y" : 0.4504166664518785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "- vérifier le correct traitement des soldes débours à forte antériorité.",
+          "width" : 0.544147828442469,
+          "x" : 0.23613963269868346,
+          "y" : 0.4287500002375735
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Responsabilités du conseil d'administration relatives aux états",
+          "width" : 0.6468172286789605,
+          "x" : 0.2402464229038461,
+          "y" : 0.38372092999573937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "financiers annuels",
+          "width" : 0.1704312022358565,
+          "x" : 0.23819302432941702,
+          "y" : 0.3706395351943801
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "Les états financiers annuels ont été établis et arrêtés par le conseil d'administration.",
+          "width" : 0.6509239816834144,
+          "x" : 0.2381930480956643,
+          "y" : 0.3254166664639909
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "Le conseil d'administration est responsable de la préparation et de la présentation",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024642724162817,
+          "y" : 0.30375000007042996
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "sincère des états financiers annuels conformément aux règles et méthodes",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024642292951348,
+          "y" : 0.28916666656376155
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011753876209259051,
+          "text" : "comptables édictées par l'Acte uniforme de l'OHADA relatif au droit comptable et à",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024640837612568,
+          "y" : 0.276162790634241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "l'information financière, ainsi que du contrôle interne qu'il estime nécessaire pour",
+          "width" : 0.6488706411265093,
+          "x" : 0.24024641239362415,
+          "y" : 0.25999999983272104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "permettre la préparation d'états financiers annuels ne comportant pas d'anomalies",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024640837612568,
+          "y" : 0.24563953505162683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "significatives, que celles-ci proviennent de fraudes ou résultent d'erreurs.",
+          "width" : 0.5708418667527053,
+          "x" : 0.23819302144910956,
+          "y" : 0.23110465163956273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Lors de la préparation des états financiers annuels, il incombe au conseil",
+          "width" : 0.6468172286789605,
+          "x" : 0.24024640978783005,
+          "y" : 0.20916666668138717
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "d'administration d'évaluer la capacité de la société à poursuivre son exploitation, de",
+          "width" : 0.6468172286789606,
+          "x" : 0.24024642454655648,
+          "y" : 0.1945833335261411
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "fournir, le cas échéant, des informations relatives à la continuité d'exploitation et",
+          "width" : 0.6509239816834144,
+          "x" : 0.2381930464683544,
+          "y" : 0.18023255844188835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015394156773885115,
+          "text" : "d'appliquer la base de continuité d'exploitation, sauf si le conseil d'administration a",
+          "width" : 0.644871148962014,
+          "x" : 0.2401911838894713,
+          "y" : 0.16351218590715388
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "l'intention de mettre la société en liquidation ou de cesser ses activités ou s'il n'existe",
+          "width" : 0.6488706411265092,
+          "x" : 0.23819301496035938,
+          "y" : 0.15116279056156656
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "aucune autre solution alternative réaliste qui s'offre à elle.",
+          "width" : 0.44763859365798,
+          "x" : 0.24024641606628716,
+          "y" : 0.136627907015055
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Il incombe au conseil d'administration de surveiller le processus d'élaboration de",
+          "width" : 0.648870641126509,
+          "x" : 0.23819302268109854,
+          "y" : 0.11482558146272936
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635520299188,
+          "text" : "l'information financière de la société.",
+          "width" : 0.2874743278512404,
+          "x" : 0.23819302447273702,
+          "y" : 0.10029069768365961
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2022-4\/page-005.pdf.png"
+}

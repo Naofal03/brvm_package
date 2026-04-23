@@ -1,0 +1,53 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666663,
+          "text" : "Fait à Abidjan, le 22 Avril 2020",
+          "width" : 0.1889116985918636,
+          "x" : 0.11704312086149474,
+          "y" : 0.8850000000497035
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "esident Directeur Général",
+          "width" : 0.20328542397075602,
+          "x" : 0.13347022690065888,
+          "y" : 0.8458333332963692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Edouard ROCHET",
+          "width" : 0.12114989659249852,
+          "x" : 0.11498973196555774,
+          "y" : 0.7687499997569122
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02180232524871828,
+          "text" : "Directeur Administratif & Financier",
+          "width" : 0.2710472259701211,
+          "x" : 0.6057494898896829,
+          "y" : 0.8415697675960866
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016938228607177752,
+          "text" : "Philippe COQU",
+          "width" : 0.10500457008820119,
+          "x" : 0.6056085978130157,
+          "y" : 0.7640599556246561
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/cfao-motors-ci-2019-6\/page-004.pdf.png"
+}

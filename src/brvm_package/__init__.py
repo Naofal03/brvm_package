@@ -7,7 +7,7 @@ from .objects.market import Market
 from .objects.portfolio import Portfolio
 from .objects.ticker import Ticker
 from .api.download import download, download_all, live_price, returns
-from .api.fundamentals import dividends, financials, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
+from .api.fundamentals import dividends, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
 from .api.macro import fcfa_exchange_rates, inflation, macro_events
 from .api.market import (
     asset_info,

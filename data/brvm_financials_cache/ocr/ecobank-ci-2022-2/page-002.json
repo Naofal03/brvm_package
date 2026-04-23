@@ -1,0 +1,629 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03633721033732096,
+          "text" : "Ecobank",
+          "width" : 0.18275153313986126,
+          "x" : 0.7515400449393097,
+          "y" : 0.9186046508269791
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497353,
+          "x" : 0.7453798811808604,
+          "y" : 0.9011627908002662
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "FAITS MARQUANTS",
+          "width" : 0.18685830411697582,
+          "x" : 0.036960993547261504,
+          "y" : 0.872083333461454
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "La",
+          "width" : 0.030800820520263963,
+          "x" : 0.036960986557116465,
+          "y" : 0.8444767444158184
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.011734495957692381,
+          "text" : "banque a poursuivi,",
+          "width" : 0.252566729614114,
+          "x" : 0.08418891024427781,
+          "y" : 0.8429166668237642
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014978521664937294,
+          "text" : "malgré",
+          "width" : 0.11304883653620529,
+          "x" : 0.34285956615845764,
+          "y" : 0.8413479487154638
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "un L'amélioration continue de l'efficience a été",
+          "width" : 0.505133459228228,
+          "x" : 0.45790554122777527,
+          "y" : 0.8444767440983882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "environnement qui continue d'être marqué par",
+          "width" : 0.45790551211443614,
+          "x" : 0.03696099928159107,
+          "y" : 0.8241279070174697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116500854439,
+          "text" : "confirmée au cours de l'année avec un",
+          "width" : 0.45585213561220916,
+          "x" : 0.507186860941329,
+          "y" : 0.827034883633272
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "les relents de la crise sanitaire mondiale le",
+          "width" : 0.4620123010642116,
+          "x" : 0.03285422602504662,
+          "y" : 0.808139535360493
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "coefficient d'exploitation approchant désormais",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868506364456,
+          "y" : 0.8066666662982793
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "déploiement de son plan stratégique « Réussir",
+          "width" : 0.45790554805975786,
+          "x" : 0.036960987486205917,
+          "y" : 0.7877906978822102
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015394851366678841,
+          "text" : "les 45%.",
+          "width" : 0.08038562824083018,
+          "x" : 0.5049817230677842,
+          "y" : 0.788814202156888
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Ensemble » avec pour ambition de continuer à",
+          "width" : 0.4579055480597578,
+          "x" : 0.036960989394145626,
+          "y" : 0.771666666554207
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014593023459116616,
+          "text" : "croître, de renforcer la diversification de ses",
+          "width" : 0.45790551211443614,
+          "x" : 0.03696099620150906,
+          "y" : 0.7529069766128303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703885,
+          "text" : "revenus et d'améliorer son efficience.",
+          "width" : 0.3490759464259423,
+          "x" : 0.03490761782056731,
+          "y" : 0.7369186048856868
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "La banque accorde la plus grande importance",
+          "width" : 0.4558521356122093,
+          "x" : 0.509240249031678,
+          "y" : 0.7629166666239597
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014534883499145446,
+          "text" : "à l'expérience qu'elle donne à ses clients et au",
+          "width" : 0.45379875910998235,
+          "x" : 0.5112936373084586,
+          "y" : 0.7456395351762994
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652133,
+          "text" : "renforcement de son rôle environnemental et",
+          "width" : 0.4579055480597578,
+          "x" : 0.5092402490296692,
+          "y" : 0.7295833331696882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014651162624359282,
+          "text" : "La croissance a été marquée par l'atteinte d'un",
+          "width" : 0.45995892456198467,
+          "x" : 0.03490760597362769,
+          "y" : 0.7078488374074039
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197224,
+          "text" : "sociétal afin de garantir le bien-être de ses",
+          "width" : 0.4722792554659894,
+          "x" : 0.4928131364696065,
+          "y" : 0.7091666670617864
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "nouveau palier en terme de bénéfice, à la communautés. Ainsi, les différents engagements",
+          "width" : 0.9301847675804256,
+          "x" : 0.03696101592744615,
+          "y" : 0.6916666667578231
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "faveur de la progression notable des revenus et ci-après ont été poursuivis :",
+          "width" : 0.7392197104589958,
+          "x" : 0.032854201238674746,
+          "y" : 0.672916666519437
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de l'amélioration du coût du risque. Le",
+          "width" : 0.4599589245619847,
+          "x" : 0.03696099713036946,
+          "y" : 0.6569767445174698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "rendement du capital s'est établi au-dessus",
+          "width" : 0.4599589245619846,
+          "x" : 0.03490760904002041,
+          "y" : 0.6395348838802721
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "- Assurer une excellente qualité de service :",
+          "width" : 0.43737163925620215,
+          "x" : 0.505133487687094,
+          "y" : 0.6466666663881819
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "du seuil de 25%.",
+          "width" : 0.14989732937762257,
+          "x" : 0.03490759627114768,
+          "y" : 0.6206395349219389
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091085354486998,
+          "text" : "Plusieurs initiatives visant à l'amélioration de",
+          "width" : 0.45174538260775543,
+          "x" : 0.5112936347228163,
+          "y" : 0.6220833331549327
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "l'expérience offerte à la clientèle ont été",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868547380883,
+          "y" : 0.6016666667526221
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "27,2%",
+          "width" : 0.04517453466624338,
+          "x" : 0.3182751553568167,
+          "y" : 0.5901162792243573
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008817829291025814,
+          "text" : "+ 389 bps vs 2020",
+          "width" : 0.11293634565193883,
+          "x" : 0.1622176573845029,
+          "y" : 0.582848837441582
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "mises en œuvre avec comme point d'orgue la",
+          "width" : 0.45174538260775543,
+          "x" : 0.5112936376488942,
+          "y" : 0.5857558142849117
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "mise en place d'un numéro d'appel simplifé de",
+          "width" : 0.45585213561220916,
+          "x" : 0.5092402611877351,
+          "y" : 0.5666666667432882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "4 chiffres « 9955 » pour une rapide et meilleure",
+          "width" : 0.45379875910998235,
+          "x" : 0.50924024327184,
+          "y" : 0.550833333152011
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010331985950470024,
+          "text" : "23,7%",
+          "width" : 0.04114529774803996,
+          "x" : 0.23610086262592514,
+          "y" : 0.5289909838953408
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "prise en charge des réclamations et besoins des",
+          "width" : 0.4558521356122093,
+          "x" : 0.5112936504177146,
+          "y" : 0.5319767445356384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00933425744374583,
+          "text" : "23,4%",
+          "width" : 0.041319843737059686,
+          "x" : 0.15182467782409087,
+          "y" : 0.5229491503276353
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013856954574585023,
+          "text" : "clients.",
+          "width" : 0.06396507290142595,
+          "x" : 0.5111386128017897,
+          "y" : 0.5156005927060823
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "- Être un employeur leader sur la diversité et",
+          "width" : 0.45379875910998235,
+          "x" : 0.5112936319782055,
+          "y" : 0.4883333335443599
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "l'inclusion :",
+          "width" : 0.10882956568849378,
+          "x" : 0.5071868606435794,
+          "y" : 0.470833333200423
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849286,
+          "text" : "Rendement des capitaux propres",
+          "width" : 0.20328542397075605,
+          "x" : 0.15605749589449874,
+          "y" : 0.45625000010963856
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Le développement et l'épanouissement des",
+          "width" : 0.45585213561220916,
+          "x" : 0.5092402568345524,
+          "y" : 0.4416666666971759
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "•2020 • 2021 •2022",
+          "width" : 0.1540041003547372,
+          "x" : 0.1827515428068888,
+          "y" : 0.43313953504332614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "collaborateurs restent un enjeu clé pour",
+          "width" : 0.45585213561220916,
+          "x" : 0.5112936492780843,
+          "y" : 0.42583333324891026
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Ecobank Côte d'Ivoire. La banque s'est ainsi",
+          "width" : 0.45585213561220916,
+          "x" : 0.509240258477263,
+          "y" : 0.40697674415159
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Outre la montée en puissance des revenus issus",
+          "width" : 0.4579055121144361,
+          "x" : 0.036961009274746125,
+          "y" : 0.3837209305639814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "distinguée par des actions concrètes en faveur",
+          "width" : 0.4579055480597578,
+          "x" : 0.5092402482664934,
+          "y" : 0.3895348839044971
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "des segments de la banque des particuliers et",
+          "width" : 0.4579055480597578,
+          "x" : 0.036960989394145626,
+          "y" : 0.3662500001370481
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "de la diversité, de l'inclusion et de l'équité de",
+          "width" : 0.45585213561220916,
+          "x" : 0.509240255027571,
+          "y" : 0.37063953468687305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "traitement.",
+          "width" : 0.10677618019993651,
+          "x" : 0.5092402484352815,
+          "y" : 0.3575581396677565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015818227926890027,
+          "text" : "de la banque commerciale pour accompagner",
+          "width" : 0.4581362091891195,
+          "x" : 0.03683056590581511,
+          "y" : 0.3463681970730905
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "l'activité croissante du",
+          "width" : 0.22176590235410226,
+          "x" : 0.03285421736504329,
+          "y" : 0.3312499996369993
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "segment des grandes - Soutenir les financements à l'endroit des",
+          "width" : 0.6837782213909747,
+          "x" : 0.2813141633291537,
+          "y" : 0.329941860527559
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "entreprises, les revenus liés aux commissions ont femmes :",
+          "width" : 0.5687884902504785,
+          "x" : 0.03696098390453507,
+          "y" : 0.3124999997061676
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "représenté 35% du Produit Net Bancaire.",
+          "width" : 0.3839835626357296,
+          "x" : 0.032854219375153614,
+          "y" : 0.29499999964946777
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01797224998474123,
+          "text" : "L'accompagnement des femmes au travers du",
+          "width" : 0.4520713707302709,
+          "x" : 0.5111181163526306,
+          "y" : 0.2824381857960696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "50,4%",
+          "width" : 0.04312114917768606,
+          "x" : 0.16221765905249855,
+          "y" : 0.2674418604526402
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "programme « Ellever » a permis la mise en place",
+          "width" : 0.45379875910998235,
+          "x" : 0.5092402536713948,
+          "y" : 0.2645348839044971
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "- 501 bps vs 2020",
+          "width" : 0.1108829511770511,
+          "x" : 0.26694045274823014,
+          "y" : 0.2587209303169812
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "de formations pour le renforcement de leurs",
+          "width" : 0.45379875910998235,
+          "x" : 0.511293632594222,
+          "y" : 0.24854651198104738
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "compétences,",
+          "width" : 0.1396303839621752,
+          "x" : 0.5092402512427316,
+          "y" : 0.22819767456583429
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "l'octroi de financements",
+          "width" : 0.3162217426637036,
+          "x" : 0.648870644222563,
+          "y" : 0.23250000010384553
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "47,1%",
+          "width" : 0.043121149177686086,
+          "x" : 0.2443531834707052,
+          "y" : 0.22093023264005496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "spécifiquement à l'attention de femmes",
+          "width" : 0.4558521356122093,
+          "x" : 0.5092402525224375,
+          "y" : 0.21366279082560924
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "45,4%",
+          "width" : 0.04517453915940861,
+          "x" : 0.3285420942464421,
+          "y" : 0.19767441868656666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "entrepreneurs (une première cohorte de 2 115",
+          "width" : 0.4558521356122093,
+          "x" : 0.5092402533731268,
+          "y" : 0.19458333347206158
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "femmes, pour un montant de 8 milliards de",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868534649877,
+          "y" : 0.17583333311800342
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "FCFA), leur digitalisation, la création d'un réseau",
+          "width" : 0.45379875910998235,
+          "x" : 0.5092402540765723,
+          "y" : 0.15833333372020275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "de mentorat, et l'organisation d'évènements de",
+          "width" : 0.45585213561220916,
+          "x" : 0.5092402611877351,
+          "y" : 0.14083333329511527
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008759689728419007,
+          "text" : "Coefficient d'exploitation",
+          "width" : 0.15605749482962492,
+          "x" : 0.18891170172960922,
+          "y" : 0.12790697700069054
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "réseautage pour favoriser les échanges entre",
+          "width" : 0.4579055480597578,
+          "x" : 0.5071868601761442,
+          "y" : 0.1235465118114738
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008788759311040284,
+          "text" : "•2020 • 2021 •2022",
+          "width" : 0.1540041003547372,
+          "x" : 0.1930184817784836,
+          "y" : 0.10458333333458691
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "elles et encourager des partenariats.",
+          "width" : 0.3490759464259422,
+          "x" : 0.511293654781553,
+          "y" : 0.10749999980943659
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.12525666756961312,
+          "x" : 0.04106776686543291,
+          "y" : 0.06831395361649284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | 01 B.P 4107 | Abidjan 01 - Côte d'lvoire",
+          "width" : 0.5605749482962493,
+          "x" : 0.041067768998692473,
+          "y" : 0.058139535261349184
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572834,
+          "text" : "Tel : (225) 27 20 31 92 00 | Fax : (225) 27 20 21 88 16 | Swift : ECOCCIAB | Web : ww.ecobank.com",
+          "width" : 0.5174537901322328,
+          "x" : 0.04106775750061905,
+          "y" : 0.049418604682384126
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Société Anonyme avec Conseil d'Administration au Capital F CFA 27 525 300 000 * R CCM CI - ABJ - 1988 - B - 130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.827515367343934,
+          "x" : 0.041067764548430384,
+          "y" : 0.0275000000289769
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2022-2\/page-002.pdf.png"
+}

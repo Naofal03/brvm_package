@@ -1,0 +1,1189 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Ratio de fonds propres",
+          "width" : 0.10488245793892634,
+          "x" : 0.05244122865561223,
+          "y" : 0.9156976747452757
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "СЕТ 1",
+          "width" : 0.025316456046836508,
+          "x" : 0.054249547654701094,
+          "y" : 0.9069767442674479
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378758,
+          "text" : "9,37%",
+          "width" : 0.028933091776994255,
+          "x" : 0.054249548216385335,
+          "y" : 0.874999999994799
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "Norme",
+          "width" : 0.030741408652784408,
+          "x" : 0.15009041631857467,
+          "y" : 0.8648255813781206
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007657225131988521,
+          "text" : ">= 6,88%",
+          "width" : 0.043498292503515223,
+          "x" : 0.13738286025722196,
+          "y" : 0.8559097594608631
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Ratio de fonds propres",
+          "width" : 0.10488245793892634,
+          "x" : 0.20253164499075385,
+          "y" : 0.9156976747028824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "de base",
+          "width" : 0.03797468209167734,
+          "x" : 0.2025316456630221,
+          "y" : 0.9083333332699
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572834,
+          "text" : "T1",
+          "width" : 0.012658228023418261,
+          "x" : 0.2043399638213228,
+          "y" : 0.8982558139483725
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "9,37%",
+          "width" : 0.03074141063136185,
+          "x" : 0.20253164511379465,
+          "y" : 0.8750000002322796
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849286,
+          "text" : "Ratio de levier",
+          "width" : 0.06871608876588431,
+          "x" : 0.20253164934822115,
+          "y" : 0.8312500000854137
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Norme",
+          "width" : 0.03074141063136182,
+          "x" : 0.3001808321391111,
+          "y" : 0.8648255815053008
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007394636472066285,
+          "text" : ">= 7,88%",
+          "width" : 0.04343240191827674,
+          "x" : 0.2875062214643428,
+          "y" : 0.8560410537821954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849286,
+          "text" : "Norme de division",
+          "width" : 0.08499095647661517,
+          "x" : 0.05244122956006494,
+          "y" : 0.8312499999642897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007500000000000062,
+          "text" : "des risques",
+          "width" : 0.05605786667819834,
+          "x" : 0.0524412301102679,
+          "y" : 0.8225000000267827
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "0,00%",
+          "width" : 0.028933091776994255,
+          "x" : 0.05424954850571624,
+          "y" : 0.78924418642414
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "5,85%",
+          "width" : 0.02893309177699424,
+          "x" : 0.20433996441891697,
+          "y" : 0.78924418642414
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Norme",
+          "width" : 0.03074141063136185,
+          "x" : 0.1500904162259104,
+          "y" : 0.7805232559239055
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008817829291025814,
+          "text" : ">= 45%",
+          "width" : 0.036166365215887175,
+          "x" : 0.14466546055058566,
+          "y" : 0.7703488374658067
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Norme",
+          "width" : 0.03074141063136182,
+          "x" : 0.3001808321391111,
+          "y" : 0.7805232559239055
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008817829291025814,
+          "text" : ">= 3%",
+          "width" : 0.028933091776994213,
+          "x" : 0.30018083168835646,
+          "y" : 0.7703488374415819
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "Norme",
+          "width" : 0.030741408652784408,
+          "x" : 0.4502712482052533,
+          "y" : 0.7805232559905237
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : ">= 20%",
+          "width" : 0.036166365215887175,
+          "x" : 0.4448462935825326,
+          "y" : 0.770348837337423
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "La conformité des ratios de la Banque avec les normes prudentielles",
+          "width" : 0.44484628384538705,
+          "x" : 0.043399646594485454,
+          "y" : 0.7427325582214503
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378758,
+          "text" : "édictées",
+          "width" : 0.05063291209367301,
+          "x" : 0.043399638492042335,
+          "y" : 0.73110465112852
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "par la Banque Centrale démontre la solidité de son bilan",
+          "width" : 0.3887884052957242,
+          "x" : 0.09945750877468187,
+          "y" : 0.729583333138281
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475827,
+          "text" : "notamment en matière d'exigence de fonds propres en adéquation avec les",
+          "width" : 0.44484628384538705,
+          "x" : 0.043399647335895936,
+          "y" : 0.7150000000119344
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010415174961090123,
+          "text" : "risques.",
+          "width" : 0.048901561879518114,
+          "x" : 0.04336115477432625,
+          "y" : 0.7019145055144707
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "Dispositif de gestion des risques",
+          "width" : 0.2097649158778527,
+          "x" : 0.04339963621417806,
+          "y" : 0.6787500001456119
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "La Banque s'est dotée d'un dispositif de gestion des risques conforme aux",
+          "width" : 0.4466546086354869,
+          "x" : 0.04339964520757284,
+          "y" : 0.6627906979876732
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475827,
+          "text" : "principes édictés par les circulaires applicables aux établissements de crédit",
+          "width" : 0.44846293342558674,
+          "x" : 0.041591321834524235,
+          "y" : 0.6482558140354038
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "et compagnies financières de l'UMOA.",
+          "width" : 0.22603977567427386,
+          "x" : 0.043399644825611663,
+          "y" : 0.634999999962409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705102920577,
+          "text" : "Ce dispositif repose sur les éléments suivants :",
+          "width" : 0.2784810046437371,
+          "x" : 0.04339963999277897,
+          "y" : 0.6090116281100162
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011753876209259051,
+          "text" : "• la définition et la diffusion d'une culture du risque au sein de la Banque ;",
+          "width" : 0.43218804197192684,
+          "x" : 0.0560578718711797,
+          "y" : 0.587083333277624
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011695736646652133,
+          "text" : "• la définition d'un cadre d'appétence aux risques ;",
+          "width" : 0.29837251402035786,
+          "x" : 0.05605786222580666,
+          "y" : 0.571220930205462
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "• la mise à jour périodique de la cartographie des risques de la Banque ;",
+          "width" : 0.4249547744687662,
+          "x" : 0.05605787897266918,
+          "y" : 0.5552325582941248
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "• la mise en oeuvre d'un mécanisme de tests de résistance (stress-test)",
+          "width" : 0.42133815654580525,
+          "x" : 0.05605786988261264,
+          "y" : 0.5391666666970831
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "complet ;",
+          "width" : 0.05605786667819834,
+          "x" : 0.06509945655692255,
+          "y" : 0.5261627908002662
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "• la limitation des pouvoirs du Directeur Général.",
+          "width" : 0.2857142721468977,
+          "x" : 0.05605787653957096,
+          "y" : 0.5099999999624089
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01182170550028483,
+          "text" : "Ces mesures ont permis une meilleure maîtrise des risques et ont eu pour",
+          "width" : 0.4466546086354869,
+          "x" : 0.04339964520757284,
+          "y" : 0.4840116279888921
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "effet de réduire le coût net du risque.",
+          "width" : 0.21880650817111322,
+          "x" : 0.043399642870440874,
+          "y" : 0.4723837211115548
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "Dispositif de Gouvernance (nomination de nouveaux administrateurs)",
+          "width" : 0.44122963426518735,
+          "x" : 0.045207963265236455,
+          "y" : 0.44912790692784577
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "En conformité avec les nouvelles règles de gouvernance édictées par la",
+          "width" : 0.44484628384538705,
+          "x" : 0.0433996484480116,
+          "y" : 0.4331395349656363
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046123504656,
+          "text" : "circulaire N°1-2017\/CB\/C relative à la gouvernance dans les établissements",
+          "width" : 0.4448462838453871,
+          "x" : 0.04339964312854213,
+          "y" : 0.42000000018508377
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "de crédit et les compagnies financières, l'Assemblée Générale Ordinaire du",
+          "width" : 0.4448462838453871,
+          "x" : 0.04339964011467847,
+          "y" : 0.40541666662996567
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "28 mai 2019 a validé la nouvelle composition du Conseil d'Administration.",
+          "width" : 0.44484628384538705,
+          "x" : 0.043399647335895936,
+          "y" : 0.392441860503427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "Dans le cadre du renforcement de la gouvernance, deux nouveaux",
+          "width" : 0.4430379590552872,
+          "x" : 0.04520796884486987,
+          "y" : 0.37790697684063634
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "administrateurs indépendants ont été nommés. Il s'agit de Monsieur",
+          "width" : 0.4466546086354869,
+          "x" : 0.04339964520757284,
+          "y" : 0.3648255814772642
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "Edouard MESSOU (Expert-Comptable Diplômé et précédemment Directeur",
+          "width" : 0.44484628384538705,
+          "x" : 0.04520796671202608,
+          "y" : 0.35029069775633404
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "francophone du cabinet international PWC) et du",
+          "width" : 0.3996383223790846,
+          "x" : 0.08860759526012643,
+          "y" : 0.33708333338429064
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Professeur François KABORE (PhD, économiste et enseignant à",
+          "width" : 0.4466546086354869,
+          "x" : 0.04159132455076599,
+          "y" : 0.3212209305639814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Georgetown University, Etats-Unis). Ces",
+          "width" : 0.2802893294338369,
+          "x" : 0.04339963935179763,
+          "y" : 0.30813953469916344
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "apporteront leur expertise reconnue dans les comités spécialisés (Comité",
+          "width" : 0.44484628384538705,
+          "x" : 0.043399638438970156,
+          "y" : 0.2949999998943087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "d'Audit, Comité des Risques et Comité de Rémunération) dont ils sont",
+          "width" : 0.4466546086354869,
+          "x" : 0.04339964409093642,
+          "y" : 0.28197674441581844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "devenus membres. Le Conseil d'Administration se compose désormais",
+          "width" : 0.44484628384538705,
+          "x" : 0.04339964552757764,
+          "y" : 0.26744186035807826
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085574,
+          "text" : "de 11 membres, dont 4 administrateurs indépendants.",
+          "width" : 0.31826399173974,
+          "x" : 0.04339965367805033,
+          "y" : 0.25290697678976437
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "PERSPECTIVES 2020",
+          "width" : 0.15189872836670937,
+          "x" : 0.0415913228419618,
+          "y" : 0.20624999999326665
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "L'année 2020 sera marquée par la finalisation de l'opération d'Apport",
+          "width" : 0.44122963426518735,
+          "x" : 0.043399645736604694,
+          "y" : 0.18458333348818634
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Partiel d'Actif de Diamond Bank Cl à NSIA Banque Cl et concrétisera le",
+          "width" : 0.44122963426518735,
+          "x" : 0.04339965206571847,
+          "y" : 0.17151162772241924
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01172480622927341,
+          "text" : "projet de croissance externe initié en 2018. La participation effective de",
+          "width" : 0.44122963426518735,
+          "x" : 0.04339965309043216,
+          "y" : 0.15833333336904365
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "NSIA Banque Cl à la conduite des opérations de Diamond Bank Cl tout au",
+          "width" : 0.4412296342651874,
+          "x" : 0.04339965382581494,
+          "y" : 0.14534883743907434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "long de l'exercice 2019 aura pour effet de faciliter l'intégration",
+          "width" : 0.4412296342651874,
+          "x" : 0.04339964389814789,
+          "y" : 0.13081395342493884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "opérationnelle de cette entité lorsque les autorisations requises auront été",
+          "width" : 0.4430379590552872,
+          "x" : 0.04159132050249524,
+          "y" : 0.1177325582239579
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895587921142534,
+          "text" : "obtenues.",
+          "width" : 0.05790662567645188,
+          "x" : 0.043379418445844746,
+          "y" : 0.10456383398055835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "Dans une optique de diversification des sources de refinancement, NSIA",
+          "width" : 0.4412296342651874,
+          "x" : 0.04339965416035376,
+          "y" : 0.08124999988659998
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "Banque Cl a choisi de céder une partie de son portefeuille de créances à",
+          "width" : 0.4412296342651874,
+          "x" : 0.043399645001221974,
+          "y" : 0.06666666652535791
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014718991915384949,
+          "text" : "© 80 200 800",
+          "width" : 0.11392405023218682,
+          "x" : 0.2622061475330929,
+          "y" : 0.00708333348244361
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524315,
+          "text" : "COMMUNIQUÉ",
+          "width" : 0.18987342232985116,
+          "x" : 0.7703435790550864,
+          "y" : 0.9476744184293348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "Ratio de solvabilité total",
+          "width" : 0.1084990916905067,
+          "x" : 0.3526220649142403,
+          "y" : 0.917083333479936
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008856588999430315,
+          "text" : "CEТ 1",
+          "width" : 0.027124772922626716,
+          "x" : 0.3544303805368783,
+          "y" : 0.9069767441517758
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "10,60%",
+          "width" : 0.034358044382942154,
+          "x" : 0.3526220630029231,
+          "y" : 0.8750000004139656
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Norme",
+          "width" : 0.030741410631361876,
+          "x" : 0.45027124805231183,
+          "y" : 0.8648255815053008
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572834,
+          "text" : ">= 10,38%",
+          "width" : 0.04882459126072797,
+          "x" : 0.4321880652195456,
+          "y" : 0.8561046511455624
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Limite sur les prêts aux",
+          "width" : 0.1066907748147165,
+          "x" : 0.352622064642069,
+          "y" : 0.8299418606948882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008779069582621313,
+          "text" : "actionnaires, aux",
+          "width" : 0.083182639600825,
+          "x" : 0.3526220607149583,
+          "y" : 0.8212209304648377
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008749999999999925,
+          "text" : "dirigeants et au",
+          "width" : 0.07233273043177435,
+          "x" : 0.3526220624513823,
+          "y" : 0.8124999999802641
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009589023590087953,
+          "text" : "personnel",
+          "width" : 0.047254253719852146,
+          "x" : 0.3525030717683278,
+          "y" : 0.8033450229961344
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "18,43%",
+          "width" : 0.034358044382942154,
+          "x" : 0.35262206237001176,
+          "y" : 0.7892441862787912
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "un Fonds Commun de Titrisation de Créances. L'émission des",
+          "width" : 0.4430379590552872,
+          "x" : 0.513562402178203,
+          "y" : 0.9229166666746539
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "obligations du FCTC NSIA Banque 7% 2020 - 2025 a eu lieu entre le",
+          "width" : 0.44122963426518735,
+          "x" : 0.5135624017341934,
+          "y" : 0.9083333333690436
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "7 février et le 6 mars 2020. Cette opération portant sur un montant de",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135623968738029,
+          "y" : 0.8937499999448171
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01168604652086902,
+          "text" : "40 milliards FCFA a vu la participation de la Société Financière",
+          "width" : 0.4430379590552872,
+          "x" : 0.5117540691462567,
+          "y" : 0.8808139534491635
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "Internationale (SFI) comme investisseur de référence et a enregistré la",
+          "width" : 0.4430379590552872,
+          "x" : 0.5117540691462567,
+          "y" : 0.8677325582724076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "participation remarquable d'une grande diversité d'investisseurs tant par la",
+          "width" : 0.44122963426518735,
+          "x" : 0.5135624024695762,
+          "y" : 0.8531976744859853
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "catégorie (particuliers, compagnies d'assurances, caisses de retraite et",
+          "width" : 0.4430379590552872,
+          "x" : 0.5135623892562625,
+          "y" : 0.838662790634241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "fonds",
+          "width" : 0.04701627438493783,
+          "x" : 0.5117540697394177,
+          "y" : 0.8270348840743338
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "communs de placement) que par la géographie (plus",
+          "width" : 0.39782999758898474,
+          "x" : 0.5569620289330546,
+          "y" : 0.8241279069375356
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "de 80% des souscriptions provenaient de pays hors Afrique). Les fonds",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.8110465117098224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "levés lors cette transaction permettent à la Banque d'optimiser sa capacité",
+          "width" : 0.4430379590552872,
+          "x" : 0.513562402178203,
+          "y" : 0.7979166665510222
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "d'intervention auprès des PME dans un contexte marqué par la hausse de",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.784883721012148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "la demande de crédit.",
+          "width" : 0.12839059315281787,
+          "x" : 0.5135623898461348,
+          "y" : 0.7732558141711479
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011666666666666603,
+          "text" : "Ce début d'année 2020 est marqué par les incertitudes liées à la pandémie",
+          "width" : 0.44122963426518746,
+          "x" : 0.5135623936449831,
+          "y" : 0.7499999999511016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "à Coronavirus. En riposte à ce choc inattendu, la Banque a déclenché son",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.7369186047330782
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "plan de continuité d'activité afin de maintenir son niveau de service et",
+          "width" : 0.4430379590552872,
+          "x" : 0.5135623948804026,
+          "y" : 0.7252906978293421
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666663,
+          "text" : "d'être au côté de sa clientèle face à cette situation. Un Comité de crise",
+          "width" : 0.44122963426518735,
+          "x" : 0.5135624024695762,
+          "y" : 0.7120833333043565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "a été mis en place au sein du Conseil d'Administration, lors de sa dernière",
+          "width" : 0.4430379590552872,
+          "x" : 0.513562402178203,
+          "y" : 0.699127907034435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "session tenue le 23 mars 2020, avec pour mission de suivre l'évolution de",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540806812845,
+          "y" : 0.6860465116855976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085574,
+          "text" : "la situation de la Banque tant au niveau de l'exploitation que de la situation",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540772454799,
+          "y" : 0.6729166666576889
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663663,
+          "text" : "Les premières évaluations macroéconomiques provenant du Fonds",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.6379166664713511
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "Monétaire International (FMI) annoncent un ralentissement de l'économie,",
+          "width" : 0.4430379590552872,
+          "x" : 0.5135623998876667,
+          "y" : 0.6250000000794078
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "voire une phase de récession, qui aura un impact négatif sur le PNB de",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540788277585,
+          "y" : 0.6119186047330782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "la Banque et entraînera très sûrement une hausse du coût du risque. La",
+          "width" : 0.4430379590552872,
+          "x" : 0.513562402178203,
+          "y" : 0.6002906979041905
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "réorganisation résultant de la mise en œuvre du dispositif de poursuite de",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135623895199755,
+          "y" : 0.587083333277624
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "l'activité engendrera probablement une augmentation des charges",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540806812845,
+          "y" : 0.574127907034435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154539744133,
+          "text" : "d'exploitation. Des tensions sur la liquidité et le marché interbancaire",
+          "width" : 0.44122963426518735,
+          "x" : 0.513562398117557,
+          "y" : 0.561046512104679
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01187756935755413,
+          "text" : "pourraient survenir.",
+          "width" : 0.11429856328054089,
+          "x" : 0.5133434254289018,
+          "y" : 0.5478649055156711
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "Le Régulateur a édicté une série de mesures visant à atténuer l'impact",
+          "width" : 0.4430379590552872,
+          "x" : 0.5135623992246167,
+          "y" : 0.5290697675383108
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "de la pandémie sur le système bancaire et à assurer la continuité du",
+          "width" : 0.44122963426518746,
+          "x" : 0.5135623936449831,
+          "y" : 0.5158333332105066
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "financement de l'activité économique dans l'Union.",
+          "width" : 0.33815550111636095,
+          "x" : 0.5135623997432057,
+          "y" : 0.5041666667071292
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Ces mesures",
+          "width" : 0.10307414106313617,
+          "x" : 0.8535262188897702,
+          "y" : 0.5041666667071292
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "ont pour objectif de garantir la liquidité du marché bancaire (à travers une",
+          "width" : 0.4430379590552872,
+          "x" : 0.513562402178203,
+          "y" : 0.48982558150148914
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01180232524871827,
+          "text" : "augmentation des ressources mises à la disposition des banques et un",
+          "width" : 0.4430379590552872,
+          "x" : 0.5135623949449302,
+          "y" : 0.4781976746216441
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "aménagement de l'accès au guichet de refinancement de la Banque",
+          "width" : 0.44122963426518735,
+          "x" : 0.5135624024695762,
+          "y" : 0.4650000000119343
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "Centrale) et de limiter l'impact sur la qualité du portefeuille (avis relatif au",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.45203488380284573
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "report d'échéances des créances des établissements de crédit affectées",
+          "width" : 0.4430379590552872,
+          "x" : 0.5135623880130439,
+          "y" : 0.43874999991709396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "par la pandémie du COVID-19).",
+          "width" : 0.18806509753975142,
+          "x" : 0.5135623895061942,
+          "y" : 0.4258333333725419
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011763565937678022,
+          "text" : "Le processus de renforcement des fonds propres en lien avec les nouvelles",
+          "width" : 0.4430379590552872,
+          "x" : 0.513562402178203,
+          "y" : 0.40406976749955104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "exigences réglementaires devrait permettre à la Banque d'absorber les",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.39083333334132064
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "conséquences de cette crise.",
+          "width" : 0.17540687149491052,
+          "x" : 0.5135623899608027,
+          "y" : 0.377906976753427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "L'efficacité du dispositif de suivi des risques de crédit (anticipation, détection",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.356104651208369
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "et alerte précoce des difficultés de la clientèle) permettra de limiter une",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540806812845,
+          "y" : 0.34291666647484953
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011724806229273521,
+          "text" : "hausse du coût net du risque.",
+          "width" : 0.1790235052464908,
+          "x" : 0.5117540671778398,
+          "y" : 0.3299418604259078
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01338728507359821,
+          "text" : "En dépit de cette situation, la Banque entend déployer le nouveau plan",
+          "width" : 0.44134122603167136,
+          "x" : 0.513502565631807,
+          "y" : 0.3065817985894971
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "stratégique 2020 - 2024 validé par le Conseil d'Administration lors de sa",
+          "width" : 0.44122963426518735,
+          "x" : 0.5135624024695762,
+          "y" : 0.29500000003965743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461246,
+          "text" : "session de décembre 2019. Ce programme ambitieux conduira la Banque",
+          "width" : 0.4430379590552872,
+          "x" : 0.5117540709922481,
+          "y" : 0.2819767441226131
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "vers un nouveau modèle économique. Il vise à la fois l'amélioration de",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540788277585,
+          "y" : 0.27034883742090565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'efficacité opérationnelle, l'accélération de la digitalisation, une plus grande",
+          "width" : 0.44484628384538705,
+          "x" : 0.5117540806812845,
+          "y" : 0.2558139538197953
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "orientation client et le renforcement du capital humain, socle de la",
+          "width" : 0.4430379590552872,
+          "x" : 0.5117540811414341,
+          "y" : 0.2427325579549774
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "stratégie de développement. La Banque a amorcé cette transformation",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.23110465120836898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056856,
+          "text" : "depuis le début de l'année et maintiendra le cap tout en tenant compte des",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135623895199755,
+          "y" : 0.21791666662019826
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "évolutions macroéconomiques. Les résultats se traduiront à terme par une",
+          "width" : 0.4430379590552873,
+          "x" : 0.5135624003322116,
+          "y" : 0.20494186054703178
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "amélioration de la rentabilité doublée d'une bonne maîtrise des risques.",
+          "width" : 0.42314644967866644,
+          "x" : 0.5135624032619325,
+          "y" : 0.19166666661256704
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "PROCHAINS RENDEZ-VOUS",
+          "width" : 0.18264013899807108,
+          "x" : 0.5117540702452166,
+          "y" : 0.16279069762136722
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666663,
+          "text" : "• 29 avril 2020 : Publication des résultats 1er trimestre 2020 au BOC",
+          "width" : 0.3707052207092032,
+          "x" : 0.5443038045414202,
+          "y" : 0.14666666670457118
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "• 22 mai 2020 : Assemblée Générale des actionnaires",
+          "width" : 0.2947558644401582,
+          "x" : 0.5461121269420667,
+          "y" : 0.13081395371814397
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "CONTACTS",
+          "width" : 0.06329113813851384,
+          "x" : 0.5135623881640161,
+          "y" : 0.10319767464837659
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008837209145228009,
+          "text" : "Léonce YACE",
+          "width" : 0.07052441355598416,
+          "x" : 0.5153707037328578,
+          "y" : 0.088662790929954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Directeur Général",
+          "width" : 0.09222423189408557,
+          "x" : 0.5153707041554286,
+          "y" : 0.07703488370845413
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666674,
+          "text" : "Tél : (225) 80 200 800",
+          "width" : 0.10669077481471645,
+          "x" : 0.5153707065347756,
+          "y" : 0.06666666656178011
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008837209145228009,
+          "text" : "Chantal MESSOU",
+          "width" : 0.08860759022819553,
+          "x" : 0.784810129822611,
+          "y" : 0.08866279066340366
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Directrice Financière et Comptable",
+          "width" : 0.1790235052464908,
+          "x" : 0.7830018067800096,
+          "y" : 0.0770348838053534
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Expert-Comptable Diplômée",
+          "width" : 0.1446654608635487,
+          "x" : 0.7848101291221738,
+          "y" : 0.06666666680402844
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010193798542022736,
+          "text" : "Tél. : (225) 80 200 800",
+          "width" : 0.11211572544208703,
+          "x" : 0.7830018136502646,
+          "y" : 0.056666666489833206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008885658582051592,
+          "text" : "Pour plus d' informations, écrivez-nous à relations.investisseurs@nsiabangue.com",
+          "width" : 0.40687158988224514,
+          "x" : 0.5135624018265084,
+          "y" : 0.04069767475989583
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007499999999999951,
+          "text" : "8-10, Avenue Josoph Anoma-contact@naiabanque.dl - www.nslabanque.dl",
+          "width" : 0.17179022191471077,
+          "x" : 0.4339963928099742,
+          "y" : 0.015833333387525572
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.019166666666666665,
+          "text" : "NSIA Banque, le vral visage de la Banque.",
+          "width" : 0.22965640942585425,
+          "x" : 0.3978300260058794,
+          "y" : 0.004166667018139392
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008779069582621313,
+          "text" : "Sulvez-nous sur: ( You Tube",
+          "width" : 0.09403254876987566,
+          "x" : 0.6437613009013793,
+          "y" : 0.008720930489062417
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "NSLA",
+          "width" : 0.034358048340097036,
+          "x" : 0.9258589507589103,
+          "y" : 0.007267442191888462
+        }
+      ],
+      "width" : 1927
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/nsbc-2019-7\/page-003.pdf.png"
+}

@@ -1,0 +1,253 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.017596899668375743,
+          "text" : "V. Notes explicatives annexées aux états financiers clos le 31",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704313676121617,
+          "y" : 0.8908333331654275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "décembre 2023",
+          "width" : 0.17453799118563199,
+          "x" : 0.11704311830605466,
+          "y" : 0.8662500002230386
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "Les états financiers couvrent une période de 12 mois allant du 01 janvier 2023 au 31 décembre 2023",
+          "width" : 0.7638603722670053,
+          "x" : 0.1170431102730685,
+          "y" : 0.8212209302054619
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "et sont présentés en millions de franc CFA (sauf mention contraire). Ces états financiers sont",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704310948593646,
+          "y" : 0.8008333335276582
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "présentés en comparaison avec l'exercice comptable 2022. Les états financiers primaires IFRS ont",
+          "width" : 0.7618069598194567,
+          "x" : 0.1190965264386631,
+          "y" : 0.7819767442679619
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "été arrêtés par le Conseil d'Administration du 16 avril 2024.",
+          "width" : 0.46201230106421165,
+          "x" : 0.11704313655721646,
+          "y" : 0.7616279069859853
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "NOTE 1 : Déclaration de conformité",
+          "width" : 0.349075982371264,
+          "x" : 0.11704312195605172,
+          "y" : 0.7208333336136988
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "L'Acte uniforme relatif au droit comptable et à l'information financière adopté le 26 janvier 2017 fait",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704310709031711,
+          "y" : 0.6845833334881863
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "obligation aux sociétés dont les titres sont cotés à la bourse de valeur, d'établir et de présenter",
+          "width" : 0.7659137128239105,
+          "x" : 0.11498976315683317,
+          "y" : 0.661249999957835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "leurs états financiers individuels selon les normes comptables internationales IFRS, et ce à compter",
+          "width" : 0.7700205377190077,
+          "x" : 0.11293635067335023,
+          "y" : 0.6424418606280068
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "du 01 janvier 2019. En application de cette disposition SERVAIR ABIDJAN établit et présente",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312527746832,
+          "y" : 0.6235465116428531
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "ses états financiers individuels au titre de l'exercice clos le 31 décembre 2023 et déclare que",
+          "width" : 0.7659137128239105,
+          "x" : 0.1149897491150812,
+          "y" : 0.6031976742968537
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "ceux-ci sont conformes aux normes comptables internationales IFRS en vigueur telles",
+          "width" : 0.7659137128239105,
+          "x" : 0.11498976188031022,
+          "y" : 0.5828488372329002
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014738372166951508,
+          "text" : "qu'adoptées par l'IASB.",
+          "width" : 0.19507186404386592,
+          "x" : 0.11498973633022305,
+          "y" : 0.5637499999968655
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "Un jeu complet d'états financiers selon l'IAS 1 comprend :",
+          "width" : 0.4496919701602068,
+          "x" : 0.11909652754823305,
+          "y" : 0.529069767499551
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "(a) un état de la situation financière à la fin de la période ;",
+          "width" : 0.45379875910998235,
+          "x" : 0.17453798454494063,
+          "y" : 0.49273255810032635
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "(b) un état du résultat global de la période ;",
+          "width" : 0.33880902796948614,
+          "x" : 0.17659138206248476,
+          "y" : 0.4562500001870651
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "(c) un état des variations des capitaux propres de la période ;",
+          "width" : 0.4763860444157648,
+          "x" : 0.1765913760125145,
+          "y" : 0.4186046514821016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "(d) un tableau des flux de trésorerie de la période ;",
+          "width" : 0.3963038935397342,
+          "x" : 0.17659138632390398,
+          "y" : 0.38208333350191637
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "(e) des notes, contenant un résumé des principales méthodes comptables et d'autres",
+          "width" : 0.7063654707514355,
+          "x" : 0.1745380126735634,
+          "y" : 0.34583333320301846
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "informations explicatives ;",
+          "width" : 0.20739219494787065,
+          "x" : 0.1724845989497471,
+          "y" : 0.3254166665876226
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "NOTE 2 : Présentation de l'activité et continuité d'exploitation",
+          "width" : 0.6078028954100413,
+          "x" : 0.1170431152518581,
+          "y" : 0.28488372073338464
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "Présentation de l'activité",
+          "width" : 0.24640656416211165,
+          "x" : 0.11704312243639796,
+          "y" : 0.2470833333282174
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "SERVAIR ABIDJAN est une société anonyme spécialisée principalement dans l'avitaillement aérien",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704313961799233,
+          "y" : 0.20916666666936
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "à partir de l'aéroport international Felix Houphouët Boigny d'ABIDJAN où est domicilié son siège.",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312936957717,
+          "y" : 0.18875000011089227
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Son capital de 1 634 000 000 FCFA est détenu à hauteur de 80% par SERVAIR INVESTISSEMENT",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312440722263,
+          "y" : 0.1686046512035163
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "AEROPORTUAIRE (SIA) et de 20% par les investisseurs de la sous-région. Membre du groupe GATE",
+          "width" : 0.7618069598194567,
+          "x" : 0.11909652963852604,
+          "y" : 0.14825581399421395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "qui contrôle depuis 2018 SERVAIR INVESTISSEMENT AEROPORTUAIRE (SIA), SERVAIR ABIDJAN",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704312247733553,
+          "y" : 0.12790697691209196
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "traite la quasi-totalité des services catering au départ de la plateforme aéroportuaire d'ABIDJAN.",
+          "width" : 0.7659137128239105,
+          "x" : 0.11704315635327364,
+          "y" : 0.10901162791621766
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456066,
+          "text" : "8",
+          "width" : 0.010266939798990848,
+          "x" : 0.8706365507113876,
+          "y" : 0.05959302328573135
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2023-3\/page-008.pdf.png"
+}

@@ -1,0 +1,325 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03488372166951492,
+          "text" : "Ecobank",
+          "width" : 0.18480492761474898,
+          "x" : 0.7371663253781149,
+          "y" : 0.9491279068009014
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7330595539392449,
+          "y" : 0.9302325579549775
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Au 31 décembre 2023, tous les ratios prudentiels sont",
+          "width" : 0.4086242244437389,
+          "x" : 0.0698152029475349,
+          "y" : 0.890833333608997
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "conformes au dispositif prudentiel et présentent une",
+          "width" : 0.4065708119961904,
+          "x" : 0.0698152096076543,
+          "y" : 0.8735465116686325
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009229763348897357,
+          "text" : "marge",
+          "width" : 0.051502802908350354,
+          "x" : 0.06973114560447115,
+          "y" : 0.8573037230651089
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "confortable par rapport aux seuils",
+          "width" : 0.3367556514672593,
+          "x" : 0.13963038360928626,
+          "y" : 0.8574999999088435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "règlementaires.",
+          "width" : 0.12114989659249852,
+          "x" : 0.06981519746008195,
+          "y" : 0.8401162790790084
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "REMUNERATION DES ACTIONNAIRES",
+          "width" : 0.31006161315702296,
+          "x" : 0.07392196859602643,
+          "y" : 0.7965116282384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01180232524871827,
+          "text" : "Le Conseil d'Administration d'Ecobank Côte d'Ivoire",
+          "width" : 0.4065708119961904,
+          "x" : 0.0698152163838348,
+          "y" : 0.7600000001296376
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "recommande en prélude à la prochaine Assemblée",
+          "width" : 0.4065708119961904,
+          "x" : 0.0698152100183319,
+          "y" : 0.7427325586163069
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "Générale, le versement d'un dividende brut par action",
+          "width" : 0.406570847941512,
+          "x" : 0.06981519712780646,
+          "y" : 0.725290697756334
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de 660 FCFA, en augmentation de 8,2% par rapport à",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981519687113298,
+          "y" : 0.7078488376315686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'année précédente. Ce niveau de distribution",
+          "width" : 0.408624224443739,
+          "x" : 0.06776181485718583,
+          "y" : 0.6904069770574408
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01183139522870369,
+          "text" : "représente 75,6% du résultat net de 2023. Le",
+          "width" : 0.40657084794151205,
+          "x" : 0.06981519611137942,
+          "y" : 0.6744186047185434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "rendement de l'action représente 8,7%.",
+          "width" : 0.301848035257472,
+          "x" : 0.06776180896263995,
+          "y" : 0.6569767440983882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "l'accent marqué sur le retour sur investissement. Au",
+          "width" : 0.4065708479415121,
+          "x" : 0.5338809045302705,
+          "y" : 0.8924418605324969
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "travers cette transformation, notre objectif reste de",
+          "width" : 0.4065708479415121,
+          "x" : 0.5338809009779093,
+          "y" : 0.8735465117231384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "renforcer notre positionnement sur le marché et",
+          "width" : 0.4086242244437389,
+          "x" : 0.5338809113664261,
+          "y" : 0.8575000000541924
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "améliorer l'expérience client tout comme la qualité",
+          "width" : 0.4065708119961904,
+          "x" : 0.5338809144673394,
+          "y" : 0.8400000000239616
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "des services que nous offrons.",
+          "width" : 0.23203283878321923,
+          "x" : 0.533880915071087,
+          "y" : 0.8224999997539905
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028494,
+          "text" : "L'équipe de direction ainsi que le Conseil",
+          "width" : 0.4065708479415121,
+          "x" : 0.5338808963988538,
+          "y" : 0.7965116278580782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "d'Administration",
+          "width" : 0.1334702185101727,
+          "x" : 0.533880909396522,
+          "y" : 0.7805232560437254
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "restent",
+          "width" : 0.08008213290336985,
+          "x" : 0.694045177182812,
+          "y" : 0.7805232562158068
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012817497253418075,
+          "text" : "engagés",
+          "width" : 0.09064006468432528,
+          "x" : 0.7760352053055749,
+          "y" : 0.7784749723805457
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "dans",
+          "width" : 0.04312114917768606,
+          "x" : 0.897330595411157,
+          "y" : 0.779069767392962
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'implémentation de cette nouvelle stratégie et son",
+          "width" : 0.4086242244437389,
+          "x" : 0.5318275113578707,
+          "y" : 0.7616279072112682
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "exécution diligente.",
+          "width" : 0.1519507238525103,
+          "x" : 0.5338809028068043,
+          "y" : 0.7441666667030039
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "L'environnement reste cependant marqué par de",
+          "width" : 0.4065708479415121,
+          "x" : 0.5338808963988538,
+          "y" : 0.7179166667656246
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0163267262776694,
+          "text" : "nouveaux défis géopolitiques et risques émergents,",
+          "width" : 0.4088443895391637,
+          "x" : 0.5337953069362945,
+          "y" : 0.699084277882076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "qui incitent à aborder ce virage avec une assurance",
+          "width" : 0.406570847941512,
+          "x" : 0.5338808953824269,
+          "y" : 0.6831395348202876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "mesurée.",
+          "width" : 0.07597536192625509,
+          "x" : 0.5318275131590491,
+          "y" : 0.6656976743915084
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "PERSPECTIVES 2024",
+          "width" : 0.1663244312587419,
+          "x" : 0.0718685840039526,
+          "y" : 0.5683139536744466
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "L'année 2024 marque une transition vers une nouvelle",
+          "width" : 0.4065708119961904,
+          "x" : 0.06981521624694223,
+          "y" : 0.5232558144302605
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "stratégie basée sur les trois axes que sont la croissance,",
+          "width" : 0.40862422444373897,
+          "x" : 0.06776180705431127,
+          "y" : 0.5041666668668348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017890451749165925,
+          "text" : "une transformation opérationnelle plus agile, ainsi que",
+          "width" : 0.4069036656751509,
+          "x" : 0.06966623284449101,
+          "y" : 0.48627888009541265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.10677618019993651,
+          "x" : 0.041067763835692196,
+          "y" : 0.05813953523712445
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008769379456837978,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | 01 B.P 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.5071868357304549,
+          "x" : 0.039014376556401796,
+          "y" : 0.0479166666529367
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.00880813916524259,
+          "text" : "Tel : (225) 27 20 31 92 00 | Fax: (225) 27 20 21 88 16 | Swift : ECOCCIAB | Web : www.ecobank.com",
+          "width" : 0.4845995863699941,
+          "x" : 0.04106777135983499,
+          "y" : 0.03625000011313695
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008885658979415845,
+          "text" : "Société Anonyme avec Conseil d'Administration au Capital F CFA 27 525 300 000 * RCCM CI - ABJ - 1988 - B - 130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.7145790486509864,
+          "x" : 0.04106777234801792,
+          "y" : 0.012916666752529227
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2023-1\/page-004.pdf.png"
+}

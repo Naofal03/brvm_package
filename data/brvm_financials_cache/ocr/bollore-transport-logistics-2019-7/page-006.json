@@ -1,0 +1,221 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "BOLLORE TRANSPORT & LOGISTICS COTE D'IVOIRE (BTL CI) S.A. - 31 DECEMBRE 2019",
+          "width" : 0.5379876629904666,
+          "x" : 0.06981520597909925,
+          "y" : 0.944583333308118
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "Comptes individuels IFRS",
+          "width" : 0.17659136768785888,
+          "x" : 0.7043121173881034,
+          "y" : 0.9445833332596683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Etat des autres éléments du résultat global",
+          "width" : 0.3675564787272711,
+          "x" : 0.0677618053796909,
+          "y" : 0.8982558142849116
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "ETAT DES AUTRES ELEMENTS DU RESULTAT GLOBAL",
+          "width" : 0.36755647872727104,
+          "x" : 0.12936344135162803,
+          "y" : 0.8691666665939922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "Résultat net de l'exercice",
+          "width" : 0.18480492761474893,
+          "x" : 0.06981519717825178,
+          "y" : 0.8545833331406184
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "Autres éléments du résultat global",
+          "width" : 0.24845995863699943,
+          "x" : 0.19096509503468306,
+          "y" : 0.8400000000410042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Eléments qui ne seront pas reclassés ultérieurement en résultat :",
+          "width" : 0.4620123010642116,
+          "x" : 0.07392198473483462,
+          "y" : 0.824127907296055
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "• écarts de réévaluation des immobilisations corporelles",
+          "width" : 0.35318273537571776,
+          "x" : 0.08008214802055987,
+          "y" : 0.8095833332119462
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "• écarts actuariels sur engagements sociaux à prestations définies",
+          "width" : 0.42094455534774367,
+          "x" : 0.08008214131996792,
+          "y" : 0.7936046513318226
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "• quote-part dans la réévaluation des entités associées",
+          "width" : 0.3552361478232664,
+          "x" : 0.0780287468891881,
+          "y" : 0.7775000001135858
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014699612458546896,
+          "text" : "• impôt sur les éléments non recyclables (1)",
+          "width" : 0.2874743278512404,
+          "x" : 0.07802875270682329,
+          "y" : 0.7629166665875374
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Eléments susceptibles d'être reclassés ult érieurement en résultat :",
+          "width" : 0.4722792554659895,
+          "x" : 0.07186858919278996,
+          "y" : 0.7485465118010917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• différences de change sur conversion d'activités à l'étranger",
+          "width" : 0.39835727004196114,
+          "x" : 0.08008215024595976,
+          "y" : 0.7340116282565686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575725,
+          "text" : "• changements de juste valeur des actifs financiers disponibles à la vente",
+          "width" : 0.466119090013987,
+          "x" : 0.08008214210066267,
+          "y" : 0.717916666987708
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "• changements de juste valeur des instruments de couverture des flux",
+          "width" : 0.4558521356122092,
+          "x" : 0.08008214954502463,
+          "y" : 0.7049418605470317
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01349516073862711,
+          "text" : "de trésorerie",
+          "width" : 0.08431553924884054,
+          "x" : 0.09028576197369968,
+          "y" : 0.6902000942139408
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• impôt sur les éléments recyclables (1)",
+          "width" : 0.2566735005912286,
+          "x" : 0.07802875535120289,
+          "y" : 0.674418604982586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792612,
+          "text" : "Autres éléments du résultat global, net d'impôt",
+          "width" : 0.34496919342148846,
+          "x" : 0.06981519363833186,
+          "y" : 0.6583333337227104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980448,
+          "text" : "Résultat global de l'exercice",
+          "width" : 0.20328542397075602,
+          "x" : 0.06981519609983752,
+          "y" : 0.6437500002766039
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011947143872578891,
+          "text" : "Notes",
+          "width" : 0.04738320394455331,
+          "x" : 0.556390533078294,
+          "y" : 0.8690264280087714
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "1",
+          "width" : 0.01026693979899096,
+          "x" : 0.5770020538428043,
+          "y" : 0.8561046513743941
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "EXERCICE 2019",
+          "width" : 0.11088295117705116,
+          "x" : 0.6160164291636012,
+          "y" : 0.8691666666043744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "12 629 970 016",
+          "width" : 0.11909651110394126,
+          "x" : 0.6180698151139138,
+          "y" : 0.8545833331738409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "EXERCICE 2018",
+          "width" : 0.11293634565193889,
+          "x" : 0.7494866518293547,
+          "y" : 0.8691666666043744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "14 493 783 640",
+          "width" : 0.12114989659249853,
+          "x" : 0.7515400424463927,
+          "y" : 0.8545833331842231
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "12 629 970 016 14 493 783 640",
+          "width" : 0.2566735005912286,
+          "x" : 0.6160164303169798,
+          "y" : 0.6453488374074892
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-7\/page-006.pdf.png"
+}

@@ -1,0 +1,309 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.01750000000000007,
+          "text" : "Etats Financiers Annuals IFRS pour l'exercice clos | !",
+          "width" : 0.32648869706548145,
+          "x" : 0.5708418963748567,
+          "y" : 0.93458333356552
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720929622650142,
+          "text" : ": 31 décembre 2020",
+          "width" : 0.11704311662905342,
+          "x" : 0.7392197133230501,
+          "y" : 0.9302325583718145
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02054263512293497,
+          "text" : "V- NOTES EXPLICATIVES ANNEXEES AUX ETATS FINANCIERS CLOS AU",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445587340272586,
+          "y" : 0.879166666684963
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02180232524871817,
+          "text" : "31\/12\/2020",
+          "width" : 0.13347022749650322,
+          "x" : 0.09445585208565206,
+          "y" : 0.8502906979134316
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Les états financiers couvrent une période de 12 mois allant du 01\/01\/2020 au 31\/12\/2020 et sont présentés en millions",
+          "width" : 0.7885010340750148,
+          "x" : 0.09650922867091172,
+          "y" : 0.8183139534078033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "de franc CFA (sauf mention contraire). Ces états financiers sont présentés en comparaison avec l'exercice comptable",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445587315631934,
+          "y" : 0.7979166668803713
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187907,
+          "text" : "2019. Ces comptes IFRS ont été arrêtés par le Conseil d'Administration du 26 mai 2021.",
+          "width" : 0.5770020322047077,
+          "x" : 0.09445586658758438,
+          "y" : 0.7804166668041211
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.021870154539744058,
+          "text" : "NUTE 1 : DÉCLARATILN DE CONFLIRMITÉ",
+          "width" : 0.3203285316134791,
+          "x" : 0.12525667554849665,
+          "y" : 0.7485465117506409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01760658899943035,
+          "text" : "L'Acte uniforme relatif au droit comptable et à l'information financière adopté le 26 janvier 2017 fait obligation aux",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445587763270524,
+          "y" : 0.7194767441756444
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Sociétés dont les titres sont cotés à la bourse de valeur, d établir et de présenter leurs états financiers individuels selon",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445587787911189,
+          "y" : 0.7004166664251461
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01600775241851804,
+          "text" : "les normes comptables internationales IFRS, et ce à compter du Il janvier 2019. En application de cette disposition",
+          "width" : 0.7926077870794684,
+          "x" : 0.09240248187094309,
+          "y" : 0.681666666277603
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310621,
+          "text" : "SERVAIR ABIDJAN établit et présente ses états financiers individuels au titre de l'exercice clos au 31\/12\/2020",
+          "width" : 0.7905543746319198,
+          "x" : 0.09445587618506666,
+          "y" : 0.662790698216412
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666776,
+          "text" : "et déclare que ceux-ci sont conformes aux normes comptables internationales IFRS en vigueur telles",
+          "width" : 0.7926077870794686,
+          "x" : 0.0944558650074936,
+          "y" : 0.6437499998602874
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "qu'adoptées par l'IASB.",
+          "width" : 0.16837782573362964,
+          "x" : 0.09445584994119338,
+          "y" : 0.6250000003621241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "Un jeu complet d'états financiers selon l'IAS I comprend :",
+          "width" : 0.37782339718372715,
+          "x" : 0.09856263641840332,
+          "y" : 0.5973837209386899
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "(a) un état de la situation financière à la fin de la période :",
+          "width" : 0.388090351585505,
+          "x" : 0.12320328804708311,
+          "y" : 0.5683139534950126
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016250000000000098,
+          "text" : "(b) un compte de résultat global de la période :",
+          "width" : 0.3182751551112522,
+          "x" : 0.12320328088893251,
+          "y" : 0.5391666665382326
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01761627833048507,
+          "text" : "(c) un état des variations des capitaux propres de la périade :",
+          "width" : 0.41273101339351437,
+          "x" : 0.1273100571892798,
+          "y" : 0.5100000003473977
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017645348707834962,
+          "text" : "(d) un tableau des flux de trésorerie de la périade :",
+          "width" : 0.340862404471713,
+          "x" : 0.1232032912754372,
+          "y" : 0.48110465091983046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "(e) des notes, contenant un résumé des principales méthodes comptables et d'autres informations explicatives;",
+          "width" : 0.7392197104589958,
+          "x" : 0.12320327906208331,
+          "y" : 0.4533333331788363
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018914728164672878,
+          "text" : "(f) un état de la situation financière au début de la période précédente lorsque l'entité applique une méthode",
+          "width" : 0.7577002068150029,
+          "x" : 0.12936345368952104,
+          "y" : 0.424418605194973
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02045542637507125,
+          "text" : "comptable de façon rétrospective ou effectue un retraitement rétrospectif d'éléments de ses états financiers, au",
+          "width" : 0.7618069598194568,
+          "x" : 0.12525668684591842,
+          "y" : 0.4054166665374779
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01760658899943035,
+          "text" : "lorsqu'elle procède à un reclassement d'éléments dans ses états financiers.",
+          "width" : 0.5030800827260011,
+          "x" : 0.12525667585979194,
+          "y" : 0.38791666642263845
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02045542637507125,
+          "text" : "NOTE 2 : PRESENTATION DE L'ACTIVITE ET CONTINUITE D'EXPLDITATION",
+          "width" : 0.5770020322047078,
+          "x" : 0.09445585971166785,
+          "y" : 0.32412790714559037
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750968933105479,
+          "text" : "1. Présentation de l'activité",
+          "width" : 0.22792606780610464,
+          "x" : 0.09240246684130095,
+          "y" : 0.2920833335328745
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310621,
+          "text" : "SERVAIR ABIDJAN, D7 BP D8 ABIDJAN D7 Compte contribuable 690095OP, est une société anonyme",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445585339370409,
+          "y" : 0.2587209307581998
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018914728164672878,
+          "text" : "spécialisée principalement dans l'avitaillement aérien à partir de l'aéroport international Felix",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584283342252,
+          "y" : 0.2369186050197758
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "Houphouët Boigny d'ABIDJAN où est domicilié son siège. Son capital de 1 634 000 000 FCFA est détenu",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445583860931013,
+          "y" : 0.2150000003884368
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02043604612350458,
+          "text" : "à hauteur de 80% par SERVAIR INVESTISSEMENT AEROPORTUAIRE(SIA) et de 20% par les investisseurs",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445586729132968,
+          "y" : 0.19331395372989268
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018905038038889543,
+          "text" : "de la sous-région. Membre du groupe GATE qui contrôle depuis 2018 SERVAIR INVESTISSEMENT",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584283342252,
+          "y" : 0.17151162831711797
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02049418608347575,
+          "text" : "AEROPORTUAIRE (SIA), SERVAIR ABIDJAN traite la quasi-totalité des services catering au départ de la",
+          "width" : 0.7885010340750148,
+          "x" : 0.0944558485169074,
+          "y" : 0.14825581401332288
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "plateforme aéroportuaire d'ABIDJAN. Son chiffre d'affaires se divise en chiffre d'affaires aérien et",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445587882024795,
+          "y" : 0.12790697726679956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "chiffre d'affaire hors aérien. Ces chiffres d'affaires ne sont cependant pas issus de secteurs",
+          "width" : 0.7885010340750148,
+          "x" : 0.0944558478084885,
+          "y" : 0.10610465181379558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017577519416809073,
+          "text" : "opérationnels distincts.",
+          "width" : 0.18069815663763436,
+          "x" : 0.09445584841629576,
+          "y" : 0.08416666664010453
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016971861521403064,
+          "text" : "SERVAIR\/",
+          "width" : 0.10091939326309907,
+          "x" : 0.8540577559071536,
+          "y" : 0.053287324938396496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "ABIDIAN",
+          "width" : 0.055441475588525635,
+          "x" : 0.8829568795825339,
+          "y" : 0.046511628139256245
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.003032945593198111,
+          "text" : "eopecrore mem",
+          "width" : 0.0677618019993651,
+          "x" : 0.8685831613206464,
+          "y" : 0.034883721031883974
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2020-9\/page-009.pdf.png"
+}

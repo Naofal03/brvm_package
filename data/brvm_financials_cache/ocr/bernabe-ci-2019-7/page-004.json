@@ -1,0 +1,37 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Bernabé Côte d'lvoire S.A.",
+          "width" : 0.1399176885496895,
+          "x" : 0.07407407986781635,
+          "y" : 0.4752906978072914
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "États Financiers Annuels IFRS",
+          "width" : 0.1584362173980137,
+          "x" : 0.0740740739553141,
+          "y" : 0.43313953495110147
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "Exercice de douze mois clos le 31 Décembre 2019",
+          "width" : 0.2613168752418374,
+          "x" : 0.07407407005397841,
+          "y" : 0.4083333332382296
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bernabe-ci-2019-7\/page-004.pdf.png"
+}

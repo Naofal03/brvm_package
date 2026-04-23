@@ -1,0 +1,333 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.020181902249654105,
+          "text" : "Deloitte®",
+          "width" : 0.10751151832819242,
+          "x" : 0.13703371528553673,
+          "y" : 0.9426706767833245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "ECOWAS Bank for Investment and",
+          "width" : 0.23120299897919194,
+          "x" : 0.5488721842510055,
+          "y" : 0.9054166666201984
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013420567512512194,
+          "text" : "Development",
+          "width" : 0.09406323314613252,
+          "x" : 0.548833045751944,
+          "y" : 0.886458320970004
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "28 Boulevard Du 13 Janvier",
+          "width" : 0.1879699279060899,
+          "x" : 0.5469924794304136,
+          "y" : 0.8720833335195934
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "Po Box : 2704",
+          "width" : 0.09586465911700626,
+          "x" : 0.5469924816726999,
+          "y" : 0.8561046513367527
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01333333373069756,
+          "text" : "Lome - Togo",
+          "width" : 0.08458646344264087,
+          "x" : 0.5488721820239804,
+          "y" : 0.8399999999694558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "Lomé, April 14, 2025",
+          "width" : 0.14285714520862824,
+          "x" : 0.5469924790404227,
+          "y" : 0.8008333334777418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "Independent Auditors' Report",
+          "width" : 0.20676691246649978,
+          "x" : 0.13533834621035915,
+          "y" : 0.7354166664976347
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "To the Shareholders of Ecowas Bank for Investment and Development",
+          "width" : 0.4736842018629484,
+          "x" : 0.13909774395574398,
+          "y" : 0.7223837208813341
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "Report on the audit of the financial statements.",
+          "width" : 0.32330825953807646,
+          "x" : 0.1390977539715632,
+          "y" : 0.6887499999812046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013622153600056919,
+          "text" : "Opinion",
+          "width" : 0.0565976386702948,
+          "x" : 0.13711471393627347,
+          "y" : 0.6552528766393246
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "We have audited the financial statements of ECOWAS Bank for Investment and Development (the \"Bank\")",
+          "width" : 0.7180450999106662,
+          "x" : 0.13909775845632094,
+          "y" : 0.6250000002925784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "which comprise the statement of financial position as at December 31, 2024, and the statement of profit",
+          "width" : 0.7180450999106662,
+          "x" : 0.13909774182098295,
+          "y" : 0.6074999996131306
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "or loss and other comprehensive income, statement of changes in equity and statement of cash flows for",
+          "width" : 0.7199248115350256,
+          "x" : 0.13909775660717344,
+          "y" : 0.5929166667485821
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "the year then ended, and notes to the financial statements, which include material accounting policy",
+          "width" : 0.7180450999106661,
+          "x" : 0.1390977456273738,
+          "y" : 0.5754166663186421
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "information and other explanatory information.",
+          "width" : 0.32142854791371694,
+          "x" : 0.13721806222735183,
+          "y" : 0.5610465119108807
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "In our opinion, the financial statements present fairly, in all material respects, the financial position of",
+          "width" : 0.7218044573177926,
+          "x" : 0.1372180600629086,
+          "y" : 0.5275000000069967
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "ECOWAS Bank for Investment and Development (the \"Bank\") as at December 31, 2024, and its financial",
+          "width" : 0.718045099910666,
+          "x" : 0.13909774361609567,
+          "y" : 0.5129166665755103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "performance and its cash flows for the year then ended in accordance with IFRS® Accounting Standards as",
+          "width" : 0.7180450999106661,
+          "x" : 0.1390977579769976,
+          "y" : 0.49708333346145395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "issued by the International Accounting Standards Board (IASB).",
+          "width" : 0.4248120288375641,
+          "x" : 0.13721804042144362,
+          "y" : 0.48110465113569456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Basis for opinion",
+          "width" : 0.11466165190761529,
+          "x" : 0.13909774498134275,
+          "y" : 0.44912790739901043
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "We conducted our audit in accordance with International Standards on Auditing (\"ISAs\"). Our",
+          "width" : 0.7161653882863066,
+          "x" : 0.13909776414632027,
+          "y" : 0.41708333343373094
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "responsibilities under those standards are further described in the Auditors' Responsibilities for the Audit",
+          "width" : 0.7161653882863066,
+          "x" : 0.13909776414632027,
+          "y" : 0.4011627910290976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "of the Consolidated and Separate Financial Statements section of our report. We are independent of the",
+          "width" : 0.7142856766619472,
+          "x" : 0.1390977703156429,
+          "y" : 0.3849999998508896
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "Bank in accordance with the International Code of Ethics for Professional Accountants including",
+          "width" : 0.7142856766619471,
+          "x" : 0.13909775602992877,
+          "y" : 0.3691666668435001
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "International Independence Standards issued by the International Ethics Standards Board for Accountants",
+          "width" : 0.7161653882863067,
+          "x" : 0.13721805207395202,
+          "y" : 0.353197674513836
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "(the \"IESBA Code\") together with the ethical requirements that are relevant to our audit of the financial",
+          "width" : 0.7199248115350255,
+          "x" : 0.13533834011281307,
+          "y" : 0.3357558139917063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "statements in Togo, and we have fulfilled our other ethical responsibilities in accordance with the IESBA",
+          "width" : 0.7161653882863066,
+          "x" : 0.1372180603117339,
+          "y" : 0.3195833335671453
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "code. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis",
+          "width" : 0.718045099910666,
+          "x" : 0.13721805753213553,
+          "y" : 0.3037500003683874
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "for our opinion.",
+          "width" : 0.10714285479137167,
+          "x" : 0.13909774732235924,
+          "y" : 0.2891666666389435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "Other information",
+          "width" : 0.1259398475819807,
+          "x" : 0.13909774516264375,
+          "y" : 0.25872093043559763
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "The Board of Directors is responsible for the other information. The other information comprises the",
+          "width" : 0.7199248115350256,
+          "x" : 0.1372180393609334,
+          "y" : 0.23110465120100865
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "information included in the document titled \"Ecowas Bank for Investment and Development Annual Report",
+          "width" : 0.7199248115350256,
+          "x" : 0.13721803336156027,
+          "y" : 0.21791666672686494
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "2024\"",
+          "width" : 0.04511278269746158,
+          "x" : 0.13721804507044214,
+          "y" : 0.20058139577110357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0153870948155721,
+          "text" : ", which includes the Corporate Profile, Corporate Information, Report of the Board of Directors and",
+          "width" : 0.6787578825554543,
+          "x" : 0.17847150895127703,
+          "y" : 0.1993902565443122
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "Financial Highlights. The other information does not include the financial statements and our Auditor's",
+          "width" : 0.7199248115350256,
+          "x" : 0.13909773740917905,
+          "y" : 0.1845833333161052
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "report thereon.",
+          "width" : 0.10714285479137167,
+          "x" : 0.13909774732235924,
+          "y" : 0.16860465117203172
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015807418823242214,
+          "text" : "Our opinion on the financial statements does not cover the other information and we do not and will not",
+          "width" : 0.7200443798670106,
+          "x" : 0.13903997581614252,
+          "y" : 0.13643162257200436
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "express any form of assurance conclusion thereon.",
+          "width" : 0.3439849557228458,
+          "x" : 0.13909775200229876,
+          "y" : 0.12063953519697557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "13",
+          "width" : 0.022556391348730775,
+          "x" : 0.8345864661050832,
+          "y" : 0.04651162794268715
+        }
+      ],
+      "width" : 1854
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/biic-2024-2\/page-003.pdf.png"
+}

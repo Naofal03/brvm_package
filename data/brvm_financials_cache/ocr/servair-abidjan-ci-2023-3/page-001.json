@@ -1,0 +1,61 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.05417243957519535,
+          "text" : "SERVAIR",
+          "width" : 0.38242759749521493,
+          "x" : 0.30159934452563775,
+          "y" : 0.810123082739478
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.039244184494018564,
+          "text" : "ABIDJAN",
+          "width" : 0.2464065641621117,
+          "x" : 0.42094456227212695,
+          "y" : 0.7572674423914355
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02768410841623936,
+          "text" : "a gategroup member",
+          "width" : 0.3511293588734909,
+          "x" : 0.3552361444030903,
+          "y" : 0.6670833333507473
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020494185288747135,
+          "text" : "ETATS FINANCIERS ANNUELS IFRS",
+          "width" : 0.6550308065785113,
+          "x" : 0.17248459727542592,
+          "y" : 0.45625000027399587
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "Exercice de 12 mois clos le 31 décembre 2023",
+          "width" : 0.6837782213909747,
+          "x" : 0.15605750398623747,
+          "y" : 0.35750000035923923
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "1",
+          "width" : 0.012320328657422053,
+          "x" : 0.8685831620231028,
+          "y" : 0.059593023582485194
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2023-3\/page-001.pdf.png"
+}

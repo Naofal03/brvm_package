@@ -1,0 +1,101 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "Bollore TraNsport & Logistics COTE D'Ivoire (BTL CI) S.A. - 31 DECEMBRE 2019",
+          "width" : 0.5390946370250773,
+          "x" : 0.08230452884685786,
+          "y" : 0.9462209303290936
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Comptes consolidés",
+          "width" : 0.13991768854968956,
+          "x" : 0.7304526790584887,
+          "y" : 0.94458333303906
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.011763565937678022,
+          "text" : "Note 17 - Liste des sociétés consolidées .....•........",
+          "width" : 0.4094649980653007,
+          "x" : 0.08230454482880342,
+          "y" : 0.9040697674511015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "17.1 - Sociétés consolidées par intégration globale .....",
+          "width" : 0.3209876294405955,
+          "x" : 0.09876544988875553,
+          "y" : 0.8879166667960411
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "17.2 - Sociétés consolidées par mise en équivalence.....",
+          "width" : 0.33127572401514593,
+          "x" : 0.09876543569475878,
+          "y" : 0.8735465117607797
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Note 18 - Liste des sociétés dont la date de clôture est différente du 31 Décembre ...",
+          "width" : 0.6399176975466171,
+          "x" : 0.08024692054253495,
+          "y" : 0.8545833334808763
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "..41",
+          "width" : 0.030864196003608013,
+          "x" : 0.8868312766552604,
+          "y" : 0.9055232561406247
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "...41",
+          "width" : 0.030864196003608013,
+          "x" : 0.8991769551103359,
+          "y" : 0.8866279068769736
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "....41",
+          "width" : 0.03292180907051523,
+          "x" : 0.8971193426526711,
+          "y" : 0.8720930233377294
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : ".41",
+          "width" : 0.03292180907051512,
+          "x" : 0.8847736629544544,
+          "y" : 0.8561046512943593
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.00889534910519918,
+          "text" : "Page 9 sur 41",
+          "width" : 0.08436213799242709,
+          "x" : 0.8312757202836218,
+          "y" : 0.04360465101224087
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-8\/page-009.pdf.png"
+}

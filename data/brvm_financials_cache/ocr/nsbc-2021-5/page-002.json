@@ -1,0 +1,893 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "NSIA",
+          "width" : 0.07775768105914484,
+          "x" : 0.09584086949152464,
+          "y" : 0.9534883721312412
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "BANQUE",
+          "width" : 0.08137432272503484,
+          "x" : 0.09403254910312453,
+          "y" : 0.944767442015055
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524204,
+          "text" : "COMMUNIQUÉ",
+          "width" : 0.1952983650429121,
+          "x" : 0.7685352678944571,
+          "y" : 0.9476744187103425
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "UNE CROISSANCE REMARQUABLE POUR NSIA BANQUE CI",
+          "width" : 0.538878824700953,
+          "x" : 0.2296564251495235,
+          "y" : 0.8953488376077637
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418687820541,
+          "text" : "Cette publication intervient en application des dispositions de l'article 847 de l'Acte uniforme OHADA relatif au droit des Sociétés Commerciales et du GIE.",
+          "width" : 0.6817359766030213,
+          "x" : 0.14466545898601216,
+          "y" : 0.8648255813828727
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Fait à Abidjan, le 12 mai 2022. Durant l'exercice 2021, NSIA Banque Cl a réalisé une belle performance qui lui a permis de franchir la barre des 20 milliards FCFA",
+          "width" : 0.915008988123217,
+          "x" : 0.041591343325371684,
+          "y" : 0.8341666662998466
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736249287991,
+          "text" : "au titre de son Résultat Net, traduisant ainsi l'engagement de l'ensemble des dirigeants et du personnel à la construction de son nouveau modèle économique.",
+          "width" : 0.8607594976781314,
+          "x" : 0.04159132667630478,
+          "y" : 0.8212209302999387
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "CHIFFRES CLES",
+          "width" : 0.10669077481471653,
+          "x" : 0.03797468416329533,
+          "y" : 0.7906976746046791
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00880813916524259,
+          "text" : "Total bilan (en milliards FCFA)",
+          "width" : 0.11392405023218685,
+          "x" : 0.047016276488788984,
+          "y" : 0.7674418608427447
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378758,
+          "text" : "1645",
+          "width" : 0.025316456046836522,
+          "x" : 0.17359855291690723,
+          "y" : 0.7485465114773571
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008808139165242479,
+          "text" : "Fonds propres (en milliards FCFA)",
+          "width" : 0.130198910028608,
+          "x" : 0.22965642039256767,
+          "y" : 0.7674418606973958
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013120154937108386,
+          "text" : "+15% 107",
+          "width" : 0.05063290813651816,
+          "x" : 0.26943942380998076,
+          "y" : 0.7485465119108806
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "+17% 125",
+          "width" : 0.05244122896946318,
+          "x" : 0.329113924541037,
+          "y" : 0.7529069769648737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008808139562606843,
+          "text" : "Produit Net Bancaire (en milliards FCFA)",
+          "width" : 0.15732368690838955,
+          "x" : 0.41591320431554596,
+          "y" : 0.7674418606247214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00880813916524259,
+          "text" : "Coût net du risque (en milliards FCFA)",
+          "width" : 0.1482820946151291,
+          "x" : 0.5967450311131708,
+          "y" : 0.7674418608185198
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00880813916524259,
+          "text" : "Résultat net (en milliards FCFA)",
+          "width" : 0.12296563461113763,
+          "x" : 0.79746836015073,
+          "y" : 0.7674418608185198
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "+13%.",
+          "width" : 0.027124772922626716,
+          "x" : 0.45931283949451196,
+          "y" : 0.7398255814767501
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "71",
+          "width" : 0.012658227034129499,
+          "x" : 0.4882459314799214,
+          "y" : 0.7427325583475897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "77",
+          "width" : 0.012658228023418316,
+          "x" : 0.5479204338183089,
+          "y" : 0.7514534884794495
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "24",
+          "width" : 0.016274863753576008,
+          "x" : 0.9276672699134471,
+          "y" : 0.7456395349511016
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.007267441749572723,
+          "text" : "+8%",
+          "width" : 0.023508137192468914,
+          "x" : 0.5135623867081658,
+          "y" : 0.7398255813781206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "-16,1",
+          "width" : 0.028933091776994213,
+          "x" : 0.672694393954782,
+          "y" : 0.7412790700239462
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011802325646082523,
+          "text" : "+30% 1 550",
+          "width" : 0.05063291209367299,
+          "x" : 0.09041591348300074,
+          "y" : 0.7281976744641829
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720929622650031,
+          "text" : "93",
+          "width" : 0.014466545888497134,
+          "x" : 0.2423146477308569,
+          "y" : 0.73401162830883
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "63",
+          "width" : 0.016274863753576008,
+          "x" : 0.43037974701109627,
+          "y" : 0.7267441861430471
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "+243%",
+          "width" : 0.032549727507152015,
+          "x" : 0.6419529846490761,
+          "y" : 0.7296511632410005
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572834,
+          "text" : "-63%",
+          "width" : 0.02531645406825911,
+          "x" : 0.7016274868296437,
+          "y" : 0.7325581395176555
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009505244096120191,
+          "text" : "+229%",
+          "width" : 0.032862578190213876,
+          "x" : 0.8913444791443542,
+          "y" : 0.735072959194707
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014622093041738005,
+          "text" : "13,6 -47%",
+          "width" : 0.05424954584525332,
+          "x" : 0.8028933093558543,
+          "y" : 0.7237499999190751
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.00884689887364698,
+          "text" : "1 194",
+          "width" : 0.028933091776994255,
+          "x" : 0.05424954850571624,
+          "y" : 0.712083333452213
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013081394831339521,
+          "text" : "-4,7",
+          "width" : 0.023508137192468914,
+          "x" : 0.6130198916961103,
+          "y" : 0.7151162792195047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "-6",
+          "width" : 0.012658228023418316,
+          "x" : 0.739602169767676,
+          "y" : 0.7165697675262835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "7,2",
+          "width" : 0.021699818338101307,
+          "x" : 0.8625678125307685,
+          "y" : 0.7093023256633108
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "2019",
+          "width" : 0.02350813719246892,
+          "x" : 0.05605786669611031,
+          "y" : 0.6671511631441012
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "2020",
+          "width" : 0.0235081371924689,
+          "x" : 0.11211573225367512,
+          "y" : 0.6656976745030277
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "2021",
+          "width" : 0.019891499483733754,
+          "x" : 0.17540687256825968,
+          "y" : 0.6671511631319889
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "2019",
+          "width" : 0.023508137192468942,
+          "x" : 0.2368896927961706,
+          "y" : 0.6671511632410005
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2020",
+          "width" : 0.021699818338101307,
+          "x" : 0.29837251433908674,
+          "y" : 0.6671511629188183
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2021",
+          "width" : 0.021699818338101362,
+          "x" : 0.36166365357959307,
+          "y" : 0.6671511629188183
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "2019",
+          "width" : 0.023508137192468914,
+          "x" : 0.42676311033685776,
+          "y" : 0.6656976746148345
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "2020",
+          "width" : 0.02350813719246897,
+          "x" : 0.4846292952675388,
+          "y" : 0.6671511631441012
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "2021",
+          "width" : 0.0198914994837337,
+          "x" : 0.5443037985100921,
+          "y" : 0.6671511631441012
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "2019",
+          "width" : 0.025316456046836522,
+          "x" : 0.6112115727451171,
+          "y" : 0.6656976744848591
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "2020",
+          "width" : 0.023508137192468914,
+          "x" : 0.6763110312530723,
+          "y" : 0.6671511631441012
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "2021",
+          "width" : 0.021699818338101307,
+          "x" : 0.7341772154240778,
+          "y" : 0.6656976745151402
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "2019",
+          "width" : 0.023508137192468914,
+          "x" : 0.802893309577364,
+          "y" : 0.6656976746483766
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "2020",
+          "width" : 0.021699818338101307,
+          "x" : 0.8625678119882729,
+          "y" : 0.6671511629987524
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "2021",
+          "width" : 0.021699818338101418,
+          "x" : 0.924050633688092,
+          "y" : 0.6686046512909113
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "FAITS MARQUANTS",
+          "width" : 0.13381554378018837,
+          "x" : 0.03978300664258472,
+          "y" : 0.6162500001188795
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "Au niveau stratégique",
+          "width" : 0.14104882711196837,
+          "x" : 0.041591316462099084,
+          "y" : 0.5929166667268649
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.03641472975413007,
+          "text" : "( roan e aremen et ena du coeli ot reir ratin d ara due",
+          "width" : 0.4412296659224261,
+          "x" : 0.043399630872421706,
+          "y" : 0.5494186038741136
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01913715759913126,
+          "text" : "Africaine de Développement (BAD) d'une valeur de 50 millions d'euros, soit",
+          "width" : 0.40521521983799597,
+          "x" : 0.08131440016722348,
+          "y" : 0.5535955893040876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "plus de 30 milliards de FCFA. Cette facilité de financement comporte trois",
+          "width" : 0.40144664716918443,
+          "x" : 0.08318264052029031,
+          "y" : 0.5436046511767838
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011734496355056745,
+          "text" : "composantes à savoir : (i) un prêt subordonné de 25 millions d'euros, (ii)",
+          "width" : 0.40144664716918443,
+          "x" : 0.08318264888376212,
+          "y" : 0.5304166664990743
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008866278727849286,
+          "text" : "une enveloppe de qarantie de portefeuille de 15 millions d'euros et iii) une",
+          "width" : 0.39963832237908453,
+          "x" : 0.08499097205337491,
+          "y" : 0.5187500000854137
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ligne de crédit de financement du commerce d'un montant de 10 millions",
+          "width" : 0.40144664716918443,
+          "x" : 0.08318263717490168,
+          "y" : 0.5029069769302604
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016036822001139317,
+          "text" : "d'euros. Elle vise à soutenir NSIA Banque Cl dans le cadre de la promotion",
+          "width" : 0.4014466471691844,
+          "x" : 0.08318264708448547,
+          "y" : 0.4854166665678016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "et de la croissance des petites et moyennes entreprises des secteurs de",
+          "width" : 0.40144664716918443,
+          "x" : 0.08318264052029031,
+          "y" : 0.47374999993369526
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197113,
+          "text" : "l'agriculture et des énergies renouvelables ainsi que les entreprises",
+          "width" : 0.4032549719592842,
+          "x" : 0.08137431830607228,
+          "y" : 0.4591666670230268
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "détenues par les femmes en Côte d'lvoire.",
+          "width" : 0.2278481004643737,
+          "x" : 0.08499096165750564,
+          "y" : 0.44622093027813636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "destinées aux paysans en vue de favoriser l'inclusion financière et les cartes",
+          "width" : 0.4141048573854058,
+          "x" : 0.5406871742684183,
+          "y" : 0.5712209305251366
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "premium « Platinum et Infinite » destinées à la conquête d'une clientèle Haut",
+          "width" : 0.41591318217550566,
+          "x" : 0.5406871672847609,
+          "y" : 0.555232557942687
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016136083602905194,
+          "text" : "de Gamme.",
+          "width" : 0.06876918586952552,
+          "x" : 0.5388522971561839,
+          "y" : 0.5420773071947844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "• La poursuite des travaux de refonte de l'offre aux TPME et PME à travers le",
+          "width" : 0.42314648133590504,
+          "x" : 0.531645568864468,
+          "y" : 0.5145348838941151
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "lancement d'offres affinitaires métiers destinées aux PME et aux",
+          "width" : 0.41591318217550566,
+          "x" : 0.5388788533245437,
+          "y" : 0.49999999996554356
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Professions Libérales et la tenue de six (06) sessions de formation pour le",
+          "width" : 0.41410488904264453,
+          "x" : 0.5406871606065516,
+          "y" : 0.4854166666388309
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "renforcement des capacités des dirigeants des PME notamment sur la gestion",
+          "width" : 0.41591318217550566,
+          "x" : 0.5388788549210305,
+          "y" : 0.4723837211034172
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "commerciale et financière optimale en temps de crise.",
+          "width" : 0.2983725140203579,
+          "x" : 0.5388788461769819,
+          "y" : 0.45784883719050673
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "• L'approbation du Plan Stratégique 2022 - 2026 de la Banque dénommé",
+          "width" : 0.4104882394624449,
+          "x" : 0.07414104692790974,
+          "y" : 0.41708333353788984
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "« Altitude 22 - 26 ». Bâti autour de cinq axes stratégiques majeurs, il définit",
+          "width" : 0.4014466471691844,
+          "x" : 0.08318263985121255,
+          "y" : 0.4040697673638921
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "les ambitions pour les 5 prochaines années avec l'objectif de permettre à",
+          "width" : 0.4014466471691844,
+          "x" : 0.08318264788014551,
+          "y" : 0.38953488381738055
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "la Banque de se positionner durablement dans le Top 5 des banques.",
+          "width" : 0.3707052207092032,
+          "x" : 0.0849909762939817,
+          "y" : 0.37500000000924105
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Au niveau de l'organisation",
+          "width" : 0.17540687149491052,
+          "x" : 0.49909584152198405,
+          "y" : 0.42291666641042547
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "*La refonte organisationnelle visant à assurer un meilleur suivi des activités",
+          "width" : 0.426763099258866,
+          "x" : 0.5280289332819595,
+          "y" : 0.40250000005544617
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "avec l'adoption d'un nouvel organigramme qui tient compte des évolutions",
+          "width" : 0.4213381565458052,
+          "x" : 0.5334538821023235,
+          "y" : 0.38662790688527426
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "règlementaires, de la taille et des ambitions de la Banque. Le nouvel",
+          "width" : 0.41591318217550577,
+          "x" : 0.5388788472938024,
+          "y" : 0.3735465113910882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "organigramme est caractérisé par la création de quatre Directions Centrales,",
+          "width" : 0.41591318217550566,
+          "x" : 0.5406871743733682,
+          "y" : 0.3590116277221561
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "Au niveau de l'activité",
+          "width" : 0.1446654608635487,
+          "x" : 0.039783001847851183,
+          "y" : 0.3415697674584609
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "la création de nouvelles Directions notamment la Direction du Recouvrement",
+          "width" : 0.41952983175570535,
+          "x" : 0.5388788412288382,
+          "y" : 0.345833333574854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017587209542592408,
+          "text" : "et la Direction dédiée à la Relation avec les Investisseurs et les Partenaires",
+          "width" : 0.41591318217550566,
+          "x" : 0.540687167682591,
+          "y" : 0.3312500000899026
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "To • La poursuite de la campagne de mise à jour des dossiers clients afin de",
+          "width" : 0.4412296342651874,
+          "x" : 0.04339965382581494,
+          "y" : 0.3195833335090058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013813397089640356,
+          "text" : "Financiers.",
+          "width" : 0.06171812556096623,
+          "x" : 0.5405695091610596,
+          "y" : 0.31794795264819165
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "maintenir des relations de confiance et de transparence, d'améliorer l'offre",
+          "width" : 0.39782999758898474,
+          "x" : 0.08679929189266847,
+          "y" : 0.30958333344328526
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "de services financiers et d'assurer la sécurité des opérations de l'ensemble",
+          "width" : 0.3996383223790846,
+          "x" : 0.0849909693891195,
+          "y" : 0.29651162797435726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011845800081888846,
+          "text" : "de la clientèle.",
+          "width" : 0.07961495585461376,
+          "x" : 0.08496648289163883,
+          "y" : 0.2818677978289228
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "• Le lancement de nouveaux produits avec la commercialisation d'offres",
+          "width" : 0.4086799146723451,
+          "x" : 0.075949377672869,
+          "y" : 0.254166666641637
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "• La mise en place d'un dispositif de médiation bancaire qui répond à la volonté",
+          "width" : 0.42314648133590504,
+          "x" : 0.5316455623157726,
+          "y" : 0.28916666666792046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "d'assurer en continue la satisfaction de notre clientèle et de renforcer notre",
+          "width" : 0.41591318217550566,
+          "x" : 0.5388788467513069,
+          "y" : 0.2761627909019174
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "image de marque. Il a pour avantages d'enrichir la qualité de service et",
+          "width" : 0.4177215069656055,
+          "x" : 0.5388788528643943,
+          "y" : 0.26162790730816743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "l'expérience client et de réduire significativement les inconvénients liés aux",
+          "width" : 0.41591318217550566,
+          "x" : 0.5388788549210305,
+          "y" : 0.24708333346145395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "procédures judiciaires découlant d'insatisfactions de nos clients.",
+          "width" : 0.34719709340962135,
+          "x" : 0.5406871704742128,
+          "y" : 0.2324999997342545
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "PRÉSENTATION DES RÉSULTATS FINANCIERS",
+          "width" : 0.2857142721468977,
+          "x" : 0.039783006211059985,
+          "y" : 0.19622093040652022
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "Evolution du compte de résultat (cf. États Financiers NSIA Banque C| 2021)",
+          "width" : 0.41229656425254474,
+          "x" : 0.04159131317210039,
+          "y" : 0.17291666680303763
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011773255666096993,
+          "text" : "Le Résultat net au 31 décembre 2021 s'établit à 23 713 millions FCFA contre",
+          "width" : 0.44122963426518735,
+          "x" : 0.043399654356254876,
+          "y" : 0.14374999994481696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046123504656,
+          "text" : "7 201 millions FCFA réalisé en décembre 2020. Cette performance, correspondant à",
+          "width" : 0.43218804197192684,
+          "x" : 0.043399642757255635,
+          "y" : 0.1308139536914117
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "151% de réalisation des prévisions budgétaires, repose sur :",
+          "width" : 0.3128390490266792,
+          "x" : 0.04339964757074708,
+          "y" : 0.11624999986937157
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011744186083475716,
+          "text" : "- Un regain de l'activité commerciale et de trésorerie qui a permis une progression de",
+          "width" : 0.4430379590552872,
+          "x" : 0.04339964172009607,
+          "y" : 0.08999999986658547
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968456268368,
+          "text" : "7% du PNB:",
+          "width" : 0.06329113813851384,
+          "x" : 0.05063291088854903,
+          "y" : 0.07833333351590943
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "- Une relative maîtrise des charges générales d'exploitation par rapport à 2020;",
+          "width" : 0.4104882394624449,
+          "x" : 0.041591316465281726,
+          "y" : 0.06249999996079125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- Une nette amélioration du coût net du risque de 10 milliards FCFA reparti comme",
+          "width" : 0.44846293342558674,
+          "x" : 0.5099457439924509,
+          "y" : 0.1424418606511908
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01168604652086902,
+          "text" : "suit en ses deux composantes :",
+          "width" : 0.16455695441155016,
+          "x" : 0.5226039829434111,
+          "y" : 0.1308139533522641
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "• Le coût net du risque de crédit en amélioration de 6,4 milliards FCFA;",
+          "width" : 0.36889692757634196,
+          "x" : 0.5244122993944691,
+          "y" : 0.11625000008980979
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• Le coût net du risque opérationnel en amélioration de 3,6 milliards FCFA.",
+          "width" : 0.38517178737276325,
+          "x" : 0.5244122949392966,
+          "y" : 0.10319767480816744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "Le Produit Net Bancaire (PNB) au 31 décembre 2021 s'établit à 76,6 milliards FCFA",
+          "width" : 0.44846293342558674,
+          "x" : 0.5099457433685811,
+          "y" : 0.0799418607576945
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116727,
+          "text" : "contre 71,4 milliards FCFA réalisé au 31 décembre 2020, soit une augmentation de",
+          "width" : 0.44846293342558674,
+          "x" : 0.5099457428712937,
+          "y" : 0.06540697678240381
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.016186478932698534,
+          "text" : "• 80 200 800",
+          "width" : 0.11215928580256418,
+          "x" : 0.2621843707905848,
+          "y" : 0.005714900184106364
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.0029748061299323947,
+          "text" : "Cote d'ivoir",
+          "width" : 0.025316454068259053,
+          "x" : 0.41952983679950534,
+          "y" : 0.017441860566767664
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.0029069767395655255,
+          "text" : "www.neisbangue",
+          "width" : 0.037974682091677314,
+          "x" : 0.573236890333004,
+          "y" : 0.017441860474693982
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "NSIA, le vrai visage de la Banque.",
+          "width" : 0.19529836504291204,
+          "x" : 0.41952984342791094,
+          "y" : 0.005813953663638127
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01041666666666663,
+          "text" : "Suivez-nous sur: &n You Tube",
+          "width" : 0.09584086564566585,
+          "x" : 0.6419529860966969,
+          "y" : 0.007083333294802041
+        }
+      ],
+      "width" : 1927
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/nsbc-2021-5\/page-002.pdf.png"
+}

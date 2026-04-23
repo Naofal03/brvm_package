@@ -1,0 +1,37 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.054166666666666696,
+          "text" : "ETATS FINANCIERS",
+          "width" : 0.7764705442032723,
+          "x" : 0.11176472235214525,
+          "y" : 0.16249999979166674
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04736466725667321,
+          "text" : "2024",
+          "width" : 0.20819836742473097,
+          "x" : 0.39487201039535214,
+          "y" : 0.11003859668458571
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01890503883361816,
+          "text" : "Les lots aux gagnants, les bénéfices à toute la Nation.",
+          "width" : 0.5452674649796396,
+          "x" : 0.2263374598712913,
+          "y" : 0.04651162813283649
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-001.pdf.png"
+}

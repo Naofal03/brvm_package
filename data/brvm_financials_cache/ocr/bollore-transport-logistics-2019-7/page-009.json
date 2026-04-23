@@ -1,0 +1,325 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "BOLLORE TRANSPORT & LOGISTICS COTE D'IVOIRE (BTL CI) S.A. - 31 DECEMBRE 2019",
+          "width" : 0.5379876629904666,
+          "x" : 0.06981520597909925,
+          "y" : 0.944583333308118
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Comptes individuels IFRS",
+          "width" : 0.17659136768785888,
+          "x" : 0.7043121213579869,
+          "y" : 0.9462209305592293
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "Notes explicatives annexées aux états financiers individuels IFRS de Bolloré Transport & Logistics Côte",
+          "width" : 0.7864476216274661,
+          "x" : 0.09445586663322088,
+          "y" : 0.9011627909007139
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "d'Ivoire au 31 décembre 2019",
+          "width" : 0.2279260678061046,
+          "x" : 0.09445585916676288,
+          "y" : 0.8879166666070952
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475827,
+          "text" : "Bolloré Transport & Logistics Côte d'Ivoire (BTL CI) est une société anonyme avec conseil d'administration au capital de",
+          "width" : 0.8110882834354756,
+          "x" : 0.06981521133667677,
+          "y" : 0.8400000000264692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "10 887 060 000 FCFA enregistrée sous le numéro CI-ABJ-1962B-1141 au Registre du Commerce et du Crédit Mobilier régie",
+          "width" : 0.8110882834354757,
+          "x" : 0.06981520472305607,
+          "y" : 0.8241279070174697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "par les dispositions de l'Acte uniforme de l'OHADA relatif au droit des sociétés Commerciales et du Groupement d'Intérêt",
+          "width" : 0.8131416958830242,
+          "x" : 0.0698151991837443,
+          "y" : 0.8110465117098224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01619855403900139,
+          "text" : "Économique ainsi que toutes les dispositions légales et réglementaires en vigueur et par ses statuts.",
+          "width" : 0.6716685300721437,
+          "x" : 0.06969603333533013,
+          "y" : 0.7934318563459156
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Son siège social est situé à Treichville - Avenue Christiani — 01-BP 1727 - Abidjan 01.",
+          "width" : 0.5872689866064855,
+          "x" : 0.06981520456123343,
+          "y" : 0.7687500001676852
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Les parts de son capital social sont détenues à 74,99% par Bolloré Africa Logistics et à 25,01% par Divers Ivoiriens.",
+          "width" : 0.77618070317101,
+          "x" : 0.06981520226459742,
+          "y" : 0.7427325581487759
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475827,
+          "text" : "Leader de la logistique en Côte d'Ivoire, BTL CI offre les services suivants :",
+          "width" : 0.5030800827260011,
+          "x" : 0.06981519980743056,
+          "y" : 0.7150000000119344
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "La consignation maritime;",
+          "width" : 0.1971252585187537,
+          "x" : 0.10061601796854916,
+          "y" : 0.7004166668323784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "- Les transits maritime (import & export), aérien et pétrolier ;",
+          "width" : 0.4332648862517484,
+          "x" : 0.08624230561642546,
+          "y" : 0.6860465116734853
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01168604652086902,
+          "text" : "- Le levage et le transport de colis lourds et volumineux ;",
+          "width" : 0.40862422444373897,
+          "x" : 0.08624230937292837,
+          "y" : 0.6700000000299675
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011734495957692492,
+          "text" : "- La messagerie ;",
+          "width" : 0.13757699847361787,
+          "x" : 0.08624230020877631,
+          "y" : 0.6554166667656246
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011782945791880328,
+          "text" : "- L'entreposage ;",
+          "width" : 0.13552361298506055,
+          "x" : 0.08624229912006388,
+          "y" : 0.6408333334624445
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011834764480590731,
+          "text" : "Le courrier express ;",
+          "width" : 0.14207370430055577,
+          "x" : 0.11479502839617249,
+          "y" : 0.6263615921652257
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011831395228703911,
+          "text" : "- L'agence de voyage.",
+          "width" : 0.16837782573362964,
+          "x" : 0.0862422990428361,
+          "y" : 0.6119186048542022
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "A- Déclaration de conformité",
+          "width" : 0.22997946228099234,
+          "x" : 0.09856262795601309,
+          "y" : 0.5828488372937255
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014534883499145446,
+          "text" : "Le 26 janvier 2017, le Conseil des Ministres de I'OHADA a adopté, l'Acte Uniforme Relatif au Droit Comptable et à",
+          "width" : 0.8110882834354756,
+          "x" : 0.06981519226583535,
+          "y" : 0.5523255812639931
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "l'Information Financière (AUDCIF).",
+          "width" : 0.23408623325810696,
+          "x" : 0.06776181442844133,
+          "y" : 0.5391666666389436
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "Une des réformes de ce nouvel acte consiste en l'obligation pour les entités cotées à une bourse de valeurs et celles faisant",
+          "width" : 0.8151950364399293,
+          "x" : 0.06776183488578459,
+          "y" : 0.5099999997030331
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "un appel public à l'épargne d'établir à compter du 1e Janvier 2019, en sus de leurs états financiers selon le SYSCOHADA",
+          "width" : 0.8131416958830242,
+          "x" : 0.06776180673727929,
+          "y" : 0.4956395350776698
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "révisé, des états financiers selon les normes internationales d'informations financières, appelées normes IFRS.",
+          "width" : 0.7412730510159011,
+          "x" : 0.06570843627849726,
+          "y" : 0.4811046511864737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Les présents états financiers ont été préparés conformément aux normes IFRS publiées par l'International Accounting",
+          "width" : 0.8110882834354756,
+          "x" : 0.06981521133667677,
+          "y" : 0.45625000017495265
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "Standards Board (IASB).",
+          "width" : 0.1663244312587419,
+          "x" : 0.06981519987370906,
+          "y" : 0.440406976753427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Les états financiers sont présentés en français et en FCFA, et toutes les valeurs sont arrondies au millier le plus proche",
+          "width" : 0.8110882834354756,
+          "x" : 0.0698151917781557,
+          "y" : 0.41416666665460444
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "(000) sauf indication contraire.",
+          "width" : 0.20739219494787065,
+          "x" : 0.06776181066261494,
+          "y" : 0.39958333351752706
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "En date du 29 mai 2020, le Conseil d'Administration a arrêté les présents états financiers individuels conformément au",
+          "width" : 0.8110882834354756,
+          "x" : 0.06981519537158475,
+          "y" : 0.3720833332252621
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01168604652086902,
+          "text" : "reférentiel IFRS en vigueur au 31 décembre 2019.",
+          "width" : 0.3388090279694862,
+          "x" : 0.06776180621546232,
+          "y" : 0.3574999999088434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "B- Première application des normes IFRS",
+          "width" : 0.322381908115706,
+          "x" : 0.09856263534153106,
+          "y" : 0.32833333323230895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Les présents états financiers ont été préparés dans le cadre de la transition IFRS de Bolloré Transport & Logistics Côte",
+          "width" : 0.8151950364399294,
+          "x" : 0.06570842641555924,
+          "y" : 0.299418604725718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "d'Ivoire selon les modalités détaillées ci-dessous.",
+          "width" : 0.32854207356770826,
+          "x" : 0.06981520880136137,
+          "y" : 0.28625000019540836
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les états financiers ont été établis en utilisant les données historiques servant à l'établissement des comptes annuels de",
+          "width" : 0.8131416958830242,
+          "x" : 0.06776180673727929,
+          "y" : 0.2587209305639814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Bolloré Transport & Logistics Côte d'Ivoire (BTL CI).",
+          "width" : 0.35112935887349084,
+          "x" : 0.0677618117776869,
+          "y" : 0.2427325582919555
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "BTL CI ne préparait pas jusqu'à ce jour d'états financiers IFRS pour ses propres besoins.",
+          "width" : 0.5934291520584879,
+          "x" : 0.0698151910823237,
+          "y" : 0.2179166664965666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "Pour la première fois les comptes individuels publiés par Bolloré Transport & Logistics Côte d'Ivoire se feront en conformité",
+          "width" : 0.8131416958830241,
+          "x" : 0.06776180105232779,
+          "y" : 0.1904069770004273
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0159980614980062,
+          "text" : "avec le référentiel IFRS (International Financial Reporting Standards), en vigueur au 31 décembre 2019.",
+          "width" : 0.7002053052994333,
+          "x" : 0.0677618257691746,
+          "y" : 0.17441860477408233
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "Cette publication est complète, c'est-à-dire qu'elle présente des comptes 2018 retraités en IFRS également.",
+          "width" : 0.7207392141029888,
+          "x" : 0.06776180378012783,
+          "y" : 0.14534883724752035
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-7\/page-009.pdf.png"
+}

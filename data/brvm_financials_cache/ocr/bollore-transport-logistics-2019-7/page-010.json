@@ -1,0 +1,405 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501605,
+          "text" : "BOLLORE TRANSPORT & LOGISTICS COTE D'IVOIRE (BTL CI) S.A. - 31 DECEMBRE 2019",
+          "width" : 0.5379876629904667,
+          "x" : 0.06981520676623129,
+          "y" : 0.9445833332596683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Comptes individuels IFRS",
+          "width" : 0.1786447621627466,
+          "x" : 0.7022587265418301,
+          "y" : 0.9433139535836035
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "1- Motifs de la publication",
+          "width" : 0.21355236039987305,
+          "x" : 0.1416837808678252,
+          "y" : 0.9011627908983766
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Du fait de sa cotation en Côte d'Ivoire, les comptes individuels de Bolloré Transport & Logistics Côte d'Ivoire au titre de",
+          "width" : 0.813141695883024,
+          "x" : 0.0677618077053051,
+          "y" : 0.8706395350672878
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014728682041168284,
+          "text" : "l'exercice 2019 et des exercices suivants seront établis en conformité avec les normes comptables internationales :",
+          "width" : 0.8151950364399293,
+          "x" : 0.06570842845354671,
+          "y" : 0.8561046512155435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017596898873647016,
+          "text" : "International Financial Reporting Standards (« IFRS ») en vigueur au 31 décembre 2019.",
+          "width" : 0.6016426940127172,
+          "x" : 0.06570843022156746,
+          "y" : 0.8415697674314585
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703885,
+          "text" : "2- Modalités de première application des IFRS",
+          "width" : 0.36960985522949796,
+          "x" : 0.1396303933004754,
+          "y" : 0.8124999999132948
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "BTL CI a préparé les présents états financiers en application de la norme IFRS 1 « Première adoption des normes",
+          "width" : 0.813141695883024,
+          "x" : 0.0677618077053051,
+          "y" : 0.7790697677611713
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "internationales d'information financière ».",
+          "width" : 0.2792607679243503,
+          "x" : 0.06981520404603833,
+          "y" : 0.767441860503427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "Conformément à ladite norme, toute entité qui adopte les normes internationales pour la première fois est tenue de",
+          "width" : 0.8131416958830241,
+          "x" : 0.06776180906054119,
+          "y" : 0.7456395352151441
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "préparer et de présenter un état de la situation financière d'ouverture en IFRS à la date de transition aux IFRS.",
+          "width" : 0.7474332164679034,
+          "x" : 0.06776184053401524,
+          "y" : 0.7340116281838942
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014660852750142395,
+          "text" : "En conséquence, une entité doit appliquer les mêmes méthodes comptables dans son état de la situation financière",
+          "width" : 0.813141695883024,
+          "x" : 0.0677618077053051,
+          "y" : 0.7120833332581513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "d'ouverture en IFRS et dans toutes les périodes présentées dans ses premiers états financiers IFRS.",
+          "width" : 0.6714578904869699,
+          "x" : 0.06776181930623622,
+          "y" : 0.6991279069709262
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Ces méthodes comptables doivent être conformes à chaque IFRS en vigueur à la fin de sa première période de reporting",
+          "width" : 0.813141695883024,
+          "x" : 0.0677618077053051,
+          "y" : 0.6802325582988769
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015771865969,
+          "text" : "selon les IFRS sauf les exceptions prévues par la norme IFRS 1.",
+          "width" : 0.4312114738041998,
+          "x" : 0.06776181237921451,
+          "y" : 0.6686046510751325
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "En application des dispositions d'IFRS 1. D16 relatif aux sociétés qui adoptent les IFRS après leur société mère, le Groupe",
+          "width" : 0.8131416958830241,
+          "x" : 0.06776180766423731,
+          "y" : 0.6453488370124545
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "a choisi la possibilité offerte par la norme de conserver pour l'évaluation de ses actifs et passifs dans le bilan d'ouverture",
+          "width" : 0.8131416958830241,
+          "x" : 0.06776179415294391,
+          "y" : 0.633720930270776
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "au 1er janvier 2018 les valeurs comptables telles qu'elles ressortent des états financiers consolidés du Groupe Bolloré,",
+          "width" : 0.8151950364399293,
+          "x" : 0.06776183284779698,
+          "y" : 0.6206395348612916
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "après ajustements des éléments liés aux procédures de consolidation de Bolloré Transport & Logistics Côte d'Ivoire dans",
+          "width" : 0.8131416958830241,
+          "x" : 0.06776180585725579,
+          "y" : 0.6075000001727934
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012158739566802912,
+          "text" : "Bolloré.",
+          "width" : 0.053614500695038744,
+          "x" : 0.0697019902039743,
+          "y" : 0.5971183047836068
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "Les comptes individuels de BTL CI au titre des exercices 2018 et 2019 sont établis conformément au référentiel IFRS",
+          "width" : 0.8151950364399294,
+          "x" : 0.06570842641555924,
+          "y" : 0.5754166664276537
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "(International Financial Reporting Standards), en vigueur au 31 décembre 2019.",
+          "width" : 0.5400410754380154,
+          "x" : 0.0677618070008515,
+          "y" : 0.5625000001524206
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "- Rapprochement entre SYSCOHADA et IFRS",
+          "width" : 0.3634496897774956,
+          "x" : 0.12114989238024626,
+          "y" : 0.5391666664935948
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Chaque entité adoptant pour la première fois les normes internationales est tenue d'expliquer l'impact de la transition du",
+          "width" : 0.8131416958830242,
+          "x" : 0.06776180610366236,
+          "y" : 0.5158333332249487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "SYSCOHADA aux IFRS sur sa situation financière, sa performance financière et ses flux de trésorerie présentés.",
+          "width" : 0.7453798759109983,
+          "x" : 0.06776181363587648,
+          "y" : 0.5029069767435592
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792449938,
+          "text" : "Il en ressort que ces premiers états financiers présentent :",
+          "width" : 0.39425051703750735,
+          "x" : 0.06981519716913129,
+          "y" : 0.48541666651226256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "• un rapprochement entre les capitaux propres présentés selon le SYSCOHADA et les capitaux propres présentés",
+          "width" : 0.7843942091799175,
+          "x" : 0.09650926306917884,
+          "y" : 0.4620833332374751
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "selon les normes IFRS au 31 décembre 2017, au 31 décembre 2018 et au 31 décembre 2019.",
+          "width" : 0.6324434853274072,
+          "x" : 0.12731009024184042,
+          "y" : 0.4504166666820142
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081395228703774,
+          "text" : "La Note 13 présente le détail de ce rapprochement ;",
+          "width" : 0.35318273537571776,
+          "x" : 0.1293634636605324,
+          "y" : 0.4374999998371597
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "un rapprochement avec son résultat selon les IFRS au titre des derniers états financiers publiés.",
+          "width" : 0.6591375595829653,
+          "x" : 0.11498975275471823,
+          "y" : 0.41416666659049406
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011753875811894687,
+          "text" : "La Note 1 donne le détail de ce rapprochement.",
+          "width" : 0.32032853161347913,
+          "x" : 0.12936345438491004,
+          "y" : 0.40116279090071394
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019612627029419016,
+          "text" : "À l'exception de la norme IFRS 16, l'impact des autres normes et interprétations applicables à compter du 1er janvier 2019",
+          "width" : 0.8133355849482847,
+          "x" : 0.0676520025023152,
+          "y" : 0.3626919492521009
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "n'est pas significatif sur les comptes du Groupe.",
+          "width" : 0.32032853161347913,
+          "x" : 0.06981520431646367,
+          "y" : 0.354583333508913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "- Options et exemptions",
+          "width" : 0.20944557145009754,
+          "x" : 0.12114990770410924,
+          "y" : 0.3283333333655454
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "La norme IFRS 1 prévoit des cas d'exemptions qu'une entité qui adopte la première fois les normes IFRS peut déroger",
+          "width" : 0.813141695883024,
+          "x" : 0.0677618077053051,
+          "y" : 0.30666666644362817
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "dans certains cas au caractère rétroactif de l'application des normes IFRS.",
+          "width" : 0.49691991727399887,
+          "x" : 0.06981520033630642,
+          "y" : 0.2965116279452875
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Bolloré Transport & Logistics Côte d'Ivoire a examiné tous les traitements possibles et a opté pour les exemptions",
+          "width" : 0.8131416958830241,
+          "x" : 0.06776179620633194,
+          "y" : 0.273255813919032
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "facultatives offertes par la norme IFRS 1 suivantes :",
+          "width" : 0.35318273537571776,
+          "x" : 0.06776181403698714,
+          "y" : 0.26291666660224267
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "• Coût présumé des immobilisations corporelles et incorporelles :",
+          "width" : 0.4599589245619847,
+          "x" : 0.09650924926931558,
+          "y" : 0.24124999968267047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "La norme IFRS 1 prévoit qu'un nouvel adoptant puisse décider d'utiliser une réévaluation d'une immobilisation",
+          "width" : 0.7638603722670053,
+          "x" : 0.1149897240923702,
+          "y" : 0.22238372088133407
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "corporelle établie, selon le référentiel comptable antérieur, à la date de transition aux IFRS, ou avant cette date,",
+          "width" : 0.7659137128239106,
+          "x" : 0.1149897631568331,
+          "y" : 0.20916666647789883
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "comme coût présumé à la date de réévaluation si, à cette date, la réévaluation était globalement comparable :",
+          "width" : 0.7453798759109982,
+          "x" : 0.11498972604860787,
+          "y" : 0.1945833334679088
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01017441868782043,
+          "text" : "- à la juste valeur ;",
+          "width" : 0.15195070587984946,
+          "x" : 0.12114990120107469,
+          "y" : 0.17732558147977195
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011773255666096993,
+          "text" : "- ou au coût ;",
+          "width" : 0.11704311662905346,
+          "x" : 0.12114990154173604,
+          "y" : 0.1569767442437371
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- ou au coût amorti selon les IFRS, ajusté, par exemple, en fonction de variations d'un indice des prix général",
+          "width" : 0.7618069598194568,
+          "x" : 0.12114991770320775,
+          "y" : 0.136627907326336
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011767159303029406,
+          "text" : "ou spécifique.",
+          "width" : 0.10064800608424893,
+          "x" : 0.14988133744370694,
+          "y" : 0.12347688551553493
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "BTL CI a décidé d'utiliser au titre du coût présumé des immobilisations corporelles à la date de la transition (1er",
+          "width" : 0.7659137128239105,
+          "x" : 0.11498976188031022,
+          "y" : 0.10319767476214037
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "janvier 2018), le coût établi selon la juste valeur.",
+          "width" : 0.3326488625174838,
+          "x" : 0.11498974127719223,
+          "y" : 0.08999999999013197
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "10",
+          "width" : 0.024640657314844272,
+          "x" : 0.48665297716051076,
+          "y" : 0.05523255818582773
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2019-7\/page-010.pdf.png"
+}

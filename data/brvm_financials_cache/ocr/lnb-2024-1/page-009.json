@@ -1,0 +1,245 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "Admission à la côte de la Bourse Régionale des Valeurs Mobilières (BRVM)",
+          "width" : 0.7016460490676591,
+          "x" : 0.11522636519868061,
+          "y" : 0.9287500002205309
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01760658899943035,
+          "text" : "Par décret n°2024-1018 du 17 juillet 2024 portant autorisation d'offre publique de vente",
+          "width" : 0.7674896672086895,
+          "x" : 0.1152263529440093,
+          "y" : 0.8879166664226383
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "d'une partie des actions de la LNB SA et d'introduction des actions de la société à la",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.8691666664290932
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017616278330484958,
+          "text" : "côte de la Bourse Régionale des Valeurs Mobilières, la LNB SA est admise à la côte de",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522636184318605,
+          "y" : 0.8473837213221174
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "la BRVM le 13 décembre 2024. Les objectifs poursuivis par cette admission sont entre",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316874298482815,
+          "y" : 0.828333333283003
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "autres de promouvoir l'actionnariat populaire et diversifier ledit actionnariat; contribuer",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.80813953476197
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "au développement du marché boursier sous régional, mobiliser de la ressource sans",
+          "width" : 0.7654321058741156,
+          "x" : 0.1172839547172631,
+          "y" : 0.7891666667987345
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "endettement pour l'Etat, améliorer la gouvernance de la LNB, garantir la transparence",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728394150738687,
+          "y" : 0.7674418601616793
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734816,
+          "text" : "budgétaire et accroitre la notoriété de la société auprès du grand public.",
+          "width" : 0.6460905255011793,
+          "x" : 0.11522634864858716,
+          "y" : 0.7470833331076014
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "Amélioration des systèmes d'informations",
+          "width" : 0.39300411152389814,
+          "x" : 0.11522633896541715,
+          "y" : 0.7062499998925555
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01763565778732301,
+          "text" : "La LNB SA a mis en place une application interne de centralisation des données de",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316874464806538,
+          "y" : 0.6656976752465359
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395626068026,
+          "text" : "ventes (M-DATA)",
+          "width" : 0.1522633714495965,
+          "x" : 0.11522633889206003,
+          "y" : 0.64825581382615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "Une dynamique commerciale forte",
+          "width" : 0.3209876654283056,
+          "x" : 0.11522633418766967,
+          "y" : 0.6061046513567395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "-la LNB SA a procédé à une révolution commerciale forte par le street marketing et des",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.5654069766466598
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "campagnes promotionnelles ciblées;",
+          "width" : 0.33333332133743,
+          "x" : 0.11522634011317807,
+          "y" : 0.5450000002600026
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "-le lancement courant mars 2024 des jeux virtuels (Course Chevaux, Motor Racing et",
+          "width" : 0.7695473005186836,
+          "x" : 0.11522635935999946,
+          "y" : 0.504166666591798
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Levrier ANC) ;",
+          "width" : 0.13168723628206075,
+          "x" : 0.11316872913263214,
+          "y" : 0.48401162767015804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "-le retrait des jeux KIRON dès le premier trimestre 2024 ;",
+          "width" : 0.5102880585868403,
+          "x" : 0.11522634617983075,
+          "y" : 0.4445833334508662
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "-l'exploitation de mars à septembre 2024 du jeu FOOT Virtuel ANC;",
+          "width" : 0.6069958524883917,
+          "x" : 0.11522634600374668,
+          "y" : 0.4040697673503906
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "-le lancement pour compter du ler octobre 2024 de deux tirages digitaux par jour pour",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.3633333332173252
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "le loto 5\/90.",
+          "width" : 0.11316872542759157,
+          "x" : 0.11316872512056633,
+          "y" : 0.3444767442606017
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01600775241851804,
+          "text" : "Participation aux réunions statutaires",
+          "width" : 0.3518518411888267,
+          "x" : 0.11522634070188303,
+          "y" : 0.30232558119850095
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "Au titre de l'année 2024, la LNB SA a :",
+          "width" : 0.3415637826019863,
+          "x" : 0.11522634000902054,
+          "y" : 0.2616279068065436
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "-participé à l'assemblée générale de l'Association des Loteries d'Afrique du 07 au 10",
+          "width" : 0.7695473005186836,
+          "x" : 0.11316872695259252,
+          "y" : 0.2223837208024254
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "mars à Abidjan;",
+          "width" : 0.13991768854968956,
+          "x" : 0.11522634053997005,
+          "y" : 0.20203488384384982
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "-organisé à Cotonou la 54ième réunion annuelle des Directeurs Généraux des loteries",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316872965835373,
+          "y" : 0.16125000035761405
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "des pays membres du conseil de l'Entente du 06 au 08 mai 2024;",
+          "width" : 0.5905349659469892,
+          "x" : 0.11522633926587449,
+          "y" : 0.14083333316187896
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444674,
+          "text" : "Contact: +229 21 31 43 00 \/ 21 31 64 22 Email : secretariat.lnb@lnb.bj Site web : loteriebenin.bj",
+          "width" : 0.4547324990326504,
+          "x" : 0.11522634876042363,
+          "y" : 0.023255814331116897
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519416809038,
+          "text" : "Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.2962962816346367,
+          "x" : 0.5884773706230109,
+          "y" : 0.02325581380293862
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-009.pdf.png"
+}

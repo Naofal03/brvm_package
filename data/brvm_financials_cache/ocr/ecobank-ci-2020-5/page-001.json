@@ -1,0 +1,333 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03143211364746101,
+          "text" : "Ecobank",
+          "width" : 0.1280020407910617,
+          "x" : 0.8619249062380531,
+          "y" : 0.9617548734865562
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.12551439933057096,
+          "x" : 0.8600823080764841,
+          "y" : 0.9491279073543726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Abidjan, Côte d'Ivoire 24 Mars 2021",
+          "width" : 0.2860082230477963,
+          "x" : 0.09259259391163,
+          "y" : 0.8619186047136056
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "Le Résultat Net de Ecobank Côte d'Ivoire au 31 Décembre 2020 franchit le seuil de FCFA 30",
+          "width" : 0.8127571681760393,
+          "x" : 0.0925925957816654,
+          "y" : 0.7833333332479195
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "milliards, soit une hausse de 18% en glissement annuel",
+          "width" : 0.4691357882517689,
+          "x" : 0.0925925918823463,
+          "y" : 0.7629166664518785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "CONFIRMATION DE L'AMELIORATION DES PERFORMANCES COMMERCIALES ET",
+          "width" : 0.8127571681760393,
+          "x" : 0.092592619487083,
+          "y" : 0.7062499996842376
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "FINANCIERES EN GLISSEMENT ANNUEL",
+          "width" : 0.41563786200757297,
+          "x" : 0.09259259578633688,
+          "y" : 0.6887499999775708
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "• Résilience des revenus (+4%) dans un contexte toujours marqué par la crise ;",
+          "width" : 0.639917697546617,
+          "x" : 0.12139918658334409,
+          "y" : 0.6583333330491058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "• Maintien de la discipline dans la gestion des coûts (-1%) avec un effet de ciseaux positif ;",
+          "width" : 0.7263374328613281,
+          "x" : 0.12139917754052945,
+          "y" : 0.6395348836403614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "• Coût du Risque à -5% résultant de la très bonne tenue du portefeuille de crédits tout en intégrant",
+          "width" : 0.7839505897378022,
+          "x" : 0.12345679409714852,
+          "y" : 0.6235465118684873
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "un provisionnement prudent ;",
+          "width" : 0.24074074007430168,
+          "x" : 0.1502057586408328,
+          "y" : 0.60750000017652
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "• Résultat Net à FCFA 30,0 milliards (+18%).",
+          "width" : 0.38065841962706365,
+          "x" : 0.12139918842035018,
+          "y" : 0.5870833330739575
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "GESTION PRUDENTE DE LA CRISE, RESILIENCE DES METIERS ET SOLIDITE DU",
+          "width" : 0.8127571681760393,
+          "x" : 0.092592619487083,
+          "y" : 0.5406976745088208
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011732432842254559,
+          "text" : "BILAN",
+          "width" : 0.06588045606073344,
+          "x" : 0.09257417581074108,
+          "y" : 0.5275640162088151
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "• Accompagnement des clients, mobilisation exceptionnelle des collaborateurs avec une",
+          "width" : 0.7860082230477964,
+          "x" : 0.12139919375730858,
+          "y" : 0.4956395350915125
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "augmentation du Total Bilan (+7%) ;",
+          "width" : 0.3004115122669148,
+          "x" : 0.14814814832470463,
+          "y" : 0.48110465134886515
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "• Gestion disciplinée du capital : ratio de solvabilité à 15,19%, environ 481 points de base au-dessus",
+          "width" : 0.7860082230477963,
+          "x" : 0.12139917438145176,
+          "y" : 0.4607558137166696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "de l'exigence réglementaire;",
+          "width" : 0.23045266349360632,
+          "x" : 0.14814815000902687,
+          "y" : 0.44622093034345045
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789424,
+          "text" : "• Augmentation des dépôts de la clientèle, total de FCFA 978,6 milliards, en hausse de 22% ;",
+          "width" : 0.7469135500350088,
+          "x" : 0.12139918459154922,
+          "y" : 0.42732558131478016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "• Paiement proposé d'un dividende en numéraire déterminé conformément aux recommandations",
+          "width" : 0.7839505897378023,
+          "x" : 0.12345679474015275,
+          "y" : 0.4098837207988768
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "de la Banque Centrale des Etats de l'Afrique de l'Ouest (« BCEAO ») de FCFA 382 brut, sous",
+          "width" : 0.7572016446095593,
+          "x" : 0.15020575259233993,
+          "y" : 0.3924418604099835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "réserve de l'approbation de l'Assemblée Générale.",
+          "width" : 0.39917693947846034,
+          "x" : 0.15020577393360923,
+          "y" : 0.37624999968549155
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "EXECUTION DISCIPLINEE DE LA FEUILLE DE ROUTE STRATEGIQUE",
+          "width" : 0.6975308544230912,
+          "x" : 0.090534989609442,
+          "y" : 0.3357558139432567
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "• Seconde année de l'exécution de la feuille de route stratégique : Croissance, Diversification,",
+          "width" : 0.7839505897378022,
+          "x" : 0.12345681369591352,
+          "y" : 0.30666666637095374
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011730896631876653,
+          "text" : "Efficience:",
+          "width" : 0.10341201638275724,
+          "x" : 0.14387571488729092,
+          "y" : 0.293288463077915
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "• Poursuite du repositionnement des activités de la banque des particuliers et de la banque",
+          "width" : 0.7860082230477964,
+          "x" : 0.12139919375730858,
+          "y" : 0.27166666641240667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "commerciale avec une hausse du Produit Net Bancaire de 4% ;",
+          "width" : 0.5020575973222842,
+          "x" : 0.14609055127027062,
+          "y" : 0.25708333372719927
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "• Accélération des moteurs de croissance avec la diversification dans les métiers de marchés et des",
+          "width" : 0.7860082230477963,
+          "x" : 0.12139916755703507,
+          "y" : 0.24125000009716224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "produits à forte valeur ajoutée;",
+          "width" : 0.26131685724798237,
+          "x" : 0.13991769870797058,
+          "y" : 0.222383721116307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• Approfondissement des initiatives digitales avec des croissances importantes des transactions via",
+          "width" : 0.7818929564278081,
+          "x" : 0.12345680419350363,
+          "y" : 0.20494186066935927
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "les canaux digitaux dont notamment +80% et +58%, respectivement pour les applications",
+          "width" : 0.7572016446095593,
+          "x" : 0.15020577467738727,
+          "y" : 0.18750000020779167
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "Ecobank On Line et Ecobank Mobile App;",
+          "width" : 0.3580246691433888,
+          "x" : 0.14814816283571294,
+          "y" : 0.17151162807600862
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• Renforcement des efforts d'efficience avec la poursuite de la baisse du coefficient d'exploitation",
+          "width" : 0.781892956427808,
+          "x" : 0.12345682178609581,
+          "y" : 0.15406976777328374
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01333333333333342,
+          "text" : "de 52,8% à 50,4%.",
+          "width" : 0.1502057561334574,
+          "x" : 0.15020576203100797,
+          "y" : 0.1379166666300159
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15432098676573555,
+          "x" : 0.002057616185033367,
+          "y" : 0.053750000140859844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040173,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.7736624951632518,
+          "x" : 0.0020576284128876517,
+          "y" : 0.04208333335881209
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Tel: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIAB",
+          "width" : 0.43209874854897556,
+          "x" : 0.002057627011520311,
+          "y" : 0.03041666679478716
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456093,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.7839505897378022,
+          "x" : 0.0020576138759554235,
+          "y" : 0.001249999960791337
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025318185488382938,
+          "text" : "Ecobank",
+          "width" : 0.1401306908085661,
+          "x" : 0.8558605798211164,
+          "y" : 0.031672302498683025
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025703,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.13991768854968945,
+          "x" : 0.8518518576455941,
+          "y" : 0.02034883756270578
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2020-5\/page-001.pdf.png"
+}

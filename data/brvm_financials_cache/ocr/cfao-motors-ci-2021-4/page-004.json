@@ -1,0 +1,309 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "II. COMMENTAIRES DE LA DIRECTION DE LA SOCIETE",
+          "width" : 0.4024640589917366,
+          "x" : 0.041067771873056845,
+          "y" : 0.9302325583693069
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "Après une année 2020 marquée par la crise sanitaire de la covid-19, le marché de la distribution automobile a connu une",
+          "width" : 0.8809034439644066,
+          "x" : 0.059548289029090005,
+          "y" : 0.9054166664990743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013822932243347186,
+          "text" : "augmentation de 49% en 2021, 20 192 unités vendues en 2021 vs 13 583 unités en 2020.",
+          "width" : 0.6058348171562132,
+          "x" : 0.0574452530434417,
+          "y" : 0.8918138705556777
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Dans ce contexte favorable, CFAO MOTORS Cl conserve sa place de leader avec 40.3% du marché global",
+          "width" : 0.7227925546598939,
+          "x" : 0.059548290226520924,
+          "y" : 0.8706395350019736
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Ont été vendus en 2021, 8 130 Véhicules contre 5 704 véhicules en 2020, soit une progression de + 42%.",
+          "width" : 0.7104722237558893,
+          "x" : 0.05954827607551215,
+          "y" : 0.8458333333278538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "La marque SUZUKI by CFAO devient marque N°1 du marché avec 3 155 unités vendues contre 1 595 en 2020.",
+          "width" : 0.7494866289154519,
+          "x" : 0.059548259224683556,
+          "y" : 0.8241279070174697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "Les ventes des autres marques ont aussi progressé : Toyota + 846 unités, PSA (Peugeot\/Citroën) : + 53 unités. MITSUBISHI est en",
+          "width" : 0.8829568564119553,
+          "x" : 0.05749488878580858,
+          "y" : 0.8008333332307417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "léger retrait avec -62 unités vendues",
+          "width" : 0.2505133351392263,
+          "x" : 0.055441487512522265,
+          "y" : 0.7891666668413059
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "Les parts de marché sont les suivantes : TOYOTA 13,4% ; SUZUKI 15,6% ; MITSUBISHI 5,8% et PSA (PEUGEOT\/CITROEN) 3,7%.",
+          "width" : 0.8829568564119553,
+          "x" : 0.05749486303290034,
+          "y" : 0.7658333332201965
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "Le secteur de l'après-vente, pièces et atelier, porté par les ventes de véhicules et orienté rétention client, enregistre une hausse",
+          "width" : 0.8809034439644067,
+          "x" : 0.05749489098836472,
+          "y" : 0.7412499998281818
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736249287991,
+          "text" : "d'activité (13 milliards de FCFA en 2021 contre 11 milliards de FCFA en 2020).",
+          "width" : 0.5277207445340106,
+          "x" : 0.059548246685766866,
+          "y" : 0.7295833334507733
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "Les activités 2 roues marines ont connu une hausse en 2021. Ont été vendues en 2021, 2 210 unités (Motos + Hors Board) contre",
+          "width" : 0.8829568564119552,
+          "x" : 0.05749487651681504,
+          "y" : 0.706249999811418
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01168604652086902,
+          "text" : "1 977 unités en 2020, soit une croissance de 11,7%",
+          "width" : 0.3511293588734909,
+          "x" : 0.05749486789385011,
+          "y" : 0.6933139533038146
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "La hausse du chiffre d'affaires, le maintien des taux de marge et des charges d'exploitation permettent de réaliser en 2021 un résultat",
+          "width" : 0.8829568564119552,
+          "x" : 0.05749486671188709,
+          "y" : 0.6699999999451808
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "d'exploitation en progression de 88% versus 2020.",
+          "width" : 0.340862404471713,
+          "x" : 0.05954826846913988,
+          "y" : 0.6583333334901678
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384838,
+          "text" : "Cette performance nous amène à un résultat net de 6,7 milliards en 2021, soit une progression de 77% par rapport à 2020.",
+          "width" : 0.825462026787029,
+          "x" : 0.057494861401146735,
+          "y" : 0.632083333373432
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "- Sur l'évolution prévisible et perspectives d'avenir",
+          "width" : 0.3388090279694862,
+          "x" : 0.05749487423394263,
+          "y" : 0.5886627907795898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "Le 1er trimestre 2022, dans la poursuite de la fin de l'année 2021 a connu un niveau d'activité soutenu en rentabilité un peu moindre",
+          "width" : 0.8829568564119551,
+          "x" : 0.057494868919279206,
+          "y" : 0.5436046511138922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "pour maintenir notre compétitivité.",
+          "width" : 0.22997946228099234,
+          "x" : 0.05749487063910677,
+          "y" : 0.5304166666201984
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Nos objectifs 2020 sont les suivants :",
+          "width" : 0.2525667296141141,
+          "x" : 0.057494866780896506,
+          "y" : 0.48541666682977014
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "-Accompagner le développement de nos marques avec une stratégie forte de communication,",
+          "width" : 0.6324434853274072,
+          "x" : 0.05749489610426338,
+          "y" : 0.4387500001399621
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "-Ouvrir de nouveaux points de vente",
+          "width" : 0.24640656416211162,
+          "x" : 0.0574948723337285,
+          "y" : 0.4170833333320795
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- Améliorer la rétention client et accroître l'activité de service après-vente,",
+          "width" : 0.4969199172739988,
+          "x" : 0.05544148287566312,
+          "y" : 0.3924418607602024
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "- Assurer une croissance rentable et durable via des programmes d'amélioration continue de la qualité (Kaizen)",
+          "width" : 0.7494866289154519,
+          "x" : 0.05544148422468339,
+          "y" : 0.3691666662740545
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "- Rendre notre entreprise encore plus attractive pour attirer et retenir les meilleurs talents.",
+          "width" : 0.6057494829624926,
+          "x" : 0.055441487856535826,
+          "y" : 0.3487500001663385
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "III. AUTRES INFORMATIONS",
+          "width" : 0.20944557145009754,
+          "x" : 0.032854213710269586,
+          "y" : 0.3023255815995919
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Depuis la clôture des comptes au 31 décembre 2021, nous n'avons pas enregistré d'évènements majeurs pouvant impacter",
+          "width" : 0.885010268859504,
+          "x" : 0.05544147226942689,
+          "y" : 0.2761627904608557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "l'évaluation des actifs et du passif à la date de clôture. Les états financiers de l'entité ont donc été établis en retenant la convention",
+          "width" : 0.8850102688595038,
+          "x" : 0.055441484854984374,
+          "y" : 0.2645348839044971
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "comptable de continuité d'exploitation.",
+          "width" : 0.26078028954100413,
+          "x" : 0.05544147414633578,
+          "y" : 0.25124999974250495
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023085041046142507,
+          "text" : "Cependant, la crise sanitaire de la covid-19 perdure en 2022, la société n'est pas en capacité d'apprécier l'impact éventuel.",
+          "width" : 0.8256879790792477,
+          "x" : 0.05735975926473008,
+          "y" : 0.2243463998393831
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02244310696919749,
+          "text" : "Néanmoins, à ce stade, cet évènement ne remet pas en cause l'évaluation des actifs qui lui sont dédiés.",
+          "width" : 0.7044203975034968,
+          "x" : 0.055364555269774816,
+          "y" : 0.20449982480669637
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "Fait à Abidjan, le 21 Avril 2022",
+          "width" : 0.18275153313986123,
+          "x" : 0.13347023084622264,
+          "y" : 0.15249999986650042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Président Directeur Général",
+          "width" : 0.17248459671074423,
+          "x" : 0.13347022566926853,
+          "y" : 0.12916666696381907
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016007751623789535,
+          "text" : "Mrecteur Adminlstgetlf & Financier",
+          "width" : 0.21765913137698767,
+          "x" : 0.6858316274531899,
+          "y" : 0.11916666706143053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013446021080017134,
+          "text" : "Edouard ROCHET",
+          "width" : 0.1055551895123629,
+          "x" : 0.13312600273827374,
+          "y" : 0.04672340410543141
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016351524988810207,
+          "text" : "Phillope FOQUELIN",
+          "width" : 0.11746687602659844,
+          "x" : 0.6815129695341702,
+          "y" : 0.03688237707374864
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "r4",
+          "width" : 0.024640657314844217,
+          "x" : 0.9158110881803602,
+          "y" : 0.031976744575609395
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/cfao-motors-ci-2021-4\/page-004.pdf.png"
+}

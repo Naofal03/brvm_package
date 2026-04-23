@@ -1,0 +1,341 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.032806177139282244,
+          "text" : "Ecobank",
+          "width" : 0.12798391198212244,
+          "x" : 0.8619339704609619,
+          "y" : 0.9617945860808048
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.12551439933057096,
+          "x" : 0.8600823080764841,
+          "y" : 0.9491279073543726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "La marge nette d'intérêts est ressortie à FCFA 58,7 milliards, suite à la contraction de 7% des revenus",
+          "width" : 0.812757168176039,
+          "x" : 0.0925925991681535,
+          "y" : 0.9156976744931598
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "d'intérêts, baisse toutefois partiellement compensée par la bonne tenue des charges d'intérêts, en",
+          "width" : 0.8127571681760393,
+          "x" : 0.092592619487083,
+          "y" : 0.8966666663881819
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "régression de 19%, permettant ainsi de limiter le recul de la marge nette d'intérêt à 2%.",
+          "width" : 0.6810699318939784,
+          "x" : 0.09259261742063724,
+          "y" : 0.8791666666851488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Charges d'exploitation",
+          "width" : 0.19547323910695202,
+          "x" : 0.09259259766874621,
+          "y" : 0.8212209300357103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Les charges d'exploitation, qui intègrent des coûts de restructuration d'environ FCFA 4,0 milliards sont",
+          "width" : 0.8148148014860332,
+          "x" : 0.09259260740513137,
+          "y" : 0.7949999999063359
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "en baisse sur l'année à 43,6 milliards de CFA (-1%), en ligne avec la cible annuelle, et dans la continuité",
+          "width" : 0.8168724347960274,
+          "x" : 0.09053496784890006,
+          "y" : 0.774583332964946
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "des efforts engagés sur 2019. L'ensemble des lignes de métiers participent à cet effort.",
+          "width" : 0.6748971039394163,
+          "x" : 0.09259260872988011,
+          "y" : 0.7587209305094755
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01763565778732301,
+          "text" : "La banque s'engage à poursuivre les efforts de réduction de ses charges d'exploitation. Plusieurs",
+          "width" : 0.8189299961306015,
+          "x" : 0.08847738120424675,
+          "y" : 0.7281976752465359
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "initiatives, déjà lancées, contribueront à cette dynamique. Sur l'année 2021, Ecobank Côte d'Ivoire entend",
+          "width" : 0.8148148014860332,
+          "x" : 0.0905349759030741,
+          "y" : 0.7107558140643807
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "maintenir une gestion stricte de ses coûts et vise un effet ciseaux positif sur le prochain cycle économique.",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259258907179846,
+          "y" : 0.69331395352659
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Coût du risque",
+          "width" : 0.12962962096592162,
+          "x" : 0.09259259833048221,
+          "y" : 0.6656976744593303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Le ratio du coût du risque est de 1,6% en 2020 soit un montant de FCFA 10,8 milliards de FCFA contre",
+          "width" : 0.8148148014860332,
+          "x" : 0.09259260740513137,
+          "y" : 0.637916666720859
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "FCFA 11,3 milliards en 2019. La baisse du coût du risque s'explique essentiellement par une amélioration",
+          "width" : 0.8127571681760392,
+          "x" : 0.09259261093941518,
+          "y" : 0.6191666666132017
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999876,
+          "text" : "du recouvrement qui est passé de FCFA 1,3 milliard en 2019 à FCFA 2,2 milliards en 2020.",
+          "width" : 0.7160493382867776,
+          "x" : 0.09053499447801044,
+          "y" : 0.5987499996791645
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Le taux brut d'encours douteux est resté à des niveaux bas tout au long de l'année et est enregistré à 5,2%",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.5724999998690583
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01600775241851804,
+          "text" : "au 31 décembre 2020 (6,1% au 31 décembre 2019).",
+          "width" : 0.40534980342073257,
+          "x" : 0.09053497077934568,
+          "y" : 0.5523255812857102
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "En 2021, la banque reste prudente et s'attend à un coût du risque en légère baisse par rapport à celui de",
+          "width" : 0.8127571681760393,
+          "x" : 0.0925925957816654,
+          "y" : 0.5261627909321985
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "2020.",
+          "width" : 0.04526748747195837,
+          "x" : 0.09259259408980956,
+          "y" : 0.5072674419955824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Résultats Avant Impôt et Net",
+          "width" : 0.2530864139772811,
+          "x" : 0.0946502118127997,
+          "y" : 0.4811046514760454
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "L'augmentation des Résultats Avant Impôt et Net de respectivement 16% et 18% a été rendue possible",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259261283722978,
+          "y" : 0.4520348840523535
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "par une croissance des revenus de 4% comparativement à 2019, une meilleure gestion du coût du risque,",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.43313953499461333
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "en recul de 3%, mais également une gestion rigoureuse des charges d'exploitation, conduisant à la",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.4141666668132693
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "réduction du coefficient d'exploitation qui est passé de 52,8% en 2019 à 50,4% en 2020.",
+          "width" : 0.6872427598485407,
+          "x" : 0.09053499180412485,
+          "y" : 0.39534883709966384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Les Résultats Avant Impôt et Net, franchissent tous les deux pour la première fois, le seuil de FCFA 30",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.36773255835943885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "milliards, à respectivement FCFA 32,4 milliards, contre FCFA 28,0 milliards en 2019, et FCFA 30,0",
+          "width" : 0.8148148014860335,
+          "x" : 0.09053497250801262,
+          "y" : 0.348749999822176
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "milliards, contre FCFA 25 milliards en 2019, soit une hausse de 18%.",
+          "width" : 0.5452674649796396,
+          "x" : 0.09053499860585906,
+          "y" : 0.3299418604463208
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010193798144658373,
+          "text" : "Distribution des dividendes aux actionnaires",
+          "width" : 0.3827160529370578,
+          "x" : 0.09465021036274661,
+          "y" : 0.306666666838748
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le Conseil d'Administration, tenant compte des recommandations de la Banque Centrale des Etats de",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259258907179846,
+          "y" : 0.2761627909019174
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "l'Afrique de l'Ouest (BCEAO), a décidé de proposer à l'Assemblée Générale des actionnaires du 8 Avril",
+          "width" : 0.812757168176039,
+          "x" : 0.0925925991681535,
+          "y" : 0.25708333368480596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "2021 le versement d'un dividende de FCFA 382 bruts par action en numéraire. La date de paiement des",
+          "width" : 0.8127571681760393,
+          "x" : 0.09465023265580735,
+          "y" : 0.238333333498418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "dividendes envisagée par la banque, suite à l'approbation des actionnaires est le 30 avril 2021. Le",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.21947674436961329
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015116117000579798,
+          "text" : "détachement du coupon devrait intervenir le 27 avril 2021'.",
+          "width" : 0.4651453989856648,
+          "x" : 0.09253651784767575,
+          "y" : 0.20148662424554742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "1 Date indicative à confirmer par les structures compétentes du marché.",
+          "width" : 0.4958847693677219,
+          "x" : 0.09259258854144788,
+          "y" : 0.08866279093825447
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15432098676573555,
+          "x" : 0.002057616185033367,
+          "y" : 0.053750000140859844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040173,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.7736624951632518,
+          "x" : 0.0020576284128876517,
+          "y" : 0.04208333335881209
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Tel: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIAB",
+          "width" : 0.43209874854897556,
+          "x" : 0.002057627011520311,
+          "y" : 0.03041666679478716
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456093,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.7839505897378022,
+          "x" : 0.0020576138759554235,
+          "y" : 0.001249999960791337
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025252499580383336,
+          "text" : "Ecobank",
+          "width" : 0.14010795557274014,
+          "x" : 0.8558719474391294,
+          "y" : 0.03170514545235337
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025703,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.13991768854968945,
+          "x" : 0.8518518576455941,
+          "y" : 0.02034883756270578
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2020-5\/page-003.pdf.png"
+}

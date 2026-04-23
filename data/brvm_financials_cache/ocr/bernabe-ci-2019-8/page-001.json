@@ -1,0 +1,37 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.03642230510711664,
+          "text" : "Bernabé Côte d'Ivoire S.A.",
+          "width" : 0.37965922085744036,
+          "x" : 0.09825802509917464,
+          "y" : 0.623358435139111
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02921511650085451,
+          "text" : "Etats Financiers Annuels IFRS",
+          "width" : 0.42592592059441337,
+          "x" : 0.09670781893376047,
+          "y" : 0.5145348838882091
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017616279125213574,
+          "text" : "Exercice de douze mois clos le 31 décembre 2019",
+          "width" : 0.41563786200757297,
+          "x" : 0.09876542853839469,
+          "y" : 0.4723837206727376
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bernabe-ci-2019-8\/page-001.pdf.png"
+}

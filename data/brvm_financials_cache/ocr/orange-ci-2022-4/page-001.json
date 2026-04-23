@@ -1,0 +1,37 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.08559325606734669,
+          "text" : "GROUPE",
+          "width" : 0.2444921112060547,
+          "x" : 0.027463247440274046,
+          "y" : 0.776324819124899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.08296296296296302,
+          "text" : "ORANGE CI",
+          "width" : 0.3270348866780599,
+          "x" : 0.027616276501086338,
+          "y" : 0.6562962955013442
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.051851851851851816,
+          "text" : "Etats financiers consolidés",
+          "width" : 0.44767440795898444,
+          "x" : 0.029069775003065908,
+          "y" : 0.4133333344622766
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2022-4\/page-001.pdf.png"
+}

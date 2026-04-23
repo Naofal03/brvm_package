@@ -1,0 +1,269 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.005813953479131051,
+          "text" : "PUBLIC",
+          "width" : 0.024640657314844203,
+          "x" : 0.08829568766701322,
+          "y" : 0.979651162819543
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.029865458806355716,
+          "text" : "Ecobank",
+          "width" : 0.12357414793771626,
+          "x" : 0.7226071771614178,
+          "y" : 0.9051254102003927
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008808139562606843,
+          "text" : "The Pan African Bank",
+          "width" : 0.11909651110394115,
+          "x" : 0.722792606768358,
+          "y" : 0.892441860380224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Ecobank Transnational Incorporated",
+          "width" : 0.18480492761474893,
+          "x" : 0.13141683660330317,
+          "y" : 0.8561046514894619
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008866278727849286,
+          "text" : "Exercice clos au 31 Décembre 2023",
+          "width" : 0.184804927614749,
+          "x" : 0.13141684035073634,
+          "y" : 0.847383721307861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968853632621,
+          "text" : "RESPONSABILITÉS DES ADMINISTRATEURS",
+          "width" : 0.21765913137698764,
+          "x" : 0.13141684360308722,
+          "y" : 0.8283333332396692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "Responsabilité à l'égard des états financiers consolidés annuels",
+          "width" : 0.2813141623992381,
+          "x" : 0.1314168397791626,
+          "y" : 0.8110465120782098
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "Les Administrateurs sont responsables, au titre de chaque exercice, de l'établissement d'états financiers consolidés qui donnent une image fidèle et",
+          "width" : 0.7412730510159011,
+          "x" : 0.13141687184831202,
+          "y" : 0.792083333479936
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008856588602066062,
+          "text" : "sincère de la situation financière du Groupe au 31 décembre 2023 et du résultat de ses opérations, du tableau des flux de trésorerie, du compte de",
+          "width" : 0.7371662980114473,
+          "x" : 0.13141686020885526,
+          "y" : 0.7819767445636749
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008856588999430315,
+          "text" : "résultat et du tableau de variation des capitaux propres pour l'exercice clos, conformément aux normes internationales d'information financière (« IFRS »).",
+          "width" : 0.7720738782759129,
+          "x" : 0.1314168519092716,
+          "y" : 0.7716666668487939
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008885658582051592,
+          "text" : "Cette responsabilité implique de s'assurer que le Groupe :",
+          "width" : 0.29158109882835503,
+          "x" : 0.13141684642771148,
+          "y" : 0.7629166667670642
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "a) tient des livres comptables appropriés qui rendent compte, avec une précision raisonnable, de la situation financière du Groupe ;",
+          "width" : 0.6611909720305139,
+          "x" : 0.131416842578172,
+          "y" : 0.7470833335076591
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "(b) établit des contrôles internes appropriés pour protéger ses actifs et prévenir et détecter les fraudes et autres irrégularités ; et",
+          "width" : 0.644763816231412,
+          "x" : 0.13141687059750373,
+          "y" : 0.7266666668594745
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "c) établit ses états financiers consolidés à l'aide de méthodes comptables appropriées reposant sur des jugements et estimations raisonnables et",
+          "width" : 0.731006132559445,
+          "x" : 0.13141686376818956,
+          "y" : 0.7078488374390742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "prudents, et qui sont appliquées de manière constante.",
+          "width" : 0.2772073914221235,
+          "x" : 0.13141684278996482,
+          "y" : 0.6991279073301477
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008749999999999925,
+          "text" : "Les administrateurs assument la responsabilité des états financiers consolidés, qui ont été établis à l'aide de méthodes comptables appropriées reposant",
+          "width" : 0.7700205377190077,
+          "x" : 0.1314168486969639,
+          "y" : 0.6787500001893095
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008779069582621202,
+          "text" : "sur des jugements et estimations raisonnables et prudents, conformément aux normes IFRS.",
+          "width" : 0.46817246651621397,
+          "x" : 0.13141685267618447,
+          "y" : 0.6699999999162038
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Les administrateurs n'ont eu connaissance d'aucun élément indiquant que l'activité du groupe ne se poursuivrait pas pendant douze mois au moins à",
+          "width" : 0.7515400413630006,
+          "x" : 0.1293634458482739,
+          "y" : 0.6495833334012557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008875968853632621,
+          "text" : "compter de la clôture de l'exercice.",
+          "width" : 0.174537991185632,
+          "x" : 0.13141683821108535,
+          "y" : 0.640833333203332
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "Les administrateurs sont d'avis que les états financiers consolidés donnent une image fidèle et sincère de la situation financière du Groupe et de son",
+          "width" : 0.7474332164679034,
+          "x" : 0.13141687444914169,
+          "y" : 0.6206395352855741
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "résultat. Les administrateurs assument également la responsabilité de la tenue de livres comptables qui peuvent être utilisés pour l'établissement des",
+          "width" : 0.7474332164679034,
+          "x" : 0.13141687444914169,
+          "y" : 0.6119186048324852
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "états",
+          "width" : 0.02874743278512404,
+          "x" : 0.13141683838156526,
+          "y" : 0.6031976745285565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "financiers, ainsi que des systèmes adéquats de contrôle financier interne.",
+          "width" : 0.36960985522949796,
+          "x" : 0.1314168429191318,
+          "y" : 0.5915697676534638
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008885658582051592,
+          "text" : "Approbation des états financiers consolidés annuels",
+          "width" : 0.28542093337635266,
+          "x" : 0.13141683980566357,
+          "y" : 0.5754166666217153
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01017441868782043,
+          "text" : "Les états financiers consolidés annuels ont été approuvés par le Conseil d'Administration le 14 Mars 2024 et signés en son nom par :",
+          "width" : 0.6694044780394215,
+          "x" : 0.13141686585708584,
+          "y" : 0.5624999998142389
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.03779069582621253,
+          "text" : "PlAtE",
+          "width" : 0.09856262925937684,
+          "x" : 0.1560574940561432,
+          "y" : 0.5029069778572426
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008759689331054643,
+          "text" : "Alain Nkontchou",
+          "width" : 0.08213551839192709,
+          "x" : 0.13141683984578872,
+          "y" : 0.4883333334744564
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759708404537,
+          "text" : "Président du Conseil d'Administration",
+          "width" : 0.16427103678385419,
+          "x" : 0.13141684464708725,
+          "y" : 0.47958333346540116
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.02470930258433035,
+          "text" : "Afuni",
+          "width" : 0.0718685819628101,
+          "x" : 0.7166324446448783,
+          "y" : 0.5058139533901438
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008759689728419007,
+          "text" : "Jeremy Awori",
+          "width" : 0.06981519198108754,
+          "x" : 0.6858316245946718,
+          "y" : 0.4883333332951153
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759708404537,
+          "text" : "Directeur Général du Groupe",
+          "width" : 0.12936344753305817,
+          "x" : 0.6878850126400416,
+          "y" : 0.47958333346540116
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "PUBLIC",
+          "width" : 0.02258726733312169,
+          "x" : 0.08829568833891488,
+          "y" : 0.013081395331609014
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2023-3\/page-002.pdf.png"
+}

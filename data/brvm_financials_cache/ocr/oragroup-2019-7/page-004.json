@@ -1,0 +1,341 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.1172839470629422,
+          "x" : 0.13991769822778816,
+          "y" : 0.9433139535460627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés établis en IFRS",
+          "width" : 0.6090534857983858,
+          "x" : 0.14197532486486708,
+          "y" : 0.9302325582456752
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "Nous avons considéré que l'appréciation du risque de crédit et l'évaluation des",
+          "width" : 0.6584361814103036,
+          "x" : 0.23868315209320187,
+          "y" : 0.8633333332307416
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "dépréciations\/provisions, constituent un domaine d'estimation comptable",
+          "width" : 0.6584361814103037,
+          "x" : 0.23868315044711153,
+          "y" : 0.8473837212616558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "significatif, puisqu'il fait un recours important au jugement de la Direction dans",
+          "width" : 0.6604938147202978,
+          "x" : 0.23662551236721754,
+          "y" : 0.8312500003336175
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "les hypothèses retenues et le classement des expositions.",
+          "width" : 0.48559671078088146,
+          "x" : 0.23456790582355097,
+          "y" : 0.8166666665834974
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Au 31 décembre 2019, les créances sur la clientèle s'élèvent à un montant brut",
+          "width" : 0.6584361814103037,
+          "x" : 0.23868313919882633,
+          "y" : 0.7848837209709582
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "de FCFA 1 514 milliards et font l'objet de dépréciations à l'actif à hauteur de FCFA",
+          "width" : 0.6604938147202978,
+          "x" : 0.23662552168649034,
+          "y" : 0.7687500001701
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705500284718,
+          "text" : "148,750 milliards dont FCFA 39,089 milliards de dotation pour dépréciation",
+          "width" : 0.6584361814103037,
+          "x" : 0.238683154836686,
+          "y" : 0.7541666666319471
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "constituée au cours de l'exercice tels que détaillés dans les notes 6 .4.5 et 6.4.15",
+          "width" : 0.6604938147202978,
+          "x" : 0.2366255160623479,
+          "y" : 0.738333333394259
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "des notes annexes aux états financiers.",
+          "width" : 0.3251028600728737,
+          "x" : 0.23868314047110772,
+          "y" : 0.7223837214070046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Compte tenu de l'importance significative des crédits à la clientèle ainsi que du",
+          "width" : 0.6584361814103036,
+          "x" : 0.23868315209320187,
+          "y" : 0.6904069770574408
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "recours important au jugement pour la détermination des provisions pour",
+          "width" : 0.664609009364866,
+          "x" : 0.23456791963169613,
+          "y" : 0.6744186046918884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "dépréciation, ce sujet a été considéré comme un point clé d'audit.",
+          "width" : 0.5452674649796396,
+          "x" : 0.23662552021937117,
+          "y" : 0.6583333332429042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Procédures d'audit mises en œuvre face aux risques identifiés",
+          "width" : 0.5123456559091244,
+          "x" : 0.23662551741580842,
+          "y" : 0.62790697697871
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "Pour apprécier le caractère raisonnable des dépréciations\/provisions constituées,",
+          "width" : 0.6584361814103037,
+          "x" : 0.23868315044711153,
+          "y" : 0.5958333331630477
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008817829291025925,
+          "text" : "nous avons :",
+          "width" : 0.10493826416303528,
+          "x" : 0.23662551637527254,
+          "y" : 0.582848837417357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "v pris connaissance du processus d'évaluation de ces provisions et du",
+          "width" : 0.66666664267486,
+          "x" : 0.23868313294240556,
+          "y" : 0.5566666665163025
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718992710113565,
+          "text" : "dispositif de contrôle interne l'encadrant ;",
+          "width" : 0.3415637826019863,
+          "x" : 0.28600823777993944,
+          "y" : 0.540697674287249
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "examiné la gouvernance des processus de provisionnement\/dépréciation ;",
+          "width" : 0.6152263137529481,
+          "x" : 0.2818930262168041,
+          "y" : 0.5174418607965396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018821522394816048,
+          "text" : "vérifié la cohérence des données issues des systèmes de gestion des",
+          "width" : 0.6216442180129718,
+          "x" : 0.2838477477836645,
+          "y" : 0.49270392568555954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652244,
+          "text" : "risques avec les données comptables ;",
+          "width" : 0.3209876654283056,
+          "x" : 0.28395061440518865,
+          "y" : 0.47958333315999824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "effectué un calcul indépendant des pertes attendues sur une sélection de",
+          "width" : 0.6213991417075102,
+          "x" : 0.2839506245509091,
+          "y" : 0.45625000031544893
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "portefeuille au 31 décembre 2019 ;",
+          "width" : 0.29218106899621354,
+          "x" : 0.2839506141130044,
+          "y" : 0.44040697691209196
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "apprécié la cohérence de l'évolution des provisions, des créances et de la",
+          "width" : 0.6316872362820607,
+          "x" : 0.2736625441703554,
+          "y" : 0.41569767448104733
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "charge du risque ;",
+          "width" : 0.15020575613345744,
+          "x" : 0.28395061799808613,
+          "y" : 0.40116279067057825
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "vérifié la cohérence des paramètres appliqués dans le moteur de calcul",
+          "width" : 0.6234567750175044,
+          "x" : 0.2839506326301365,
+          "y" : 0.37790697709377785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "conformément aux principes méthodologiques validés ;",
+          "width" : 0.4588477296649285,
+          "x" : 0.28395061502864705,
+          "y" : 0.3619186048190687
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "et nous sommes assurés que les règles de déclassement et de dépréciation",
+          "width" : 0.6255144083274986,
+          "x" : 0.27983538060991353,
+          "y" : 0.3370833331128025
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "des créances en douteux n'ont pas été modifiées par rapport à l'exercice",
+          "width" : 0.6234567750175044,
+          "x" : 0.28189300647272936,
+          "y" : 0.3212209302707759
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "précédent et sont correctement appliquées au cours de l'exercice.",
+          "width" : 0.5473250982896336,
+          "x" : 0.2839506260266507,
+          "y" : 0.30666666661320174
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "1.5. Responsabilités du Conseil d'administration relatives aux états financiers",
+          "width" : 0.8230452627505898,
+          "x" : 0.08436214816615134,
+          "y" : 0.26453488375664047
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "consolidés annuels établis selon les Normes IFRS",
+          "width" : 0.48765430810316557,
+          "x" : 0.14197531160097454,
+          "y" : 0.24708333315786646
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Le Conseil d'administration est responsable de la préparation et de la présentation sincère des",
+          "width" : 0.7633744725641214,
+          "x" : 0.1419753121061424,
+          "y" : 0.2149999999852794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663552,
+          "text" : "états financiers consolidés conformément aux Normes Internationales d'Informations",
+          "width" : 0.7633744725641215,
+          "x" : 0.1419753215197224,
+          "y" : 0.20041666647135115
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789535,
+          "text" : "Financière (IFRS) telles que publiées par l'IASB (International Accounting Standards Board),",
+          "width" : 0.7654321058741156,
+          "x" : 0.13991770148681026,
+          "y" : 0.18166666699965717
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "ainsi que du contrôle interne qu'il estime nécessaire pour permettre la préparation d'états",
+          "width" : 0.7674896672086895,
+          "x" : 0.137860095073639,
+          "y" : 0.16708333353788984
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "financiers consolidés ne comportant pas d'anomalies significatives, que celles-ci proviennent",
+          "width" : 0.7674896672086895,
+          "x" : 0.13991772356300752,
+          "y" : 0.15116279056631865
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "de fraudes ou résultent d'erreurs.",
+          "width" : 0.27777777977709495,
+          "x" : 0.14197531111453882,
+          "y" : 0.13791666679604098
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.2366255094420235,
+          "x" : 0.14197530821623114,
+          "y" : 0.04360465144706838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "4",
+          "width" : 0.010288065334535967,
+          "x" : 0.8230452678471353,
+          "y" : 0.043604651150314644
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-004.pdf.png"
+}

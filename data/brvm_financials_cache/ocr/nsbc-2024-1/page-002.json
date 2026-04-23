@@ -1,0 +1,925 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "NSIA",
+          "width" : 0.06509945501430402,
+          "x" : 0.08499096019628379,
+          "y" : 0.9549418606244583
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010660030047098812,
+          "text" : "BANQUE",
+          "width" : 0.06882506089586443,
+          "x" : 0.08312815623266501,
+          "y" : 0.9474316127104497
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524204,
+          "text" : "COMMUNIQUÉ",
+          "width" : 0.2043399573361726,
+          "x" : 0.768535267498279,
+          "y" : 0.9476744186812728
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023420542081197038,
+          "text" : "NSIA BANQUE CÔTE D'IVOIRE ACHEVE L'EXERCICE 2024",
+          "width" : 0.6039782638866378,
+          "x" : 0.198915025354537,
+          "y" : 0.9011627908822695
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0247674425443013,
+          "text" : "AVEC UN BENEFICE NET DE 38,1 MILLIARDS FCFA",
+          "width" : 0.5406871494910529,
+          "x" : 0.2314647446185483,
+          "y" : 0.8677325578042496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "Fait à Abidjan, le 25 mars 2025. Au terme de l'exercice 2024, NSIA Banque Cl confirme sa dynamique de croissance et conforte sa position sur le marché bancaire",
+          "width" : 0.9150090514376945,
+          "x" : 0.04339964256325031,
+          "y" : 0.837083333141965
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "ivoirien. La Banque réalise ainsi un résultat net de 38,1 milliards FCFA, en hausse de 9% par rapport à 2023.",
+          "width" : 0.5895117288803163,
+          "x" : 0.04339965682566448,
+          "y" : 0.8224999999842113
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "CHIFFRES CLÉS 2024",
+          "width" : 0.1464737698250292,
+          "x" : 0.0379746886317892,
+          "y" : 0.7819767443089661
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "Total bilan (en milliards FCFA)",
+          "width" : 0.11392405023218685,
+          "x" : 0.047016276488788984,
+          "y" : 0.7645348840622215
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Fonds propres (en milliards FCFA)",
+          "width" : 0.13019891002860803,
+          "x" : 0.22965641991034944,
+          "y" : 0.7629166667161069
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823619,
+          "text" : "Produit Net Bancaire (en milliards FCFA)",
+          "width" : 0.1573236869083895,
+          "x" : 0.41591320437582324,
+          "y" : 0.7645348840743338
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823619,
+          "text" : "Coût net du risque (en milliards FCFA)",
+          "width" : 0.1482820946151291,
+          "x" : 0.5967450311131708,
+          "y" : 0.7645348840743338
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.00879844983418776,
+          "text" : "Résultat net (en milliards FCFA)",
+          "width" : 0.11934900085955735,
+          "x" : 0.799276676170583,
+          "y" : 0.7645348836866594
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720930417378647,
+          "text" : "2514",
+          "width" : 0.02712477292262666,
+          "x" : 0.17179023551621186,
+          "y" : 0.7427325580782709
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "+23%",
+          "width" : 0.023508137192468914,
+          "x" : 0.14647377942215012,
+          "y" : 0.73691860473689
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "+13%",
+          "width" : 0.025316456046836522,
+          "x" : 0.33092224205586956,
+          "y" : 0.7441860465950259
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650031,
+          "text" : "215",
+          "width" : 0.019891499483733754,
+          "x" : 0.36166365326446226,
+          "y" : 0.7514534886043727
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "97",
+          "width" : 0.014466545888497162,
+          "x" : 0.5479204339273609,
+          "y" : 0.7470930232567543
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "192",
+          "width" : 0.019891499483733754,
+          "x" : 0.29837251402395587,
+          "y" : 0.7369186046521031
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "91",
+          "width" : 0.012658228023418205,
+          "x" : 0.4900542494828659,
+          "y" : 0.7369186048471051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "+7%",
+          "width" : 0.021699818338101418,
+          "x" : 0.5189873424584358,
+          "y" : 0.7398255815053008
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "38,1",
+          "width" : 0.02531645604683641,
+          "x" : 0.9222423147252256,
+          "y" : 0.7325581397646557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "+33%",
+          "width" : 0.02712477292262666,
+          "x" : 0.26763110350252034,
+          "y" : 0.7281976744982757
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "+8% 2037",
+          "width" : 0.04882459126072798,
+          "x" : 0.09041591416469326,
+          "y" : 0.7150000001475934
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "80",
+          "width" : 0.014466545888497162,
+          "x" : 0.4321880651208509,
+          "y" : 0.7267441861473793
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "+14%",
+          "width" : 0.02712477292262666,
+          "x" : 0.4556962029739349,
+          "y" : 0.7296511628740956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650031,
+          "text" : "-31%",
+          "width" : 0.023508137192468914,
+          "x" : 0.6455696204408361,
+          "y" : 0.7267441864604773
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "-4,1",
+          "width" : 0.021699818338101307,
+          "x" : 0.6130198922173267,
+          "y" : 0.7209302327177447
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "145",
+          "width" : 0.021699818338101334,
+          "x" : 0.23688969322697104,
+          "y" : 0.7122093021894735
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "-3,4",
+          "width" : 0.01989149948373381,
+          "x" : 0.6781193493841126,
+          "y" : 0.7165697676499152
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "34,8",
+          "width" : 0.025316456046836522,
+          "x" : 0.8643761297523502,
+          "y" : 0.7180232559685433
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572612,
+          "text" : "+8%",
+          "width" : 0.023508137192468914,
+          "x" : 0.8372513562756764,
+          "y" : 0.7136627907834017
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "+9%",
+          "width" : 0.023508137192468914,
+          "x" : 0.8987341771843562,
+          "y" : 0.7238372094619308
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "1885",
+          "width" : 0.027124772922626668,
+          "x" : 0.0542495481001695,
+          "y" : 0.7078488372102427
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572612,
+          "text" : "-116%",
+          "width" : 0.03074141063136182,
+          "x" : 0.7088607593316969,
+          "y" : 0.7078488372861234
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "32,4",
+          "width" : 0.025316456046836522,
+          "x" : 0.8028933093002707,
+          "y" : 0.7034883721894736
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650031,
+          "text" : "0,6",
+          "width" : 0.018083182607943615,
+          "x" : 0.7377938514326166,
+          "y" : 0.6860465118844115
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "2022",
+          "width" : 0.019891501462311174,
+          "x" : 0.05786618407897099,
+          "y" : 0.6642441861349917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2023",
+          "width" : 0.021699818338101348,
+          "x" : 0.11392405131919527,
+          "y" : 0.6642441861564636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2024",
+          "width" : 0.021699818338101334,
+          "x" : 0.17540687229568713,
+          "y" : 0.6642441861564636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "2022",
+          "width" : 0.019891501462311195,
+          "x" : 0.23869801048041764,
+          "y" : 0.6642441861349917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2023",
+          "width" : 0.021699818338101307,
+          "x" : 0.2983725142486708,
+          "y" : 0.6642441861564636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2024",
+          "width" : 0.021699818338101362,
+          "x" : 0.3616636534891772,
+          "y" : 0.6642441861564636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2022",
+          "width" : 0.021699818338101307,
+          "x" : 0.42857142925771247,
+          "y" : 0.6642441861564636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2023",
+          "width" : 0.02350813719246897,
+          "x" : 0.4846292952675388,
+          "y" : 0.6642441861746322
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2024",
+          "width" : 0.021699818338101307,
+          "x" : 0.5443037982450543,
+          "y" : 0.6642441861746322
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2022",
+          "width" : 0.023508137192469025,
+          "x" : 0.6130198912289614,
+          "y" : 0.6642441860292834
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "2023",
+          "width" : 0.021699818338101307,
+          "x" : 0.6763110310742504,
+          "y" : 0.6642441861349917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572723,
+          "text" : "2024",
+          "width" : 0.021699818338101307,
+          "x" : 0.7359855337867276,
+          "y" : 0.6642441861349917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2022",
+          "width" : 0.021699818338101307,
+          "x" : 0.8047016281727215,
+          "y" : 0.6642441861564636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2023",
+          "width" : 0.021699818338101307,
+          "x" : 0.8661844485163019,
+          "y" : 0.6642441860292834
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "2024",
+          "width" : 0.021699818338101307,
+          "x" : 0.9258589518616908,
+          "y" : 0.6656976745285565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703885,
+          "text" : "FAITS MARQUANTS",
+          "width" : 0.1356238685702882,
+          "x" : 0.03978300106747799,
+          "y" : 0.6119186048372371
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Au niveau stratégique",
+          "width" : 0.14104882711196837,
+          "x" : 0.0415913199883196,
+          "y" : 0.578333333578716
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "Dans son ambition de renforcer son engagement, de dynamiser son offre",
+          "width" : 0.3978299975889847,
+          "x" : 0.08499097263407902,
+          "y" : 0.5508333334113016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663663,
+          "text" : "et offrir des produits adaptés aux besoins de sa clientèle, plusieurs",
+          "width" : 0.3978299975889847,
+          "x" : 0.08499096467747878,
+          "y" : 0.5377906975964504
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "partenariats ont été signés :",
+          "width" : 0.1537070531568092,
+          "x" : 0.0849909567699981,
+          "y" : 0.5232558138900549
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "• avec le Ministère de la Construction, du Logement et de",
+          "width" : 0.39602170445612356,
+          "x" : 0.08679926940394554,
+          "y" : 0.5000000001679058
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.0118313952287038,
+          "text" : "I'Urbanisme (MCLU) pour le financement des opérations de",
+          "width" : 0.3779385198696026,
+          "x" : 0.10488245481806191,
+          "y" : 0.4869186045877294
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "lotissement et de production de terrains aménagés. Cet engagement",
+          "width" : 0.38155513779256356,
+          "x" : 0.10307414423662972,
+          "y" : 0.47083333349137124
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "contribue à moderniser et sécuriser la gestion de l'urbanisme et du",
+          "width" : 0.3779385198696026,
+          "x" : 0.10488245884910465,
+          "y" : 0.45784883707319457
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "foncier, favorisant ainsi un développement urbain structuré et",
+          "width" : 0.3815551377925635,
+          "x" : 0.10488247260462218,
+          "y" : 0.44331395396514417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• avec le Centre de Recherche et d'Action pour la Paix \/ Université",
+          "width" : 0.39602167279888484,
+          "x" : 0.08679929654208836,
+          "y" : 0.4069767446628185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Jésuite (CERAP\/UJ), l'École d'Ingénieurs de PURPAN (Toulouse) et",
+          "width" : 0.38155513779256356,
+          "x" : 0.10307415173146298,
+          "y" : 0.3908333334533538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017080615361531604,
+          "text" : "le Club Agro. Cette initiative, dénommée \"AGRO-BACHELOR",
+          "width" : 0.3799404919889458,
+          "x" : 0.10299360776450134,
+          "y" : 0.37540995220984885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "CERAP-PURPAN\", vise à former",
+          "width" : 0.20795659108775288,
+          "x" : 0.10488246741573766,
+          "y" : 0.3619186049074039
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "des entrepreneurs agricoles",
+          "width" : 0.17179022191471088,
+          "x" : 0.3110307451306495,
+          "y" : 0.3648255813561402
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "capables de produire et de commercialiser des produits agricoles de",
+          "width" : 0.3779385198696026,
+          "x" : 0.10488245418816441,
+          "y" : 0.3502906976255201
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "qualité, contribuant ainsi à la sécurité alimentaire en Côte d'lvoire",
+          "width" : 0.3779385198696026,
+          "x" : 0.10488246066711032,
+          "y" : 0.33708333314611794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "et au développement d'une agriculture compétitive ;",
+          "width" : 0.2857142721468977,
+          "x" : 0.10488246895367587,
+          "y" : 0.32249999995514156
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081395228703774,
+          "text" : "• avec l'École Nationale d'Administration (ENA) dans le but de",
+          "width" : 0.39602167279888484,
+          "x" : 0.0867992934679475,
+          "y" : 0.2994186046918884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "soutenir la formation par la mise à disposition du produit innovant",
+          "width" : 0.37974681300246366,
+          "x" : 0.10488246848369896,
+          "y" : 0.28488372074567503
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "« Avance sur Bourse » au profit des pensionnaires éligibles. Cette",
+          "width" : 0.3779385198696026,
+          "x" : 0.10488245438105172,
+          "y" : 0.27166666680501894
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "solution permet aux pensionnaires de l'ENA de disposer d'une avance",
+          "width" : 0.3779385198696026,
+          "x" : 0.10488246174693468,
+          "y" : 0.2570833335116063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "de fonds sécurisée, facilitant ainsi leur parcours académique et",
+          "width" : 0.3797468130024637,
+          "x" : 0.10488246806175794,
+          "y" : 0.24124999982818185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "renforçant leur inclusion financière.",
+          "width" : 0.19349005608143155,
+          "x" : 0.10488246081552288,
+          "y" : 0.22819767446418282
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "des processus (audits, réunions, plans d'action, etc.) ;",
+          "width" : 0.2947558644401582,
+          "x" : 0.526220623905599,
+          "y" : 0.5494186045803691
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "• au lancement de CREDITFLOW, une solution informatique dédiée à la",
+          "width" : 0.4376130163422265,
+          "x" : 0.5099457558734919,
+          "y" : 0.5274999998665004
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458546896,
+          "text" : "digitalisation du processus d'instruction des crédits, à la dématérialisation",
+          "width" : 0.4213381565458052,
+          "x" : 0.5262206178241438,
+          "y" : 0.5129166665487778
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014534883499145446,
+          "text" : "des dossiers de crédits ainsi qu'à la création d'une base de données de",
+          "width" : 0.4213381565458053,
+          "x" : 0.5262206135218532,
+          "y" : 0.49854651155711327
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "connaissances collectives pour la Banque.",
+          "width" : 0.23327305900605388,
+          "x" : 0.5262206156868465,
+          "y" : 0.48541666671816563
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "Plusieurs prix ont été décernés à NSIA Banque Cl :",
+          "width" : 0.2766726798536372,
+          "x" : 0.5063291234999444,
+          "y" : 0.4620833333938954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "• Lors de la 10ème édition du \"Regional Exchange Conference\" (REC), deux (2)",
+          "width" : 0.4376130163422264,
+          "x" : 0.5099457576968794,
+          "y" : 0.4387499998878538
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "prix ont été décernés à la Banque :",
+          "width" : 0.19349005608143144,
+          "x" : 0.526220612895089,
+          "y" : 0.4244186049437412
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "- Le Prix Exceptionnel, pour la contribution à la croissance du marché",
+          "width" : 0.4213381565458052,
+          "x" : 0.5262206100996111,
+          "y" : 0.4098837208522643
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "financier régional ;",
+          "width" : 0.10669077481471656,
+          "x" : 0.5370705249042752,
+          "y" : 0.39375000032756124
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "- Le Prix de l'engagement continu, récompensant les efforts constants",
+          "width" : 0.42314648133590504,
+          "x" : 0.5244122963121559,
+          "y" : 0.379166666917792
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "déployés pour renforcer les liens avec nos partenaires et instaurer une",
+          "width" : 0.41048823946244495,
+          "x" : 0.5370705235418336,
+          "y" : 0.3648255814481016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "relation de confiance durable avec les investisseurs ;",
+          "width" : 0.29113924651719725,
+          "x" : 0.5370705189807022,
+          "y" : 0.35029069771263666
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014631783167521117,
+          "text" : "• Le Prix de l'Innovation à « la Finance S'Engage 2024 » valorisant les efforts",
+          "width" : 0.4376130163422264,
+          "x" : 0.5099457540048964,
+          "y" : 0.32703488371069855
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085685,
+          "text" : "de la Banque dans l'accompagnement des PME grâce à des solutions",
+          "width" : 0.41952983175570535,
+          "x" : 0.5280289400353481,
+          "y" : 0.31540697684063634
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456066,
+          "text" : "novatrices ;",
+          "width" : 0.06509945501430403,
+          "x" : 0.5280289342288335,
+          "y" : 0.30232558165419054
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "• Le Prix de la Banque de l'année lors de la 14* cérémonie des Bâtisseurs de",
+          "width" : 0.4376130163422265,
+          "x" : 0.5099457498759031,
+          "y" : 0.2790697673057527
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'Économie Africaine (African Economy Builders Forum & Awards) ;",
+          "width" : 0.36347195320604253,
+          "x" : 0.5262206194412826,
+          "y" : 0.2645348841431966
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013482956091562914,
+          "text" : "• Le Prix de la Meilleure Banque de financement des Transporteurs lors de",
+          "width" : 0.43772077758282546,
+          "x" : 0.5098908848397141,
+          "y" : 0.24092125876001913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705425977706851,
+          "text" : "la 2e édition du Prix des Meilleurs Acteurs du Transport Routier (PRIMAT).",
+          "width" : 0.3960216727988849,
+          "x" : 0.5262206348784356,
+          "y" : 0.22666666684250936
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011724806229273521,
+          "text" : "En 2024, l'engagement de la Banque envers l'excellence en matière de",
+          "width" : 0.4394213411323262,
+          "x" : 0.5081374350938729,
+          "y" : 0.20494186053249686
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Au niveau de l'activité",
+          "width" : 0.14104882711196834,
+          "x" : 0.04339963590152035,
+          "y" : 0.1962209303290937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356395085574,
+          "text" : "gouvernance financière, de qualité de gestion et la volonté d'amélioration",
+          "width" : 0.4394213411323262,
+          "x" : 0.5081374361924262,
+          "y" : 0.19040697682610153
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011676356792449938,
+          "text" : "En vue d'améliorer l'expérience client la Banque a procédé :",
+          "width" : 0.3273055840330005,
+          "x" : 0.08499097255854485,
+          "y" : 0.17291666651226245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "continue, s'est traduit par l'obtention du certificat de conformité MSI 20000,",
+          "width" : 0.4376130163422265,
+          "x" : 0.5081374315516114,
+          "y" : 0.1758333333942591
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "norme internationale régie par l'International Group For Sustainable Finance",
+          "width" : 0.4394213411323262,
+          "x" : 0.5081374350938729,
+          "y" : 0.1627906977417991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "• à la mise en circulation des nouvelles cartes Crystal, offrant une",
+          "width" : 0.39782999758898474,
+          "x" : 0.08679929355029345,
+          "y" : 0.14958333352963937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "(IGSF) obtenu après une évaluation approfondie des performances financières.",
+          "width" : 0.42676309925886613,
+          "x" : 0.5081374419799701,
+          "y" : 0.1482558139917991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "meilleure solution de gestion du portefeuille des cartes bancaires",
+          "width" : 0.37974681300246366,
+          "x" : 0.10488247527996152,
+          "y" : 0.134999999998746
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011796465714772553,
+          "text" : "prépayées;",
+          "width" : 0.059725104525870806,
+          "x" : 0.10485715890321486,
+          "y" : 0.12200874393665417
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01171511650085455,
+          "text" : "• à l'acquisition de la solution QUALIPRO pour digitaliser la gestion",
+          "width" : 0.3960217044561236,
+          "x" : 0.08679927831443365,
+          "y" : 0.09874999982711374
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709966977437317,
+          "text" : "documentaire du système de management de la qualité, optimiser le",
+          "width" : 0.3781495153656639,
+          "x" : 0.104780321864403,
+          "y" : 0.0838012679284229
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736249287991,
+          "text" : "traitement des réclamations et renforcer l'efficacité opérationnelle",
+          "width" : 0.35985533528308156,
+          "x" : 0.10488246253929101,
+          "y" : 0.0712209302999387
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "Le maintien de la notation financière de la Banque par le cabinet de notation",
+          "width" : 0.44122963426518735,
+          "x" : 0.5063291305165925,
+          "y" : 0.12624999991589025
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "Bloomfield Investment à AA- sur le long terme et A1 sur le court terme",
+          "width" : 0.4394213094750875,
+          "x" : 0.5081374435445539,
+          "y" : 0.11191860485420235
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "traduisantune qualité de crédit très élevée et une certitude de remboursement en",
+          "width" : 0.4394213411323262,
+          "x" : 0.5081374350938729,
+          "y" : 0.09738372099761305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "temps opportun.",
+          "width" : 0.09222423189408557,
+          "x" : 0.5063291148621796,
+          "y" : 0.08284883725488046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "NSIA, le vrai visage de la Banque.",
+          "width" : 0.1880650975397513,
+          "x" : 0.7649186289878097,
+          "y" : 0.029069767653463696
+        }
+      ],
+      "width" : 1927
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/nsbc-2024-1\/page-002.pdf.png"
+}

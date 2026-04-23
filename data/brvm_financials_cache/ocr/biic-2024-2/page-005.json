@@ -1,0 +1,213 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.017441860834757517,
+          "text" : "Deloitte®",
+          "width" : 0.10526315962741031,
+          "x" : 0.13721804512363817,
+          "y" : 0.9447674416756445
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "• Evaluate the overall presentation, structure and content of the financial statements, including the",
+          "width" : 0.7180450999106661,
+          "x" : 0.13721804829028114,
+          "y" : 0.9024999998131982
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "disclosures, and whether the financial statements represent the underlying transactions and events in a",
+          "width" : 0.6936089804771778,
+          "x" : 0.16165416331404261,
+          "y" : 0.887916666720859
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "manner that achieves fair presentation.",
+          "width" : 0.26691728939644854,
+          "x" : 0.16165413888573554,
+          "y" : 0.8720833333428375
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "Plan and perform the audit to obtain sufficient appropriate audit evidence regarding the financial",
+          "width" : 0.6936089804771778,
+          "x" : 0.15977446681028296,
+          "y" : 0.8487500001128736
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "information of the Bank as a basis for forming an opinion on the financial statements. We are responsible",
+          "width" : 0.6954886921015373,
+          "x" : 0.157894748435447,
+          "y" : 0.8341666666813873
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014728682041168284,
+          "text" : "for the direction, supervision and review of the audit work performed for the purposes of the audit. We",
+          "width" : 0.6954886921015373,
+          "x" : 0.15789474010211393,
+          "y" : 0.8166666666366991
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "remain solely responsible for our audit opinion.",
+          "width" : 0.32142854791371694,
+          "x" : 0.15977445186550987,
+          "y" : 0.8008333331944044
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "We communicate with the Board of Directors regarding, among other matters, the planned scope and",
+          "width" : 0.7199248115350256,
+          "x" : 0.13721805435936665,
+          "y" : 0.7687499997205749
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "timing of the audit and significant audit findings, including any significant deficiencies in internal controls",
+          "width" : 0.7180450999106662,
+          "x" : 0.13909775678025577,
+          "y" : 0.7529069770877217
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "that we identify during our audit.",
+          "width" : 0.22556389702690974,
+          "x" : 0.13721805524594352,
+          "y" : 0.7369186049341365
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "We also provide those charged with governance with a statement that we have complied with relevant",
+          "width" : 0.7161653882863066,
+          "x" : 0.13909776593673373,
+          "y" : 0.7062499996842376
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016074115435282366,
+          "text" : "ethical requirements regarding independence and communicate with them all relationships and other",
+          "width" : 0.7162890387970267,
+          "x" : 0.13902800563428303,
+          "y" : 0.6894261097246152
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "matters that may reasonably be thought to bear on our independence, and where applicable, actions taken",
+          "width" : 0.7142856766619472,
+          "x" : 0.1390977704409561,
+          "y" : 0.6744186050043033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "to eliminate threats or safeguards applied.",
+          "width" : 0.2913533594487426,
+          "x" : 0.13721805226184436,
+          "y" : 0.6583333334732027
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015466535886128674,
+          "text" : "The engagement partner on the audit resulting in this independent auditors' report are Maryse Adotevi",
+          "width" : 0.7143882578630664,
+          "x" : 0.13904942244692406,
+          "y" : 0.6086496309927739
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "(Onecca Togo 072.16.A1).",
+          "width" : 0.1785714191654868,
+          "x" : 0.1372180520478956,
+          "y" : 0.5929166666940763
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016007751623789535,
+          "text" : "Lomé, April 14, 2025",
+          "width" : 0.13721804325634607,
+          "x" : 0.13721804741318033,
+          "y" : 0.5523255814601289
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.042151161829630635,
+          "text" : "ITedee",
+          "width" : 0.12781955097614114,
+          "x" : 0.14661653959129453,
+          "y" : 0.4985465119873165
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016313524246215905,
+          "text" : "* Deloitte®",
+          "width" : 0.11285858812712801,
+          "x" : 0.2856759702220723,
+          "y" : 0.5143723076621213
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.0279166666666667,
+          "text" : "Deloitte Togo (ONECCA O 69:26 10m2)",
+          "width" : 0.27067667972437126,
+          "x" : 0.1372180529197692,
+          "y" : 0.47083333298324226
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Independent Auditor",
+          "width" : 0.13909773842030743,
+          "x" : 0.13909774689260318,
+          "y" : 0.46208333355135667
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081396420796643,
+          "text" : "08",
+          "width" : 0.01691729454032298,
+          "x" : 0.4022556383736355,
+          "y" : 0.5290697670693982
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720930417378758,
+          "text" : "*",
+          "width" : 0.011278195674365388,
+          "x" : 0.4078947366552985,
+          "y" : 0.5218023255979967
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "15",
+          "width" : 0.016917292482773183,
+          "x" : 0.8364661655772223,
+          "y" : 0.05087209325553543
+        }
+      ],
+      "width" : 1854
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/biic-2024-2\/page-005.pdf.png"
+}

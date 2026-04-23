@@ -1,0 +1,341 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.024068662325541168,
+          "text" : "Ecobank",
+          "width" : 0.17680182754642404,
+          "x" : 0.7863424141139064,
+          "y" : 0.9370935760400958
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008759689728419007,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7782340951438993,
+          "y" : 0.9258333332587781
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "• La mise en place d'initiatives fortes de réduction des coûts a permis de les faire baisser de 4% d'une",
+          "width" : 0.8110882834354756,
+          "x" : 0.09240245667377535,
+          "y" : 0.8924418605760086
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "année sur l'autre passant de 45,9 milliards de FCFA en 2018 à 44,1 milliards de FCFA en 2019. Cette",
+          "width" : 0.7823408686230123,
+          "x" : 0.12320329210019791,
+          "y" : 0.8749999999158904
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "baisse a impacté positivement le coefficient d'exploitation qui est ainsi descendu à un niveau",
+          "width" : 0.7823408686230124,
+          "x" : 0.12320329535995132,
+          "y" : 0.8545833335353822
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "historiquement bas de 52,8%.",
+          "width" : 0.23408623325810698,
+          "x" : 0.12320328802529293,
+          "y" : 0.8370833329432288
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Les importants efforts d'assainissement du portefeuille de crédits entrepris ces derniers mois portent",
+          "width" : 0.7967145400839223,
+          "x" : 0.10882957499568478,
+          "y" : 0.8081395349946133
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "leurs fruits et ont permis à la banque de réduire son coût du risque de 35% par rapport à l'année 2018.",
+          "width" : 0.7843942091799175,
+          "x" : 0.12114992780223813,
+          "y" : 0.7906976745658342
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Dans le même temps, l'application stricte du dispositif prudentiel a permis d'améliorer le niveau de",
+          "width" : 0.7802874561754638,
+          "x" : 0.1252566923434794,
+          "y" : 0.774583333221814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013667000134785945,
+          "text" : "couverture des créances douteuses.",
+          "width" : 0.2753663619078512,
+          "x" : 0.1231236980227632,
+          "y" : 0.7586758638037824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "Le Résultat Avant Impôt en 2019 s'établit à 28 milliards de FCFA, en hausse de 30% par rapport à",
+          "width" : 0.7946611995270171,
+          "x" : 0.10882955126318603,
+          "y" : 0.7295833336105642
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "celui de 21,5 milliards de FCFA réalisé en 2018. Le Résultat Avant Impôt et le Résultat Net ont ainsi",
+          "width" : 0.7823408686230123,
+          "x" : 0.12320327449752887,
+          "y" : 0.7136627908837488
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "atteint leurs niveaux les plus élevés depuis la création de la banque.",
+          "width" : 0.5236139555842351,
+          "x" : 0.12320329787523324,
+          "y" : 0.6974999998024402
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980448,
+          "text" : "Le Total Bilan de la banque a connu une croissance de 2%, toutefois, certains postes du bilan ont",
+          "width" : 0.8131416958830242,
+          "x" : 0.09240246614473008,
+          "y" : 0.6540697676399622
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "enregistré une baisse en 2019. Ainsi les ressources collectées auprès de la clientèle se sont repliées de 8%,",
+          "width" : 0.8131416958830241,
+          "x" : 0.09240244784904253,
+          "y" : 0.6366279070149621
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "particulièrement sur les dépôts à vue et les dépôts de garantie.",
+          "width" : 0.4845995863699941,
+          "x" : 0.09240245773902792,
+          "y" : 0.6191666669234341
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695137,
+          "text" : "A l'actif, les crédits accordés à la clientèle ont régressé de 12%, passant de 755 milliards de FCFA à 661",
+          "width" : 0.8110882834354756,
+          "x" : 0.09240247598540088,
+          "y" : 0.5915697674983349
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "milliards de FCFA en 2019, en revanche le portefeuille de titres s'est accru de 12% pour atteindre 587",
+          "width" : 0.8131416958830241,
+          "x" : 0.09240246817758417,
+          "y" : 0.5741279071966482
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "milliards de FCFA en 2019 contre 525 milliards de FCFA en 2018.",
+          "width" : 0.5236139555842351,
+          "x" : 0.09034907446660952,
+          "y" : 0.5566666668144302
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "Aussi, la mise en œuvre de notre politique de couverture optimale des engagements douteux a conduit à",
+          "width" : 0.8110882834354756,
+          "x" : 0.09240245667377535,
+          "y" : 0.5275000000554462
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "un niveau de provisions sur créances douteuses et litigieuses de 36,3 milliards de FCFA à fin décembre",
+          "width" : 0.8131416239923808,
+          "x" : 0.09240248423926516,
+          "y" : 0.5100000001828393
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "2019, soit un taux de couverture de 70,3% pour un montant brut des créances en souffrance de 51,6",
+          "width" : 0.8131416958830241,
+          "x" : 0.09240246817758417,
+          "y" : 0.49273255835943885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "milliards de FCFA.",
+          "width" : 0.15400410035473722,
+          "x" : 0.09034908111113242,
+          "y" : 0.4766666665092557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Notre banque achève l'exercice 2019 avec un Résultat Net de 25,4 milliards de FCFA contre 20,7 milliards",
+          "width" : 0.8110882834354756,
+          "x" : 0.09445586842086566,
+          "y" : 0.4387500000538789
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de FCFA en 2018, soit une progression de 22%.",
+          "width" : 0.379876773685954,
+          "x" : 0.09240248032848075,
+          "y" : 0.4215116281838942
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Il résulte de la performance de l'année 2019, une proposition de distribution de dividendes à l'Assemblée",
+          "width" : 0.8151950364399293,
+          "x" : 0.09034910184163683,
+          "y" : 0.38208333347993606
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789424,
+          "text" : "Générale de 21,6 milliards de FCFA, (en hausse de 46% par rapport à l'exercice 2018). Le taux de",
+          "width" : 0.8131416958830242,
+          "x" : 0.0924024625307671,
+          "y" : 0.3648255815582394
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "distribution s'établirait à 85%, en ligne avec ce qui est intervenu ces dernières années et conformément",
+          "width" : 0.8151950364399293,
+          "x" : 0.09240249196997354,
+          "y" : 0.3487499999433
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "aux engagements pris vis-à-vis des investisseurs.",
+          "width" : 0.37782339718372715,
+          "x" : 0.09240247608301642,
+          "y" : 0.33125000024026685
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "L'année 2020 s'annonce pleine de challenges et d'incertitudes aux regards des impacts économiques et",
+          "width" : 0.8131416958830242,
+          "x" : 0.09240246614473008,
+          "y" : 0.30523255830856666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "sociaux liés à la pandémie de coronavirus qui sévit actuellement à l'échelle mondiale.",
+          "width" : 0.6591375595829653,
+          "x" : 0.09240247150899651,
+          "y" : 0.2877906980275591
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "Ecobank dans ce contexte difficile prend toutes les mesures pour assurer le bien-être de ses clients, de",
+          "width" : 0.8110882834354756,
+          "x" : 0.09445586639314502,
+          "y" : 0.25999999971756815
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "nos communautés et de ses effectifs. L'engagement de la banque à demeurer la banque panafricaine par",
+          "width" : 0.8131416958830241,
+          "x" : 0.09240244784904253,
+          "y" : 0.24273255817775297
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "excellence demeure intact et l'ensemble des dispositions seront prises pour assurer à nos actionnaires un",
+          "width" : 0.8110882834354757,
+          "x" : 0.0924024600533097,
+          "y" : 0.22666666679760838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "rendement optimal de leur investissement.",
+          "width" : 0.3326488625174838,
+          "x" : 0.09240247228335248,
+          "y" : 0.20916666651786986
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "Les données du bilan et du compte de résultat portées à votre attention sont auditées par nos commissaires aux comptes.",
+          "width" : 0.7885010340750148,
+          "x" : 0.09445585832183535,
+          "y" : 0.1816666664072909
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15400410035473716,
+          "x" : 0.1252566792887504,
+          "y" : 0.07412790715806639
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.794661199527017,
+          "x" : 0.12320329438433493,
+          "y" : 0.059583333187721355
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "Tel: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIAB",
+          "width" : 0.4414784282059776,
+          "x" : 0.123203285512001,
+          "y" : 0.04651162800956854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "www.ecobank.com",
+          "width" : 0.13963038396217517,
+          "x" : 0.12320328618455248,
+          "y" : 0.03343023264256284
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008924418290456093,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.8049281179834732,
+          "x" : 0.1232032787221584,
+          "y" : 0.001249999960791337
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2019-6\/page-003.pdf.png"
+}

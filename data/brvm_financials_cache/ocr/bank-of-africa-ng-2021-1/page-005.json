@@ -1,0 +1,437 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "REGLES ET METHODES COMPTABLES APPLIQUEES",
+          "width" : 0.44763859365798,
+          "x" : 0.1663244427500654,
+          "y" : 0.8820833330717633
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013532387415568059,
+          "text" : "Annexe 4.1",
+          "width" : 0.09457868344651799,
+          "x" : 0.8418277023234537,
+          "y" : 0.8820419459861987
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008856588602066062,
+          "text" : "ETAT :",
+          "width" : 0.04722792464796588,
+          "x" : 0.12525667501345714,
+          "y" : 0.8444767445394501
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.009519420464833561,
+          "text" : "NIGER",
+          "width" : 0.043430431711940526,
+          "x" : 0.20107739140538003,
+          "y" : 0.8440774990072781
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008856589396794678,
+          "text" : "ETABLISSEMENT : BANK OF AFRICA",
+          "width" : 0.2381930222078824,
+          "x" : 0.4476385994504737,
+          "y" : 0.8444767440354967
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01598837216695148,
+          "text" : "202112 31 H0038CAAO1",
+          "width" : 0.5133470011824574,
+          "x" : 0.17043121853461474,
+          "y" : 0.8212209301229196
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.01889534791310621,
+          "text" : "111",
+          "width" : 0.030800820520263894,
+          "x" : 0.7207392200145086,
+          "y" : 0.8212209308127056
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.0247771310806274,
+          "text" : "A- DECLARATION DE CONFORMITE AU PLAN COMPTABLE BANCAIRE DE L'UMOA",
+          "width" : 0.7022587177469818,
+          "x" : 0.057494878138829274,
+          "y" : 0.7920833336791637
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "F",
+          "width" : 0.016427104127701986,
+          "x" : 0.7905544151846089,
+          "y" : 0.8037790695306231
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "Les états financiers ont été établis conforment au plan comptable bancaire révisé de l'UMOA, qui est entré en",
+          "width" : 0.8911704343115061,
+          "x" : 0.05749487983261057,
+          "y" : 0.7512499999120786
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "vigueur le 1er janvier 2018",
+          "width" : 0.20328542397075605,
+          "x" : 0.05749486755774308,
+          "y" : 0.7369186047330782
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "B- INDICATION DES REGLES ET METHODES COMPTABLES APPLIQUEES PAR L'ETABLISSEMENT",
+          "width" : 0.8295687797914826,
+          "x" : 0.057494879180233854,
+          "y" : 0.7107558143139814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "Les états financiers ont été établis conformément aux principes et méthodes comptables retenus par le plan",
+          "width" : 0.8891170218639577,
+          "x" : 0.05749488604954054,
+          "y" : 0.6831395352151441
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "comptable révisé de l'UMOA, notamment :",
+          "width" : 0.3347022390197107,
+          "x" : 0.05338809601889215,
+          "y" : 0.6656976744568226
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116500854439,
+          "text" : "La permanence des méthodes",
+          "width" : 0.2361396277329947,
+          "x" : 0.11704312034808176,
+          "y" : 0.6395348835848225
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "La transparence",
+          "width" : 0.12731005305817045,
+          "x" : 0.11704312562697226,
+          "y" : 0.6249999998154425
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01271888136863708,
+          "text" : "La prudence",
+          "width" : 0.10085662374507691,
+          "x" : 0.11486943065653972,
+          "y" : 0.6099196293681256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "La spécialisation des exercices",
+          "width" : 0.24435316968722395,
+          "x" : 0.11293634742880435,
+          "y" : 0.5958333335216522
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "L'intangibilité du bilan d'ouverture",
+          "width" : 0.27515399694723575,
+          "x" : 0.10061601795348693,
+          "y" : 0.5812500001701
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "L'importance significative",
+          "width" : 0.19712525851875368,
+          "x" : 0.11498973302672853,
+          "y" : 0.566666666614982
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091085354487109,
+          "text" : "- La prééminence de la réalité économique sur l'apparence juridique",
+          "width" : 0.5482546173922445,
+          "x" : 0.08418890605404912,
+          "y" : 0.5523255814360744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "Les intérêts et commissions assimilées ont fait l'objet de décomptes et sont rattachés à la période concernée",
+          "width" : 0.887063609416409,
+          "x" : 0.05544151541499827,
+          "y" : 0.5245833335513567
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "conformément au principe de la séparation des exercices. Les commissions non assimilées à des intérêts et",
+          "width" : 0.8891170218639576,
+          "x" : 0.055441480176850945,
+          "y" : 0.5099999996764711
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "correspondant à des prestations de services sont enregistrées à la date de réalisation de l'opération.",
+          "width" : 0.7802874561754638,
+          "x" : 0.053388105930064066,
+          "y" : 0.4941666663951785
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les créances et les dettes, ainsi que les engagements hors bilan libellés en devises, sont converties en F CFA aux",
+          "width" : 0.8891170218639576,
+          "x" : 0.053388109868842376,
+          "y" : 0.46656976777328374
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "cours de change applicables aux opérations au 31 décembre 2021.",
+          "width" : 0.5236139555842352,
+          "x" : 0.05338809458981258,
+          "y" : 0.4520348837616558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "Les opérations de change sont évaluées à chaque arrêté journalier ou au terme des achats et ventes de devises",
+          "width" : 0.8891170218639577,
+          "x" : 0.0533881120916349,
+          "y" : 0.42441860473307824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "chez les correspondants et le résultat de change est enregistré directement au compte de résultat.",
+          "width" : 0.7597535473719081,
+          "x" : 0.05338811970898077,
+          "y" : 0.409883721012148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les intérêts, commissions et frais sur les opérations en devises sont couverts et comptabilisés en F CFA dès la",
+          "width" : 0.8891170218639577,
+          "x" : 0.05133470399615271,
+          "y" : 0.38081395370351634
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "réception des avis d'encaissement ou de paiement.",
+          "width" : 0.400410646544188,
+          "x" : 0.04928132303180766,
+          "y" : 0.36773255805187655
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Les crédits à la clientèle comprennent les concours distribués aux agents économiques autres que les banques et",
+          "width" : 0.8932237748684114,
+          "x" : 0.049281330802447405,
+          "y" : 0.33708333326974316
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "établissements financiers et sont ventilés en fonction de leur nature et de leur échéance conformément aux",
+          "width" : 0.8911704343115061,
+          "x" : 0.04928131164301495,
+          "y" : 0.3224999998120448
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "instructions du Plan Comptable Bancaire Révisé (PCBR). Ils sont inscrits au bilan à leur valeur nominale.",
+          "width" : 0.8151950364399293,
+          "x" : 0.04928134207264289,
+          "y" : 0.30958333313927167
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Les crédits pour lesquels la banque estime qu'il existe un risque de voir les débiteurs dans l'impossibilité d'honorer",
+          "width" : 0.8891170218639577,
+          "x" : 0.05133470423742591,
+          "y" : 0.2804166665123903
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "tout ou partie de leurs engagements, donnent lieu, par le débit du compte de résultat, à la constitution de provisions",
+          "width" : 0.8891170218639576,
+          "x" : 0.049281333688144274,
+          "y" : 0.2658333335908284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "pour créances douteuses appréciées par dossier et compte tenu des garanties détenues.",
+          "width" : 0.6919917992905256,
+          "x" : 0.051334704487180555,
+          "y" : 0.25124999998120456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "La banque applique notamment les dispositions de l'instruction 026-11-2016 du PCBR relatives à la comptabilisation",
+          "width" : 0.8891170218639576,
+          "x" : 0.04928131387979437,
+          "y" : 0.223749999839141
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "et au provisionnement des engagements en souffrance. Les engagements en souffrance comprennent :",
+          "width" : 0.8049281179834732,
+          "x" : 0.04928131283577895,
+          "y" : 0.20916666655308103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "- les créances restructurés : créances ayant fait l'objet de mesures de renégociation consistant en des",
+          "width" : 0.8295687797914826,
+          "x" : 0.10882957827674317,
+          "y" : 0.18023255823476625
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "concessions envers une contrepartie qui éprouve des difficultés à honorer ses engagements financiers ;",
+          "width" : 0.8028747055359245,
+          "x" : 0.13552364088706834,
+          "y" : 0.1656976747209581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "- les créances douteuses ou litigieuses : créances, échues ou non, présentant un risque probable ou",
+          "width" : 0.8275153673439339,
+          "x" : 0.10882957497793055,
+          "y" : 0.13662790718098716
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "certain de non recouvrement partiel ou total.",
+          "width" : 0.34291581691926165,
+          "x" : 0.13552361447671407,
+          "y" : 0.12354651166621766
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.029360466003417907,
+          "text" : "NIGER",
+          "width" : 0.0751649387031618,
+          "x" : 0.13654484163193611,
+          "y" : 0.07485465066768904
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "11",
+          "width" : 0.01642710412770193,
+          "x" : 0.06365503089302789,
+          "y" : 0.055232558242126584
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.030791597366332968,
+          "text" : "BOALUBLE BOA",
+          "width" : 0.13107604441288925,
+          "x" : 0.07935220418327604,
+          "y" : 0.05874328831739284
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013081394831339521,
+          "text" : "TSAN",
+          "width" : 0.032854208255403874,
+          "x" : 0.09240246478400237,
+          "y" : 0.055232558529097586
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.03139534950256351,
+          "text" : "DU\/GAWEYE",
+          "width" : 0.08707386641395667,
+          "x" : 0.13038503846937616,
+          "y" : 0.048110464575821243
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02760839780171709,
+          "text" : "13 NIAMEY",
+          "width" : 0.07923361662560272,
+          "x" : 0.15256539540305064,
+          "y" : 0.043174279178781694
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "EXCO - FCAFIDUCIAIRE CONSEIL ET AUDIT",
+          "width" : 0.2669404549930065,
+          "x" : 0.42299794721260003,
+          "y" : 0.05083333337254203
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666097104,
+          "text" : "Membre EXCO AFRIQUE",
+          "width" : 0.1560574948296249,
+          "x" : 0.4722792608876179,
+          "y" : 0.031976744186609896
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.038633721669515064,
+          "text" : "MAZARS NIGER SA",
+          "width" : 0.2046478055812444,
+          "x" : 0.732152482461022,
+          "y" : 0.06610465098176987
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03467496554056804,
+          "text" : "Immeuble Euro World Plateau 1.",
+          "width" : 0.20341772072728026,
+          "x" : 0.732993393417776,
+          "y" : 0.05315670299957409
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.03241741021474198,
+          "text" : "2è Etage Tél 20 72 37 20",
+          "width" : 0.17118021287682195,
+          "x" : 0.7534749723278887,
+          "y" : 0.03781557480302733
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-ng-2021-1\/page-005.pdf.png"
+}

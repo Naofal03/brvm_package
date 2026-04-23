@@ -1,0 +1,181 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.046821704440646705,
+          "text" : "Projet d' affectation du résultat de l'exercice 2022",
+          "width" : 0.5872092692057291,
+          "x" : 0.021802338129693625,
+          "y" : 0.9066666671974969
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813033492445,
+          "text" : "AFFECTATION DU RESULTAT DE L'EXERCICE 2022",
+          "width" : 0.35610463460286457,
+          "x" : 0.03343024380564131,
+          "y" : 0.7932816543144338
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.028888888888888853,
+          "text" : "L'Assemblée Générale constate l'existence d'un résultat bénéficiaire net de 123 371 334 720 FCFA (cent vingt-trois milliards trois cent soixante-",
+          "width" : 0.9273255411783854,
+          "x" : 0.0363372371385204,
+          "y" : 0.7414814818191463
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026080965112756926,
+          "text" : "onze millions trois cent trente-quatre mille sept cent vingt francs CFA) au titre de l'exercice clos le 31 décembre 2022.",
+          "width" : 0.7572674051920574,
+          "x" : 0.033430257202905315,
+          "y" : 0.7131782948138516
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703709,
+          "text" : "L'Assemblée Générale, approuvant la proposition du Conseil d'Administration réuni le 14 février 2023, décide de :",
+          "width" : 0.7416666666666667,
+          "x" : 0.03333334569444404,
+          "y" : 0.6592592596296296
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703709,
+          "text" : "-affecter intégralement le résultat net dudit exercice en dividendes à hauteur de 123 371 334 720 FCFA,",
+          "width" : 0.6708333333333334,
+          "x" : 0.033333341718749854,
+          "y" : 0.6148148150925925
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031145562065972188,
+          "text" : "-prélever sur la réserve libre, la somme de 2 636 800 020 FCFA (deux milliards six-cent trente-six millions huit cent mille vingt francs CFA) et de",
+          "width" : 0.9258720906575522,
+          "x" : 0.03343024164433425,
+          "y" : 0.5658914743400948
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03338715871175135,
+          "text" : "l'affecter en dividendes,",
+          "width" : 0.1575375747680664,
+          "x" : 0.03169242010817248,
+          "y" : 0.5372154597742409
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031266150297942,
+          "text" : "portant ainsi le montant total des dividendes bruts au titre de l'exercice clos le 31 décembre 2022 à 126 008 134 740 FCFA (cent vingt-six",
+          "width" : 0.8866279093424478,
+          "x" : 0.03343024024156657,
+          "y" : 0.4909560721262104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.028888888888888964,
+          "text" : "milliards huit millions cent trente quatre mille sept cent quarante francs CFA), se décomposant comme suit :",
+          "width" : 0.693313954671224,
+          "x" : 0.03343023691895605,
+          "y" : 0.46222222284427605
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02370370370370367,
+          "text" : "Résultat net : 123 371 334 720 FCFA",
+          "width" : 0.2412790679931641,
+          "x" : 0.03343023042929014,
+          "y" : 0.41851851848733335
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.028423772741247078,
+          "text" : "Prélèvement sur réserve libre : 2 636 800 020 FCFA",
+          "width" : 0.33720929463704424,
+          "x" : 0.03343023996345451,
+          "y" : 0.36950904421723174
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023290266107629853,
+          "text" : "Dividendes bruts : 126 008 134 740 FCFA",
+          "width" : 0.27180231730143234,
+          "x" : 0.03343023398009789,
+          "y" : 0.32296296327733354
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031266150297942,
+          "text" : "En conséquence, l'Assemblée Générale fixe à 836,4 FCFA le dividende brut revenant à chaque action, soit un dividende net par action de",
+          "width" : 0.8851743570963542,
+          "x" : 0.034883758007055406,
+          "y" : 0.26873384991137095
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02877265647605609,
+          "text" : "752,76 FCFA.",
+          "width" : 0.09160381952921548,
+          "x" : 0.03341320620957291,
+          "y" : 0.24013563530086113
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03100775259512445,
+          "text" : "L'Assemblée Générale constate qu'à l'issue de cette distribution de dividendes, le compte \"Réserve légale\" présente un solde créditeur de",
+          "width" : 0.889534912109375,
+          "x" : 0.033430212010096626,
+          "y" : 0.1937984491730913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.036660144947193274,
+          "text" : "1 205 242 800 FCFA (un milliard deux cent cinq millions deux cent quarante-deux mille huit cents francs CFA), soit 1\/5ème du montant du capital",
+          "width" : 0.9331938680013021,
+          "x" : 0.03340604640634562,
+          "y" : 0.16528171217211485
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03359172962330004,
+          "text" : "social tel que prescrit par la loi, le compte «Réserve libre » présente un solde créditeur de 234 571 762 069 FCFA (deux cent trente-quatre",
+          "width" : 0.8909883626302083,
+          "x" : 0.03343023092534433,
+          "y" : 0.13695090504807683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02620155051902484,
+          "text" : "milliards cing cent soixante-onze millions sept cent soixante-deux mille soixante neuf francs CFA) et le compte \"Report à nouveau\", un solde",
+          "width" : 0.9026162719726563,
+          "x" : 0.03343022482399192,
+          "y" : 0.11333333281096492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023703703703703782,
+          "text" : "créditeur de 46 739 103 724 FCFA (quarante-six milliards sept cent trente-neuf millions cent trois mille sept cent vingt-quatre francs CFA)",
+          "width" : 0.8808139038085937,
+          "x" : 0.03343026620616807,
+          "y" : 0.08518518538009812
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02067183459246602,
+          "text" : "10",
+          "width" : 0.014534883499145501,
+          "x" : 0.48982558140242055,
+          "y" : 0.033591731171836337
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2022-4\/page-010.pdf.png"
+}

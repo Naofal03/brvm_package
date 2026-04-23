@@ -1,0 +1,461 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.04069767316182449,
+          "text" : "Deloitte.",
+          "width" : 0.25872689506611635,
+          "x" : 0.09240246751827651,
+          "y" : 0.928779070381297
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023333333333333317,
+          "text" : "Grant Thornton",
+          "width" : 0.23613962773299468,
+          "x" : 0.6139630383751181,
+          "y" : 0.9374999999458077
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01751938025156663,
+          "text" : "Rapport des Auditeurs Indépendants aux actionnaires de Ecobank",
+          "width" : 0.749486628915452,
+          "x" : 0.09240246860182234,
+          "y" : 0.8808139532454119
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "Transnational Incorporated",
+          "width" : 0.31416836616147675,
+          "x" : 0.09240247151885095,
+          "y" : 0.8633333331180034
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Rapport sur les états financiers consolidés",
+          "width" : 0.4004106824895097,
+          "x" : 0.09445584571623085,
+          "y" : 0.8341666663906896
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013347139358520499,
+          "text" : "Opinion",
+          "width" : 0.07606598906859632,
+          "x" : 0.09235714996312011,
+          "y" : 0.8036461978326147
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nous avons effectué l'audit des états financiers consolidés ci-joint d'Ecobank Transnational",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445588540820107,
+          "y" : 0.790697674750028
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Incorporated et ses filiales (« le Groupe ») comprenant l'état consolidé de la situation",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445585635058285,
+          "y" : 0.7761627910000279
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "financière au 31 décembre 2019, ainsi que le compte de résultat consolidé et l'état consolidé",
+          "width" : 0.7905543746319198,
+          "x" : 0.09240248876206876,
+          "y" : 0.7599999996423861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "du résultat global, l'état consolidé de variation des capitaux propres et, l'état consolidé des",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445588211422458,
+          "y" : 0.7456395350672878
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "flux de trésorerie pour l'exercice clos a cette date et, les notes explicatives aux etats financiers",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445583532388933,
+          "y" : 0.7324999999815179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "consolides incluant un résume des principales méthodes comptables.",
+          "width" : 0.5831621976567101,
+          "x" : 0.09445585243790122,
+          "y" : 0.7194767442704697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "A notre avis, les états financiers consolidés ci-joint donnent, dans tous leurs aspects",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584058056262,
+          "y" : 0.7033333334745493
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "significatifs, une image fidèle de la situation financière consolidée d'Ecobank Transnational",
+          "width" : 0.7926077870794686,
+          "x" : 0.0924024798894237,
+          "y" : 0.6875000001981018
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "Incorporated au 31 décembre 2019, ainsi que de sa performance financière consolidée et de",
+          "width" : 0.7905543746319199,
+          "x" : 0.09240247913681221,
+          "y" : 0.6729166666077725
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "ses flux de trésorerie consolides pour l'exercice clos à cette date, conformément aux Normes",
+          "width" : 0.7926077870794684,
+          "x" : 0.09240248187094309,
+          "y" : 0.6569767442399254
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "Internationales d'Information Financière (IFRS).",
+          "width" : 0.41273101339351437,
+          "x" : 0.09034906823137433,
+          "y" : 0.6437500001821272
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "Fondement de l'opinion",
+          "width" : 0.22176590235410226,
+          "x" : 0.09445585564019739,
+          "y" : 0.6031976743697062
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016328501701355025,
+          "text" : "avons effectué notre audit selon les normes internationales d'audit (ISAs). Les",
+          "width" : 0.7352602613828769,
+          "x" : 0.14778237874494402,
+          "y" : 0.5855551439506833
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954448,
+          "text" : "responsabilités qui nous incombent en vertu de ces normes sont décrites dans notre rapport,",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584058056262,
+          "y" : 0.5712209302853111
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "dans la section « Responsabilités des auditeurs vis-à-vis des états financiers consolidés ».",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445588540820107,
+          "y" : 0.558139535118245
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nous sommes indépendants vis-à-vis du Groupe conformément aux dispositions du Code de",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584058056262,
+          "y" : 0.5436046513779349
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "déontologie des professionnels comptables émis par le Conseil des normes internationales de",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445583860931013,
+          "y" : 0.5290697676461034
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01469961166381839,
+          "text" : "déontologie comptable (Code IESBA), ainsi que d'autres exigences d'éthique dont nous devons",
+          "width" : 0.7885010340750147,
+          "x" : 0.0944558458646145,
+          "y" : 0.5129166670528087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "tenir compte pour l'audit des états financiers consolidés et, nous avons pris en compte toute",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445585118631192,
+          "y" : 0.49854651155711327
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "autre responsabilité relative à ces exigences d'éthique. Nous estimons que les éléments",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584387967285,
+          "y" : 0.4854166667980223
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "probants que nous avons obtenus sont suffisants et appropriés pour fonder notre opinion.",
+          "width" : 0.7618069598194567,
+          "x" : 0.09445587252866972,
+          "y" : 0.4708333331666813
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Observation",
+          "width" : 0.12320328208105584,
+          "x" : 0.09240246450361993,
+          "y" : 0.44186046530235346
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02030005057652795,
+          "text" : "Sans remettre en cause l'opinion exprimée ci-dessus, nous attirons votre attention sur la note",
+          "width" : 0.7887474033099602,
+          "x" : 0.0943401336258684,
+          "y" : 0.42355243154158073
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01308139483133941,
+          "text" : "47 des états financiers qui explique la correction des erreurs de l'année précédente concernant",
+          "width" : 0.7905543746319199,
+          "x" : 0.09445588013783864,
+          "y" : 0.41279069797677215
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "la comptabilisation des informations prospectives pertinentes («FLI») en ce qui concerne une",
+          "width" : 0.7905543746319199,
+          "x" : 0.0924024753466003,
+          "y" : 0.3982558144302605
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "directive réglementaire sur la reprise des charges d'intérêts sur certains prêts de clients, y",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445584058056262,
+          "y" : 0.38208333349697854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "compris les impacts de la modification des états financiers de l'Entité. Les chiffres de l'exercice",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445585421505923,
+          "y" : 0.3691666667368334
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "précédent ont été retraités en conséquence.",
+          "width" : 0.3716632317317248,
+          "x" : 0.09650925120292599,
+          "y" : 0.354583333508913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015667653083801247,
+          "text" : "Notre opinion n'est pas remise en question à cet égard.",
+          "width" : 0.4723572927594044,
+          "x" : 0.09238401707581255,
+          "y" : 0.3394827356581942
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Points clés de l'audit",
+          "width" : 0.20123202949586833,
+          "x" : 0.0924024632294786,
+          "y" : 0.3095833331682487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016984301408131897,
+          "text" : "Les points clés de l'audit sont des questions qui, de notre jugement professionnel, sont les",
+          "width" : 0.788637194953622,
+          "x" : 0.09438272800600793,
+          "y" : 0.29293876884553494
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "plus significatives de notre audit des états financiers consolidés de la période sous revue. Ces",
+          "width" : 0.7885010340750147,
+          "x" : 0.09445583860931013,
+          "y" : 0.2804166665850647
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "questions ont été traitées dans le cadre de notre audit des états financiers consolidés pris dans",
+          "width" : 0.7905543746319199,
+          "x" : 0.0944558636422881,
+          "y" : 0.2658333336125456
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014738372166951508,
+          "text" : "leur ensemble et, dans la formation de notre opinion sur les comptes et, ces questions ne font",
+          "width" : 0.7926077870794686,
+          "x" : 0.09240245882166245,
+          "y" : 0.2512500000574275
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016582090059916177,
+          "text" : "pas l'objet d'une opinion séparée.",
+          "width" : 0.28976785504775837,
+          "x" : 0.09225583637969774,
+          "y" : 0.2350557717310342
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015127854347229075,
+          "text" : "Les points clés de l'audit relevés ci-dessous sont liés aux états financiers consolidés.",
+          "width" : 0.7146879629757436,
+          "x" : 0.09440573448703964,
+          "y" : 0.22236588636021504
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "Point clé de l'audit",
+          "width" : 0.18069815663763436,
+          "x" : 0.10266940398097743,
+          "y" : 0.19331395381979533
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Traitement du point clé de l'audit",
+          "width" : 0.33059548601525696,
+          "x" : 0.4804928058972315,
+          "y" : 0.19331395377134575
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709301789601614,
+          "text" : "Dépréciation des prêts et avances à la clientèle",
+          "width" : 0.4476385936579799,
+          "x" : 0.1026694151319955,
+          "y" : 0.16279069782164823
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Les prêts et avances à la clientèle",
+          "width" : 0.28952772232612817,
+          "x" : 0.10266940734309599,
+          "y" : 0.14825581410071798
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "Nous avons focalisé nos tests de",
+          "width" : 0.2772073914221234,
+          "x" : 0.492813137451156,
+          "y" : 0.14958333343274022
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "constituent une part significative du total de dépréciation des prêts et avances à la",
+          "width" : 0.7104722956465326,
+          "x" : 0.10472277731020407,
+          "y" : 0.13499999970554089
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "l'actif de Ecobank Transnational",
+          "width" : 0.2710472259701211,
+          "x" : 0.10266940278496002,
+          "y" : 0.12208333347849643
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "clientele sur les données et hypothèses clés",
+          "width" : 0.37371660823395164,
+          "x" : 0.4928131600171786,
+          "y" : 0.12063953494141155
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "Incorporated.",
+          "width" : 0.11704311662905348,
+          "x" : 0.10472279681894342,
+          "y" : 0.10610465117203183
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "retenues par la Direction et les",
+          "width" : 0.2648870605181188,
+          "x" : 0.4928131388374501,
+          "y" : 0.10610465112358214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Au 31 décembre 2019, le montant brut des",
+          "width" : 0.37577002068150034,
+          "x" : 0.10266940914076925,
+          "y" : 0.08866279075155337
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016744682788848886,
+          "text" : "Administrateurs. De manière spécifique,",
+          "width" : 0.3555555220065887,
+          "x" : 0.48038058825813823,
+          "y" : 0.09005572439831588
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "Lprêts et avances s'élevait à 9 834 millions",
+          "width" : 0.3655030662797225,
+          "x" : 0.09445586166800027,
+          "y" : 0.07541666656262047
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "nos procédures d'audit ont consisté à :",
+          "width" : 0.3305954860152569,
+          "x" : 0.4948665225296749,
+          "y" : 0.07703488390700464
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2019-5\/page-003.pdf.png"
+}

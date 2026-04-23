@@ -1,0 +1,357 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les provisions pour créances douteuses couvrant des risques inscrits à l'actif du bilan sont affectées en déduction",
+          "width" : 0.89527718731596,
+          "x" : 0.05338811530848084,
+          "y" : 0.8808139538682449
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "des actifs concernés.",
+          "width" : 0.16427103678385416,
+          "x" : 0.05954826189554718,
+          "y" : 0.8662500001940616
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "Par ailleurs à la date du 31 décembre 2021 la banque a choisi de mettre sous surveillance certaines créances à",
+          "width" : 0.885010268859504,
+          "x" : 0.05954826103568261,
+          "y" : 0.8241279073202799
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "risques.",
+          "width" : 0.06365502652908522,
+          "x" : 0.05749486774161758,
+          "y" : 0.8081395350867604
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "Conformément à l'instruction 029-11-2016 du PCBR relative à la comptabilisation et à l'évaluation des titres, la",
+          "width" : 0.887063609416409,
+          "x" : 0.05749490343690111,
+          "y" : 0.7804166666831674
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Banque classe les titres qu'elle détient en portefeuille dans les catégories suivantes :",
+          "width" : 0.6570841471354166,
+          "x" : 0.0574948927053921,
+          "y" : 0.7658333336816714
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016613451639811205,
+          "text" : "- Les titres de transaction qui sont des titres acquis ou vendus avec l'intention de les revendre ou de les",
+          "width" : 0.8605295637330683,
+          "x" : 0.08411974598883748,
+          "y" : 0.7352623565911762
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "racheter à court terme ou encore les titres détenus du fait de l'activité d'animateur du marché",
+          "width" : 0.7207392141029889,
+          "x" : 0.11498974760285155,
+          "y" : 0.723749999839141
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "- Les titres d'investissement qui sont des titres à revenu fixe assortis d'une échéance fixée, acquis avec",
+          "width" : 0.8603696070514943,
+          "x" : 0.08418890235207648,
+          "y" : 0.7078488372111831
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "l'intention manifeste de les détenir jusqu'à l'échéance",
+          "width" : 0.41683776639796816,
+          "x" : 0.11498973791669014,
+          "y" : 0.6945833331262692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100775082905969,
+          "text" : "- Les titres de participations qui sont des titres à revenu variable dont la possession durable est estimée utile",
+          "width" : 0.8603696070514945,
+          "x" : 0.08418889876720327,
+          "y" : 0.6802325582771598
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333730697672,
+          "text" : "à l'entreprise",
+          "width" : 0.1047227947113792,
+          "x" : 0.11293634479010094,
+          "y" : 0.6641666665758739
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "- Les titres de l'activité de portefeuille qui sont des titres à revenu variable dont l'acquisition a pour objet d'en",
+          "width" : 0.8603696070514943,
+          "x" : 0.08213553494961195,
+          "y" : 0.6495833332374751
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "tirer un gain en capital à moyen terme",
+          "width" : 0.2977412642803574,
+          "x" : 0.11293634708637852,
+          "y" : 0.6366279074535163
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "- Les titres de placement constitués essentiellement de fonds commun de placement",
+          "width" : 0.6776180559389723,
+          "x" : 0.08418891469991839,
+          "y" : 0.6220833332579656
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01797580480575567,
+          "text" : "Les titres sont comptabilisés et évalués selon les dispositions de l'instruction 029-11-2018 du PCBR.",
+          "width" : 0.7804264207891637,
+          "x" : 0.05330288509868739,
+          "y" : 0.590847923233992
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738371372222892,
+          "text" : "Les immobilisations sont évaluées à leur coût d'acquisition. Les amortissements y afférents sont calculés sur la",
+          "width" : 0.8870636094164089,
+          "x" : 0.05544150008303446,
+          "y" : 0.5637500003676599
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011666666666666714,
+          "text" : "durée de vie probable ou estimée selon la méthode linéaire :",
+          "width" : 0.4702258430184408,
+          "x" : 0.05338809734772715,
+          "y" : 0.5508333332756428
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "- Logiciels",
+          "width" : 0.10061601474793416,
+          "x" : 0.08213552277661476,
+          "y" : 0.5216666665143213
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Constructions",
+          "width" : 0.11088295117705113,
+          "x" : 0.11088296041421228,
+          "y" : 0.5087209304355976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Installations",
+          "width" : 0.09650923478448911,
+          "x" : 0.11088295800132156,
+          "y" : 0.4941860466445005
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "Matériel et outillage",
+          "width" : 0.15195070587984943,
+          "x" : 0.11293635349402452,
+          "y" : 0.47819767423404713
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744185686111464,
+          "text" : "Mobilier de bureau",
+          "width" : 0.14579054941417754,
+          "x" : 0.1129363478459571,
+          "y" : 0.46500000015736076
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "Matériel informatique",
+          "width" : 0.16427103678385419,
+          "x" : 0.11293635173127616,
+          "y" : 0.45041666665069235
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "- Matériel de transport",
+          "width" : 0.19507186404386595,
+          "x" : 0.08008213454206438,
+          "y" : 0.43604651154024865
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "2 ans",
+          "width" : 0.04928131462968843,
+          "x" : 0.6694045178391598,
+          "y" : 0.5216666665178697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013170715570449798,
+          "text" : "50 ans",
+          "width" : 0.057535380440971506,
+          "x" : 0.6693842600188894,
+          "y" : 0.5072227818885237
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014672120412190681,
+          "text" : "5 ans",
+          "width" : 0.04731205916657466,
+          "x" : 0.669362451447481,
+          "y" : 0.49266393961065247
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011959803899129207,
+          "text" : "4 ans",
+          "width" : 0.04738928319708624,
+          "x" : 0.669323839232471,
+          "y" : 0.4794852143894196
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "10 ans",
+          "width" : 0.05749486557024808,
+          "x" : 0.6694045180875658,
+          "y" : 0.46366279062688076
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013513078689575186,
+          "text" : "2 ans",
+          "width" : 0.04950720401759423,
+          "x" : 0.6672381839283993,
+          "y" : 0.45036555384648025
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013254417181015055,
+          "text" : "4 ans",
+          "width" : 0.04732322468212835,
+          "x" : 0.669356868545753,
+          "y" : 0.43596000096961807
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les réparations et entretiens intervenus sur les immobilisations, notamment sur le mobilier et le matériel",
+          "width" : 0.8891170218639576,
+          "x" : 0.053388115796289035,
+          "y" : 0.40697674461436895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "informatique, sont enregistrés en charges.",
+          "width" : 0.3285420735677083,
+          "x" : 0.04928132125858264,
+          "y" : 0.3924418609418884
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.02921511650085451,
+          "text" : "IGER",
+          "width" : 0.06633719454384523,
+          "x" : 0.2114925926128597,
+          "y" : 0.28561046531460765
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.05290697415669765,
+          "text" : "IMMEUBLE BOA",
+          "width" : 0.1199334125496333,
+          "x" : 0.14742549185716597,
+          "y" : 0.24825581567649024
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.05377907435099294,
+          "text" : "RÚE DU GAWEYE",
+          "width" : 0.12486026256188348,
+          "x" : 0.1527649443237309,
+          "y" : 0.23604651012725786
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.06364162445068366,
+          "text" : "DP: 10973 MAMSY",
+          "width" : 0.14633626230192692,
+          "x" : 0.15214114625287772,
+          "y" : 0.21888892065912535
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010184108416239401,
+          "text" : "EXCO - FCAFIDUCIAIRE CONSEIL ET AUDIT",
+          "width" : 0.2710472259701211,
+          "x" : 0.40041067520795803,
+          "y" : 0.30523255820578943
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Membre EXCO AFRIQUE",
+          "width" : 0.1560574948296249,
+          "x" : 0.4537987662915531,
+          "y" : 0.2848837210254639
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03520348866780598,
+          "text" : "MAZARS NIGER SA \/",
+          "width" : 0.2042357643585745,
+          "x" : 0.7487856084211113,
+          "y" : 0.29529069755821225
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.03926414966583258,
+          "text" : "Immeuble Euro World Plateau 1.",
+          "width" : 0.20408619587497234,
+          "x" : 0.7472330921144131,
+          "y" : 0.2775653779189575
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.04752906799316403,
+          "text" : "q\/e Eiage Tal 2072 37 20",
+          "width" : 0.19011394379416968,
+          "x" : 0.7475508300510365,
+          "y" : 0.24956395409252197
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bank-of-africa-ng-2021-1\/page-006.pdf.png"
+}

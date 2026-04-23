@@ -1,0 +1,957 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.026465244293212842,
+          "text" : "Deloitte.",
+          "width" : 0.15864106482695634,
+          "x" : 0.09008398506633829,
+          "y" : 0.9438894711234834
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "de $EU (2018 : 9 807 millions de $EU)",
+          "width" : 0.32854207356770837,
+          "x" : 0.10061602358575575,
+          "y" : 0.9024999998665856
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663552,
+          "text" : "contre lequel une charge de provision totale",
+          "width" : 0.3737166082339517,
+          "x" : 0.10061603226906102,
+          "y" : 0.8879166664858861
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "de 557 millions de $EU (2018 : 718 millions",
+          "width" : 0.3716632317317249,
+          "x" : 0.10266941392537639,
+          "y" : 0.8735465117098224
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "de $EU) a été enregistrée, dégageant ainsi",
+          "width" : 0.3634496897774956,
+          "x" : 0.10266940667696062,
+          "y" : 0.8575000002988475
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "un solde net de 9 277 millions de $EU",
+          "width" : 0.32648869706548145,
+          "x" : 0.10266941324857337,
+          "y" : 0.8458333331377044
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "(2018 : 9 1089 millions de $EU),",
+          "width" : 0.2813141623992381,
+          "x" : 0.10061602170934733,
+          "y" : 0.8299418609418884
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "représentant environ 39% (2018 : 40%) du",
+          "width" : 0.3737166082339517,
+          "x" : 0.10061602386043701,
+          "y" : 0.8154069769120919
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013091084957122856,
+          "text" : "total du bilan à la date de l'arrêté des",
+          "width" : 0.32032853161347913,
+          "x" : 0.10061602399476621,
+          "y" : 0.8023255818721209
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "comptes (voir note 21).",
+          "width" : 0.20328542397075605,
+          "x" : 0.10266940503720916,
+          "y" : 0.7862500000620867
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "La base de détermination des provisions est",
+          "width" : 0.3737166082339517,
+          "x" : 0.10266941467152524,
+          "y" : 0.7587209306548244
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290619,
+          "text" : "décrite dans les règles et méthodes",
+          "width" : 0.301848035257472,
+          "x" : 0.1026694153024754,
+          "y" : 0.744166666573316
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718992710113676,
+          "text" : "comptables des états financiers consolidés.",
+          "width" : 0.36550306627972245,
+          "x" : 0.10266940797923535,
+          "y" : 0.7281976743478109
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Les Administrateurs font preuve d'un",
+          "width" : 0.31416836616147675,
+          "x" : 0.10266941093021299,
+          "y" : 0.7004166668662077
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "jugement important lorsqu'ils déterminent",
+          "width" : 0.36139627732994706,
+          "x" : 0.10061602396336347,
+          "y" : 0.6845833331707563
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "la période et le montant à comptabiliser au",
+          "width" : 0.3675564427819494,
+          "x" : 0.1006160352483133,
+          "y" : 0.6699999997827042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575947,
+          "text" : "titre des dépréciations des prêts et avances",
+          "width" : 0.3716632317317248,
+          "x" : 0.10061602583502731,
+          "y" : 0.6554166669980899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "à la clientèle. Cette situation s'explique par",
+          "width" : 0.3696098552294979,
+          "x" : 0.10061601237498417,
+          "y" : 0.6408333334222956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "le fait qu'un grand nombre d'hypothèses et",
+          "width" : 0.36960985522949796,
+          "x" : 0.10061602063987109,
+          "y" : 0.6279069770756094
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "de données entrent dans la détermination",
+          "width" : 0.3552361478232663,
+          "x" : 0.10266940224339757,
+          "y" : 0.6148255815499387
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "des dépréciations des prêts et avances à la",
+          "width" : 0.3634496897774956,
+          "x" : 0.10472279734944517,
+          "y" : 0.5987500000911565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013279473781585782,
+          "text" : "clientèle.",
+          "width" : 0.07809468012114436,
+          "x" : 0.10468982653875152,
+          "y" : 0.5842032865823477
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "Le Groupe a mis en œuvre la norme IFRS 9,",
+          "width" : 0.3757700206815002,
+          "x" : 0.1026694106380313,
+          "y" : 0.5537499998281818
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "Instruments Financiers au 1er janvier 2018.",
+          "width" : 0.3757700206815003,
+          "x" : 0.10266941070647757,
+          "y" : 0.5406976744278458
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Cette nouvelle norme complexe impose au",
+          "width" : 0.3737166082339517,
+          "x" : 0.1047228064921959,
+          "y" : 0.5261627911744465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "Groupe de comptabiliser les pertes de crédit",
+          "width" : 0.3778233971837272,
+          "x" : 0.10266941338623353,
+          "y" : 0.5099999997030332
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015337185859680136,
+          "text" : "attendues (Expected Credit Loss - « ECL »)",
+          "width" : 0.37392886535860204,
+          "x" : 0.10461791171816191,
+          "y" : 0.49511907490993134
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "sur les instruments",
+          "width" : 0.19096509306675136,
+          "x" : 0.10266940100255874,
+          "y" : 0.48401162794295016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "implique",
+          "width" : 0.07802874741481247,
+          "x" : 0.10061601741169027,
+          "y" : 0.46656976762542723
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "financiers, ce qui",
+          "width" : 0.1724845967107443,
+          "x" : 0.30800821225379976,
+          "y" : 0.4811046515159312
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "l'exercice d'un jugement",
+          "width" : 0.2546201061163409,
+          "x" : 0.1950718813703031,
+          "y" : 0.4679166667970317
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "et",
+          "width" : 0.024640657314844217,
+          "x" : 0.45585215618857383,
+          "y" : 0.46802325591040383
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "d'estimations significatifs. Les principaux",
+          "width" : 0.3737166441792734,
+          "x" : 0.1047227898542373,
+          "y" : 0.45333333334132064
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "domaines pour lesquels nous avons identifié",
+          "width" : 0.3737166441792734,
+          "x" : 0.10472278362562688,
+          "y" : 0.43874999987824903
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "des niveaux plus élevés de jugement de la",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472280844975917,
+          "y" : 0.424418604982586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "part de la Direction et, par conséquent, pour",
+          "width" : 0.3757700206815003,
+          "x" : 0.10472279451037912,
+          "y" : 0.4083333331823422
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "lesquels nous avons effectué des procédures",
+          "width" : 0.3757700206815003,
+          "x" : 0.10266940068594398,
+          "y" : 0.39534883739537674
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011812015374501605,
+          "text" : "ciblées dans le cadre de l'audit dans la mise",
+          "width" : 0.3737166082339517,
+          "x" : 0.10472280004113518,
+          "y" : 0.3820833333444551
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "en œuvre de la norme IFRS 9, Instruments",
+          "width" : 0.3757700206815003,
+          "x" : 0.10472279879682665,
+          "y" : 0.36482558177522173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "Financiers par le Groupe sont les suivants :",
+          "width" : 0.36550306627972245,
+          "x" : 0.10677619064521741,
+          "y" : 0.35166666671161806
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "i. Identification et modélisation de",
+          "width" : 0.29363449330324276,
+          "x" : 0.12114989653113016,
+          "y" : 0.33416666680249596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "scénarios économiques pour mesurer",
+          "width" : 0.3162217426637036,
+          "x" : 0.14168379302133088,
+          "y" : 0.3212209305639814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "les pertes de crédit attendues sur une",
+          "width" : 0.322381908115706,
+          "x" : 0.13963039817520662,
+          "y" : 0.30523255823476625
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "base prospective reflétant un éventail",
+          "width" : 0.3203285316134791,
+          "x" : 0.14168378667786002,
+          "y" : 0.2891666665928312
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "de conditions économiques futures.",
+          "width" : 0.29979465875524514,
+          "x" : 0.14168378319937935,
+          "y" : 0.2745833334811898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019595743815104094,
+          "text" : "ii. Évaluation et mesure de l'augmentation",
+          "width" : 0.35769825857856674,
+          "x" : 0.12093062601614538,
+          "y" : 0.2539518801126398
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "significative du risque de crédit",
+          "width" : 0.26694043702034564,
+          "x" : 0.14168378190050493,
+          "y" : 0.24124999982818185
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "(Significant Increase in Credit Risk -",
+          "width" : 0.31006157721170124,
+          "x" : 0.14168379432536074,
+          "y" : 0.22666666674795521
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "« SICR ») selon différents critères.",
+          "width" : 0.2956878698054697,
+          "x" : 0.14168379076461615,
+          "y" : 0.21075581423646195
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "iii. Modélisation pour l'estimation des",
+          "width" : 0.3162217426637036,
+          "x" : 0.11498974863734727,
+          "y" : 0.19458333299908892
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "paramètres des pertes de crédit",
+          "width" : 0.2710472259701211,
+          "x" : 0.14373716956114063,
+          "y" : 0.18023255845884578
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "attendues",
+          "width" : 0.08624229835537214,
+          "x" : 0.14168377751635913,
+          "y" : 0.16569767450302775
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "• Probabilités de défaut",
+          "width" : 0.20328542397075602,
+          "x" : 0.17659137570896047,
+          "y" : 0.14958333314611794
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01169573624928788,
+          "text" : "(Probabilities of Default - « PD »)",
+          "width" : 0.28542093337635266,
+          "x" : 0.19507187655275451,
+          "y" : 0.13372093031447363
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014583333333333282,
+          "text" : "- 12 mois et à maturité,",
+          "width" : 0.20533880047298292,
+          "x" : 0.1950718762179917,
+          "y" : 0.11625000005346486
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011802325646082634,
+          "text" : "• Pertes en cas de défaut (Loss",
+          "width" : 0.26694043702034564,
+          "x" : 0.17864477455964234,
+          "y" : 0.10319767450051998
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014670542081197113,
+          "text" : "Given Default - « LGD »),",
+          "width" : 0.22176590235410223,
+          "x" : 0.1950718779126134,
+          "y" : 0.08416666686798802
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023343023459116652,
+          "text" : "Grant Thornton",
+          "width" : 0.23408623325810696,
+          "x" : 0.6386037020824454,
+          "y" : 0.9404069767990053
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "• Obtenir une compréhension du",
+          "width" : 0.29158109882835503,
+          "x" : 0.5215605811128586,
+          "y" : 0.9024999999852794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013880147933959974,
+          "text" : "processus de calcul de la",
+          "width" : 0.2119748819843198,
+          "x" : 0.5520952409065052,
+          "y" : 0.88793374714817
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "dépréciation des pertes sur prêts au",
+          "width" : 0.3059548242072474,
+          "x" : 0.5523614003878204,
+          "y" : 0.8735465119810474
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "sein du Groupe ;",
+          "width" : 0.14168376945073247,
+          "x" : 0.5523613983341821,
+          "y" : 0.860416666529305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "• Tester l'efficacité de la conception et",
+          "width" : 0.340862404471713,
+          "x" : 0.5215605785307419,
+          "y" : 0.8473837207941248
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "du fonctionnement des contrôles",
+          "width" : 0.2792607679243504,
+          "x" : 0.5523614071398095,
+          "y" : 0.8328488374390743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014374297459920138,
+          "text" : "clés dans l'ensemble des processus",
+          "width" : 0.29802593325557636,
+          "x" : 0.5542643605425491,
+          "y" : 0.8157443588633981
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "liés aux pertes de crédit attendues",
+          "width" : 0.2956878698054697,
+          "x" : 0.5523614088344313,
+          "y" : 0.8023255815014891
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "(répartition des expositions par",
+          "width" : 0.26694045499300645,
+          "x" : 0.5523613969045919,
+          "y" : 0.7877906979937295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "strates, gouvernance du modèle,",
+          "width" : 0.28336753890146504,
+          "x" : 0.5523614098100476,
+          "y" : 0.7716666663155075
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "exactitude et intégralité des",
+          "width" : 0.23613962773299468,
+          "x" : 0.554414786672517,
+          "y" : 0.7587209303277895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "données, surveillance du crédit,",
+          "width" : 0.26899383149523337,
+          "x" : 0.5544147912544367,
+          "y" : 0.7441666665333451
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017201015949249276,
+          "text" : "scénarios économiques multiples,",
+          "width" : 0.28786275299755226,
+          "x" : 0.5522083441393417,
+          "y" : 0.7280898766236876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542875925618,
+          "text" : "ajustements postérieurs au modele,",
+          "width" : 0.3059548242072475,
+          "x" : 0.5544147901208799,
+          "y" : 0.7136627908085668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "provisions individuelles et production",
+          "width" : 0.3141683661614767,
+          "x" : 0.5523614047529372,
+          "y" : 0.699127907160311
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "des écritures et des notes annexes);",
+          "width" : 0.31006157721170136,
+          "x" : 0.554414801709002,
+          "y" : 0.684583332998675
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011627906958262102,
+          "text" : "•",
+          "width" : 0.020533879597981697,
+          "x" : 0.5215605758580933,
+          "y" : 0.6715116279888922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Évaluer les niveaux de provision",
+          "width" : 0.28542093337635266,
+          "x" : 0.542094456686225,
+          "y" : 0.6729166666309564
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "pour pertes de crédit attendues par",
+          "width" : 0.30184803525747206,
+          "x" : 0.5544147939215719,
+          "y" : 0.6569767445295822
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575947,
+          "text" : "strate afin de déterminer s'ils étaient",
+          "width" : 0.31827515511125215,
+          "x" : 0.5503080036815403,
+          "y" : 0.642441860466997
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "raisonnables compte tenu du",
+          "width" : 0.24435316968722387,
+          "x" : 0.5544147933699403,
+          "y" : 0.6291666666416369
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "portefeuille, du profil de risque, des",
+          "width" : 0.30184803525747195,
+          "x" : 0.554414794424652,
+          "y" : 0.6133333332489103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "pratiques de gestion du risque de",
+          "width" : 0.28336755687412585,
+          "x" : 0.5544147870249493,
+          "y" : 0.5987500000911565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "crédit et de l'environnement",
+          "width" : 0.24024639871010933,
+          "x" : 0.5544147859221528,
+          "y" : 0.5857558138755201
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01169573624928788,
+          "text" : "macroéconomique du Groupe.",
+          "width" : 0.2566735005912286,
+          "x" : 0.5544147929538723,
+          "y" : 0.5712209302417992
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290619,
+          "text" : "Analyser les critères d'affectation",
+          "width" : 0.2956878698054697,
+          "x" : 0.5400410724210161,
+          "y" : 0.5552325581802604
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "des expositions aux strates 1, 2 ou 3",
+          "width" : 0.3121149896592499,
+          "x" : 0.5544147805297182,
+          "y" : 0.5406976746228476
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "conformément à la norme IFRS 9 ;",
+          "width" : 0.2956878877781305,
+          "x" : 0.5544147800534399,
+          "y" : 0.5261627908837487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "• Tester les hypothèses, les données",
+          "width" : 0.32854207356770837,
+          "x" : 0.5236139768711765,
+          "y" : 0.5116279072693226
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "et les formules utilisées dans un",
+          "width" : 0.273100602472348,
+          "x" : 0.5544147877525324,
+          "y" : 0.49854651152813645
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "échantillon de modèles de pertes de",
+          "width" : 0.3059548242072475,
+          "x" : 0.5544147811971977,
+          "y" : 0.48401162784354335
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "crédit attendues avec l'aide de nos",
+          "width" : 0.2956878698054697,
+          "x" : 0.5544147885572243,
+          "y" : 0.46947674404993867
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "spécialistes internes du risque de",
+          "width" : 0.2813141623992381,
+          "x" : 0.5544147843291285,
+          "y" : 0.45333333335463655
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "crédit (y compris évaluer la",
+          "width" : 0.23613962773299468,
+          "x" : 0.5523613984794986,
+          "y" : 0.4375000001628905
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703774,
+          "text" : "pertinence de la conception du",
+          "width" : 0.26078027156834327,
+          "x" : 0.5544147880009073,
+          "y" : 0.4244186047887877
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "modèle et des formules utilisées,",
+          "width" : 0.2792607679243504,
+          "x" : 0.5564681833205077,
+          "y" : 0.4098837211647566
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "envisager d'autres techniques de",
+          "width" : 0.27720739142212336,
+          "x" : 0.5564681703053654,
+          "y" : 0.3953488372500279
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "modélisation et recalculer la",
+          "width" : 0.2381930222078824,
+          "x" : 0.5564681730028348,
+          "y" : 0.3820833335116063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "probabilité de défaut, la perte en cas",
+          "width" : 0.3141683661614767,
+          "x" : 0.5544147928432863,
+          "y" : 0.36482558157891565
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011802325646082523,
+          "text" : "de défaut et l'exposition en cas de",
+          "width" : 0.2895277223261281,
+          "x" : 0.5564681745864226,
+          "y" : 0.35319767448598516
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "défaut pour un échantillon de",
+          "width" : 0.25051333513922636,
+          "x" : 0.5544147894461295,
+          "y" : 0.3357558139432567
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016139033635457323,
+          "text" : "modèles) :",
+          "width" : 0.09450661307650543,
+          "x" : 0.5543894048370058,
+          "y" : 0.31969211092792327
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "• Tester les données utilisées dans le",
+          "width" : 0.3326488625174838,
+          "x" : 0.5236139712566584,
+          "y" : 0.3095833332119461
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "calcul des pertes de crédit attendues",
+          "width" : 0.3121149896592499,
+          "x" : 0.5564681777234208,
+          "y" : 0.2936046514942139
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "en les rapprochant des systèmes",
+          "width" : 0.2792607679243504,
+          "x" : 0.5564681833205077,
+          "y" : 0.27906976777328363
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008798449436823508,
+          "text" : "sources ,",
+          "width" : 0.07802874741481258,
+          "x" : 0.5564681715184665,
+          "y" : 0.2645348839532098
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.010174418290456178,
+          "text" : "•",
+          "width" : 0.016427104127701986,
+          "x" : 0.5215605754515493,
+          "y" : 0.25000000024794056
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012433447043101009,
+          "text" : "Evaluer le caractère adéquat et",
+          "width" : 0.275219704995307,
+          "x" : 0.5461683770030115,
+          "y" : 0.2510507182770382
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "appropriés des informations données",
+          "width" : 0.3121149896592499,
+          "x" : 0.5564681756426544,
+          "y" : 0.23541666677630524
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "en annexe au regard de la",
+          "width" : 0.22381929682898993,
+          "x" : 0.5564681767651765,
+          "y" : 0.22083333331203014
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "conformité aux normes comptables",
+          "width" : 0.29979465875524514,
+          "x" : 0.5564681786990371,
+          "y" : 0.20624999966606916
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01182170550028483,
+          "text" : "Sur la base de notre revue, nous avons",
+          "width" : 0.3326488625174838,
+          "x" : 0.49691992525049833,
+          "y" : 0.19166666667070664
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "conclu que la méthodologie de dépréciation",
+          "width" : 0.36550306627972245,
+          "x" : 0.49691992880401264,
+          "y" : 0.17732558174848922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "des prêts du Groupe, y compris le modèle,",
+          "width" : 0.3613963132752687,
+          "x" : 0.49691991679152364,
+          "y" : 0.1627906979477024
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "les hypothèses et les données principales",
+          "width" : 0.3531827353757177,
+          "x" : 0.49486653963589194,
+          "y" : 0.14825581430662882
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011802325646082523,
+          "text" : "utilisées par la Direction et les",
+          "width" : 0.25667350059122873,
+          "x" : 0.4969199257824144,
+          "y" : 0.13499999998421142
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Administrateurs pour estimer la charge de",
+          "width" : 0.35728952432549316,
+          "x" : 0.4969199150959804,
+          "y" : 0.12063953482028755
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "provision et, les charges de provision de",
+          "width" : 0.34086240447171307,
+          "x" : 0.4969199258544926,
+          "y" : 0.10458333323024249
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "prêts déterminées sont appropriées en la",
+          "width" : 0.3470225699237154,
+          "x" : 0.4969199224560069,
+          "y" : 0.08999999987376028
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "circonstance.",
+          "width" : 0.11293634565193883,
+          "x" : 0.4969199194053789,
+          "y" : 0.07703488390225255
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-tg-2019-5\/page-004.pdf.png"
+}

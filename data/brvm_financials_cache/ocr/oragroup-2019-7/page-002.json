@@ -1,0 +1,341 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.04505813916524248,
+          "text" : "XEХСO",
+          "width" : 0.20576131568764744,
+          "x" : 0.20576131849362483,
+          "y" : 0.9186046514856927
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456066,
+          "text" : "FICAC",
+          "width" : 0.06172839200721597,
+          "x" : 0.3024691365581204,
+          "y" : 0.9215116280459057
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "31, avenue François Mitterrand",
+          "width" : 0.2716049338286778,
+          "x" : 0.1872427978593237,
+          "y" : 0.8937500003445187
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "B.P. 7378 - Lomé Togo",
+          "width" : 0.19753085442309107,
+          "x" : 0.22633745529874247,
+          "y" : 0.8779069770973265
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011666666666666603,
+          "text" : "Tél : + 228 22 21 68 22",
+          "width" : 0.19135802646852887,
+          "x" : 0.22839505936518686,
+          "y" : 0.8633333335276582
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011782945791880328,
+          "text" : "Fax : + 228 22 21 83 86",
+          "width" : 0.19958846973923017,
+          "x" : 0.2242798358779845,
+          "y" : 0.847383720891024
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "E-mail : excoficao@excoafrique.com",
+          "width" : 0.33744855196970813,
+          "x" : 0.1543209957229648,
+          "y" : 0.829941860778371
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.039793599446614536,
+          "text" : "KРМG",
+          "width" : 0.1368942170772912,
+          "x" : 0.6167380761178005,
+          "y" : 0.9176032004406742
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "gème étage immeuble BTCI Siège",
+          "width" : 0.28395060773165715,
+          "x" : 0.5946502129037188,
+          "y" : 0.8924418604887142
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "169, Bd du 13 janvier - 06 BP 6019 Lomé, Togo",
+          "width" : 0.4135802286975788,
+          "x" : 0.5246913619629391,
+          "y" : 0.8762499996128171
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016036821206410812,
+          "text" : "Tél : +228 22 21 87 69",
+          "width" : 0.18930041115238982,
+          "x" : 0.6419753074896488,
+          "y" : 0.8604166670027917
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014631782372792612,
+          "text" : "Fax: +228 22 21 03 55",
+          "width" : 0.19547323910695202,
+          "x" : 0.6378600858220385,
+          "y" : 0.8458333337227104
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016250000000000098,
+          "text" : "E-mail : contact@kpmg.tg",
+          "width" : 0.2263374508551831,
+          "x" : 0.623456787617676,
+          "y" : 0.8283333333823246
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.14403291918196767,
+          "x" : 0.1399176979878913,
+          "y" : 0.7674418607844271
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Siège social : 392, rue des Plantains, B.P. 2810 Lomé - Togo",
+          "width" : 0.5041152306322781,
+          "x" : 0.14197531153571272,
+          "y" : 0.7354166667763051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01172480622927341,
+          "text" : "Capital social : F CFA 69 415 031 000",
+          "width" : 0.30658434022147696,
+          "x" : 0.1419753157688912,
+          "y" : 0.7208333332600321
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés",
+          "width" : 0.6152263137529481,
+          "x" : 0.14197531023600912,
+          "y" : 0.688749999938811
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "annuels établis selon les normes IFRS",
+          "width" : 0.3168724347960274,
+          "x" : 0.1399176881061016,
+          "y" : 0.6744186045877294
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.2901234536800744,
+          "x" : 0.13991769461058012,
+          "y" : 0.6424418606633031
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01308139483133941,
+          "text" : "Mesdames, Messieurs les Actionnaires,",
+          "width" : 0.32921809070515184,
+          "x" : 0.14403293324824706,
+          "y" : 0.5944767444593303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01861133416493721,
+          "text" : "En exécution de la mission qui nous a été confiée par votre assemblée générale, nous vous",
+          "width" : 0.7635927740133034,
+          "x" : 0.1418699386700003,
+          "y" : 0.5607758531494018
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "présentons notre rapport relatif à l'exercice clos le 31 décembre 2019 sur :",
+          "width" : 0.6152263137529481,
+          "x" : 0.14197531279945205,
+          "y" : 0.5479166666127878
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "- l'audit des états financiers consolidés annuels d'Oragroup S.A. tels qui sont joints au",
+          "width" : 0.7654321058741156,
+          "x" : 0.13991768235100827,
+          "y" : 0.5245833332424903
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "présent rapport;",
+          "width" : 0.13991768854968953,
+          "x" : 0.1769547336401073,
+          "y" : 0.5070833336303002
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "- les vérifications spécifiques prévues par la loi et autres informations.",
+          "width" : 0.6008230245338296,
+          "x" : 0.1399176983297932,
+          "y" : 0.4854166666127878
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "1. Audit des états financiers consolidés annuels",
+          "width" : 0.6028806578438237,
+          "x" : 0.0802469199052485,
+          "y" : 0.4387500002390129
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01705621242523192,
+          "text" : "1.1. Opinion",
+          "width" : 0.13604622067145583,
+          "x" : 0.0842402652805306,
+          "y" : 0.4049893357173143
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nous avons effectué l'audit des états financiers consolidés annuels ci-joints de ORAGROUP",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197532198268523,
+          "y" : 0.37500000004072565
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "S.A., qui comprennent l'état de la situation financière consolidée au 31 décembre 2019, l'état",
+          "width" : 0.7654321058741156,
+          "x" : 0.14197529654853913,
+          "y" : 0.35750000029884754
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980448,
+          "text" : "du résultat global consolidé l'état de variation des capitaux propres consolidés et le tableau de",
+          "width" : 0.7674896672086896,
+          "x" : 0.13991772551088147,
+          "y" : 0.34156976763996205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "flux de trésorerie consolidé pour l'exercice clos à cette date, ainsi qu'un résumé des",
+          "width" : 0.7633744725641215,
+          "x" : 0.1419753215197224,
+          "y" : 0.3270348839044971
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703885,
+          "text" : "principales méthodes comptables et d'autres informations explicatives.",
+          "width" : 0.586419735314711,
+          "x" : 0.14197532485807637,
+          "y" : 0.31249999984321597
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Ces comptes ont été arrêtés par le conseil d'administration en date du 10 juin 2020 sur la base",
+          "width" : 0.7633744725641216,
+          "x" : 0.14197532073954405,
+          "y" : 0.2804166665123903
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "des éléments disponibles à cette date dans un contexte évolutif de crise sanitaire liée au",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.2658333333267857
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012454194227854432,
+          "text" : "Covid-19.",
+          "width" : 0.07842716181053305,
+          "x" : 0.14185637891972663,
+          "y" : 0.24958685638478972
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "A notre avis, les états financiers consolidés annuels ci-joints donnent, dans tous leurs aspects",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.21791666674858223
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "significatifs, une image fidèle de la situation financière consolidée d'Oragroup S.A. au 31",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.20203488405235348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "décembre 2019 ainsi que de sa performance financière consolidée et ses flux de trésorerie",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.18750000006738043
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "consolidés pour l'exercice clos à cette date conformément aux Normes Internationales",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197530829098473,
+          "y" : 0.17151162777086892
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "d'Information Financière (IFRS) telles que publiées par l'IASB (International Accounting",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197530561608762,
+          "y" : 0.15541666662140186
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Standards Board).",
+          "width" : 0.1481481408173183,
+          "x" : 0.14197531378887168,
+          "y" : 0.139534883994214
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-002.pdf.png"
+}

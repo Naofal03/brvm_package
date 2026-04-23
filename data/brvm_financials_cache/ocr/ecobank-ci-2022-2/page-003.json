@@ -1,0 +1,597 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03865499178568521,
+          "text" : "Ecobank",
+          "width" : 0.18310519916008727,
+          "x" : 0.7513632122694709,
+          "y" : 0.9181725041349864
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497353,
+          "x" : 0.7453798811808604,
+          "y" : 0.9011627908002662
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01800897041956584,
+          "text" : "- Être une société responsable, avec une•",
+          "width" : 0.4890785531806721,
+          "x" : 0.03271598682394035,
+          "y" : 0.8530716161194927
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "empreinte sociétale positive :",
+          "width" : 0.28952772232612817,
+          "x" : 0.03490759384720289,
+          "y" : 0.8386627908837488
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011666666666666603,
+          "text" : "Ecobank Côte d'lvoire a dans le cadre du",
+          "width" : 0.45379875910998235,
+          "x" : 0.03490760763700053,
+          "y" : 0.8125000000819155
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "déploiement de son programme d'activités de",
+          "width" : 0.45379875910998235,
+          "x" : 0.034907609527828565,
+          "y" : 0.793604651494214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "RSE, mené sur l'exercice 2022 plusieurs actions",
+          "width" : 0.45379875910998235,
+          "x" : 0.034907606502503644,
+          "y" : 0.7761627910290977
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "sociales et sociétales, autour de l'inclusion",
+          "width" : 0.4558521356122092,
+          "x" : 0.03285421973667431,
+          "y" : 0.7570833333128699
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "financière, la durabilité, le financement vert,",
+          "width" : 0.4558521356122093,
+          "x" : 0.032854212070692335,
+          "y" : 0.7398255815062411
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "l'éducation et la santé. Ces actions ont ainsi",
+          "width" : 0.4558521356122093,
+          "x" : 0.032854223466995985,
+          "y" : 0.725290697756334
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575947,
+          "text" : "porté sur des signatures de conventions, notre",
+          "width" : 0.45379875910998235,
+          "x" : 0.034907609527828565,
+          "y" : 0.7049418606244582
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "intérêt pour les initiatives de la Banque Africaine",
+          "width" : 0.4579055121144361,
+          "x" : 0.030800845003698903,
+          "y" : 0.6887499999872606
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "de Développement en faveur des « banques",
+          "width" : 0.4558521356122093,
+          "x" : 0.032854223466995985,
+          "y" : 0.6686046513463575
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021444587707519558,
+          "text" : "vertes », notre participation à divers forums,",
+          "width" : 0.4622742705687758,
+          "x" : 0.030647897039033648,
+          "y" : 0.6462620160722796
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "ainsi que notre engagement contre les",
+          "width" : 0.45379875910998235,
+          "x" : 0.03490760686697996,
+          "y" : 0.6349999999417327
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "violences basées sur le genre.",
+          "width" : 0.2792607679243504,
+          "x" : 0.03490760837184245,
+          "y" : 0.6177325583740589
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "La rentabilité des fonds propres s'améliore",
+          "width" : 0.41067760094596584,
+          "x" : 0.5544147958822532,
+          "y" : 0.8502906978373092
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "de 355 points de base en comparaison à",
+          "width" : 0.4045174354939636,
+          "x" : 0.5585215646708829,
+          "y" : 0.8341666664088583
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "l'exercice 2021 et atteint 27,2%. Le",
+          "width" : 0.41067760094596584,
+          "x" : 0.5544147861115485,
+          "y" : 0.8166666668087804
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "rendement des actifs connait une hausse",
+          "width" : 0.406570847941512,
+          "x" : 0.5564681673023446,
+          "y" : 0.8008333334694411
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01308139483133941,
+          "text" : "de 30 points de base en un an et s'établit",
+          "width" : 0.406570847941512,
+          "x" : 0.5585215549614823,
+          "y" : 0.7819767443139815
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "à 2,3% à fin décembre 2022.",
+          "width" : 0.2648870605181187,
+          "x" : 0.5564681767019262,
+          "y" : 0.7616279069543149
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008895348310470563,
+          "text" : "+15% vs 2020",
+          "width" : 0.08213551839192712,
+          "x" : 0.6283367592845291,
+          "y" : 0.7311046515404191
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "99",
+          "width" : 0.020533879597981808,
+          "x" : 0.8028747438081274,
+          "y" : 0.7340116280035123
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "91",
+          "width" : 0.02874743278512404,
+          "x" : 0.7351129370639746,
+          "y" : 0.6860465118576788
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.018478649457295715,
+          "text" : "87",
+          "width" : 0.0631127329400627,
+          "x" : 0.6635855842909449,
+          "y" : 0.6561532657986726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116103490186,
+          "text" : "PERFORMANCES FINANCIERES",
+          "width" : 0.2956878877781305,
+          "x" : 0.0349075982640588,
+          "y" : 0.5770348837924636
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Evolution du compte de résultat",
+          "width" : 0.30184803525747206,
+          "x" : 0.03285421834405658,
+          "y" : 0.5362500000820722
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "Le Produit Net Bancaire de 99,2 milliards de",
+          "width" : 0.4086242244437389,
+          "x" : 0.07802874611488622,
+          "y" : 0.5070833333636569
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01749999999999996,
+          "text" : "FCFA s'est amélioré de 9,5% par rapport à",
+          "width" : 0.4086242244437389,
+          "x" : 0.0800821433992803,
+          "y" : 0.4883333332390424
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "décembre 2021. Cette progression est",
+          "width" : 0.40862422444373897,
+          "x" : 0.08008213723911621,
+          "y" : 0.47083333344767364
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "induite par la hausse conjointe de la",
+          "width" : 0.40862422444373897,
+          "x" : 0.0780287433907249,
+          "y" : 0.4562499996176195
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "marge nette d'intérêts et des revenus hors",
+          "width" : 0.4065708479415121,
+          "x" : 0.08213552465347392,
+          "y" : 0.4387500000357104
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014720204671223924,
+          "text" : "intérêts.",
+          "width" : 0.08220071421916408,
+          "x" : 0.07594276301362649,
+          "y" : 0.41996547905741943
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "Le coût du risque enregistre une baisse",
+          "width" : 0.40657084794151205,
+          "x" : 0.08008212741528103,
+          "y" : 0.39375000036995467
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "importante de 6,2 milliards de FCFA, soit",
+          "width" : 0.4127310133935144,
+          "x" : 0.07597535056710326,
+          "y" : 0.3735465115727743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593022664388,
+          "text" : "51,7%. Le niveau atteint au 31 décembre",
+          "width" : 0.4065708479415121,
+          "x" : 0.08008212797996275,
+          "y" : 0.35750000029884754
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "2022, soit 5,8 milliards de FCFA, reflète",
+          "width" : 0.4086242244437389,
+          "x" : 0.0800821423777198,
+          "y" : 0.3386627907333847
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "l'amélioration de la qualité du portefeuille,",
+          "width" : 0.4127310133935145,
+          "x" : 0.0780287489243926,
+          "y" : 0.32122092999573937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016627885500590023,
+          "text" : "les efforts de recouvrement consentis, et",
+          "width" : 0.40892497895041957,
+          "x" : 0.07994374039383444,
+          "y" : 0.3049373419078447
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "un meilleur suivi des risques de crédits.",
+          "width" : 0.3572895243254932,
+          "x" : 0.08213552977770505,
+          "y" : 0.28916666647291855
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les charges d'exploitation affichent une",
+          "width" : 0.40862422444373897,
+          "x" : 0.08008214510188116,
+          "y" : 0.26162790730816743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "hausse de 5,5% à 45,0 milliards de FCFA,",
+          "width" : 0.40657084794151205,
+          "x" : 0.08008213540149388,
+          "y" : 0.24273255831271967
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014709301789601614,
+          "text" : "principalement liée à l'augmentation de la",
+          "width" : 0.40862422444373897,
+          "x" : 0.08008214169667943,
+          "y" : 0.2252906978579854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "masse salariale.",
+          "width" : 0.15195070587984943,
+          "x" : 0.08213553254946603,
+          "y" : 0.2091666666112204
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "Le Résultat Avant Imoôt sur l'exercice 2022",
+          "width" : 0.4086242244437389,
+          "x" : 0.0800821405159812,
+          "y" : 0.1831395353604931
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01461240291595467,
+          "text" : "s'établit à 49,5 milliards de FCFA. Il est en",
+          "width" : 0.4086242244437389,
+          "x" : 0.08008213338901363,
+          "y" : 0.16416666692228088
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "hausse de 39,1% par rapport à celui de 35,6",
+          "width" : 0.40862422444373897,
+          "x" : 0.08008213683357203,
+          "y" : 0.14374999993252668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "milliards de FCFA réalisé en décembre",
+          "width" : 0.4086242244437389,
+          "x" : 0.0800821423777198,
+          "y" : 0.12916666687660983
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015308968226114938,
+          "text" : "2021.",
+          "width" : 0.04769396023699758,
+          "x" : 0.07984911903312401,
+          "y" : 0.11007807398042468
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008856588602066062,
+          "text" : "Produit Net Bancaire",
+          "width" : 0.12936344753305828,
+          "x" : 0.6817248492314173,
+          "y" : 0.5944767445394501
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008779069582621313,
+          "text" : "•2020 •2021 • 2022",
+          "width" : 0.15605749482962494,
+          "x" : 0.671457907513319,
+          "y" : 0.5712209306101865
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007500000000000062,
+          "text" : "+49% vs 2020",
+          "width" : 0.08624229835537212,
+          "x" : 0.6344969192001374,
+          "y" : 0.5158333332421767
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "30",
+          "width" : 0.020533879597981808,
+          "x" : 0.673511294030578,
+          "y" : 0.4811046513950703
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008720930417378758,
+          "text" : "45",
+          "width" : 0.01848049298613308,
+          "x" : 0.8110882954165843,
+          "y" : 0.5174418603145664
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "34",
+          "width" : 0.020533879597981808,
+          "x" : 0.7433264897013514,
+          "y" : 0.48982558179720215
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010677614212036057,
+          "text" : "Résultat Net",
+          "width" : 0.07815682958236714,
+          "x" : 0.7145150134109038,
+          "y" : 0.38056235586043097
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008779069979985565,
+          "text" : "•2020 •2021 • 2022",
+          "width" : 0.15605749482962494,
+          "x" : 0.6776180682730727,
+          "y" : 0.3574999998217271
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Evolution du bilan",
+          "width" : 0.17659136768785888,
+          "x" : 0.4989733080965224,
+          "y" : 0.3023255816879272
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "Les dépôts collectés auprès des clients ont",
+          "width" : 0.41067760094596584,
+          "x" : 0.5544147888493991,
+          "y" : 0.2745833331273373
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "augmenté de 16,7% au cours de la période",
+          "width" : 0.406570847941512,
+          "x" : 0.5564681660703118,
+          "y" : 0.2570833334824436
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "considérée, passant de 1 087,8 milliards de",
+          "width" : 0.4086242244437389,
+          "x" : 0.5564681803602659,
+          "y" : 0.2383333333687302
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "FCFA en décembre 2021 à 1 269,6 milliards",
+          "width" : 0.4086242244437389,
+          "x" : 0.5564681779988697,
+          "y" : 0.22083333344767364
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "de FCFA en décembre 2022. Cette hausse",
+          "width" : 0.4086242244437389,
+          "x" : 0.5564681793387054,
+          "y" : 0.2062499996369993
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "a été rendue possible par les nombreuses",
+          "width" : 0.4065708479415121,
+          "x" : 0.5585215616144595,
+          "y" : 0.18875000016903187
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "initiatives commerciales mises en œuvre au",
+          "width" : 0.4086242244437389,
+          "x" : 0.5564681820628667,
+          "y" : 0.17151162796466735
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197113,
+          "text" : "cours de l'année, notamment le",
+          "width" : 0.4065708479415121,
+          "x" : 0.5585215616144595,
+          "y" : 0.1511627908957761
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "développement des outils digitaux de",
+          "width" : 0.408624224443739,
+          "x" : 0.556468178657665,
+          "y" : 0.13372093041612498
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "collecte de fonds.",
+          "width" : 0.1704312022358565,
+          "x" : 0.5564681785364181,
+          "y" : 0.11625000031993793
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007267441749572834,
+          "text" : "Ecobank Côte d'lvoire",
+          "width" : 0.12320328208105583,
+          "x" : 0.04106776142353785,
+          "y" : 0.06831395347114377
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | 01 B.P 4107 | Abidjan 01 - Côte d'lvoire",
+          "width" : 0.5605749482962493,
+          "x" : 0.041067768998692473,
+          "y" : 0.058139535261349184
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.007267441749572723,
+          "text" : "Tel : (225) 27 20 31 92 00 | Fax : (225) 27 20 21 88 16 | Swift : ECOCCIAB | Web : ww.ecobank.com",
+          "width" : 0.5195071666344597,
+          "x" : 0.04106777841274947,
+          "y" : 0.049418604761114815
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "Société Anonyme avec Conseil d'Administration au Capital F CFA 27 525 300 000 * R CCM CI - ABJ - 1988 - B - 130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.827515367343934,
+          "x" : 0.041067764548430384,
+          "y" : 0.0275000000289769
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2022-2\/page-003.pdf.png"
+}

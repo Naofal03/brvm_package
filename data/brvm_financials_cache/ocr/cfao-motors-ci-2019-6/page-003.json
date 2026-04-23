@@ -1,0 +1,373 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "- REGLES ET METHODES COMPTABLES UTILISEES POUR LA PRESENTATION DU TABLEAU D'ACTIVITE.",
+          "width" : 0.6981519647425279,
+          "x" : 0.11498971732072806,
+          "y" : 0.8924418604099835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "TRIMESTRIEL",
+          "width" : 0.0965092347844891,
+          "x" : 0.11498973659475063,
+          "y" : 0.8822674419181558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Les informations présentées dans ce tableau d'activité sont conformes aux prescriptions du SYSCOHADA Révisé.",
+          "width" : 0.6878849743954285,
+          "x" : 0.1170431505504032,
+          "y" : 0.8648255813561403
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014670542081197113,
+          "text" : "I- COMMENTAIRES DE LA DIRECTION DE LA SOCIETE",
+          "width" : 0.3696098552294979,
+          "x" : 0.11498973723124688,
+          "y" : 0.8341666669648873
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014738372166951508,
+          "text" : "- Sur l'évolution de l'activité 2019",
+          "width" : 0.23819302220788247,
+          "x" : 0.24024640333822167,
+          "y" : 0.8137499999363035
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01810151259104409,
+          "text" : "Le marché de la distribution automobile a connu une hausse de 18% en 2019 vs 2018( 13 384 unités vendues en 2019 vs 11",
+          "width" : 0.7600116347817285,
+          "x" : 0.11487053012262442,
+          "y" : 0.7887986621053911
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197224,
+          "text" : "376 unités en 2018.). CFAO MOTORS Cl garde sa place de leader avec 39,4% du marché global",
+          "width" : 0.5790554446522562,
+          "x" : 0.11498973629810169,
+          "y" : 0.7761627908570163
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734705,
+          "text" : "CFAO MOTORS Cl a vendu 5 275 Véhicules en 2019 contre 4 644 véhicules en 2018. La plus forte progression provient de la",
+          "width" : 0.7618069598194567,
+          "x" : 0.11498975343216049,
+          "y" : 0.7470833331112352
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "marque SUZUKi avec une augmentation de 326 unités par rapport à 2018 Les autres marques progressent également : TOYOTA",
+          "width" : 0.7823408686230123,
+          "x" : 0.11498973778294955,
+          "y" : 0.7340116278845474
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "+ 176, PSA (PEUGEOT\/CITROEN ) + 107, MITSUBISHI +36.",
+          "width" : 0.36139627732994706,
+          "x" : 0.1149897486724665,
+          "y" : 0.7223837209709582
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017318178812662732,
+          "text" : "Les parts de marché par marque sont les suivantes: TOYOTA 15,3% ; SUZUKI 8,9% ; MITSUBISHI 8,1% et PSA (",
+          "width" : 0.6717406363874779,
+          "x" : 0.11483996989095135,
+          "y" : 0.7073493412690278
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "PEUGEOT\/CITROEN ) 4,5%",
+          "width" : 0.1663244312587419,
+          "x" : 0.11293634866221013,
+          "y" : 0.6974999999842113
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015121339162190717,
+          "text" : "Le secteur de l'après-vente, axe stratégique important, maintient son niveau d'activité comparable à celui de 2018 (ventes de",
+          "width" : 0.7701657568186838,
+          "x" : 0.11491315029807617,
+          "y" : 0.6698477985663496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "pièces détachées à + 2.83% et 0,84% pour notre activité Atelier )",
+          "width" : 0.3983572700419612,
+          "x" : 0.11498974608784897,
+          "y" : 0.6583333333120303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Les activités 2 roues marines ont connu une hausse au titre de l'année 2019.",
+          "width" : 0.4722792554659894,
+          "x" : 0.11498974162018798,
+          "y" : 0.6408333334999854
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017410645484924325,
+          "text" : "Ont été vendues en 2019, 2 139 unités (Motos + Hors Board ) contre 1 793 unités en 2018, soit + 19.3%",
+          "width" : 0.6429371468731596,
+          "x" : 0.11281286259980058,
+          "y" : 0.6240002776307456
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "Le retrait du résultat net 2019 vs 2018 ( -1 233 826 476 FCFA) s'explique principalement par 2 éléments non comparables :",
+          "width" : 0.7577002068150029,
+          "x" : 0.11293634964324652,
+          "y" : 0.6090116279011588
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.022343460718790675,
+          "text" : "- La constatation d'une plus value sur réinvestissement pour 472 721 kFCFA contre 1 028 000 kFCFA l'an passé",
+          "width" : 0.6780059778507804,
+          "x" : 0.1127794661543186,
+          "y" : 0.5897730118444382
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "- La sortie de l'activité Ascensorie l'an passé en Juin 2018, soit 6 mois d'activité l'an passé contre 0 en 2019",
+          "width" : 0.6570841471354166,
+          "x" : 0.11088296955344172,
+          "y" : 0.575416666334303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "A cela sajoute une pression sur les marges en 2019, dans un contexte de forte concurrence.",
+          "width" : 0.5667351137482516,
+          "x" : 0.11498973973778367,
+          "y" : 0.5595833334069481
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "- Sur l'évolution prévisible et perspectives d'avenir",
+          "width" : 0.3552361118779447,
+          "x" : 0.17864477181599028,
+          "y" : 0.5216666665143213
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01844851096471145,
+          "text" : "Le 1er trimestre 2020 a connu un niveau d'activité soutenu dans la poursuite de 2019. Cependant, depuis mars, cette",
+          "width" : 0.7210362662415343,
+          "x" : 0.11280252684788561,
+          "y" : 0.49314580399524854
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013875484466552734,
+          "text" : "dynamique a été stoppée suite à l'arrivée du Covid19.",
+          "width" : 0.3309180952775324,
+          "x" : 0.11483355016844345,
+          "y" : 0.4825131918258546
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Nos objectifs 2020 sont les suivants :",
+          "width" : 0.22997946228099236,
+          "x" : 0.11293635072124225,
+          "y" : 0.4694767441952876
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015041063626607287,
+          "text" : "- Développer notre réseau de distribution,",
+          "width" : 0.26332764462672076,
+          "x" : 0.11070040547181141,
+          "y" : 0.45049675816611623
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "- Accompagner TOYOTA pour redevenir leader du marché,",
+          "width" : 0.35934290082772014,
+          "x" : 0.11293635605431236,
+          "y" : 0.43313953515700465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013746175765991242,
+          "text" : "- Poursuivre le développement de Suzuki et les ventes de véhicules d'occasion",
+          "width" : 0.4827126007619258,
+          "x" : 0.11080813139893307,
+          "y" : 0.4184527205583587
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894798,
+          "text" : "- Maintenir Mitsubishi à un niveau élevé,",
+          "width" : 0.2546201061163409,
+          "x" : 0.11088296117865379,
+          "y" : 0.3995833334327402
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "- Relancer Peugeot et Citroën en profitant de l'arrivée de nouveaux produits,",
+          "width" : 0.47433263196821623,
+          "x" : 0.11088297316715783,
+          "y" : 0.37790697661283035
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "- Développer les activités Equipment (poids lourds, bus, chariots élévateurs, engins de travaux publics, pneumatiques, etc...),",
+          "width" : 0.767967125271459,
+          "x" : 0.11909650990020502,
+          "y" : 0.35750000031450846
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013529270490010514,
+          "text" : "- Renforcer la part du service après-vente,",
+          "width" : 0.26108922160837195,
+          "x" : 0.11074382147162291,
+          "y" : 0.3414982224887151
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019196111361185708,
+          "text" : "- Assurer une croissance rentable et durable via des programmes d'amélioration continue de la qualité (plans Kaizen),",
+          "width" : 0.723122460822475,
+          "x" : 0.10869613008256984,
+          "y" : 0.31824224247163946
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "- Améliorer l'efficacité de notre communication en augmentant la part du digital,",
+          "width" : 0.49897329377622573,
+          "x" : 0.10882956988806786,
+          "y" : 0.30083333339667384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "- Rendre notre entreprise encore plus attractive pour attirer et retenir les meilleurs talents.",
+          "width" : 0.564681701300703,
+          "x" : 0.10882958761966889,
+          "y" : 0.2819767442606017
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "- Accroître notre chiffre d'affaires de 9% avec des conséquences économiques du COVID19 qui pourraient nous amener à revoir",
+          "width" : 0.7864476216274662,
+          "x" : 0.10882956941213974,
+          "y" : 0.26453488366943134
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "les prévisions 2020",
+          "width" : 0.12114989659249852,
+          "x" : 0.10882956713838461,
+          "y" : 0.2570833331797341
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "III-AUTRES INFORMATIONS",
+          "width" : 0.19507186404386592,
+          "x" : 0.10882957300886784,
+          "y" : 0.21791666674858223
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019227182070414295,
+          "text" : "Depuis la clôture des comptes au 31 décembre 2019, est survenue la crise sanitaire du coronavirus.",
+          "width" : 0.6122823295099015,
+          "x" : 0.10865262552233712,
+          "y" : 0.19515306981301284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0187422053019205,
+          "text" : "A la date d'arrêté des états financiers clos au 31 décembre 2019 par le Conseil d'Administration, la Direction de l'entité n'a pas",
+          "width" : 0.7784559701441033,
+          "x" : 0.10871814451720159,
+          "y" : 0.17807365023018107
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "connaissance d'incertitude significative qui remettrait en cause la capacité de l'entité à poursuivre son exploitation.",
+          "width" : 0.708418883198984,
+          "x" : 0.10882957783435943,
+          "y" : 0.1656976744127867
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01756782929102574,
+          "text" : "Les états financiers de l'entité ont donc été établis en retenant la convention comptable de continuité d'exploitation.",
+          "width" : 0.7227926265505373,
+          "x" : 0.10677617855224658,
+          "y" : 0.14958333365542276
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02088773886362716,
+          "text" : "Les activités ont commencé à être impactées par la crise sanitaire du COVID-19 au premier trimestre 2020.",
+          "width" : 0.6574510769793508,
+          "x" : 0.10663015837733474,
+          "y" : 0.12702119221616992
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "La société, compte tenu du caractère récent de l'épidémie, n'est toutefois pas en capacité d'en apprécier l'impact chiffré",
+          "width" : 0.7433264634634497,
+          "x" : 0.10472279593767989,
+          "y" : 0.11625000029571286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017178273200988747,
+          "text" : "Néanmoins, à ce stade cet évènement ne remet pas en cause l'évaluation des actifs qu'ils lui sont dédiés.",
+          "width" : 0.6449819324434996,
+          "x" : 0.10872449659069723,
+          "y" : 0.08491434917626972
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "3\/4",
+          "width" : 0.01848049298613319,
+          "x" : 0.8788501027369129,
+          "y" : 0.04505813975254325
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/cfao-motors-ci-2019-6\/page-003.pdf.png"
+}

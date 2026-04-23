@@ -1,0 +1,349 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875356093,
+          "text" : "Etats Financiers Annuels IFRS pour l'exercice clos 10",
+          "width" : 0.36755647872727104,
+          "x" : 0.5564681702701768,
+          "y" : 0.933139534883094
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "le 31 décembre 2019",
+          "width" : 0.13141683302161544,
+          "x" : 0.7494866550497673,
+          "y" : 0.9258333331787435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.021831395626068173,
+          "text" : "V NOTES EXPLICATIVES ANNEXEES AUX ETATS FINANCIERS CLOS AU",
+          "width" : 0.7659137128239104,
+          "x" : 0.11909652553534131,
+          "y" : 0.8619186046358153
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023639399210611978,
+          "text" : "31\/12\/2019",
+          "width" : 0.12382761637369794,
+          "x" : 0.11673095655179885,
+          "y" : 0.8333837888318425
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016017441749572647,
+          "text" : "Les états financiers couvrent une période de 12 mois et sont présentés en millions de franc CFA (sauf mention",
+          "width" : 0.7638603722670053,
+          "x" : 0.12114990145816637,
+          "y" : 0.8037500001997668
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.020532944997151636,
+          "text" : "contraire). Ces états financiers clos au 31\/12\/2019 sont présenté en comparaison avec l'exercice comptable 2018. Ces",
+          "width" : 0.7679671252714589,
+          "x" : 0.11704313808295615,
+          "y" : 0.784883721498788
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "comptes établis dans un contexte particulier de première application des normes IFRS ont été arrêtés par le Conseil",
+          "width" : 0.7679671252714589,
+          "x" : 0.11704312500971889,
+          "y" : 0.7674418603433654
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "d'Administration du 26 mai 2021.",
+          "width" : 0.20944558942275843,
+          "x" : 0.11704311730094115,
+          "y" : 0.7500000000382179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "NOTE 1: DECLARATIDN DE CONFORMITE ET PREMIERE APPLICATION DES NORMES IFRS.",
+          "width" : 0.6776180559389723,
+          "x" : 0.14784395428337382,
+          "y" : 0.7194767446584801
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "1- Déclaration de conformité aux IFRS",
+          "width" : 0.3039014477050206,
+          "x" : 0.14784393923783873,
+          "y" : 0.6887499997490816
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017538758913675845,
+          "text" : "L'Acte uniforme relatif au droit comptable et à l'information financière adopté le 26 janvier 2017 fait obligation aux",
+          "width" : 0.7659137128239105,
+          "x" : 0.11909653632418424,
+          "y" : 0.6583333332816487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0175968980789184,
+          "text" : "Sociétés dont les titres sont cotés à la bourse de valeur, d'établir et de présenter leurs états financiers individuels selon",
+          "width" : 0.767967125271459,
+          "x" : 0.11704313084476325,
+          "y" : 0.6408333336512899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "les normes comptables internationales IFRS, et ce à compter du Ol janvier 2019. En application de cette disposition",
+          "width" : 0.767967125271459,
+          "x" : 0.11704313459219651,
+          "y" : 0.6220833331632334
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017635658582051628,
+          "text" : "SERVAIR ABIDJAN établit et présente ses états financiers individuels au titre de l'exercice clos au 31\/12\/2019",
+          "width" : 0.7659137128239105,
+          "x" : 0.11704313914759315,
+          "y" : 0.6031976748104894
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "et déclare que ceux-ci sont conformes aux normes comptables internationales IFRS en vigueur telles",
+          "width" : 0.767967125271459,
+          "x" : 0.11704312180985588,
+          "y" : 0.5857558138256812
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "qu'adoptées par l'IASB.",
+          "width" : 0.16427103678385416,
+          "x" : 0.11704312842532136,
+          "y" : 0.5666666665554608
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Un jeu complet d'états financiers selon l'IAS I comprend :",
+          "width" : 0.36755647872727104,
+          "x" : 0.12114988942779895,
+          "y" : 0.539166666540828
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "(a) un état de la situation financière à la fin de la période :",
+          "width" : 0.37577002068150034,
+          "x" : 0.1457905577547323,
+          "y" : 0.5116279067399254
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957287,
+          "text" : "(b) un compte de résultat global de la période :",
+          "width" : 0.3080082007094744,
+          "x" : 0.14579055939885627,
+          "y" : 0.49125000034771116
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "(c) un état des variations des capitaux propres de la période :",
+          "width" : 0.40041068248950973,
+          "x" : 0.1457905479749578,
+          "y" : 0.470833333574854
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014699612458547007,
+          "text" : "(d) un tableau des flux de trésorerie de la période :",
+          "width" : 0.3305954860152569,
+          "x" : 0.14579054937430178,
+          "y" : 0.4504166664421886
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "(e) des notes, contenant un résumé des principales méthodes comptables et d'autres informations explicatives;",
+          "width" : 0.7145790486509864,
+          "x" : 0.14579055647532815,
+          "y" : 0.4287499999480019
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "(f) un état de la situation financière au début de la période précédente lorsque l'entité applique une méthode",
+          "width" : 0.731006132559445,
+          "x" : 0.1498973517079571,
+          "y" : 0.40833333372020286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187796,
+          "text" : "comptable de façon rétrospective ou effectue un retraitement rétrospectif d'éléments de ses états financiers, ou",
+          "width" : 0.7371662980114473,
+          "x" : 0.14784394834540585,
+          "y" : 0.3895348834489003
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734816,
+          "text" : "lorsqu'elle procède à un reclassement d'éléments dans ses états financiers.",
+          "width" : 0.48870633937444785,
+          "x" : 0.14579056137027113,
+          "y" : 0.37208333307489794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "2- Première application des IFRS (IFRS 1)",
+          "width" : 0.33470223901971075,
+          "x" : 0.1478439565425059,
+          "y" : 0.3386627912142317
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "a- Application cohérente de la dernière version des IFRS",
+          "width" : 0.4045174354939636,
+          "x" : 0.14579055851071857,
+          "y" : 0.31104651150009976
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01760658899943035,
+          "text" : "La norme IFRS I qui traite de la première application des normes IFRS précise que toute entité qui adopte les narmes",
+          "width" : 0.7679671252714592,
+          "x" : 0.11704312478726855,
+          "y" : 0.2819767445779312
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01754844903945929,
+          "text" : "internationales pour la première fois doit appliquer l'ensemble des normes et des interprétations de l'IASB au bilan",
+          "width" : 0.7679671252714589,
+          "x" : 0.11704313043408562,
+          "y" : 0.2645348845488614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734816,
+          "text" : "d'ouverture et aux périodes comparatives présentées en IFRS, de manière rétrospective, dans leur version la plus",
+          "width" : 0.7659137128239105,
+          "x" : 0.11704313720543022,
+          "y" : 0.24708333303250452
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018931282361348445,
+          "text" : "récente, c'est-à-dire leur version en vigueur à la date de clôture des premiers états financiers IFRS. Les premiers états",
+          "width" : 0.7680792746751693,
+          "x" : 0.11698787514938155,
+          "y" : 0.2268885746999526
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017577518622080457,
+          "text" : "financiers d'une entité adoptant pour la première fois les IFRS daivent comprendre au moins trois états de situation",
+          "width" : 0.767967125271459,
+          "x" : 0.11704312735400368,
+          "y" : 0.20916666659649996
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "financière, deux états de résultat global, deux tableaux des flux de trésorerie et deux états des variations des capitaux",
+          "width" : 0.7679671252714592,
+          "x" : 0.11704312832936296,
+          "y" : 0.19166666637740848
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015998062292734816,
+          "text" : "propres ainsi que les notes annexes pour tous les états présentés. La date de première application des normes IFRS",
+          "width" : 0.7659137128239105,
+          "x" : 0.11704313720543022,
+          "y" : 0.1744186045051871
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "étant fixée au 01\/01\/2019, SERVAIR ABIOJAN présente d'une part un état de situation d'ouverture à la date de transition",
+          "width" : 0.7679671252714592,
+          "x" : 0.11704313780917106,
+          "y" : 0.15541666683812105
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "du 0l\/01\/2018, un état de situation comparatif au 31\/12\/2018, un état de situation de clôture IFRS AU 31\/12\/2019 et",
+          "width" : 0.7679671252714592,
+          "x" : 0.11704313780917106,
+          "y" : 0.13791666641303357
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016007751623789535,
+          "text" : "d'autre part présente les autres états au 31\/12\/2019 avec une période comparative au 31\/12\/2018. Les ajustements qui",
+          "width" : 0.7679671252714589,
+          "x" : 0.11704312500971889,
+          "y" : 0.11916666695726386
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "résultent du passage du référentiel comptable antérieur aux IFRS sont comptabilisés dans les capitaux propres",
+          "width" : 0.767967125271459,
+          "x" : 0.11704313908911633,
+          "y" : 0.10166666663634316
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "d'ouverture, à la date de transition, soit au Ol janvier 2018.",
+          "width" : 0.3778233971837272,
+          "x" : 0.11704313001867707,
+          "y" : 0.082848837257125
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "SERVAIR",
+          "width" : 0.12320328208105591,
+          "x" : 0.7946611936617307,
+          "y" : 0.06686046541136492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010379859606424957,
+          "text" : "ABIDJAN",
+          "width" : 0.07397796576941396,
+          "x" : 0.8295407900104453,
+          "y" : 0.05512983761784884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.007499999999999951,
+          "text" : "a gategroup member",
+          "width" : 0.10266940023649151,
+          "x" : 0.8090349114491737,
+          "y" : 0.0391666667578231
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2019-11\/page-010.pdf.png"
+}

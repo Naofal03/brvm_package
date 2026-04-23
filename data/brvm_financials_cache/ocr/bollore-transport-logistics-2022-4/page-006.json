@@ -1,0 +1,333 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.039244184494018564,
+          "text" : "KPMG",
+          "width" : 0.13347022749650322,
+          "x" : 0.08829568774045475,
+          "y" : 0.8531976752311884
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Africa Global Logistics Côte d'lvoire (AGL Cl) S.A.",
+          "width" : 0.3470225699237154,
+          "x" : 0.23613963472500077,
+          "y" : 0.8808139536562779
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "(Ex Bolloré Transport & Logistics Côte d'Ivoire S.A. (BTLC\/ S.A.))",
+          "width" : 0.4496919701602069,
+          "x" : 0.23613964570018398,
+          "y" : 0.8677325584709581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers annuels",
+          "width" : 0.4558521356122092,
+          "x" : 0.23819302300498385,
+          "y" : 0.8545833335378898
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817828893661561,
+          "text" : "Exercice clos le 31 décembre 2022",
+          "width" : 0.22176590235410226,
+          "x" : 0.24229979759091613,
+          "y" : 0.8458333335194077
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310621,
+          "text" : "ECR International",
+          "width" : 0.19301846956897828,
+          "x" : 0.6919917899793714,
+          "y" : 0.8808139538777492
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Responsabilités des commissaires aux comptes relatives à l'audit des",
+          "width" : 0.644763816231412,
+          "x" : 0.23819304515504786,
+          "y" : 0.7920833335353822
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734496355056745,
+          "text" : "états financiers annuels",
+          "width" : 0.2176591313769876,
+          "x" : 0.23819301891109557,
+          "y" : 0.7804166665717487
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017645349502563468,
+          "text" : "Nos objectifs sont d'obtenir l'assurance raisonnable que les états financiers annuels",
+          "width" : 0.6468172286789606,
+          "x" : 0.2361396421081583,
+          "y" : 0.7311046508035515
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "pris dans leur ensemble ne comportent pas d'anomalies significatives, que celles-ci",
+          "width" : 0.6468172286789605,
+          "x" : 0.236139641897686,
+          "y" : 0.719476744348937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "proviennent de fraudes ou résultent d'erreurs, et d'émettre un rapport d'audil",
+          "width" : 0.6427104756745068,
+          "x" : 0.23819301865658643,
+          "y" : 0.7049418606280068
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "contenant notre opinion. L'assurance raisonnable correspond à un niveau élevé",
+          "width" : 0.6427104756745069,
+          "x" : 0.23819300874898908,
+          "y" : 0.6904069765800417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "d'assurance, qui ne garantit toutefois pas qu'un audit réalisé conformément aux",
+          "width" : 0.6468172286789605,
+          "x" : 0.23819303299111516,
+          "y" : 0.675833333192323
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "normes « ISA » permettra de toujours détecter toute anomalie significative existante.",
+          "width" : 0.6509239816834143,
+          "x" : 0.23613965729313185,
+          "y" : 0.6612499997348815
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016768821080525798,
+          "text" : "Les anomalies peuvent provenir de fraudes ou résulter d'erreurs et sont considérées",
+          "width" : 0.6469988244441991,
+          "x" : 0.23604956433402868,
+          "y" : 0.6448935341680864
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "comme significatives lorsqu'il est raisonnable de s'attendre à ce que, prises",
+          "width" : 0.6468172286789606,
+          "x" : 0.2361396321954275,
+          "y" : 0.6320833336121315
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "individuellement ou en cumulé, elles puissent influencer les décisions économiques",
+          "width" : 0.6488706411265093,
+          "x" : 0.23613963891655337,
+          "y" : 0.6177325584709581
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "que les utilisateurs des états financiers annuels prennent en se fondant sur ceux-ci.",
+          "width" : 0.6468172286789606,
+          "x" : 0.23819303915127904,
+          "y" : 0.6031976747015783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "Nos responsabilités pour l'audit des états financiers annuels sont décrites de façon",
+          "width" : 0.6488706411265092,
+          "x" : 0.2361396362129259,
+          "y" : 0.579941860648683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "plus détaillée dans l'annexe 1du présent rapport du commissaire aux comptes.",
+          "width" : 0.6098562359669464,
+          "x" : 0.23819303953706053,
+          "y" : 0.5666666668511737
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "2",
+          "width" : 0.02874743278512404,
+          "x" : 0.1909650930016885,
+          "y" : 0.49854651184781096
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017441859245300395,
+          "text" : "Vérifications spécifiques prévues par la loi et autres",
+          "width" : 0.6591375595829652,
+          "x" : 0.22381930231837383,
+          "y" : 0.4956395354936288
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "informations",
+          "width" : 0.13963038396217517,
+          "x" : 0.2340862436965305,
+          "y" : 0.47965116295358823
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "La responsabilité des autres informations incombe au conseil d'administration.",
+          "width" : 0.6488706411265092,
+          "x" : 0.23613961728753294,
+          "y" : 0.43604651186243093
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705102920577,
+          "text" : "Les autres informations se composent des informations contenues dans le rapport",
+          "width" : 0.6468172286789606,
+          "x" : 0.23819303915127904,
+          "y" : 0.4215116280615666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "de gestion et notre rapport du commissaire aux comptes sur ces états financiers",
+          "width" : 0.6488706411265092,
+          "x" : 0.23408623821497962,
+          "y" : 0.4069767446083128
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "annuels, et le rapport complémentaire du président du conseil d'administration.",
+          "width" : 0.6160164014189486,
+          "x" : 0.23613965093323594,
+          "y" : 0.3908333334066346
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Notre opinion sur les états financiers annuels ne s'étend pas aux autres informations",
+          "width" : 0.6488706411265092,
+          "x" : 0.2361396335092983,
+          "y" : 0.36916666644362817
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "et nous n'exprimons aucune forme d'assurance que ce soit sur ces informations.",
+          "width" : 0.6283367323229535,
+          "x" : 0.23613964833544301,
+          "y" : 0.35458333340466097
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435906,
+          "text" : "Dans le cadre de notre mandat de commissariat aux comptes, notre responsabilité",
+          "width" : 0.6488706411265092,
+          "x" : 0.2361396335092983,
+          "y" : 0.3328488373928692
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "est, d'une part, de faire les vérifications spécifiques prévues par la loi, et ce faisant,",
+          "width" : 0.6488706411265092,
+          "x" : 0.23613963459074938,
+          "y" : 0.3166666665808968
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "à vérifier la sincérité et la concordance avec les états financiers annuels des",
+          "width" : 0.6468172286789604,
+          "x" : 0.23819303305956138,
+          "y" : 0.30666666686046506
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "informations données dans le rapport de gestion du conseil d'administration, et dans",
+          "width" : 0.6509239816834143,
+          "x" : 0.23408625292968263,
+          "y" : 0.289166666515312
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666663,
+          "text" : "les documents adressés aux actionnaires sur la situation financière et les états",
+          "width" : 0.6509239816834143,
+          "x" : 0.23408625292968263,
+          "y" : 0.2775000000289769
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "financiers annuels , et à vérifier, dans tous leurs aspects significatifs, le respect de",
+          "width" : 0.6468172286789605,
+          "x" : 0.23819303483916432,
+          "y" : 0.2599999998508896
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "certaines obligations légales et réglementaires. D'autre part, notre responsabilité",
+          "width" : 0.6468172286789604,
+          "x" : 0.2381930219028196,
+          "y" : 0.2456395350697954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "consiste également à lire les autres informations et, par conséquent, à apprécier s'il",
+          "width" : 0.6468172286789606,
+          "x" : 0.23819303887749393,
+          "y" : 0.23110465151593118
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "existe une incohérence significative entre celles-ci et les états financiers ou la",
+          "width" : 0.6468172286789605,
+          "x" : 0.23819303327345595,
+          "y" : 0.21656976786412674
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "connaissance que nous avons acquise lors de l'audit, ou encore si les autres",
+          "width" : 0.6468172286789605,
+          "x" : 0.23819303483916432,
+          "y" : 0.20203488405235348
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "informations semblent comporter une anomalie significative.",
+          "width" : 0.4702258430184408,
+          "x" : 0.23613965110371576,
+          "y" : 0.18750000000924105
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2022-4\/page-006.pdf.png"
+}

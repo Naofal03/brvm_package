@@ -1,0 +1,141 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.039244184494018564,
+          "text" : "KPMG",
+          "width" : 0.1314168330216155,
+          "x" : 0.09034907769863787,
+          "y" : 0.8531976751294442
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "Africa Global Logistics Côte d'Ivoire (AGL Cl) S.A.",
+          "width" : 0.34291581691926165,
+          "x" : 0.24024639936891143,
+          "y" : 0.8791666666124743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01751938025156663,
+          "text" : "ECR International",
+          "width" : 0.19301846956897817,
+          "x" : 0.6960985664817669,
+          "y" : 0.8808139532551018
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01601744174957276,
+          "text" : "(Ex Bolloré Transport & Logistics Côte d'Ivoire S.A. (BTLC| S.A.))",
+          "width" : 0.4496919701602069,
+          "x" : 0.23819303491476299,
+          "y" : 0.8662500002023623
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers annuels",
+          "width" : 0.4558521356122092,
+          "x" : 0.2422998048496106,
+          "y" : 0.8531976742484041
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "Exercice clos le 31 décembre 2022",
+          "width" : 0.22587269130387772,
+          "x" : 0.24229979654518635,
+          "y" : 0.8444767443406364
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019369530677795455,
+          "text" : "Si à la lumière des travaux que nous avons effectués lors de nos vérifications",
+          "width" : 0.6470416712676679,
+          "x" : 0.23810379068813264,
+          "y" : 0.7909748530624594
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01755813995997113,
+          "text" : "spécifiques ou sur les autres informations, nous concluons à la présence d'une",
+          "width" : 0.6468172286789606,
+          "x" : 0.2381930229808484,
+          "y" : 0.777499999662834
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "anomalie significative, nous sommes tenus de signaler ce fait.",
+          "width" : 0.48049279742021866,
+          "x" : 0.23819302634122533,
+          "y" : 0.7629166662929505
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016017441749572647,
+          "text" : "Nous n'avons rien à signaler à cet égard.",
+          "width" : 0.3203285316134791,
+          "x" : 0.24024641409939132,
+          "y" : 0.7412500001997668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "Les commissaires aux comptes",
+          "width" : 0.24640656416211168,
+          "x" : 0.24024641401750665,
+          "y" : 0.7004166668444907
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "Abidjan, le 21 septembre 2023",
+          "width" : 0.24024639871010933,
+          "x" : 0.23819302136363119,
+          "y" : 0.6612499997252768
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652133,
+          "text" : "KPMG Côte d'lvoire",
+          "width" : 0.1581108713318518,
+          "x" : 0.23819302587411517,
+          "y" : 0.6045833331696882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "ECR International",
+          "width" : 0.1437371639256202,
+          "x" : 0.6694045200905779,
+          "y" : 0.6045833334337308
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.04337318738301599,
+          "text" : "Gopnges Hegri det",
+          "width" : 0.26467970992988077,
+          "x" : 0.6519200187472598,
+          "y" : 0.4851068787137359
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Associé",
+          "width" : 0.0616016410405279,
+          "x" : 0.6673511295824055,
+          "y" : 0.47674418612833425
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2022-4\/page-007.pdf.png"
+}

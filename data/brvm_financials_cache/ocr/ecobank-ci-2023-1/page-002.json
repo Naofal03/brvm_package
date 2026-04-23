@@ -1,0 +1,589 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03695453961690276,
+          "text" : "Ecobank",
+          "width" : 0.18709649579123422,
+          "x" : 0.7349938473415824,
+          "y" : 0.9473657536770557
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.18069813866497342,
+          "x" : 0.7330595539392449,
+          "y" : 0.9302325579549775
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "FAITS MARQUANTS",
+          "width" : 0.16632443125874188,
+          "x" : 0.07186858657802123,
+          "y" : 0.8648255817388845
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "PERFORMANCES FINANCIERES",
+          "width" : 0.25872689506611635,
+          "x" : 0.5359342911527735,
+          "y" : 0.8662500001359221
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014602713584899951,
+          "text" : "Les 10 et 11 mai 2023, lors de la 4ème édition des",
+          "width" : 0.4065708119961904,
+          "x" : 0.06981520940231555,
+          "y" : 0.8183139533570164
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013091084957122745,
+          "text" : "BRVM Awards à Lomé, Ecobank Côte d'Ivoire a reçu le",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981518797996272,
+          "y" : 0.802325581610493
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "prix de la société cotée de l'année, témoignant de son",
+          "width" : 0.40657084794151205,
+          "x" : 0.06981519611137942,
+          "y" : 0.7848837212616558
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "engagement et de sa contribution au dynamisme du",
+          "width" : 0.40657084794151205,
+          "x" : 0.06981519611137942,
+          "y" : 0.768750000196755
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01183139522870369,
+          "text" : "marché financier régional de l'UEMOA.",
+          "width" : 0.2956878698054697,
+          "x" : 0.06981520760239845,
+          "y" : 0.7512500001108924
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Le 19 mai 2023, Ecobank Côte d'lvoire a exposé devant",
+          "width" : 0.40862422444373897,
+          "x" : 0.06981519570934204,
+          "y" : 0.7237499998549646
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "plus de 150 acteurs du marché financier, les principaux",
+          "width" : 0.40657084794151205,
+          "x" : 0.06981519611137942,
+          "y" : 0.7078488372766829
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "éléments de sa stratégie, réaffirmant sa volonté de",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981519200460332,
+          "y" : 0.688749999832222
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "réduction de l'asymétrie d'information entre lesdits",
+          "width" : 0.41067760094596584,
+          "x" : 0.06776180869881746,
+          "y" : 0.6715116281415008
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01421166419982911,
+          "text" : "acteurs et de transparence en matière de",
+          "width" : 0.40678163130797257,
+          "x" : 0.06971470025685032,
+          "y" : 0.6544898014118967
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "communication financière.",
+          "width" : 0.20328540599809516,
+          "x" : 0.06981520593319049,
+          "y" : 0.639534883853803
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "Le 14 juillet 2023, le lancement du nouveau modèle",
+          "width" : 0.40657084794151205,
+          "x" : 0.06981519085470599,
+          "y" : 0.6104166665728168
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "d'agence axée sur le digital a marqué une étape",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981518797996272,
+          "y" : 0.594476744137148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011715116500854439,
+          "text" : "importante dans la transformation de la banque. En",
+          "width" : 0.40862422444373897,
+          "x" : 0.06776180464158034,
+          "y" : 0.5770348836938342
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "adoptant les dernières technologies numériques,",
+          "width" : 0.4086242244437389,
+          "x" : 0.06981520465013577,
+          "y" : 0.5595833331392717
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "Ecobank Côte d'lvoire a amélioré l'accessibilité et",
+          "width" : 0.4086242244437389,
+          "x" : 0.06981520465013577,
+          "y" : 0.5436046512204814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333197,
+          "text" : "l'efficacité de ses services bancaires, répondant ainsi",
+          "width" : 0.41067760094596584,
+          "x" : 0.06776181040997409,
+          "y" : 0.5245833333151648
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011695736646652355,
+          "text" : "aux besoins changeants des clients et renforçant sa",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981518797996272,
+          "y" : 0.5087209301545899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "compétitivité sur le marché.",
+          "width" : 0.213552360399873,
+          "x" : 0.06981519823948848,
+          "y" : 0.4912500001940615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le 28 juillet 2023, la réception du prix WELA de",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981518865758073,
+          "y" : 0.46366279089586127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "l'innovation en entrepreneuriat féminin a mis en",
+          "width" : 0.4086242244437389,
+          "x" : 0.0677618056631408,
+          "y" : 0.4474999998679323
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "lumière l'engagement d'Ecobank Côte d'lvoire en",
+          "width" : 0.40862422444373897,
+          "x" : 0.06776180464158034,
+          "y" : 0.43023255811243866
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663552,
+          "text" : "faveur de l'autonomisation des femmes au travers de",
+          "width" : 0.4065708119961904,
+          "x" : 0.06981521672606612,
+          "y" : 0.4127906974898612
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011734495957692381,
+          "text" : "son programme « Ellever ». En soutenant",
+          "width" : 0.4086242244437389,
+          "x" : 0.06981520124493404,
+          "y" : 0.39534883729121784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'entrepreneuriat féminin et en",
+          "width" : 0.29979465875524514,
+          "x" : 0.06776180333969452,
+          "y" : 0.37790697722095823
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "reconnaissant",
+          "width" : 0.11293634565193889,
+          "x" : 0.36550307785849334,
+          "y" : 0.3793604652007021
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "l'innovation des femmes dans le domaine des affaires,",
+          "width" : 0.41067760094596584,
+          "x" : 0.06776182231962463,
+          "y" : 0.359011627775621
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "la banque a contribué à promouvoir l'inclusion",
+          "width" : 0.4127309774481927,
+          "x" : 0.06570844012600607,
+          "y" : 0.34291666670013243
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "financière et à stimuler la croissance économique",
+          "width" : 0.40862422444373897,
+          "x" : 0.06776181230328449,
+          "y" : 0.3254166667117747
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013461964925130188,
+          "text" : "durable.",
+          "width" : 0.06790674701596318,
+          "x" : 0.06768933764173128,
+          "y" : 0.3079492501139187
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le même jour, l'arrangement d'un financement de",
+          "width" : 0.4065708479415121,
+          "x" : 0.06981518865758073,
+          "y" : 0.28197674438423326
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "100,5 milliards de FCFA pour la construction de la mine",
+          "width" : 0.40862422444373897,
+          "x" : 0.06776181315458496,
+          "y" : 0.26453488404024106
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "d'or de Lafigué a illustré l'engagement d'Ecobank à",
+          "width" : 0.40862422444373897,
+          "x" : 0.06776181358921875,
+          "y" : 0.24708333338627197
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171224,
+          "text" : "soutenir le développement économique de la Côte",
+          "width" : 0.408624224443739,
+          "x" : 0.06776181266812754,
+          "y" : 0.22958333367285666
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "d'Ivoire et promouvoir ainsi l'investissement et la",
+          "width" : 0.406570847941512,
+          "x" : 0.06981518953027069,
+          "y" : 0.21366279079290584
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "création d'emplois.",
+          "width" : 0.1457905494141775,
+          "x" : 0.06776181093972847,
+          "y" : 0.1945833335841879
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602713584899951,
+          "text" : "L'activité économique a maintenu son dynamisme,",
+          "width" : 0.4086242244437389,
+          "x" : 0.5338809130005807,
+          "y" : 0.8183139533570164
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "avec un Produit Intérieur Brut (PIB) estimé en",
+          "width" : 0.4086242244437389,
+          "x" : 0.5318275147630724,
+          "y" : 0.8023255815693109
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "croissance de 7%, malgré un environnement qui est",
+          "width" : 0.41067760094596584,
+          "x" : 0.5318275280691115,
+          "y" : 0.7833333330878656
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "resté difficile.",
+          "width" : 0.10677618019993651,
+          "x" : 0.5318275169842206,
+          "y" : 0.7674418607420337
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "Dans ce contexte, Ecobank Côte d'lvoire a vu ses",
+          "width" : 0.4065708479415121,
+          "x" : 0.5338808990271906,
+          "y" : 0.7412499998826877
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "différents indicateurs de performance en hausse au",
+          "width" : 0.4065708119961904,
+          "x" : 0.5338809185056692,
+          "y" : 0.7237500001978232
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011734495957692381,
+          "text" : "cours de l'année 2023.",
+          "width" : 0.17248459671074423,
+          "x" : 0.5338809070861062,
+          "y" : 0.7078488372185434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290619,
+          "text" : "La croissance s'est caractérisée par l'atteinte d'un",
+          "width" : 0.4065708119961904,
+          "x" : 0.5338809206275036,
+          "y" : 0.6802325581802604
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015988372166951592,
+          "text" : "niveau de bénéfice record à 48 milliards de FCFA,",
+          "width" : 0.41067760094596584,
+          "x" : 0.5318275290958054,
+          "y" : 0.659883720911437
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666554,
+          "text" : "soutenue par une augmentation des revenus ayant",
+          "width" : 0.4147843898957413,
+          "x" : 0.5297741266948398,
+          "y" : 0.6437499999856509
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01764534870783474,
+          "text" : "excédé le cap des 100 milliards de FCFA.",
+          "width" : 0.3059548242072475,
+          "x" : 0.5318275185774166,
+          "y" : 0.6262500003384199
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Evolution du compte de résultat",
+          "width" : 0.24435318765988479,
+          "x" : 0.5318275112008585,
+          "y" : 0.5741279071628187
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999876,
+          "text" : "• Le Produit Net Bancaire, s'élevant à 110,2",
+          "width" : 0.3470225699237154,
+          "x" : 0.5297741366133843,
+          "y" : 0.5450000002184745
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "milliards de FCFA, a enregistré une progression de",
+          "width" : 0.37782339718372715,
+          "x" : 0.5605749496627567,
+          "y" : 0.5290697674800784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666554,
+          "text" : "11,1% par rapport à décembre 2022,",
+          "width" : 0.28336755687412585,
+          "x" : 0.5626283393452779,
+          "y" : 0.5099999997925646
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "principalement portée par l'augmentation",
+          "width" : 0.3203285316134791,
+          "x" : 0.5626283437757382,
+          "y" : 0.4941666669345689
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "conjointe de la marge nette d'intérêts et des",
+          "width" : 0.3367556514672593,
+          "x" : 0.560574942972736,
+          "y" : 0.47666666652006395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "revenus hors intérêts.",
+          "width" : 0.1704312022358565,
+          "x" : 0.5605749528605112,
+          "y" : 0.4607558142460668
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "110",
+          "width" : 0.03285420825540386,
+          "x" : 0.7802874751330784,
+          "y" : 0.4186046513463576
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "99",
+          "width" : 0.024640657314844217,
+          "x" : 0.7125256669893951,
+          "y" : 0.390988372145776
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "+10%",
+          "width" : 0.04312114917768606,
+          "x" : 0.702258726720192,
+          "y" : 0.35174418625075465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "+11%",
+          "width" : 0.039014373707406236,
+          "x" : 0.7761806983003011,
+          "y" : 0.3619186047766828
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008779069582621313,
+          "text" : "Produit Net Bancaire",
+          "width" : 0.13347021851017282,
+          "x" : 0.6550308022781102,
+          "y" : 0.3212209304890624
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008769379456837978,
+          "text" : "• 2021 •2022 • 2023",
+          "width" : 0.15400410035473722,
+          "x" : 0.6488706416860811,
+          "y" : 0.2979166668225103
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "• Les provisions sont restées quasi stables en se",
+          "width" : 0.3819301861335027,
+          "x" : 0.5297741314199015,
+          "y" : 0.2295833336832387
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "situant à 5,9 milliards de FCFA au 31 décembre",
+          "width" : 0.3552361478232664,
+          "x" : 0.5605749473152661,
+          "y" : 0.21208333323747508
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019166666666666665,
+          "text" : "2023, attestant de l'amélioration du portefeuille",
+          "width" : 0.3655030662797225,
+          "x" : 0.5605749519114736,
+          "y" : 0.19458333306794395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "avec un ratio de coût du risque de 0,5%.",
+          "width" : 0.3039014477050206,
+          "x" : 0.5626283346279823,
+          "y" : 0.17875000029571286
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650253,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.10677618019993651,
+          "x" : 0.04106776339079146,
+          "y" : 0.058139535261349184
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008769379854202342,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | 01 B.P 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.505133459228228,
+          "x" : 0.04106777380819921,
+          "y" : 0.04791666649782045
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010634812116622983,
+          "text" : "Tel : (225) 27 20 31 92 00 | Fax : (225) 27 20 21 88 16 | Swift : ECOCCIAB | Web : www.ecobank.com",
+          "width" : 0.4846909953230823,
+          "x" : 0.04102708936800299,
+          "y" : 0.03609979962571097
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "Société Anonyme avec Conseil d'Administration au Capital F CFA 27 525 300 000 * RCCM CI - ABJ - 1988 - B - 130 729 * LB A 00 59J * CC 8901 810 А",
+          "width" : 0.7145790486509865,
+          "x" : 0.041067762053699206,
+          "y" : 0.011627906964267964
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2023-1\/page-002.pdf.png"
+}

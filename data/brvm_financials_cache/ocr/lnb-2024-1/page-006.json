@@ -1,0 +1,277 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "3.1. Les produits de loterie",
+          "width" : 0.23251027880974537,
+          "x" : 0.11522634135644419,
+          "y" : 0.9345833330955742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Il s'agit des jeux dont le résultat est basé sur le hasard. A cet effet, la LNB propose : les",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316872887646084,
+          "y" : 0.8937500000488057
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "cartes à gratter et le Loto 5\/90. Le « Loto 5\/90 » demeurant le principal produit de cette",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.8735465118114738
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017175388336181707,
+          "text" : "catégorie.",
+          "width" : 0.0929889499016528,
+          "x" : 0.11502815841343683,
+          "y" : 0.8526041665018039
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le Loto 5\/90",
+          "width" : 0.12139917769522038,
+          "x" : 0.11522633621117878,
+          "y" : 0.8154069769302604
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016250000000000098,
+          "text" : "En juin 2004, le portefeuille des produits de loterie s'est enrichi d'un nouveau produit, le",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.771666667035054
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019551784197489486,
+          "text" : "Loto 5\/90. Également connu sous les noms \"Loto Star\" et \"Loto Fortune\", le Loto 5\/90",
+          "width" : 0.7676213822274839,
+          "x" : 0.11516439801721222,
+          "y" : 0.7511168425888068
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "a révolutionné la gamme des produits de loterie.",
+          "width" : 0.43004115122669145,
+          "x" : 0.11522634226731258,
+          "y" : 0.7311046511403614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168284,
+          "text" : "A partir de 2017, le Loto 5\/90 se positionne en produit phare de la Loterie Nationale du",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.6916666667432882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01750000000000007,
+          "text" : "Bénin, générant entre 67% et 80% de son chiffre d'affaires global annuel et un Taux de",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636283598438,
+          "y" : 0.670000000010402
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "Retour aux Joueurs (TRJ) qui sétablit entre 60% et 62%.",
+          "width" : 0.5102880585868403,
+          "x" : 0.11522634617983075,
+          "y" : 0.6511627908376365
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "Les atouts du Loto 5\/90 résident dans sa complicité, son prix accessible à toutes les",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.6104166664684798
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "bourses, le calcul des gains et paiement instantané desdits gains sans exiger du client",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728394068434149,
+          "y" : 0.5915697675043032
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "la publication de son identité.",
+          "width" : 0.26337447256412144,
+          "x" : 0.11316873408830957,
+          "y" : 0.569583333389093
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Du fait de son succès, la LNB en a créé une variante. Ainsi, le 13 juillet 2023, le Loto",
+          "width" : 0.7674896672086895,
+          "x" : 0.1152263677073834,
+          "y" : 0.5290697672050417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "5\/90 digital a été ajouté au portefeuille de jeux de la LNB. Le concept du jeu est le",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.5099999997030332
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "même que le Loto 5\/90. A la différence, le Loto 5\/90 digital est accessible sur des",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635783084044,
+          "y" : 0.48833333334805384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "supports digitaux.",
+          "width" : 0.1604938327141528,
+          "x" : 0.11522633627666846,
+          "y" : 0.46947674435507847
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "Il est important de noter qu'au 31 décembre 2023, sa contribution au chiffre d'affaires",
+          "width" : 0.7695473005186836,
+          "x" : 0.11316872695259252,
+          "y" : 0.42875000009335074
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "était de plus de 4%, le plaçant en troisième position en termes d'importance, après le",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.40833333358696644
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Loto 5\/90 physique et le Pari sportif en ligne.",
+          "width" : 0.40534976743302253,
+          "x" : 0.11316873261579341,
+          "y" : 0.387916666334303
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "Principe du jeu : il s'agit d'un jeu de hasard basé sur le tirage de cinq (05) boules parmi",
+          "width" : 0.7695473005186837,
+          "x" : 0.1152263574361312,
+          "y" : 0.3473837209950127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "quatre-vingt-dix (90) boules numérotées de 1 à 90. Le principe du jeu est de",
+          "width" : 0.7674896672086895,
+          "x" : 0.1152263669357785,
+          "y" : 0.32703488348411147
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "pronostiquer à l'avance les numéros qui seront tirés au sort. Le joueur n'est pas tenu, ni",
+          "width" : 0.7695473005186836,
+          "x" : 0.11522635455032879,
+          "y" : 0.30813953492851553
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "de pronostiquer tous les cinq (05) numéros, ni de les trouver dans l'ordre.",
+          "width" : 0.6481481588111733,
+          "x" : 0.11522633131457792,
+          "y" : 0.28779069779733824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "Il est possible d'affirmer que la participation à ce jeu ne demande aucun travail",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522635021767198,
+          "y" : 0.24854651170246223
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01762596925099691,
+          "text" : "intellectuel. Lettrée ou non lettrée, toute personne majeure peut choisir 1, 2, 3, 4 ou 5",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316874298482815,
+          "y" : 0.2252906975864971
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "numéros et les prononcer dans sa langue maternelle.",
+          "width" : 0.46913578825176894,
+          "x" : 0.1172839655448972,
+          "y" : 0.20784883732019466
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "Prix : il est le plus petit de tous les prix pratiqués par LNB. II est accessible à toutes les",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.16569767445431482
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "bourses. En effet, la mise unitaire est de 10 FCFA. Toutefois, la mise minimale par ticket",
+          "width" : 0.7674896672086895,
+          "x" : 0.1152263646081037,
+          "y" : 0.14534883725409697
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "est de 100 FCFA. C'est un atout majeur et un avantage certain pour le client.",
+          "width" : 0.6790122985839844,
+          "x" : 0.11522636665450975,
+          "y" : 0.12624999986362884
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008827519416809038,
+          "text" : "Contact : +229 21 31 43 00 \/ 21 31 64 22 Email: secretariat.lnb@Inb.bj Site web : loteriebenin.bj",
+          "width" : 0.45473249903265034,
+          "x" : 0.1152263505865552,
+          "y" : 0.02325581411309352
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444674,
+          "text" : "Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.2962962816346367,
+          "x" : 0.5884773772896774,
+          "y" : 0.023255814331116897
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-006.pdf.png"
+}

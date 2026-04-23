@@ -1,0 +1,333 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.03779069582621253,
+          "text" : "KPMG",
+          "width" : 0.1314168330216155,
+          "x" : 0.09445585513376942,
+          "y" : 0.8546511637676548
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "ECR International",
+          "width" : 0.20533880047298292,
+          "x" : 0.7002053448011539,
+          "y" : 0.8779069773152491
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "KPMG Côte d'Ivoire",
+          "width" : 0.15605749482962494,
+          "x" : 0.24229979598012252,
+          "y" : 0.8095833331877214
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "5ème, fème et 7ème étages immeuble",
+          "width" : 0.2689938314952334,
+          "x" : 0.24229980062815332,
+          "y" : 0.7906976745148769
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "Woodin Center",
+          "width" : 0.1211498965924985,
+          "x" : 0.2422997962417384,
+          "y" : 0.7774999998786127
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014709302584330342,
+          "text" : "Avenue Noguès, Plateau",
+          "width" : 0.19507186404386595,
+          "x" : 0.24229979888155773,
+          "y" : 0.7599999996884983
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01601744174957276,
+          "text" : "01 BP 3172 Abidjan 01, Côte d'Ivoire",
+          "width" : 0.2915810988283551,
+          "x" : 0.24024640865563768,
+          "y" : 0.7427325580589661
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014612402915954559,
+          "text" : "Téléphone : 27 20 22 57 53",
+          "width" : 0.21560573690209991,
+          "x" : 0.2422997993364244,
+          "y" : 0.7266666665589089
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.011744186083475716,
+          "text" : "Fax : 27 20 21 42 97",
+          "width" : 0.1601642658067395,
+          "x" : 0.24435318400285896,
+          "y" : 0.7107558137689309
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "ECR International",
+          "width" : 0.1540041003547371,
+          "x" : 0.7392197158390585,
+          "y" : 0.8066666666955508
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310632,
+          "text" : "gème étage, immeuble OLLO",
+          "width" : 0.2217659023541022,
+          "x" : 0.6694045241001563,
+          "y" : 0.7906976750696096
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020445736249288027,
+          "text" : "Avenue Franchet d'Esperey",
+          "width" : 0.22381929682898993,
+          "x" : 0.6673511296347864,
+          "y" : 0.7587209304886136
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01749999999999996,
+          "text" : "Téléphone : 27 20 27 18 72",
+          "width" : 0.2217659023541022,
+          "x" : 0.6694045209379386,
+          "y" : 0.7441666668118299
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01749999999999996,
+          "text" : "Africa Global Logistics Côte d'Ivoire (AGL CI) S.A.",
+          "width" : 0.4209445553477436,
+          "x" : 0.242299800457545,
+          "y" : 0.6758333331300307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01889534791310621,
+          "text" : "(Ex Bolloré Transport & Logistics Côte d'lvoire S.A. (BTLCI S.A.))",
+          "width" : 0.5462012049446959,
+          "x" : 0.238193032886995,
+          "y" : 0.6598837215812376
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Siège social : Treichville, 1, avenue Christiani",
+          "width" : 0.3572895243254932,
+          "x" : 0.24024641247791037,
+          "y" : 0.6453488373721928
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014602712790171335,
+          "text" : "01 BP 1727 Abidjan 01",
+          "width" : 0.18275153313986126,
+          "x" : 0.24024641230583937,
+          "y" : 0.6308139536356017
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014534883499145446,
+          "text" : "Capital social en FCFA : 10 887 060 000",
+          "width" : 0.31622174266370356,
+          "x" : 0.2422998031034665,
+          "y" : 0.6148255813245551
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071104,
+          "text" : "Côte d'Ivoire",
+          "width" : 0.10061601474793416,
+          "x" : 0.24229979650693637,
+          "y" : 0.6016666666970831
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers annuels",
+          "width" : 0.6036960705149441,
+          "x" : 0.24024641386983825,
+          "y" : 0.5712209299957394
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01168604652086902,
+          "text" : "Exercice clos le 31 décembre 2022",
+          "width" : 0.2731006024723479,
+          "x" : 0.24229979870222437,
+          "y" : 0.5449999999233783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999876,
+          "text" : "A l'assemblée générale ordinaire de la société Africa Global Logistics Côte d'lvoire",
+          "width" : 0.6488706411265092,
+          "x" : 0.24024640968999655,
+          "y" : 0.5041666665978544
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016007751623789424,
+          "text" : "S.A. (Ex Bolloré Transport & Logistics Côte d'Ivoire (BTLCI) S.A.),",
+          "width" : 0.5133470011824572,
+          "x" : 0.24024642155113957,
+          "y" : 0.489825581394722
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "En exécution de la mission qui nous a été confiée par votre assemblée générale",
+          "width" : 0.6406570632269581,
+          "x" : 0.2443531997520238,
+          "y" : 0.45333333318861146
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "ordinaire, nous vous présentons notre rapport relatif à l'exercice clos le 31 décembre",
+          "width" : 0.6427104756745067,
+          "x" : 0.24229978492968726,
+          "y" : 0.44166666674216226
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013878278732299854,
+          "text" : "2022, sur :",
+          "width" : 0.08647698536076456,
+          "x" : 0.2401290638723345,
+          "y" : 0.42547365120148173
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "- l'audit des états financlers annuels de la soclété Atrica Global Logistics Côte",
+          "width" : 0.6509239816834144,
+          "x" : 0.2381930318225641,
+          "y" : 0.40249999981674667
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014699612458547007,
+          "text" : "d'lvoire S.A., tels qu'ils sont joints au présent rapport ;",
+          "width" : 0.4229979318499705,
+          "x" : 0.2669404633563288,
+          "y" : 0.3879166665584677
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01601744174957276,
+          "text" : "- les vérifications spécifiques prévues par la loi et les autres informations.",
+          "width" : 0.5893223631087124,
+          "x" : 0.23819302986761495,
+          "y" : 0.36625000034771116
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "1",
+          "width" : 0.010266939798990904,
+          "x" : 0.19712525689721916,
+          "y" : 0.30523255861630694
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Audit des états financiers annuels",
+          "width" : 0.3634496897774955,
+          "x" : 0.24024641070673472,
+          "y" : 0.3023255815546908
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01489059130350745,
+          "text" : "Opinion",
+          "width" : 0.07406025809028544,
+          "x" : 0.2401772637686833,
+          "y" : 0.25708958813888216
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011744186083475716,
+          "text" : "Nous avons effectué l'audit des états financiers annuels de la société Africa Global",
+          "width" : 0.6468172286789605,
+          "x" : 0.24229981101986264,
+          "y" : 0.21500000004100417
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01598837216695148,
+          "text" : "Logistics Côte d'lvoire S.A. (AGL CI), comprenant le bilan au 31 décembre 2022, le",
+          "width" : 0.6529773941309629,
+          "x" : 0.23613963886881012,
+          "y" : 0.19622092999573937
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016027131875355982,
+          "text" : "compte de résultat, le tableau des flux de trésorerie, ainsi que les notes aux états",
+          "width" : 0.6509239816834143,
+          "x" : 0.2381930324385806,
+          "y" : 0.1831395350466115
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017577519416809184,
+          "text" : "À notre avis, les états financiers annuels sont réguliers et sincères et donnent une",
+          "width" : 0.6488706411265092,
+          "x" : 0.24024639783510285,
+          "y" : 0.1466666669889417
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018561500708262124,
+          "text" : "image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation",
+          "width" : 0.6511484242721216,
+          "x" : 0.2360174391773003,
+          "y" : 0.1299963075886834
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "nancière et du patrimoine de la société à la fin de cet exercice conformément al",
+          "width" : 0.6242299793184997,
+          "x" : 0.2505133444680603,
+          "y" : 0.11916666651630259
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014728682041168173,
+          "text" : "ègles et méthodes comptables édictées par l'Acte uniforme de l'OHADA relatif e",
+          "width" : 0.6262833198754049,
+          "x" : 0.24845997894833458,
+          "y" : 0.10610465145536907
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "droit comptable et à l'information financière et au SYSCOHADA.",
+          "width" : 0.5010266702784526,
+          "x" : 0.2381930241010203,
+          "y" : 0.08999999981674667
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bollore-transport-logistics-2022-4\/page-003.pdf.png"
+}

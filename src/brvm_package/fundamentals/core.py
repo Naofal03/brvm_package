@@ -114,7 +114,8 @@ def financials(symbol: str) -> dict[str, pd.DataFrame]:
 
 
 def valuation_ratios(symbol: str, date: str | None = None) -> dict[str, Any]:
-    \"\"\"Ratios à date précise ou latest.\"\"\"
+    """Ratios à date précise ou latest."""
+
     info = get_asset_info(symbol)
     history = get_fundamental_history(symbol)
     if date:

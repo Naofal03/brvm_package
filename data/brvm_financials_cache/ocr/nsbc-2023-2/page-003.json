@@ -1,0 +1,581 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "NSIA",
+          "width" : 0.065099455014304,
+          "x" : 0.08499095911129284,
+          "y" : 0.9549418606633031
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "BANQUE",
+          "width" : 0.06871608876588432,
+          "x" : 0.08318264163272997,
+          "y" : 0.949127907184799
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "PRESENTATION DES RESULTATS FINANCIERS",
+          "width" : 0.28571427214689765,
+          "x" : 0.0415913292369791,
+          "y" : 0.9098837212495434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082523,
+          "text" : "Evolution du compte de résultat (Cf. Etats Financiers NSIA Banque Cl 2023)",
+          "width" : 0.41410488904264453,
+          "x" : 0.043399639185730116,
+          "y" : 0.8849999999842113
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01183139522870369,
+          "text" : "Au 31 décembre 2023, le compte d'exploitation se présente comme suit :",
+          "width" : 0.3996383223790846,
+          "x" : 0.043399649316786776,
+          "y" : 0.8619186047185434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "Le Produit Net Bancaire au 31 décembre 2023 s'établit à 91,0 milliards FCFA",
+          "width" : 0.4466546086354869,
+          "x" : 0.04159131689382986,
+          "y" : 0.8429166667365549
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792501,
+          "text" : "contre 80,1 milliards FCFA réalisé en décembre 2022, soit une augmentation de",
+          "width" : 0.45027122655844787,
+          "x" : 0.039783016806671075,
+          "y" : 0.8270348840135087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "14% (10,9 milliards FCFA).",
+          "width" : 0.1464737698250292,
+          "x" : 0.04159132631714181,
+          "y" : 0.8137500001399621
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "Cette évolution s'explique par l'effet combiné de :",
+          "width" : 0.27124773714057643,
+          "x" : 0.041591316782334034,
+          "y" : 0.7950000001051496
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "• l'acroissement de la marge d'intéret de 15% (+8,5 milliards FCFA) qui ressort",
+          "width" : 0.45027122655844787,
+          "x" : 0.03978300789618302,
+          "y" : 0.7732558140062411
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "à 64,1 milliards FCFA au 31 décembre 2023 contre 55,6 milliards FCFA au",
+          "width" : 0.43761301634222644,
+          "x" : 0.052441235807186924,
+          "y" : 0.7616279072790977
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "31 décembre 2022 porté principalement par :",
+          "width" : 0.24954791880247504,
+          "x" : 0.052441232967659374,
+          "y" : 0.7470833331974113
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01333333333333342,
+          "text" : "- l'augmentation des revenus des engagements de la clientèle (+14,8 milliards FCFA)",
+          "width" : 0.43761301634222644,
+          "x" : 0.05063290952026719,
+          "y" : 0.7266666668036645
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "- l'accroissement des revenus de l'activité « titres » (+1,2 milliard FCFA)",
+          "width" : 0.39240505487592386,
+          "x" : 0.052441228958964005,
+          "y" : 0.713662790634241
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "- la hausse des produits des opérations de trésorerie (+1,1 milliard FCFA)",
+          "width" : 0.39963832237908453,
+          "x" : 0.05063291171582266,
+          "y" : 0.6991279069375356
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "- la hausse du coût des ressources (+4,2 milliards FCFA)",
+          "width" : 0.3110307242365794,
+          "x" : 0.05063291479551403,
+          "y" : 0.6860465117123301
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011821705102920577,
+          "text" : "- la hausse du coût du refinancement (+3,9 milliards FCFA)",
+          "width" : 0.3218806413199397,
+          "x" : 0.052441238833700894,
+          "y" : 0.6715116281100162
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575725,
+          "text" : "• la hausse de 10% des commissions au 31 décembre 2023, qui s'affichent à",
+          "width" : 0.4502712265584479,
+          "x" : 0.039783017756038166,
+          "y" : 0.6424418607576947
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116505,
+          "text" : "26,9 milliards FCFA contre 24,6 milliards FCFA réalisées au 31 décembre 2022.",
+          "width" : 0.43399636676202674,
+          "x" : 0.05063292330976416,
+          "y" : 0.6279069768793033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737783,
+          "text" : "Les frais d'exploitation ressortent à 45,9 milliards de francs CFA au 31 décembre",
+          "width" : 0.45027122655844787,
+          "x" : 0.03978301608334376,
+          "y" : 0.5987499996889396
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01041666666666674,
+          "text" : "2023 contre 43,5 milliards de francs CFA à décembre 2022.",
+          "width" : 0.3254972909001394,
+          "x" : 0.041591322452281,
+          "y" : 0.5870833332861878
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014593023459116616,
+          "text" : "- Les frais de personnel sont légèrement en baisse de 78 millions FCFA par rapport",
+          "width" : 0.45027122655844787,
+          "x" : 0.03978300789618302,
+          "y" : 0.5654069767678691
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "à décembre 2022 et s'établissent à 20,3 milliards FCFA au 31 décembre 2023.",
+          "width" : 0.4358046915521266,
+          "x" : 0.048824594534364794,
+          "y" : 0.5523255815693109
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014689922332763672,
+          "text" : "- Les frais généraux s'élèvent à 25,5 milliards FCFA à décembre 2023 contre",
+          "width" : 0.45027122655844787,
+          "x" : 0.03978301615115572,
+          "y" : 0.5319767443696133
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456066,
+          "text" : "23,1 milliards FCFA à décembre 2022.",
+          "width" : 0.21157322483933316,
+          "x" : 0.05244123920781972,
+          "y" : 0.5203488373421751
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "Les charges d'amortissement, en hausse de 2% comparativement à décembre",
+          "width" : 0.4484629017683481,
+          "x" : 0.04159134140033451,
+          "y" : 0.49125000011887954
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071215,
+          "text" : "2022, s'établissent à 7,3 milliards FCFA au 31 décembre 2023.",
+          "width" : 0.35262203612268217,
+          "x" : 0.041591338629436286,
+          "y" : 0.4766666666389435
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "Le coefficient d'exploitation de la Banque en amélioration de 4,3 points, s'établit",
+          "width" : 0.45027122655844787,
+          "x" : 0.03978301596128231,
+          "y" : 0.4462209301981016
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "à 58.3% à fin décembre 2023 contre 63.2% au 31 décembre 2022",
+          "width" : 0.3652802779961424,
+          "x" : 0.041591322086919805,
+          "y" : 0.4360465117123301
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980448,
+          "text" : "Le coût net du risque s'améliore et s'établit au 31 décembre 2023 à 3,4",
+          "width" : 0.44846293342558674,
+          "x" : 0.03978299663001216,
+          "y" : 0.4040697674904604
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "milliards FCFA contre 4,2 milliards FCFA au 31 décembre 2022, soit une baisse",
+          "width" : 0.448462901768348,
+          "x" : 0.04159132645157067,
+          "y" : 0.39083333344547955
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le Résultat Net de NSIA Banque Cl au terme de l'exercice 2023 s'établit à",
+          "width" : 0.4466546086354869,
+          "x" : 0.04159131689382986,
+          "y" : 0.35029069786049305
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01467054287592573,
+          "text" : "34,8 milliards FCFA contre 32,4 milliards FCFA réalisé en décembre 2022.",
+          "width" : 0.41229656425254474,
+          "x" : 0.03978300590266067,
+          "y" : 0.33416666634457726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692492,
+          "text" : "Evolution du bilan (cf. États Financiers NSIA Banque Cl 2023)",
+          "width" : 0.3218806413199397,
+          "x" : 0.04339964639247134,
+          "y" : 0.28041666685283395
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Au terme de l'exercice 2023, le bilan de NSIA Banque Cl se consolide de 8%",
+          "width" : 0.44665460863548684,
+          "x" : 0.04159132415196718,
+          "y" : 0.2587209305548972
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290608,
+          "text" : "passant de 1 885 milliards FCFA au 31 décembre 2022 à 2 037 milliards FCFA.",
+          "width" : 0.4484629334255868,
+          "x" : 0.039783003570509755,
+          "y" : 0.24416666657937225
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Les créances sur la clientèle (y compris les créances en souffrance) croissent de",
+          "width" : 0.44846293342558674,
+          "x" : 0.03978300344995518,
+          "y" : 0.21366279046085557
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "15% (soit +166 milliards FCFA) passant ainsi de 1 141,4 milliards FCFA en",
+          "width" : 0.44846293342558674,
+          "x" : 0.03978300301595881,
+          "y" : 0.20041666651235535
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014534883499145557,
+          "text" : "2022 à 1 307,4 milliards FCFA en 2023.",
+          "width" : 0.22603977567427389,
+          "x" : 0.041591325996497765,
+          "y" : 0.18604651176786913
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Les engagements sains ressortent à 1 298,3 milliards FCFA au 31 décembre 2023",
+          "width" : 0.44846293342558674,
+          "x" : 0.039782995348689565,
+          "y" : 0.159883721116307
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011763565937678022,
+          "text" : "et sont en hausse de 170 milliards FCFA (+15%) comparativement au",
+          "width" : 0.44484628384538705,
+          "x" : 0.043399646594485454,
+          "y" : 0.14666666668389483
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "31 décembre 2022 (1 128,5 milliards FCFA).",
+          "width" : 0.24593128505089468,
+          "x" : 0.03978300430999558,
+          "y" : 0.1308139537652896
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014612402915954559,
+          "text" : "Les engagements non performants au 31 décembre 2023 se chiffrent à 9,0",
+          "width" : 0.44846293342558674,
+          "x" : 0.039782996096127746,
+          "y" : 0.10166666669214541
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "milliards FCFA contre 12,8 milliards FCFA en décembre 2022.",
+          "width" : 0.33453888319339986,
+          "x" : 0.04159132124235969,
+          "y" : 0.08866279097095797
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.013081394831339521,
+          "text" : "IIl",
+          "width" : 0.016274863753576008,
+          "x" : 0.9547920436883114,
+          "y" : 0.98255813995715
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.023255813916524204,
+          "text" : "COMMUNIQUÉ",
+          "width" : 0.1952983650429121,
+          "x" : 0.7685352678944571,
+          "y" : 0.9476744187103425
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "Cette regression des engagements non performants de 30% comparativement à",
+          "width" : 0.45027122655844787,
+          "x" : 0.5081374465309026,
+          "y" : 0.9098837211137993
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017822238604227714,
+          "text" : "décembre 2022 est consécutive à la politique d'assainissement du portefeuille,",
+          "width" : 0.452328060672491,
+          "x" : 0.5080093686028425,
+          "y" : 0.894045484715603
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "au dispositif de suivi des engagements et à la mise en oeuvre des actions de",
+          "width" : 0.45027122655844787,
+          "x" : 0.5081374392524217,
+          "y" : 0.8820833335671453
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100775082905969,
+          "text" : "recouvrement en vue d'assurer la maîtrise du risque de crédit.",
+          "width" : 0.33453888319339986,
+          "x" : 0.5063291145365129,
+          "y" : 0.8691666665793722
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "La dynamique des actions de mobilisation de ressources a permis de renforcer les",
+          "width" : 0.45388787613864756,
+          "x" : 0.5045207940509295,
+          "y" : 0.8399999999827718
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01171511650085455,
+          "text" : "ressources clienteles qui ont enregistré une hausse de 16% et s'affichent à",
+          "width" : 0.45027122655844787,
+          "x" : 0.5063291207623675,
+          "y" : 0.8270348836574968
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "1 416 milliards FCFA au 31 décembre 2023 contre 1 220 milliards FCFA au 31",
+          "width" : 0.44846293342558674,
+          "x" : 0.5081374346976948,
+          "y" : 0.8137500001690319
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081395228703885,
+          "text" : "décembre 2022.",
+          "width" : 0.09403254876987566,
+          "x" : 0.5081374336078288,
+          "y" : 0.7994186049244465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154539744133,
+          "text" : "PERSPECTIVES 2024",
+          "width" : 0.1320072348187079,
+          "x" : 0.5099457506221624,
+          "y" : 0.7485465119593302
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01470930258433023,
+          "text" : "Dans un contexte encore marqué par une incertitude croissante, exacerbée par des",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374338646052,
+          "y" : 0.7252906977126365
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142506,
+          "text" : "tensions inflationnistes, NSIA Banque Cl reste résolue à concrétiser son ambition et",
+          "width" : 0.45388787613864756,
+          "x" : 0.5081374407914356,
+          "y" : 0.7107558141515901
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011705426375071326,
+          "text" : "sa mission au cours de l'exercice 2024, celle de : «contribuer ensemble,",
+          "width" : 0.45027122655844787,
+          "x" : 0.5099457655453691,
+          "y" : 0.6991279070150549
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "pleinement à la transformation de l'économie ivoirienne».",
+          "width" : 0.336347176326261,
+          "x" : 0.5099457574788225,
+          "y" : 0.6845833331537137
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "NSIA Banque Cl continuera à mettre en œuvre les actions de son plan stratégique",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374338646052,
+          "y" : 0.6554166668527411
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016249999999999987,
+          "text" : "« Altitude 22-26».",
+          "width" : 0.10849909169050664,
+          "x" : 0.5063291149142404,
+          "y" : 0.6408333331497665
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951397,
+          "text" : "L'amélioration de l'expérience-client, le renforcement de la sécurité numérique, la",
+          "width" : 0.45388787613864756,
+          "x" : 0.5063291154795009,
+          "y" : 0.6262499996334934
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "digitalisation constante des services, l'intensification des efforts vers la durabilité",
+          "width" : 0.4520795513485477,
+          "x" : 0.5081374338646052,
+          "y" : 0.6133333333530693
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017529069582621237,
+          "text" : "et l'inclusion financière tout en assurant une gestion prudente des risques et des",
+          "width" : 0.4593128188517084,
+          "x" : 0.5027124836723978,
+          "y" : 0.598750000272742
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "charges, devraient permettre de soutenir la croissance entamée.",
+          "width" : 0.35623868570288186,
+          "x" : 0.5099457601684505,
+          "y" : 0.5841666669769144
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008720929622650142,
+          "text" : "CONTACT",
+          "width" : 0.05063290813651822,
+          "x" : 0.9023508145272804,
+          "y" : 0.13953488397743474
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010203488270441707,
+          "text" : "Direction Financière et du Contrôle de Gestion",
+          "width" : 0.19710668983301194,
+          "x" : 0.7576853563794552,
+          "y" : 0.11625000001722807
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011812015374501494,
+          "text" : "E-mail : relationsinvestisseurs@nsiabanque.com",
+          "width" : 0.19529836504291198,
+          "x" : 0.7594936778763739,
+          "y" : 0.1061046512204814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008866278727849397,
+          "text" : "Tél. : (225) 80 200 800",
+          "width" : 0.09403254876987577,
+          "x" : 0.8607594957175334,
+          "y" : 0.09738372128363604
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "C-22 Rue Goyavier, Avenue Jean Mermoz - Cocody",
+          "width" : 0.20253164837469195,
+          "x" : 0.7504520806951134,
+          "y" : 0.08575581416509181
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "NSIA, le vrai visage de la Banque.",
+          "width" : 0.18806509753975142,
+          "x" : 0.7667269480354286,
+          "y" : 0.029069767623182807
+        }
+      ],
+      "width" : 1927
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/nsbc-2023-2\/page-003.pdf.png"
+}

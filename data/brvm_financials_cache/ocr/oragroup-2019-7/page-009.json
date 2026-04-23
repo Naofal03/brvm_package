@@ -1,0 +1,397 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.1172839470629422,
+          "x" : 0.13991769822778816,
+          "y" : 0.9433139535460627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés établis en IFRS",
+          "width" : 0.6069958524883918,
+          "x" : 0.14197531972631172,
+          "y" : 0.9302325580761015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108275,
+          "text" : "Cette annexe fait partie intégrante de notre rapport de commissariat aux comptes.",
+          "width" : 0.6748971039394163,
+          "x" : 0.1440329379479872,
+          "y" : 0.8633333331580673
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020433286031087183,
+          "text" : "Dans le cadre de nos diligences, nous nous conformons successivement :",
+          "width" : 0.6113802352041569,
+          "x" : 0.14182862240200564,
+          "y" : 0.829164138150601
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "aux exigences des normes Internationales d'Audit (ISA) et ;",
+          "width" : 0.48971194141315966,
+          "x" : 0.18930041279136253,
+          "y" : 0.8081395351860744
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "aux obligations spécifiques édictées par l'acte uniforme de l'OHADA relatif au droit",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930041902060438,
+          "y" : 0.7848837212737683
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692381,
+          "text" : "des sociétés commerciales et du GIE.",
+          "width" : 0.3127572041637493,
+          "x" : 0.18930041417326937,
+          "y" : 0.7703488372185434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "De manière plus détaillée,",
+          "width" : 0.21604937427448778,
+          "x" : 0.14197531556337334,
+          "y" : 0.7295833333428878
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "Nous nous conformons aux règles d'éthique relatives à l'audit des états financiers",
+          "width" : 0.6707818373194281,
+          "x" : 0.18724281501655526,
+          "y" : 0.7062500003638985
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "annuels édictées par le Code d'éthique et le règlement N°01\/2017\/CM\/OHADA",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930041902060438,
+          "y" : 0.6916666668935672
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015336901346842513,
+          "text" : "portant harmonisation des pratiques des professionnels de la comptabilité et de",
+          "width" : 0.6688320231887529,
+          "x" : 0.18923694816434164,
+          "y" : 0.6743970920703766
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "l'audit dans les pays membres de l'OHADA et les règles d'indépendance qui",
+          "width" : 0.6728394706294222,
+          "x" : 0.18724280491162673,
+          "y" : 0.6598837211647566
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575725,
+          "text" : "encadrent le commissariat aux comptes;",
+          "width" : 0.33744855196970813,
+          "x" : 0.18724280642255323,
+          "y" : 0.6424418605760087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "nous faisons preuve d'esprit critique qui implique d'être attentifs aux éléments",
+          "width" : 0.668724275984854,
+          "x" : 0.18930041382513124,
+          "y" : 0.6206395352368614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "probants qui contredisent d'autres éléments probants recueillis, aux informations",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.6045833334337308
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "qui remettent en cause la fiabilité de documents et de réponses apportées aux",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930040534605055,
+          "y" : 0.5886627907929058
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "demandes de renseignements à utiliser en tant qu'éléments probants, aux",
+          "width" : 0.6687242759848542,
+          "x" : 0.18930042082958926,
+          "y" : 0.5724999996146979
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325051,
+          "text" : "situations qui peuvent révéler une fraude possible, aux circonstances qui",
+          "width" : 0.6707818373194281,
+          "x" : 0.18930045054467518,
+          "y" : 0.5581395352635938
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "suggèrent le besoin de mettre en œuvre des procédures d'audit en supplément",
+          "width" : 0.6707819092948482,
+          "x" : 0.1893004117620407,
+          "y" : 0.5420833334155623
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014670542081197002,
+          "text" : "de celles requises par les normes ISA ;",
+          "width" : 0.32098762944059545,
+          "x" : 0.18930042759794627,
+          "y" : 0.5261627910508149
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "nous faisons preuve de jugement professionnel lors de la conduite de l'audit en",
+          "width" : 0.6687242759848541,
+          "x" : 0.1893004245933065,
+          "y" : 0.5029069770756092
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015001164277394619,
+          "text" : "particulier pour les décisions portant sur le caractère significatif et le risque d'audit,",
+          "width" : 0.6687966112820607,
+          "x" : 0.18924728140745017,
+          "y" : 0.48690050735373824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880217,
+          "text" : "la nature, le calendrier et l'étendue des procédures d'audit à mettre en œuvre pour",
+          "width" : 0.6728394706294221,
+          "x" : 0.18724282733960956,
+          "y" : 0.47238372103637294
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "satisfaire les diligences requises par les normes ISA et pour recueillir des éléments",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.4562499996369993
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "probants, le fait de déterminer si des éléments probants suffisants et appropriés",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.4404069770756093
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ont été recueillis, et si des travaux supplémentaires sont nécessaires pour",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.424418604982586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "atteindre les objectifs des normes ISA et, par voie de conséquence, les objectifs",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930041902060438,
+          "y" : 0.40833333323329957
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641473293304452,
+          "text" : "généraux de l'auditeur, l'évaluation des jugements de la direction portant sur le",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930040874968554,
+          "y" : 0.3924418603337606
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "suivi du référentiel comptable applicable, le fondement des conclusions tirées des",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.3779069770756093
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "éléments probants recueillis, par exemple l'appréciation du caractère raisonnable",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930041416806678,
+          "y" : 0.3619186050043033
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "des évaluations faites par la direction lors de l'établissement des états financiers ;",
+          "width" : 0.6707818373194282,
+          "x" : 0.189300450476088,
+          "y" : 0.3458333333278537
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01461240291595467,
+          "text" : "nous préparons tout au long de l'audit une documentation qui fournisse une trace",
+          "width" : 0.6728394706294221,
+          "x" : 0.18518519622849888,
+          "y" : 0.32122093022717135
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01310077508290619,
+          "text" : "suffisante et appropriée des travaux, fondements de notre rapport d'audit et des",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.30666666659148456
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333333333342,
+          "text" : "éléments démontrant que l'audit a été planifié et réalisé selon les normes ISA et",
+          "width" : 0.6707818373194281,
+          "x" : 0.18930044025660972,
+          "y" : 0.2920833331817153
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "dans le respect des exigences législatives et réglementaires applicables;",
+          "width" : 0.5987654272115455,
+          "x" : 0.18930042175087985,
+          "y" : 0.2745833334277249
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "nous identifions et évaluons les risques que les états financiers comportent des",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930040676065948,
+          "y" : 0.2529069769011907
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "anomalies significatives, que celles-ci résultent de fraudes ou d'erreurs,",
+          "width" : 0.6707818373194281,
+          "x" : 0.18930045054467518,
+          "y" : 0.23541666650732473
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935968945,
+          "text" : "concevons et mettons en œuvre des procédures d'audit en réponse à ces risques,",
+          "width" : 0.6707819092948482,
+          "x" : 0.1893004117620407,
+          "y" : 0.2208333335277084
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "et réunissons des éléments probants suffisants et appropriés pour fonder notre",
+          "width" : 0.668724275984854,
+          "x" : 0.189300417177326,
+          "y" : 0.2049418605603477
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "opinion. Le risque de non-détection d'une anomalie significative résultant d'une",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930041821470586,
+          "y" : 0.18875000005742748
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "fraude est plus élevé que celui d'une anomalie significative résultant d'une erreur",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.174418604982586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "car la fraude peut impliquer la collusion, la falsification, les omissions volontaires,",
+          "width" : 0.6707819092948482,
+          "x" : 0.1893004117620407,
+          "y" : 0.15697674429693886
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "les fausses déclarations ou le contournement du contrôle interne ;",
+          "width" : 0.5514402929342018,
+          "x" : 0.1851852124492225,
+          "y" : 0.14244186050584196
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "nous recueillons, le cas échéant, des éléments probants suffisants et appropriés",
+          "width" : 0.6687242759848541,
+          "x" : 0.18930040508884896,
+          "y" : 0.11916666682533139
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "concernant le respect des dispositions des textes législatifs et réglementaires",
+          "width" : 0.668724275984854,
+          "x" : 0.1893004201351449,
+          "y" : 0.10319767475002795
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753876209259051,
+          "text" : "dont il est admis qu'elles ont une incidence directe sur la détermination des",
+          "width" : 0.668724275984854,
+          "x" : 0.18930040925551556,
+          "y" : 0.08866279056156678
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01461240291595467,
+          "text" : "données chiffrées significatives enregistrées et l'information fournie dans les états",
+          "width" : 0.6687242759848542,
+          "x" : 0.1893004125219762,
+          "y" : 0.07122093010120234
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.00889534910519918,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.23662550944202349,
+          "x" : 0.141975311019729,
+          "y" : 0.04360465107417211
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-009.pdf.png"
+}

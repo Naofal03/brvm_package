@@ -1,0 +1,341 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.03135468165079758,
+          "text" : "Ecobank",
+          "width" : 0.12796585514860337,
+          "x" : 0.8619429979135779,
+          "y" : 0.9617935891862673
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040284,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.12551439933057096,
+          "x" : 0.8600823080764841,
+          "y" : 0.9491279073543726
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013333333333333308,
+          "text" : "2. STRUCTURE FINANCIERE DE LA BANQUE",
+          "width" : 0.4567901323426445,
+          "x" : 0.12139917631838965,
+          "y" : 0.8604166667884177
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "Au 31 décembre 2020, les capitaux propres de la banque s'élèvent à FCFA 128,5 milliards de FCFA.",
+          "width" : 0.7818929564278081,
+          "x" : 0.09465023937868829,
+          "y" : 0.8137499999812045
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014699612458547007,
+          "text" : "Le Total Bilan de la banque a connu une croissance de 7%, en s'affichant à FCFA 1 602,3 milliards contre",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259260083448675,
+          "y" : 0.7848837207988768
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "FCFA 1 494,5 milliards en 2019.",
+          "width" : 0.2592592599256983,
+          "x" : 0.09259259550011371,
+          "y" : 0.7658333333702975
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "La bonne dynamique observée sur la collecte de ressources, notamment celles à faible coût, a permis",
+          "width" : 0.8127571681760393,
+          "x" : 0.09259260085711103,
+          "y" : 0.7383333331834956
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521228,
+          "text" : "d'accroître le niveau des dépôts de la clientèle de 22%, avec des progressions de 30% sur les dépôts non",
+          "width" : 0.8127571681760392,
+          "x" : 0.09259260901897622,
+          "y" : 0.7208333332429042
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631782372792612,
+          "text" : "rémunérés et de 10% sur ceux qui sont rémunérés, améliorant le mix des dépôts dont les ressources non",
+          "width" : 0.8127571681760392,
+          "x" : 0.09259261807247386,
+          "y" : 0.7020348840740707
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "rémunérées sont passées de 59% à 63%.",
+          "width" : 0.3209876294405955,
+          "x" : 0.09259261038258271,
+          "y" : 0.6845833334130043
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575947,
+          "text" : "Contrairement aux dépôts, les emplois affectés notamment par la situation économique morose, mais",
+          "width" : 0.8106996068414652,
+          "x" : 0.09465020333509713,
+          "y" : 0.6554166669980899
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "également par la stérilisation de certains programmes de crédits déficitaires, ont connu une baisse en",
+          "width" : 0.8127571681760393,
+          "x" : 0.092592619487083,
+          "y" : 0.6366279071603109
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100775082905969,
+          "text" : "glissement annuel de 6%, passant de FCFA 661 milliards à FCFA 624 milliards en 2020.",
+          "width" : 0.6893003931585348,
+          "x" : 0.09259261039089696,
+          "y" : 0.6191666665369788
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014651162624359282,
+          "text" : "Aussi, bien que les créances en souffrance soient en baisse de 3%, la mise en œuvre de notre politique",
+          "width" : 0.8127571681760393,
+          "x" : 0.09465023265580735,
+          "y" : 0.5900000001281205
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "d'assainissement du portefeuille a conduit à la hausse des provisions qui sont passées de FCFA 36,3",
+          "width" : 0.812757168176039,
+          "x" : 0.0925925991681535,
+          "y" : 0.5724999997237095
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "milliards en 2019 à FCFA 41,1 milliards en 2020, ce qui a contribué à relever le taux de couverture des",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.5537500003683873
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011792635917663552,
+          "text" : "créances en souffrance à 82% contre 70% en 2019.",
+          "width" : 0.4032921701107385,
+          "x" : 0.09259259303105064,
+          "y" : 0.537790697574648
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "Le ratio de solvabilité s'inscrit bien au-dessus des exigences réglementaires à 15,19% à fin décembre 2020,",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259258567673692,
+          "y" : 0.5070833335551179
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666603,
+          "text" : "contre 13,57% à fin décembre 2019.",
+          "width" : 0.2901234536800744,
+          "x" : 0.09259259898300785,
+          "y" : 0.49125000014561204
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Au 31 décembre 2020, les ratios CET (Common Equity Tier 1), Tier 1 et de solvabilité s'établissent à",
+          "width" : 0.8106996068414651,
+          "x" : 0.09465018847227166,
+          "y" : 0.46075581403531096
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "15,19% (13,57% en 2019) contre une norme de 10,38% pour le dernier cité.",
+          "width" : 0.5946501965792673,
+          "x" : 0.09465021778546903,
+          "y" : 0.4433139537652895
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Le ratio de levier est de 5,81% au 31 décembre 2020 (6,28% à fin décembre 2019).",
+          "width" : 0.6460905255011793,
+          "x" : 0.09259258656353969,
+          "y" : 0.4156976746531287
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.013081394831339521,
+          "text" : "La banque est notée par une agence de notation : (1) Bloomfield - notation long terme « AA-»,",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.3866279072536616
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016314258575439444,
+          "text" : "perspectives stables.",
+          "width" : 0.16316575824089768,
+          "x" : 0.09225003711651399,
+          "y" : 0.36686626212706497
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "3. PERSPECTIVES",
+          "width" : 0.18518518052011168,
+          "x" : 0.12139917743541746,
+          "y" : 0.3124999999292063
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Dans un environnement économique de 2021 marqué par une reprise économique, mais aussi les",
+          "width" : 0.8106996068414654,
+          "x" : 0.09465020468626312,
+          "y" : 0.27458333327268614
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "conséquences inéluctables de la crise pandémique de l'année dernière, la banque maintiendra ses",
+          "width" : 0.8148148014860334,
+          "x" : 0.09259261283722978,
+          "y" : 0.2570833336035677
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "ambitions et la discipline nécessaire pour l'exécution de sa stratégie. Ecobank Côte d'Ivoire ambitionne",
+          "width" : 0.8148148014860334,
+          "x" : 0.0925926094421683,
+          "y" : 0.238333333498418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "de maintenir la tendance à la hausse de ses résultats au cours de l'exercice 2021. Cela devrait être rendu",
+          "width" : 0.8127571681760392,
+          "x" : 0.09259261670073189,
+          "y" : 0.2208333333278537
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01469961166381828,
+          "text" : "possible par une discipline accrue dans l'exécution du budget couplée aux efforts croissants dans la",
+          "width" : 0.8127571681760392,
+          "x" : 0.09259261189963465,
+          "y" : 0.2004166670528087
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "recherche de la satisfaction des clients.",
+          "width" : 0.306584340221477,
+          "x" : 0.09259260866155217,
+          "y" : 0.18604651158869845
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "La conjonction de ces différents éléments devrait nous permettre de continuer de créer de la valeur en",
+          "width" : 0.8127571681760393,
+          "x" : 0.092592619487083,
+          "y" : 0.15541666673041354
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014622093041737894,
+          "text" : "vue d'accroître la rentabilité pour nos actionnaires.",
+          "width" : 0.39917693947846034,
+          "x" : 0.09259260687256658,
+          "y" : 0.1366279070876366
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014738372166951508,
+          "text" : "Nous n'avons pas perdu de vue tout au long de l'année, l'amélioration de l'expérience client, cette dernière",
+          "width" : 0.8106995348660451,
+          "x" : 0.09465023153817095,
+          "y" : 0.10901162819955512
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "constituant pour nous un enjeu majeur dans l'exécution de notre stratégie. Ainsi, les efforts continus pour",
+          "width" : 0.8148148014860332,
+          "x" : 0.09259260789895836,
+          "y" : 0.09000000029769428
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008750000000000036,
+          "text" : "Ecobank Côte d'Ivoire",
+          "width" : 0.15432098676573555,
+          "x" : 0.002057616185033367,
+          "y" : 0.053750000140859844
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008788759311040173,
+          "text" : "Immeuble Ecobank | Place de la République | Avenue Houdaille | Plateau | 01 B.P. 4107 | Abidjan 01 - Côte d'Ivoire",
+          "width" : 0.7757201284732459,
+          "x" : 5.139234882520059e-09,
+          "y" : 0.04208333335881209
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Tel: (225) 20 31 92 00 Fax: (225) 20 21 88 16 Swift: ECOCCIAB",
+          "width" : 0.43415638185896965,
+          "x" : -8.865012707143971e-09,
+          "y" : 0.030416666673663384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008924418290456204,
+          "text" : "SOCIÉTÉ ANONYME AVEC CONSEIL D'ADMINISTRATION AU CAPITAL DE F CFA 27 525 300 000 * R CCM CI-ABJ-1988-B-130 729 * LB A 00 59 J * CC 8901 810 A",
+          "width" : 0.7839505897378022,
+          "x" : 0.0020576400076417227,
+          "y" : 0.0012500001061402921
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.02534724394480381,
+          "text" : "Ecobank",
+          "width" : 0.14014073137967098,
+          "x" : 0.8558555595355197,
+          "y" : 0.03165777327061814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008817829291025703,
+          "text" : "La Banque Panafricaine",
+          "width" : 0.13991768854968945,
+          "x" : 0.8518518576455941,
+          "y" : 0.02034883756270578
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/ecobank-ci-2020-5\/page-004.pdf.png"
+}

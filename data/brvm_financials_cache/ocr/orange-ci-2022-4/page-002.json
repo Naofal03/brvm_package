@@ -1,0 +1,133 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.036365202444570977,
+          "text" : "Note aux lecteurs",
+          "width" : 0.20930231730143228,
+          "x" : 0.02180233121639347,
+          "y" : 0.9095607241466088
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03362618340386281,
+          "text" : "• Les états financiers consolidés comprennent les comptes de Orange Côte d'Ivoire et de toutes ses",
+          "width" : 0.8415697224934896,
+          "x" : 0.05668607950543522,
+          "y" : 0.7674074076028776
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03131782955593532,
+          "text" : "filiales contrôlées directement ou indirectement.",
+          "width" : 0.3982558186848959,
+          "x" : 0.07994186208197064,
+          "y" : 0.7286821701623861
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04444444444444451,
+          "text" : "- Les filiales Orange Burkina, Orange Money Burkina, Orange Libéria, Orange Money Libéria, Orange",
+          "width" : 0.8624999999999999,
+          "x" : 0.05416667744791634,
+          "y" : 0.6592592596296296
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0444444444444444,
+          "text" : "Money Côte d'ivoire, Orange Côte d'Ivoire Participations et Côte d'ivoire Câbles sont consolidées selon",
+          "width" : 0.8625,
+          "x" : 0.07916668104166613,
+          "y" : 0.6222222224691358
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.04444444444444451,
+          "text" : "la méthode de l'intégration globale.",
+          "width" : 0.29166666666666663,
+          "x" : 0.07916666763888884,
+          "y" : 0.5777777784498879
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03629629629629627,
+          "text" : "• Le Groupement Orange Service détenu à 22,64% a été intégré dans le périmètre de consolidation par",
+          "width" : 0.8706395467122395,
+          "x" : 0.05668603988515931,
+          "y" : 0.519259259751784
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.034074074074074034,
+          "text" : "mise en équivalence.",
+          "width" : 0.17732557932535808,
+          "x" : 0.0813953494724954,
+          "y" : 0.4829629633828596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03629629629629627,
+          "text" : "- Les transactions, soldes et résultats réciproques entre les sociétés intégrées sont éliminés.",
+          "width" : 0.7790697733561198,
+          "x" : 0.05668605134519576,
+          "y" : 0.41851851868280354
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03646856096055773,
+          "text" : "- Les états financiers consolidés sont présentés en FCFA. Les actifs, passifs et postes du compte de",
+          "width" : 0.8444767252604166,
+          "x" : 0.056686047529675536,
+          "y" : 0.3562962963103308
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.033643410294144305,
+          "text" : "résultat des filiales hors zone CFA sont convertis aux taux de change en vigueur à la clôture de la",
+          "width" : 0.8081395467122395,
+          "x" : 0.07994184877843168,
+          "y" : 0.3177777773857229
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031007749769422777,
+          "text" : "période.",
+          "width" : 0.06831395467122395,
+          "x" : 0.08139534909970778,
+          "y" : 0.27906976846154186
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703709,
+          "text" : "• Les comptes consolidés sont établis suivants les normes IFRS",
+          "width" : 0.55,
+          "x" : 0.05416665979166685,
+          "y" : 0.2148148145370371
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03643410859284568,
+          "text" : "• Les notes sur les états financiers seront publiées dans le rapport annuel 2022 qui sera présenté à la",
+          "width" : 0.8531976318359374,
+          "x" : 0.05668607596066484,
+          "y" : 0.15245478046812966
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703709,
+          "text" : "prochaine Assemblée Générale des actionnaires.",
+          "width" : 0.4125,
+          "x" : 0.07916667182291652,
+          "y" : 0.11111111138888896
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2022-4\/page-002.pdf.png"
+}

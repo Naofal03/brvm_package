@@ -1,0 +1,29 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.013110464811325162,
+          "text" : "Rapport des commissaires aux comptes de BERNABE Côte d'lvoire S.A",
+          "width" : 0.3497942438665426,
+          "x" : 0.07407406572104987,
+          "y" : 0.933139535360493
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.010174418290456178,
+          "text" : "5",
+          "width" : 0.010288065334535967,
+          "x" : 0.9218106997401394,
+          "y" : 0.045058139861554825
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/bernabe-ci-2019-8\/page-006.pdf.png"
+}

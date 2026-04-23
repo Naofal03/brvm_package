@@ -1,0 +1,309 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "Les immobilisations incorporelles",
+          "width" : 0.33059548601525696,
+          "x" : 0.11704311390544499,
+          "y" : 0.8953488373201947
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014105029106140088,
+          "text" : "Les immobilisations incorporelles sont comptabilisées s'il est probable que les avantages",
+          "width" : 0.7639629602151428,
+          "x" : 0.1169845830225604,
+          "y" : 0.8573180834628282
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "économiques futurs attribuables à l'actif iront à l'entité et si le coût de cet actif peut être évalué de",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312721351968,
+          "y" : 0.8386627911744465
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "façon fiable. Ces immobilisations entrent initialement en comptabilité par le coût d'acquisition.",
+          "width" : 0.7659137128239104,
+          "x" : 0.11498974273246686,
+          "y" : 0.8183139534976132
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01183139522870369,
+          "text" : "Ultérieurement SERVAIR ABIDJAN adopte le modèle de coût pour les évaluer. Ainsi après leur",
+          "width" : 0.7618069598194567,
+          "x" : 0.11909652770834134,
+          "y" : 0.7994186047185434
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "comptabilisation initiale, les immobilisations incorporelles sont comptabilisées à leur coût diminué",
+          "width" : 0.7618069598194567,
+          "x" : 0.11704312566864292,
+          "y" : 0.7774999999852794
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "du cumul des amortissements et du cumul des pertes de valeur. Elles sont linéairement amorties",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312936957717,
+          "y" : 0.7587209305458128
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "sur leur durée d'utilité dès qu'elles sont prêtes à être utilisées. Aucune valeur résiduelle n'a été",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704312247733553,
+          "y" : 0.7398255812955783
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773256063461357,
+          "text" : "retenue pour la détermination du montant amortissable.",
+          "width" : 0.43737163925620215,
+          "x" : 0.11498973776409628,
+          "y" : 0.7194767440983882
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "Droit d'usage des immobilisations louées",
+          "width" : 0.40451743549396346,
+          "x" : 0.11704313367327832,
+          "y" : 0.6787500003683874
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "À la date de passation d'un contrat la société apprécie si celui-ci est ou contient un contrat de",
+          "width" : 0.7638603722670054,
+          "x" : 0.11704310715876334,
+          "y" : 0.6424418608182567
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091085354486998,
+          "text" : "location. Pour déterminer si un contrat contient un contrat de location, l'entité apprécie si ce contrat",
+          "width" : 0.7659137128239105,
+          "x" : 0.11498975947613503,
+          "y" : 0.6220833331549327
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "lui confère le droit de contrôler l'utilisation d'un bien déterminé pour un certain temps moyennant",
+          "width" : 0.7659137128239104,
+          "x" : 0.11498974592377395,
+          "y" : 0.6031976743915084
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011734495957692603,
+          "text" : "une contrepartie. Les contrats de location sont comptabilisés selon un modèle unique prescrit par",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312936957717,
+          "y" : 0.5828488372912177
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.01041666666666663,
+          "text" : "la norme IFRS 16 sous la forme :",
+          "width" : 0.2566735005912286,
+          "x" : 0.11498974161917001,
+          "y" : 0.5637499999158904
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011753875811894687,
+          "text" : "• D'une obligation locative au passif égale à la valeur actualisée des paiements de loyers",
+          "width" : 0.7351128855638986,
+          "x" : 0.14579059205720152,
+          "y" : 0.526162790755365
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "restants, déterminée à l'aide du taux d'emprunt marginal. Les paiements de loyers pris en",
+          "width" : 0.7022587177469817,
+          "x" : 0.17659137156798776,
+          "y" : 0.5058139536562779
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0118313952287038,
+          "text" : "compte dans l'évaluation de l'obligation locative comprennent :",
+          "width" : 0.4907597518219965,
+          "x" : 0.17864477088058275,
+          "y" : 0.48691860473307824
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "• Les paiements de loyers fixes, y compris en substance, déduction faite des",
+          "width" : 0.6735113029345186,
+          "x" : 0.20739220089413685,
+          "y" : 0.4649999998967814
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "avantages incitatifs à la location à recevoir ;",
+          "width" : 0.34291581691926165,
+          "x" : 0.23819301443564642,
+          "y" : 0.44622093070933033
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014583333333333282,
+          "text" : "• Les paiements de loyers variables qui sont fonction d'un indice ou d'un taux,",
+          "width" : 0.6735113029345186,
+          "x" : 0.207392198156286,
+          "y" : 0.4258333336679917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011773255666096993,
+          "text" : "initialement évalués au moyen de l'indice ou du taux en vigueur à la date de début",
+          "width" : 0.6406570632269583,
+          "x" : 0.23613963446454977,
+          "y" : 0.406976744137148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "• La somme que le preneur s'attend à devoir payer au bailleur au titre de garanties",
+          "width" : 0.6735113029345186,
+          "x" : 0.20739220370043368,
+          "y" : 0.38662790730816743
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "de valeur résiduelle ;",
+          "width" : 0.16427103678385413,
+          "x" : 0.23819302637193324,
+          "y" : 0.3677325579549775
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "• Le prix d'exercice des options d'achat que le preneur a la certitude raisonnable",
+          "width" : 0.6735113029345186,
+          "x" : 0.20739220089413685,
+          "y" : 0.347383721012148
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012233779430389391,
+          "text" : "d'exercer ;",
+          "width" : 0.08496893533407865,
+          "x" : 0.23780834353996824,
+          "y" : 0.32684904234046674
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013100774685541827,
+          "text" : "• Les pénalités exigées en cas de résiliation du contrat de location, si la durée du",
+          "width" : 0.67145789048697,
+          "x" : 0.20739221201181934,
+          "y" : 0.30666666669815124
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.0117926355202993,
+          "text" : "contrat de location reflète l'exercice de l'option de résiliation du contrat de location.",
+          "width" : 0.6427104756745068,
+          "x" : 0.2381930248167505,
+          "y" : 0.2877906976836596
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011831395228703911,
+          "text" : "Les loyers versés sont comptabilisés comme des remboursements de dette locative décomposée",
+          "width" : 0.7618069598194568,
+          "x" : 0.11704312247733553,
+          "y" : 0.2512500000745551
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "en principal et en charge d'intérêt. Le montant de l'obligation locative au passif est dépendant des",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312936957717,
+          "y" : 0.23110465147604542
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "hypothèses retenues en matière de durée des engagements et de taux d'emprunt marginal utilisé",
+          "width" : 0.7618069598194567,
+          "x" : 0.11704312438185292,
+          "y" : 0.21075581416863254
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "comme taux d'actualisation. Le taux utilisé est le dernier taux auquel SERVAIR ABIDJAN s'est",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704313152563453,
+          "y" : 0.19166666705102853
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "refinancé soit 7,967% l'an.",
+          "width" : 0.20533880047298295,
+          "x" : 0.11704312885317306,
+          "y" : 0.17151162791621777
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011802325646082634,
+          "text" : "D'un droit d'utilisation amorti sur la durée résiduelle du contrat de location après prise en compte",
+          "width" : 0.7618069598194568,
+          "x" : 0.11909652961285866,
+          "y" : 0.134999999998746
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "d'une éventuelle période de renouvellement. Cette durée correspond à la durée contractuelle non",
+          "width" : 0.7638603722670053,
+          "x" : 0.11704312936957717,
+          "y" : 0.11482558147726418
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "résiliable à laquelle s'ajoutent les options de prolongation que le preneur a la certitude raisonnable",
+          "width" : 0.7638603722670053,
+          "x" : 0.1170431124975723,
+          "y" : 0.09583333336653599
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262213,
+          "text" : "10",
+          "width" : 0.02258726957970436,
+          "x" : 0.8583162216612088,
+          "y" : 0.058139534965636286
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2023-3\/page-010.pdf.png"
+}

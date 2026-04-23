@@ -1,0 +1,77 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.026162791252136164,
+          "text" : "ETATS FINANCIERS IFRS",
+          "width" : 0.45679013234264443,
+          "x" : 0.2674897092481143,
+          "y" : 0.8619186044521967
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.020348836580912133,
+          "text" : "1er JANVIER 2023 - 31 DECEMBRE 2023",
+          "width" : 0.47119342156176286,
+          "x" : 0.2654321001450444,
+          "y" : 0.5581395349944276
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019120119412740055,
+          "text" : "SAPH",
+          "width" : 0.0870683058252874,
+          "x" : 0.4400049421723357,
+          "y" : 0.22590505663692195
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014660852750142395,
+          "text" : "Société Africaine de Plantations d'Hévéas",
+          "width" : 0.3683127637179392,
+          "x" : 0.31481480798156547,
+          "y" : 0.14825581424606682
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Société anonyme avec conseil d'administration",
+          "width" : 0.38271605293705785,
+          "x" : 0.30864196874752065,
+          "y" : 0.13081395369261528
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145557,
+          "text" : "Au capital social de 14.593.620.855 FCFA",
+          "width" : 0.3353909546474241,
+          "x" : 0.33333333345303684,
+          "y" : 0.1119186048347296
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014689922332763672,
+          "text" : "Siège social : Abidjan - Treichville RCCM Abidjan N°CI-ABJ-1962-B-2059",
+          "width" : 0.5761316767278708,
+          "x" : 0.21193416643716195,
+          "y" : 0.09447674436961317
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008720929622650142,
+          "text" : "***",
+          "width" : 0.03292180907051517,
+          "x" : 0.48353909587626503,
+          "y" : 0.07703488409855863
+        }
+      ],
+      "width" : 1695
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/saph-ci-2023-5\/page-001.pdf.png"
+}

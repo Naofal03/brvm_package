@@ -1,0 +1,141 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 1350,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.036365202444570977,
+          "text" : "Note aux lecteurs",
+          "width" : 0.20930231730143228,
+          "x" : 0.02180233121639347,
+          "y" : 0.9095607241466088
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703698,
+          "text" : "• Les états financiers consolidés comprennent les comptes de Orange Côte d'Ivoire et de toutes ses filiales contrôlées",
+          "width" : 0.8916666666666666,
+          "x" : 0.05416667781249979,
+          "y" : 0.7703703706481482
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.028888888888888964,
+          "text" : "directement ou indirectement.",
+          "width" : 0.22238372802734374,
+          "x" : 0.07994185914039785,
+          "y" : 0.7362962961390285
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03114556489167386,
+          "text" : "- Les filiales Orange Burkina, Orange Money Burkina, Orange Libéria, Orange Money Libéria, Orange Money Côte",
+          "width" : 0.8851743570963543,
+          "x" : 0.05668606988932301,
+          "y" : 0.6770025835646256
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.05193387066876454,
+          "text" : "d'ivoire, Orange Côte d'lvoire Participations, Orange Cloud & Cyber Solutions et Côte d'ivoire Câbles sont",
+          "width" : 0.8635699462890625,
+          "x" : 0.07985538896087424,
+          "y" : 0.6329369703644315
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.034074074074074145,
+          "text" : "consolidées selon la méthode de l'intégration globale.",
+          "width" : 0.3982557932535807,
+          "x" : 0.07994187579326767,
+          "y" : 0.6044444451349986
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031007752595124338,
+          "text" : "• Le Groupement Orange Service détenu à 22,64% a été intégré dans le périmètre de consolidation par mise en",
+          "width" : 0.8851743570963542,
+          "x" : 0.056686084642229746,
+          "y" : 0.5478036173716885
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.029499723646375875,
+          "text" : "équivalence.",
+          "width" : 0.09602924346923829,
+          "x" : 0.07989235596894186,
+          "y" : 0.5136739107715571
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703709,
+          "text" : "• Les transactions, soldes et résultats réciproques entre les sociétés intégrées sont éliminés.",
+          "width" : 0.7,
+          "x" : 0.054166675416666456,
+          "y" : 0.4518518521296295
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03359172962330015,
+          "text" : "• Les états financiers consolidés sont présentés en FCFA. Les actifs, passifs et postes du compte de résultat des",
+          "width" : 0.8851743570963543,
+          "x" : 0.05668606988932301,
+          "y" : 0.39534883796612774
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03128337718822338,
+          "text" : "filiales hors zone CFA sont convertis aux taux de change en vigueur à la clôture de la période.",
+          "width" : 0.6947674051920574,
+          "x" : 0.0799418857469946,
+          "y" : 0.3614814810214835
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.031007752595124338,
+          "text" : "• Les comptes consolidés sont établis suivants les normes IFRS.",
+          "width" : 0.49127904256184907,
+          "x" : 0.05668606142256384,
+          "y" : 0.30490956070502184
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03703703703703709,
+          "text" : "• Les notes sur les états financiers seront publiées dans le rapport annuel 2025 qui sera présenté à la prochaine",
+          "width" : 0.8958333333333334,
+          "x" : 0.04999998506944498,
+          "y" : 0.24444444407407406
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.03111111111111109,
+          "text" : "Assemblée Générale des actionnaires.",
+          "width" : 0.28924418131510415,
+          "x" : 0.07994185921526774,
+          "y" : 0.21185185208407986
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015503876297562114,
+          "text" : "5",
+          "width" : 0.007267441749572723,
+          "x" : 0.4912790697502137,
+          "y" : 0.03875968991323442
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.012919896443684853,
+          "text" : "Orange Restricted",
+          "width" : 0.07267441431681321,
+          "x" : 0.4636627916303532,
+          "y" : 0.01033591736816597
+        }
+      ],
+      "width" : 2400
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/orange-ci-2025-1\/page-005.pdf.png"
+}

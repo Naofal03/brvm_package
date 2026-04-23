@@ -1,0 +1,245 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333393,
+          "text" : "Calcul du gain : le gain est prédéterminé et proportionnel à la mise. Le client, avant de",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636940491424,
+          "y" : 0.9345833333135974
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "faire son jeu, connait le montant du gain qu'il obtiendrait si son jeu se révélait gagnant",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316873015903961,
+          "y" : 0.9127906976011173
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "(s'il trouvait les bons numéros). A titre d'illustration, pour une mise unitaire de 10 FCFA",
+          "width" : 0.7695473005186836,
+          "x" : 0.1131687420687004,
+          "y" : 0.8937500001650848
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "sur 02 numéros choisis, le joueur gagne 2 500 FCFA.",
+          "width" : 0.4773662495163252,
+          "x" : 0.11522634503607601,
+          "y" : 0.8735465116054777
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.015988372166951592,
+          "text" : "Paiement des gains : le retrait du gain par le client est effectué sans qu'il ne soit",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522635341554557,
+          "y" : 0.8328488371117762
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "contraint à une formalité de publicité. Le paiement des gains inférieurs à 1 million est",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522635213639612,
+          "y" : 0.8124999998903615
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "instantané et se fait dans tous les points de vente et à des guichets dédiés à cette fin.",
+          "width" : 0.7695473005186836,
+          "x" : 0.11522635935999946,
+          "y" : 0.7936046512736831
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Pour les gains de montants supérieurs ou égaux à 1 million, le paiement se fait par",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.7716666670471665
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015235818227132158,
+          "text" : "chèque.",
+          "width" : 0.07434354188307277,
+          "x" : 0.11509160325325901,
+          "y" : 0.7525565096336899
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014660852750142395,
+          "text" : "3.2. Les produits de paris",
+          "width" : 0.22633745085518314,
+          "x" : 0.11522633818694887,
+          "y" : 0.7120833332581513
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Il s'agit de jeux de pronostics par lesquels le joueur a la possibilité d'émettre lui-même",
+          "width" : 0.7695473005186837,
+          "x" : 0.11316874521390889,
+          "y" : 0.6715116280698673
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "des paris sur des évènements qui lui sont proposés tels que les évènements sportifs,",
+          "width" : 0.7695473005186837,
+          "x" : 0.11522635615355244,
+          "y" : 0.6511627906728227
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014718991915384949,
+          "text" : "les courses de chevaux et de lévriers, le football virtuel...Dans cette gamme sont",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522636529336239,
+          "y" : 0.6320833336381746
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016036822001139317,
+          "text" : "exploités les produits spécifiques :",
+          "width" : 0.3106995708537552,
+          "x" : 0.11522634936736106,
+          "y" : 0.6104166664515225
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999876,
+          "text" : "Le Loto Sportif : Exploité depuis septembre 1985, le Loto sportif se définit comme un",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636748619004,
+          "y" : 0.5695833334799361
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122856,
+          "text" : "concours de pronostics qui porte sur une série de matchs de football du championnat",
+          "width" : 0.7654321058741156,
+          "x" : 0.11728393940862127,
+          "y" : 0.5523255815814232
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017828567028045694,
+          "text" : "anglais, écossais et australien et qui consiste à déterminer les matches nuls",
+          "width" : 0.7656008882342645,
+          "x" : 0.11718814699809257,
+          "y" : 0.5302395498506852
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "exclusivement, conformément aux règles établies par la LNB.",
+          "width" : 0.5452674649796396,
+          "x" : 0.11522635526738183,
+          "y" : 0.510000000262696
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Le Paris Mutuel Urbain : Lancé en octobre 1991, le PMU est un concours de pronostics",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.46947674420964447
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "sur la course de chevaux qui consiste à déterminer les premiers chevaux à l'arrivée.",
+          "width" : 0.7448559887004348,
+          "x" : 0.11522633284456982,
+          "y" : 0.4491279069518924
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "Les Paris sportifs en ligne : L'exploitation des paris sportifs en ligne par la LNB est",
+          "width" : 0.7674896672086896,
+          "x" : 0.11522635432922376,
+          "y" : 0.40833333359561796
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.016249999999999987,
+          "text" : "effective depuis septembre 2020 et apporte 13% à 25% du chiffre d'affaires global.",
+          "width" : 0.7427983553904407,
+          "x" : 0.11522633140236936,
+          "y" : 0.38791666627979726
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Les jeux virtuels : Ils sont offerts dans les salles de jeux de la Loterie Nationale du",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636620704058,
+          "y" : 0.34738372097805525
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01598837216695148,
+          "text" : "Bénin SA, permettant des paris sur les lévriers, le football virtuel etc.",
+          "width" : 0.6090534857983859,
+          "x" : 0.11522634640121851,
+          "y" : 0.32703488348411147
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "La gamme des produits de loterie a connu diverses évolutions. Nonobstant l'activité de",
+          "width" : 0.7674896672086895,
+          "x" : 0.11522636940491424,
+          "y" : 0.28916666654559287
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980448,
+          "text" : "la LNB réside dans les jeux d'argent et de hasard, la société souligne l'importance de «",
+          "width" : 0.7695473005186837,
+          "x" : 0.11522635615355244,
+          "y" : 0.26875000031294116
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "jouer responsable » dans sa stratégie de communication.",
+          "width" : 0.5123456559091244,
+          "x" : 0.1131687422357669,
+          "y" : 0.24854651173879938
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.008827519019444785,
+          "text" : "Contact : +229 21 31 43 00 \/ 21 31 64 22 Email: secretariat.lnb@lnb.bj Site web : loteriebenin.bj",
+          "width" : 0.4567900963549344,
+          "x" : 0.11522635861265598,
+          "y" : 0.02325581435534141
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.008827519019444785,
+          "text" : "Siège : Avenue clozel et boulevard de la marina 2650 01 BP 998",
+          "width" : 0.29835389695077574,
+          "x" : 0.5864197543709773,
+          "y" : 0.023255814209992787
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/lnb-2024-1\/page-007.pdf.png"
+}

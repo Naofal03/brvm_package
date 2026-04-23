@@ -1,0 +1,357 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.1172839470629422,
+          "x" : 0.13991769822778816,
+          "y" : 0.9433139535460627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés établis en IFRS",
+          "width" : 0.6069958524883918,
+          "x" : 0.14197531972631172,
+          "y" : 0.9302325580761015
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "Lors de la préparation des états financiers annuels consolidés, il incombe au Conseil",
+          "width" : 0.7674896672086895,
+          "x" : 0.1399177050444896,
+          "y" : 0.863333333152011
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014631783167521117,
+          "text" : "d'administration d'évaluer la capacité de ORAGROUP à poursuivre son exploitation, de fournir,",
+          "width" : 0.7654321058741156,
+          "x" : 0.13991769829750997,
+          "y" : 0.8458333330248811
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014680232206980337,
+          "text" : "le cas échéant, des informations relatives à la continuité de l'exploitation et d'appliquer la base",
+          "width" : 0.7674896672086895,
+          "x" : 0.1378600991851909,
+          "y" : 0.8312500001779745
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.018654301961263053,
+          "text" : "de continuité d'exploitation, sauf si le Conseil d'administration a l'intention de mettre",
+          "width" : 0.7635687342229879,
+          "x" : 0.14187825225344905,
+          "y" : 0.814068289642057
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "ORAGROUP en liquidation ou de cesser ses activités ou s'il n'existe aucune autre solution",
+          "width" : 0.7633744725641214,
+          "x" : 0.1419753198564851,
+          "y" : 0.8008333336679917
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "alternative réaliste qui s'offre à elle.",
+          "width" : 0.29423868431235256,
+          "x" : 0.14197531099197183,
+          "y" : 0.7848837212035162
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028494,
+          "text" : "Il incombe au Conseil d'administration de surveiller le processus d'élaboration de l'information",
+          "width" : 0.7654321058741156,
+          "x" : 0.13991767916170797,
+          "y" : 0.7541666665350477
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011666666666666714,
+          "text" : "financière d'ORAGROUP.",
+          "width" : 0.21399175895834865,
+          "x" : 0.13991770344263632,
+          "y" : 0.7383333333240922
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.017548449834187796,
+          "text" : "1.6. Responsabilités des commissaires aux comptes relatives à l'audit des états",
+          "width" : 0.8230452627505896,
+          "x" : 0.08436214957120716,
+          "y" : 0.7020348837105284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "financiers consolidés annuels établis selon les Normes IFRS",
+          "width" : 0.5884773686247051,
+          "x" : 0.1419753123611726,
+          "y" : 0.6860465118114738
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Nos objectifs sont d'obtenir l'assurance raisonnable que les états financiers consolidés pris",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197530752452375,
+          "y" : 0.6540697676570046
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "dans leur ensemble ne comportent pas d'anomalies significatives, que celles-ci proviennent",
+          "width" : 0.7654321058741156,
+          "x" : 0.14197531274195446,
+          "y" : 0.637916666720859
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "de fraudes ou résultent d'erreurs, et d'émettre un rapport d'audit contenant notre opinion.",
+          "width" : 0.7654321058741155,
+          "x" : 0.14197531465553462,
+          "y" : 0.622083333370611
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "L'assurance raisonnable correspond à un niveau élevé d'assurance, qui ne garantit toutefois",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.6061046514942139
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "pas qu'un audit réalisé conformément aux normes « ISA » permettra de toujours détecter",
+          "width" : 0.7654321058741157,
+          "x" : 0.14197529690862146,
+          "y" : 0.5915697678641267
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333333333308,
+          "text" : "toute anomalie significative existante. Les anomalies peuvent provenir de fraudes ou résulter",
+          "width" : 0.7674896672086895,
+          "x" : 0.13991772742960568,
+          "y" : 0.5754166667026904
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013091084957122745,
+          "text" : "d'erreurs et sont considérées comme significatives lorsqu'il est raisonnable de s'attendre à",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197530752452375,
+          "y" : 0.5595833333161051
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "ce que, prises individuellement ou en cumulé, elles puissent influencer les décisions",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197532279201316,
+          "y" : 0.5436046514942139
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.015167380968729605,
+          "text" : "économiques que les utilisateurs des états financiers consolidés prennent en se fondant sur",
+          "width" : 0.7655207076162661,
+          "x" : 0.14192745827148343,
+          "y" : 0.5273217528355281
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.009267806212107432,
+          "text" : "ceux-cl.",
+          "width" : 0.06393131220115805,
+          "x" : 0.14190265771964422,
+          "y" : 0.5142614457220303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014728682041168173,
+          "text" : "Nos responsabilités pour l'audit des états financiers consolidés sont décrites de façon plus",
+          "width" : 0.7633744725641216,
+          "x" : 0.14197530970559374,
+          "y" : 0.4811046515159312
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01333333373069756,
+          "text" : "détaillée à l'annexe 1 du présent rapport des commissaires aux comptes.",
+          "width" : 0.6028806578438237,
+          "x" : 0.14197531496697696,
+          "y" : 0.46499999982047335
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.025322629610697422,
+          "text" : "2. Vérifications spécifiques prévues par la loi et autres informations",
+          "width" : 0.8253604241137236,
+          "x" : 0.08010520907067231,
+          "y" : 0.40869671086707593
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01182170550028483,
+          "text" : "La responsabilité des autres informations incombe au Conseil d'administration. Les autres",
+          "width" : 0.7654321058741157,
+          "x" : 0.14197531784483478,
+          "y" : 0.379166666631947
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013120154937108386,
+          "text" : "informations se composent des informations contenues dans le rapport de gestion (mais ne",
+          "width" : 0.7654321058741156,
+          "x" : 0.1399176995732302,
+          "y" : 0.3633333332198405
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "comprennent pas les états financiers consolidés annuels et le rapport des commissaires aux",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197530561608762,
+          "y" : 0.3473837210981384
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333333730697672,
+          "text" : "comptes sur ces états financiers annuels) et du projet de résolutions.",
+          "width" : 0.5699588487733084,
+          "x" : 0.1419753152481192,
+          "y" : 0.3312499996115632
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Notre opinion sur les états financiers consolidés annuels ne s'étend pas aux autres",
+          "width" : 0.7654321058741157,
+          "x" : 0.14197531784483478,
+          "y" : 0.299418604982586
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "informations et nous n'exprimons aucune forme d'assurance que ce soit sur ces informations.",
+          "width" : 0.7674896672086895,
+          "x" : 0.13991772742960568,
+          "y" : 0.28488372117081284
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "Dans le cadre de notre mandat de commissariat aux comptes, notre responsabilité est, d'une",
+          "width" : 0.7633744725641215,
+          "x" : 0.14197530561608762,
+          "y" : 0.2529069769484291
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014534883499145446,
+          "text" : "part, de faire les vérifications spécifiques prévues par la loi, et ce faisant, de vérifier la sincérité",
+          "width" : 0.7633744725641215,
+          "x" : 0.1419753239717113,
+          "y" : 0.23691860500430328
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011782945791880328,
+          "text" : "et la concordance avec les états financiers consolidés annuels des informations données dans",
+          "width" : 0.7654321058741157,
+          "x" : 0.14197531784483478,
+          "y" : 0.22238372098792314
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "le rapport de gestion du Conseil d'administration, et dans les documents adressés aux",
+          "width" : 0.7674896672086895,
+          "x" : 0.13991771656712298,
+          "y" : 0.20494186081825672
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "actionnaires sur la situation financière et les états financiers annuels, et de vérifier, dans tous",
+          "width" : 0.7633744725641214,
+          "x" : 0.14197530752452375,
+          "y" : 0.19040697693026054
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014583333333333282,
+          "text" : "leurs aspects significatifs, le respect de certaines obligations légales et réglementaires.",
+          "width" : 0.7201646049067659,
+          "x" : 0.13991769267693263,
+          "y" : 0.1729166663135263
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.014641472498575836,
+          "text" : "D'autre part, notre responsabilité consiste également à lire les autres informations et, par",
+          "width" : 0.7654321058741155,
+          "x" : 0.14197531465553462,
+          "y" : 0.14244186064868303
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013081394831339521,
+          "text" : "conséquent, à apprécier s'il existe une incohérence significative entre celles-ci et les états",
+          "width" : 0.7633744725641215,
+          "x" : 0.1419753215197224,
+          "y" : 0.12790697706349685
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.017581664721171064,
+          "text" : "financiers consolidés annuels ou la connaissance que nous avons acquise lors de l'audit, ou",
+          "width" : 0.7635596653200546,
+          "x" : 0.14188217828943275,
+          "y" : 0.11032521816745167
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013333332935969056,
+          "text" : "encore si les autres informations semblent comporter une anomalie significative.",
+          "width" : 0.66666664267486,
+          "x" : 0.1419753317489894,
+          "y" : 0.09583333352165213
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.010174418290456178,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.2366255094420235,
+          "x" : 0.14197530821623114,
+          "y" : 0.04360465144706838
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "5",
+          "width" : 0.010288065334535967,
+          "x" : 0.8230452676413741,
+          "y" : 0.04360465136583003
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-005.pdf.png"
+}

@@ -1,0 +1,69 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 0.5,
+          "height" : 0.04583333333333328,
+          "text" : "SERVAIR ABIDJAN SA",
+          "width" : 0.4000000071890643,
+          "x" : 0.2999999992626106,
+          "y" : 0.666666666875
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026249999999999996,
+          "text" : "GATE GROUP MEMBER",
+          "width" : 0.21560575487476064,
+          "x" : 0.39630389720327674,
+          "y" : 0.6045833331601486
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.030833333333333268,
+          "text" : "ETATS FINANCIERS ANNLELS IFRS",
+          "width" : 0.4250513442975192,
+          "x" : 0.2874743248151594,
+          "y" : 0.5158333332814231
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.026162789662679042,
+          "text" : "EXERCICE DE 12 MOIS CLOS AU 31\/12\/2019.",
+          "width" : 0.4435318047082045,
+          "x" : 0.27926079415513805,
+          "y" : 0.43604651216155454
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.016454243659973167,
+          "text" : "SERVAIR",
+          "width" : 0.12332247676781971,
+          "x" : 0.7925482084329918,
+          "y" : 0.06517404100897617
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.013234837849934955,
+          "text" : "ABIDJAN",
+          "width" : 0.07602790500025314,
+          "x" : 0.8254357387316164,
+          "y" : 0.053702348445753834
+        },
+        {
+          "confidence" : 0.30000001192092896,
+          "height" : 0.008875968853632621,
+          "text" : "e girlegroup mamber",
+          "width" : 0.1067761801999364,
+          "x" : 0.8069815179766917,
+          "y" : 0.037790697930923156
+        }
+      ],
+      "width" : 1697
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/servair-abidjan-ci-2019-11\/page-002.pdf.png"
+}

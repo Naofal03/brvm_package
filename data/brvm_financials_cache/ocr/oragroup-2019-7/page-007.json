@@ -1,0 +1,69 @@
+{
+  "page_count" : 1,
+  "pages" : [
+    {
+      "height" : 2400,
+      "page_number" : 1,
+      "tokens" : [
+        {
+          "confidence" : 1,
+          "height" : 0.011686046520868909,
+          "text" : "ORAGROUP S.A.",
+          "width" : 0.1172839470629422,
+          "x" : 0.13991769822778816,
+          "y" : 0.9433139535460627
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011627906958262102,
+          "text" : "Rapport des commissaires aux comptes sur les états financiers consolidés établis en IFRS",
+          "width" : 0.6069958524883918,
+          "x" : 0.14197531972631172,
+          "y" : 0.9302325580761015
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.014738372166951508,
+          "text" : "Annexes :",
+          "width" : 0.12345678401443191,
+          "x" : 0.13991769976233134,
+          "y" : 0.8590116280469389
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.019178148905436232,
+          "text" : "- Responsabilités des commissaires aux comptes relatives à l'audit des",
+          "width" : 0.7182859024911556,
+          "x" : 0.13776113205379767,
+          "y" : 0.8121787914794106
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.011676356792450049,
+          "text" : "états financiers annuels consolidés",
+          "width" : 0.33744855196970813,
+          "x" : 0.17901235234162058,
+          "y" : 0.7979166665025725
+        },
+        {
+          "confidence" : 1,
+          "height" : 0.01465116262435917,
+          "text" : "Etats financiers consolidés IFRS au 31 décembre 2019",
+          "width" : 0.5329218090705152,
+          "x" : 0.17489711349457793,
+          "y" : 0.7703488372475202
+        },
+        {
+          "confidence" : 0.5,
+          "height" : 0.00889534910519918,
+          "text" : "Exercice clos le 31 décembre 2019",
+          "width" : 0.23662550944202354,
+          "x" : 0.14197530875635456,
+          "y" : 0.04360465101224087
+        }
+      ],
+      "width" : 1696
+    }
+  ],
+  "source" : "\/Users\/naofal\/Desktop\/brvm_package\/data\/brvm_financials_cache\/png\/oragroup-2019-7\/page-007.pdf.png"
+}
