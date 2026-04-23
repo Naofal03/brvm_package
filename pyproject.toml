@@ -1,6 +1,6 @@
 [project]
 name = "brvm-package"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python toolkit for BRVM market data, fundamentals, portfolio analytics, screening, and backtesting."
 readme = "README.md"
 authors = [
@@ -71,3 +71,4 @@ exclude = [".venv", "tests/"]
 strict = true
 ignore_missing_imports = true
 exclude = [".venv", "tests/"]
+
