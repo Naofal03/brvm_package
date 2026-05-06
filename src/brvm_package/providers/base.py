@@ -11,6 +11,7 @@ class ProviderResult:
     data: Any
     success: bool
     error: str | None = None
+    meta: dict[str, Any] | None = None
 
 
 class MarketDataProvider(ABC):

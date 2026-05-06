@@ -12,6 +12,9 @@ class SikaFinanceProvider(MarketDataProvider):
     def __init__(self) -> None:
         self.client = SikaFinanceClient()
 
+    async def close(self) -> None:
+        await self.client.close()
+
     async def get_market_quotes(self) -> ProviderResult:
         return ProviderResult(
             provider=self.name,
@@ -30,13 +33,31 @@ class SikaFinanceProvider(MarketDataProvider):
             rows = await self.client.get_historical_data(symbol, start_date, end_date, period=0)
             normalized = [self._normalize_history_row(symbol, row) for row in rows]
             normalized = [row for row in normalized if row is not None]
-            return ProviderResult(provider=self.name, data=normalized, success=True)
+            return ProviderResult(
+                provider=self.name,
+                data=normalized,
+                success=True,
+                meta={"rows_fetched": len(rows), "rows_normalized": len(normalized)},
+            )
         except Exception as exc:  # noqa: BLE001
-            return ProviderResult(provider=self.name, data=[], success=False, error=str(exc))
+            return ProviderResult(
+                provider=self.name,
+                data=[],
+                success=False,
+                error=f"{type(exc).__name__}: {exc}",
+            )
 
     async def get_fundamentals(self, symbol: str) -> ProviderResult:
         try:
             info = await self.client.get_ticker_info(symbol)
+            diagnostics = info.pop("_diagnostics", {})
+            if not info or all(v is None for k, v in info.items() if k != "source"):
+                return ProviderResult(
+                    provider=self.name,
+                    data={},
+                    success=False,
+                    error=f"Aucune donnee fondamentale exploitable pour {symbol}. Diagnostics: {diagnostics}",
+                )
             normalized = {
                 "symbol": symbol.upper(),
                 "revenue": self._to_float(info.get("revenue")),
@@ -58,11 +79,21 @@ class SikaFinanceProvider(MarketDataProvider):
                     provider=self.name,
                     data={},
                     success=False,
-                    error=f"Aucune donnee fondamentale exploitable pour {symbol}.",
+                    error=f"Aucune donnee fondamentale exploitable pour {symbol}. Diagnostics: {diagnostics}",
                 )
-            return ProviderResult(provider=self.name, data=normalized, success=True)
+            return ProviderResult(
+                provider=self.name,
+                data=normalized,
+                success=True,
+                meta=diagnostics,
+            )
         except Exception as exc:  # noqa: BLE001
-            return ProviderResult(provider=self.name, data={}, success=False, error=str(exc))
+            return ProviderResult(
+                provider=self.name,
+                data={},
+                success=False,
+                error=f"{type(exc).__name__}: {exc}",
+            )
 
     def _normalize_history_row(self, symbol: str, row: dict[str, Any]) -> dict[str, Any] | None:
         date_value = row.get("Date")
@@ -115,3 +146,4 @@ class SikaFinanceProvider(MarketDataProvider):
             "float_ratio",
         )
         return any(info.get(field) is not None for field in meaningful_fields)
+

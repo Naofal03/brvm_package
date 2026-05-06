@@ -12,6 +12,9 @@ class RichBourseProvider(MarketDataProvider):
     def __init__(self) -> None:
         self.client = RichbourseClient()
 
+    async def close(self) -> None:
+        await self.client.close()
+
     async def get_market_quotes(self) -> ProviderResult:
         try:
             rows = await self.client.get_market_quotes()
@@ -24,9 +27,19 @@ class RichBourseProvider(MarketDataProvider):
                     success=False,
                     error="Aucune cotation consolidee exploitable trouvee sur RichBourse.",
                 )
-            return ProviderResult(provider=self.name, data=normalized, success=True)
+            return ProviderResult(
+                provider=self.name,
+                data=normalized,
+                success=True,
+                meta={"rows_fetched": len(rows)},
+            )
         except Exception as exc:  # noqa: BLE001
-            return ProviderResult(provider=self.name, data=[], success=False, error=str(exc))
+            return ProviderResult(
+                provider=self.name,
+                data=[],
+                success=False,
+                error=f"{type(exc).__name__}: {exc}",
+            )
 
     async def get_history(
         self,
@@ -38,9 +51,19 @@ class RichBourseProvider(MarketDataProvider):
             rows = await self.client.get_historical_prices(symbol)
             normalized = [self._normalize_history_row(symbol, row) for row in rows]
             normalized = [row for row in normalized if row is not None]
-            return ProviderResult(provider=self.name, data=normalized, success=True)
+            return ProviderResult(
+                provider=self.name,
+                data=normalized,
+                success=True,
+                meta={"rows_fetched": len(rows)},
+            )
         except Exception as exc:  # noqa: BLE001
-            return ProviderResult(provider=self.name, data=[], success=False, error=str(exc))
+            return ProviderResult(
+                provider=self.name,
+                data=[],
+                success=False,
+                error=f"{type(exc).__name__}: {exc}",
+            )
 
     async def get_fundamentals(self, symbol: str) -> ProviderResult:
         return ProviderResult(
@@ -100,3 +123,4 @@ class RichBourseProvider(MarketDataProvider):
         if converted is None:
             return None
         return int(converted)
+

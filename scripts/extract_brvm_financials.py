@@ -6,6 +6,7 @@ import math
 import os
 import re
 import subprocess
+import time
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
@@ -46,6 +47,7 @@ class ReportLink:
     url: str
     year: int | None
     score: int
+    publication_year: int | None = None
 
 
 @dataclass(slots=True)
@@ -76,8 +78,57 @@ def normalize_text(value: str) -> str:
     return value
 
 
+def fold_text_for_search(value: str) -> str:
+    value = value.replace("\u2019", "'").replace("\xa0", " ")
+    value = unicodedata.normalize("NFKD", value)
+    value = "".join(char for char in value if not unicodedata.combining(char))
+    return value.lower()
+
+
 def extract_years(text: str) -> list[int]:
     return [int(year) for year in re.findall(r"\b(20\d{2})\b", text)]
+
+
+def infer_publication_date(url: str) -> str | None:
+    match = re.search(r"/(\d{8})[^/]*$", url)
+    if not match:
+        return None
+    raw = match.group(1)
+    return f"{raw[:4]}-{raw[4:6]}-{raw[6:8]}"
+
+
+def infer_publication_year(url: str) -> int | None:
+    publication_date = infer_publication_date(url)
+    if publication_date is None:
+        return None
+    return int(publication_date[:4])
+
+
+def infer_fiscal_year(title: str, url: str) -> int | None:
+    normalized_title = normalize_text(title)
+    normalized_url = normalize_text(url.replace("_", " ").replace("-", " "))
+
+    prioritized_patterns = [
+        r"exercice\s+(20\d{2})",
+        r"au\s+31\s+decembre\s+(20\d{2})",
+        r"etats?\s+financiers?.*?(20\d{2})",
+        r"comptes?.*?(20\d{2})",
+    ]
+    for pattern in prioritized_patterns:
+        match = re.search(pattern, normalized_title)
+        if match:
+            return int(match.group(1))
+
+    title_years = extract_years(normalized_title)
+    if title_years:
+        return max(title_years)
+
+    url_years = extract_years(normalized_url)
+    if not url_years:
+        return None
+
+    publish_year = min(url_years)
+    return publish_year - 1 if publish_year >= 2001 else publish_year
 
 
 def parse_amount(text: str) -> float | None:
@@ -105,6 +156,41 @@ def parse_amount(text: str) -> float | None:
         return None
 
 
+def parse_signed_amount(text: str) -> float | None:
+    stripped = text.strip()
+    if not stripped:
+        return None
+    negative = stripped.startswith("(") and stripped.endswith(")")
+    value = parse_amount(stripped.strip("()"))
+    if value is None:
+        return None
+    return -value if negative else value
+
+
+def parse_amount_candidates(text: str) -> list[float]:
+    stripped = text.strip()
+    if not stripped:
+        return []
+
+    parts = stripped.replace("\xa0", " ").split()
+    if (
+        len(parts) >= 6
+        and len(parts) % 2 == 0
+        and all(re.fullmatch(r"-?\d{1,3}", part) if index == 0 else re.fullmatch(r"\d{3}", part) for index, part in enumerate(parts))
+    ):
+        midpoint = len(parts) // 2
+        values: list[float] = []
+        for chunk in (" ".join(parts[:midpoint]), " ".join(parts[midpoint:])):
+            value = parse_amount(chunk)
+            if value is not None:
+                values.append(value)
+        if values:
+            return values
+
+    value = parse_amount(stripped)
+    return [value] if value is not None else []
+
+
 def safe_divide(numerator: float | None, denominator: float | None) -> float | None:
     if numerator is None or denominator in {None, 0}:
         return None
@@ -117,9 +203,20 @@ def ensure_dirs() -> None:
 
 
 def fetch_html(client: httpx.Client, url: str) -> str:
-    response = client.get(url, headers={"User-Agent": USER_AGENT}, timeout=60.0, follow_redirects=True)
-    response.raise_for_status()
-    return response.text
+    last_error: Exception | None = None
+    for attempt in range(1, 4):
+        try:
+            response = client.get(url, headers={"User-Agent": USER_AGENT}, timeout=60.0, follow_redirects=True)
+            response.raise_for_status()
+            return response.text
+        except (httpx.HTTPError, httpx.TimeoutException) as exc:
+            last_error = exc
+            if attempt == 3:
+                break
+            time.sleep(min(5.0, attempt * 1.5))
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError(f"Failed to fetch HTML for {url}")
 
 
 def crawl_company_links(client: httpx.Client, max_pages: int = 12) -> list[CompanyLink]:
@@ -162,48 +259,114 @@ def report_score(title: str, target_year: int) -> int:
     return score
 
 
+def count_core_metrics(metrics: dict[str, float | None]) -> int:
+    core_fields = (
+        "resultat_operationnel",
+        "resultat_net",
+        "chiffre_affaires",
+        "capitaux_propres",
+        "total_actif",
+        "dettes_totales",
+        "actifs_courants",
+        "passifs_courants",
+    )
+    return sum(value is not None for key, value in metrics.items() if key in core_fields)
+
+
+def classify_missing_year_reason(
+    available_reports: list[ReportLink],
+    fiscal_year: int,
+) -> tuple[str, str]:
+    same_fiscal_year = [report for report in available_reports if report.year == fiscal_year]
+    if same_fiscal_year:
+        return (
+            "report_candidates_unusable",
+            "; ".join(
+                f"{report.title} [score={report.score}]"
+                for report in sorted(same_fiscal_year, key=lambda item: item.score, reverse=True)[:3]
+            ),
+        )
+
+    nearby_reports = [
+        report for report in available_reports if report.year is not None and abs(report.year - fiscal_year) <= 1
+    ]
+    if nearby_reports:
+        return (
+            "nearest_report_is_different_fiscal_year",
+            "; ".join(
+                f"fy={report.year} pub={report.publication_year} title={report.title} [score={report.score}]"
+                for report in sorted(
+                    nearby_reports,
+                    key=lambda item: (abs((item.year or fiscal_year) - fiscal_year), -item.score),
+                )[:3]
+            ),
+        )
+
+    if available_reports:
+        return (
+            "no_candidate_for_fiscal_year",
+            "; ".join(
+                f"fy={report.year} pub={report.publication_year} title={report.title} [score={report.score}]"
+                for report in sorted(available_reports, key=lambda item: (-item.score, item.title))[:3]
+            ),
+        )
+
+    return ("no_reports_found_on_company_page", "")
+
+
 def parse_company_reports(
     client: httpx.Client,
     company: CompanyLink,
     years: set[int],
 ) -> list[ReportLink]:
-    url = f"{company.url}?field_type_rapport_tid=57"
-    soup = BeautifulSoup(fetch_html(client, url), "html.parser")
     reports: dict[str, ReportLink] = {}
     min_year = min(years)
     max_year = max(years)
     company_slug = company.url.rstrip("/").split("/")[-1]
     company_code = company_slug.split("-")[-1]
-    for row in soup.select("div.view-content table tbody tr"):
-        title_node = row.find("strong")
-        link_node = row.find("a", href=True)
-        if title_node is None or link_node is None:
-            continue
-        title = title_node.get_text(" ", strip=True)
-        link = urljoin(BASE_URL, link_node["href"])
-        candidate_years = extract_years(f"{title} {link}")
-        hint_year = max(candidate_years) if candidate_years else None
-        candidate = ReportLink(
-            company_name=company.name,
-            company_url=company.url,
-            title=title,
-            url=link,
-            year=hint_year,
-            score=report_score(title, hint_year or 0),
-        )
-        normalized_title_link = normalize_text(f"{title} {link.replace('_', ' ')}")
-        if "semestre" in normalized_title_link or "trimestre" in normalized_title_link:
-            continue
-        if len(company_code) <= 3 and company_code.isalpha():
-            if company_code not in normalized_title_link:
+    page_number = 0
+    max_pages = 8
+    while page_number < max_pages:
+        suffix = f"?field_type_rapport_tid=57&page={page_number}" if page_number else "?field_type_rapport_tid=57"
+        url = f"{company.url}{suffix}"
+        soup = BeautifulSoup(fetch_html(client, url), "html.parser")
+        rows = soup.select("div.view-content table tbody tr")
+        if not rows:
+            break
+        for row in rows:
+            title_node = row.find("strong")
+            link_node = row.find("a", href=True)
+            if title_node is None or link_node is None:
                 continue
-        if hint_year is not None and not (min_year - 1 <= hint_year <= max_year + 1):
-            continue
-        if candidate.score < 40:
-            continue
-        current = reports.get(link)
-        if current is None or candidate.score > current.score:
-            reports[link] = candidate
+            title = title_node.get_text(" ", strip=True)
+            link = urljoin(BASE_URL, link_node["href"])
+            hint_year = infer_fiscal_year(title, link)
+            candidate = ReportLink(
+                company_name=company.name,
+                company_url=company.url,
+                title=title,
+                url=link,
+                year=hint_year,
+                score=report_score(title, hint_year or 0),
+                publication_year=infer_publication_year(link),
+            )
+            normalized_title_link = normalize_text(f"{title} {link.replace('_', ' ')}")
+            if "semestre" in normalized_title_link or "trimestre" in normalized_title_link:
+                continue
+            if len(company_code) <= 3 and company_code.isalpha():
+                if company_code not in normalized_title_link:
+                    continue
+            if hint_year is not None and not (min_year - 1 <= hint_year <= max_year + 1):
+                continue
+            if candidate.score < 40:
+                continue
+            current = reports.get(link)
+            if current is None or candidate.score > current.score:
+                reports[link] = candidate
+        has_next = soup.select_one("ul.pagination li.next a") is not None
+        if not has_next:
+            break
+        page_number += 1
     return sorted(
         reports.values(),
         key=lambda item: ((item.year or 0), item.score, item.title),
@@ -214,10 +377,21 @@ def parse_company_reports(
 def download_file(client: httpx.Client, url: str, destination: Path) -> Path:
     if destination.exists():
         return destination
-    response = client.get(url, headers={"User-Agent": USER_AGENT}, timeout=120.0, follow_redirects=True)
-    response.raise_for_status()
-    destination.write_bytes(response.content)
-    return destination
+    last_error: Exception | None = None
+    for attempt in range(1, 4):
+        try:
+            response = client.get(url, headers={"User-Agent": USER_AGENT}, timeout=120.0, follow_redirects=True)
+            response.raise_for_status()
+            destination.write_bytes(response.content)
+            return destination
+        except (httpx.HTTPError, httpx.TimeoutException) as exc:
+            last_error = exc
+            if attempt == 3:
+                break
+            time.sleep(min(8.0, attempt * 2.0))
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError(f"Failed to download file for {url}")
 
 
 def render_pdf_preview(pdf_path: Path, output_dir: Path) -> Path:
@@ -289,18 +463,390 @@ def ocr_pdf_document(pdf_path: Path, cache_key: str) -> dict[str, Any]:
         return payload
 
     split_dir = CACHE_DIR / "split" / cache_key
-    page_pdfs = split_pdf_pages(pdf_path, split_dir)[:10]
+    page_pdfs = split_pdf_pages(pdf_path, split_dir)
+    selected_page_pdfs = page_pdfs[:10]
+    if len(page_pdfs) > 10:
+        selected_page_pdfs.extend(page_pdfs[-10:])
+        deduped: dict[str, Path] = {}
+        for page_pdf in selected_page_pdfs:
+            deduped[page_pdf.name] = page_pdf
+        selected_page_pdfs = [deduped[name] for name in sorted(deduped)]
     combined_pages: list[dict[str, Any]] = []
-    for index, page_pdf in enumerate(page_pdfs, start=1):
+    for page_pdf in selected_page_pdfs:
+        match = re.search(r"page-(\d+)\.pdf$", page_pdf.name)
+        page_number = int(match.group(1)) if match else 1
         png_path = render_pdf_preview(page_pdf, PNG_DIR / cache_key)
         ocr_path = OCR_DIR / cache_key / f"{page_pdf.stem}.json"
         ocr_path.parent.mkdir(parents=True, exist_ok=True)
         payload = run_ocr(png_path, ocr_path)
         if payload.get("pages"):
             page_payload = payload["pages"][0]
-            page_payload["page_number"] = index
+            page_payload["page_number"] = page_number
             combined_pages.append(page_payload)
     return {"source": str(pdf_path), "page_count": pages, "pages": combined_pages}
+
+
+def pdf_unit_multiplier(text: str) -> float:
+    normalized = normalize_text(text)
+    if "en milliards fcfa" in normalized or "milliards fcfa" in normalized:
+        return 1_000_000_000.0
+    if "en millions fcfa" in normalized or "millions fcfa" in normalized:
+        return 1_000_000.0
+    if "en milliers fcfa" in normalized or "milliers fcfa" in normalized:
+        return 1_000.0
+    return 1.0
+
+
+def extract_pdf_text_pages(pdf_path: Path) -> list[tuple[int, str]]:
+    pages: list[tuple[int, str]] = []
+    with pdfplumber.open(pdf_path) as pdf:
+        for page_number, page in enumerate(pdf.pages, start=1):
+            text = page.extract_text() or ""
+            if text.strip():
+                pages.append((page_number, text))
+    return pages
+
+
+def parse_value_from_table_cell(cell: str | None) -> float | None:
+    if not cell:
+        return None
+    matches = re.findall(r"\(?-?\d+(?: \d{3})*(?:[.,]\d+)?\)?", cell)
+    cleaned = [
+        match for match in matches
+        if not re.fullmatch(r"20\d{2}", match.strip())
+        and not re.fullmatch(r"\d+\.\d+", match.strip())
+    ]
+    if not cleaned:
+        return None
+    return parse_signed_amount(cleaned[-1])
+
+
+def find_table_year_column(table: list[list[str | None]], report_year: int) -> int | None:
+    target = str(report_year)
+    for row in table[:3]:
+        for index, cell in enumerate(row):
+            if not cell:
+                continue
+            lines = [part.strip() for part in str(cell).splitlines() if part.strip()]
+            if any(part == target or part.replace(" ", "") == target for part in lines):
+                return index
+    for row in table[:3]:
+        for index, cell in enumerate(row):
+            if cell and re.search(rf"\b{re.escape(target)}\b", str(cell)):
+                return index
+    return None
+
+
+def extract_value_from_pdf_tables(
+    pdf_path: Path,
+    *,
+    report_year: int,
+    page_markers: list[str],
+    label_markers: list[str],
+    excluded_terms: list[str] | None = None,
+) -> float | None:
+    with pdfplumber.open(pdf_path) as pdf:
+        candidates: list[tuple[int, int, list[list[str | None]], str]] = []
+        for page_number, page in enumerate(pdf.pages, start=1):
+            text = page.extract_text() or ""
+            score = page_matches_markers(text, page_markers)
+            if score <= 0:
+                continue
+            table = page.extract_table()
+            if not table:
+                continue
+            candidates.append((score, page_number, table, text))
+
+        for _, _, table, page_text in sorted(candidates, key=lambda item: (-item[0], -item[1])):
+            target_column = find_table_year_column(table, report_year)
+            if target_column is None:
+                continue
+            multiplier = pdf_unit_multiplier(page_text)
+            line_candidates: list[tuple[int, list[str | None]]] = []
+            for row in table:
+                label = str(row[0] or "").strip()
+                if not label:
+                    continue
+                normalized_label = normalize_text(label)
+                if excluded_terms and any(normalize_text(term) in normalized_label for term in excluded_terms):
+                    continue
+                score = line_label_score(label, label_markers)
+                if score is None:
+                    continue
+                line_candidates.append((score, row))
+
+            for _, row in sorted(line_candidates, key=lambda item: -item[0]):
+                if target_column < len(row):
+                    value = parse_value_from_table_cell(row[target_column])
+                    if value is not None:
+                        return value * multiplier
+                value = parse_value_from_table_cell(row[0])
+                if value is not None:
+                    return value * multiplier
+    return None
+
+
+def extract_page_years(text: str) -> list[int]:
+    seen: list[int] = []
+    for match in re.finditer(r"\b(20\d{2})\b", text):
+        year = int(match.group(1))
+        if year not in seen:
+            seen.append(year)
+    return seen
+
+
+def page_matches_markers(text: str, markers: list[str]) -> int:
+    normalized = normalize_text(text)
+    return sum(1 for marker in markers if normalize_text(marker) in normalized)
+
+
+def extract_line_values(line: str, year_count: int) -> list[float]:
+    raw_matches = re.findall(r"\(?-?\d+(?: \d{3})*(?:[.,]\d+)?\)?", line)
+    if len(raw_matches) == 1 and year_count > 1:
+        stripped = raw_matches[0].strip().strip("()")
+        if "," not in stripped and "." not in stripped:
+            parts = stripped.split()
+            if len(parts) % year_count == 0:
+                group_size = len(parts) // year_count
+                grouped_values: list[float] = []
+                for index in range(year_count):
+                    group = " ".join(parts[index * group_size : (index + 1) * group_size])
+                    parsed = parse_signed_amount(group)
+                    if parsed is not None:
+                        grouped_values.append(parsed)
+                if len(grouped_values) == year_count:
+                    return grouped_values
+
+    values: list[float] = []
+    for raw in raw_matches:
+        token = raw.strip()
+        if re.fullmatch(r"20\d{2}", token):
+            continue
+        if re.fullmatch(r"\d+\.\d+", token):
+            continue
+        value = parse_signed_amount(token)
+        if value is None:
+            continue
+        values.append(value)
+    if len(values) > year_count:
+        values = values[:year_count]
+    return values
+
+
+def line_label_score(line: str, label_markers: list[str]) -> int | None:
+    normalized_line = normalize_text(line)
+    best_score: int | None = None
+    for index, marker in enumerate(label_markers):
+        normalized_marker = normalize_text(marker)
+        score: int | None = None
+        if normalized_line == normalized_marker:
+            score = 120 - index
+        elif normalized_line.startswith(f"{normalized_marker} "):
+            score = 100 - index
+        elif normalized_marker in normalized_line:
+            score = 60 - index
+        if score is None:
+            continue
+        if best_score is None or score > best_score:
+            best_score = score
+    return best_score
+
+
+def trim_line_to_marker(line: str, label_markers: list[str]) -> str:
+    folded_line = fold_text_for_search(line)
+    best_start: int | None = None
+    best_length = 0
+    for marker in label_markers:
+        folded_marker = fold_text_for_search(marker)
+        position = folded_line.find(folded_marker)
+        if position == -1:
+            continue
+        if best_start is None or position < best_start or (position == best_start and len(folded_marker) > best_length):
+            best_start = position
+            best_length = len(folded_marker)
+    if best_start is None:
+        return line
+    return line[best_start + best_length :]
+
+
+def extract_value_from_statement_pages(
+    pages: list[tuple[int, str]],
+    *,
+    report_year: int,
+    page_markers: list[str],
+    label_markers: list[str],
+    excluded_terms: list[str] | None = None,
+) -> float | None:
+    scored_pages = [
+        (page_matches_markers(text, page_markers), page_number, text)
+        for page_number, text in pages
+    ]
+    scored_pages = [item for item in scored_pages if item[0] > 0] or [
+        (0, page_number, text) for page_number, text in pages
+    ]
+    for _, _, text in sorted(scored_pages, key=lambda item: (-item[0], -item[1])):
+        page_years = [year for year in extract_page_years(text) if 2000 <= year <= 2035]
+        if report_year not in page_years:
+            continue
+        year_index = page_years.index(report_year)
+        year_count = len(page_years)
+        multiplier = pdf_unit_multiplier(text)
+        matching_lines: list[tuple[int, str]] = []
+        for line in text.splitlines():
+            normalized_line = normalize_text(line)
+            if excluded_terms and any(normalize_text(term) in normalized_line for term in excluded_terms):
+                continue
+            score = line_label_score(line, label_markers)
+            if score is None:
+                continue
+            matching_lines.append((score, line))
+        for _, line in sorted(matching_lines, key=lambda item: -item[0]):
+            values = extract_line_values(trim_line_to_marker(line, label_markers), year_count)
+            if year_index < len(values):
+                return values[year_index] * multiplier
+    return None
+
+
+def extract_metrics_from_pdf_text(pdf_path: Path, report_year: int) -> dict[str, float | None]:
+    pages = extract_pdf_text_pages(pdf_path)
+    if not pages:
+        return {}
+
+    revenue = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["compte de résultat", "compte de resultat", "ifrs_compte de résultat", "résultat net de l'ensemble consolidé", "resultat net de l'ensemble consolide"],
+        label_markers=["chiffre d'affaires", "chiffre d’affaires", "produit net bancaire"],
+    )
+    operating_result = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["compte de résultat", "compte de resultat", "ifrs_compte de résultat", "résultat net de l'ensemble consolidé", "resultat net de l'ensemble consolide"],
+        label_markers=["résultat d'exploitation", "resultat d'exploitation", "résultat d’exploitation", "résultat d'exploitation", "résultat opérationnel", "resultat operationnel"],
+    )
+    net_income = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["compte de résultat", "compte de resultat", "ifrs_compte de résultat", "résultats financiers consolidés"],
+        label_markers=["résultat net de l'ensemble consolidé", "resultat net de l'ensemble consolide", "résultat net", "resultat net"],
+    )
+    total_assets = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["bilan - actif", "ifrs_actif", "total de l'actif", "total de l’actif"],
+        label_markers=["total de l'actif", "total de l’actif", "total du bilan", "total actif"],
+        excluded_terms=["non courant", "courant"],
+    )
+    current_assets = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["bilan - actif", "ifrs_actif", "actif courant", "actif circulant"],
+        label_markers=["total de l'actif courant", "total de l’actif courant", "actif circulant", "actifs courants", "total actif circulant"],
+    )
+    equity = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["bilan - passif", "ifrs_passif", "total capitaux propres"],
+        label_markers=["total capitaux propres"],
+    )
+    current_liabilities = extract_value_from_statement_pages(
+        pages,
+        report_year=report_year,
+        page_markers=["bilan - passif", "ifrs_passif", "passifs courants", "passif circulant"],
+        label_markers=["total des passifs courants", "passifs courants", "total passif circulant"],
+    )
+
+    total_debts = None
+    if total_assets is not None and equity is not None:
+        total_debts = total_assets - equity
+
+    metrics: dict[str, float | None] = {
+        "resultat_operationnel": operating_result,
+        "resultat_net": net_income,
+        "chiffre_affaires": revenue,
+        "capitaux_propres": equity,
+        "total_actif": total_assets,
+        "dettes_totales": total_debts,
+        "actifs_courants": current_assets,
+        "passifs_courants": current_liabilities,
+    }
+    metrics["marge_operationnelle"] = safe_divide(metrics["resultat_operationnel"], metrics["chiffre_affaires"])
+    metrics["marge_nette"] = safe_divide(metrics["resultat_net"], metrics["chiffre_affaires"])
+    metrics["roe"] = safe_divide(metrics["resultat_net"], metrics["capitaux_propres"])
+    metrics["roa"] = safe_divide(metrics["resultat_net"], metrics["total_actif"])
+    metrics["ratio_endettement"] = safe_divide(metrics["dettes_totales"], metrics["capitaux_propres"])
+    metrics["autonomie_financiere"] = safe_divide(metrics["capitaux_propres"], metrics["total_actif"])
+    metrics["ratio_liquidite_generale"] = safe_divide(metrics["actifs_courants"], metrics["passifs_courants"])
+    return metrics
+
+
+def extract_metrics_from_pdf_tables(pdf_path: Path, report_year: int) -> dict[str, float | None]:
+    revenue = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["compte de résultat", "compte de resultat", "ifrs_compte de résultat", "résultat net de l'ensemble consolidé"],
+        label_markers=["chiffre d'affaires", "chiffre d’affaires", "produit net bancaire"],
+    )
+    operating_result = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["compte de résultat", "compte de resultat", "ifrs_compte de résultat", "résultat net de l'ensemble consolidé"],
+        label_markers=["résultat d'exploitation", "résultat d’exploitation", "resultat d'exploitation", "résultat opérationnel", "resultat operationnel"],
+    )
+    net_income = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["compte de résultat", "compte de resultat", "ifrs_compte de résultat", "résultat net de l'ensemble consolidé"],
+        label_markers=["résultat net de l'ensemble consolidé", "resultat net de l'ensemble consolide", "résultat net", "resultat net"],
+    )
+    total_assets = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["bilan - actif", "ifrs_actif", "total de l'actif", "total de l’actif"],
+        label_markers=["total de l'actif", "total de l’actif", "total du bilan", "total actif"],
+        excluded_terms=["non courant", "courant"],
+    )
+    current_assets = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["bilan - actif", "ifrs_actif", "actif courant", "actif circulant"],
+        label_markers=["total de l'actif courant", "total de l’actif courant", "actif circulant", "actifs courants", "total actif circulant"],
+    )
+    equity = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["bilan - passif", "ifrs_passif", "total capitaux propres"],
+        label_markers=["total capitaux propres"],
+    )
+    current_liabilities = extract_value_from_pdf_tables(
+        pdf_path,
+        report_year=report_year,
+        page_markers=["bilan - passif", "ifrs_passif", "passifs courants", "passif circulant"],
+        label_markers=["total des passifs courants", "passifs courants", "total passif circulant"],
+    )
+
+    total_debts = None
+    if total_assets is not None and equity is not None:
+        total_debts = total_assets - equity
+
+    metrics: dict[str, float | None] = {
+        "resultat_operationnel": operating_result,
+        "resultat_net": net_income,
+        "chiffre_affaires": revenue,
+        "capitaux_propres": equity,
+        "total_actif": total_assets,
+        "dettes_totales": total_debts,
+        "actifs_courants": current_assets,
+        "passifs_courants": current_liabilities,
+    }
+    metrics["marge_operationnelle"] = safe_divide(metrics["resultat_operationnel"], metrics["chiffre_affaires"])
+    metrics["marge_nette"] = safe_divide(metrics["resultat_net"], metrics["chiffre_affaires"])
+    metrics["roe"] = safe_divide(metrics["resultat_net"], metrics["capitaux_propres"])
+    metrics["roa"] = safe_divide(metrics["resultat_net"], metrics["total_actif"])
+    metrics["ratio_endettement"] = safe_divide(metrics["dettes_totales"], metrics["capitaux_propres"])
+    metrics["autonomie_financiere"] = safe_divide(metrics["capitaux_propres"], metrics["total_actif"])
+    metrics["ratio_liquidite_generale"] = safe_divide(metrics["actifs_courants"], metrics["passifs_courants"])
+    return metrics
 
 
 def load_tokens(ocr_payload: dict[str, Any]) -> list[OCRToken]:
@@ -324,7 +870,12 @@ def load_tokens(ocr_payload: dict[str, Any]) -> list[OCRToken]:
 
 
 def year_positions(tokens: list[OCRToken], year: int) -> list[float]:
-    positions = sorted(token.x for token in tokens if normalize_text(token.text) == str(year))
+    target = str(year)
+    positions = sorted(
+        token.x
+        for token in tokens
+        if normalize_text(token.text) == target or target in normalize_text(token.text)
+    )
     clustered: list[float] = []
     for position in positions:
         if not clustered or abs(position - clustered[-1]) > 0.03:
@@ -332,27 +883,74 @@ def year_positions(tokens: list[OCRToken], year: int) -> list[float]:
     return clustered
 
 
+def label_match_score(token_text: str, labels: list[str]) -> int | None:
+    normalized = normalize_text(token_text)
+    best_score: int | None = None
+    for label in labels:
+        normalized_label = normalize_text(label)
+        score: int | None = None
+        if normalized == normalized_label:
+            score = 100
+        elif normalized.startswith(normalized_label) or normalized.endswith(normalized_label):
+            score = 80
+        elif normalized_label in normalized:
+            score = 50
+        if score is None:
+            continue
+        if "variation" in normalized or "flux de tresorerie" in normalized or "rendement" in normalized:
+            score -= 80
+        if best_score is None or score > best_score:
+            best_score = score
+    return best_score
+
+
 def row_numeric_candidates(tokens: list[OCRToken], label_token: OCRToken) -> list[OCRToken]:
     candidates: list[OCRToken] = []
+    y_tolerance = max(0.0065, min(0.012, label_token.height * 0.75))
     for token in tokens:
         if token.page != label_token.page:
             continue
         if token.x <= label_token.x + 0.03:
             continue
-        if abs(token.y - label_token.y) > max(0.012, label_token.height * 1.5):
+        if abs(token.y - label_token.y) > y_tolerance:
             continue
-        if parse_amount(token.text) is None:
+        values = parse_amount_candidates(token.text)
+        if not values:
             continue
-        candidates.append(token)
+        if len(values) == 1:
+            candidates.append(token)
+            continue
+
+        slice_width = token.width / len(values) if token.width > 0 else 0.04
+        for index, value in enumerate(values):
+            pseudo_text = f"{value:.0f}"
+            candidates.append(
+                OCRToken(
+                    page=token.page,
+                    text=pseudo_text,
+                    x=token.x + (slice_width * index),
+                    y=token.y,
+                    width=slice_width,
+                    height=token.height,
+                    confidence=token.confidence,
+                )
+            )
     return candidates
 
 
-def pick_value_for_label(tokens: list[OCRToken], year_x_positions: list[float], labels: list[str]) -> float | None:
-    normalized_labels = [normalize_text(label) for label in labels]
-    for token in tokens:
-        normalized = normalize_text(token.text)
-        if not any(label in normalized for label in normalized_labels):
-            continue
+def pick_value_for_label(
+    tokens: list[OCRToken],
+    year_x_positions: list[float],
+    labels: list[str],
+    *,
+    prefer_non_zero: bool = False,
+) -> float | None:
+    matching_tokens = [
+        (score, token)
+        for token in tokens
+        if (score := label_match_score(token.text, labels)) is not None
+    ]
+    for _, token in sorted(matching_tokens, key=lambda item: (-item[0], item[1].page, -item[1].y, item[1].x)):
         candidates = row_numeric_candidates(tokens, token)
         if not candidates:
             continue
@@ -367,18 +965,89 @@ def pick_value_for_label(tokens: list[OCRToken], year_x_positions: list[float], 
         else:
             chosen = min(candidates, key=lambda item: item.x)
         value = parse_amount(chosen.text)
+        if prefer_non_zero and value == 0.0:
+            non_zero_candidates = [
+                candidate
+                for candidate in candidates
+                if (candidate_value := parse_amount(candidate.text)) not in {None, 0.0}
+            ]
+            if non_zero_candidates:
+                fallback = min(
+                    non_zero_candidates,
+                    key=lambda item: (
+                        abs(item.x - chosen.x),
+                        abs(item.x - target_x) if target_positions else item.x,
+                    ),
+                )
+                fallback_value = parse_amount(fallback.text)
+                if fallback_value is not None:
+                    value = fallback_value
         if value is not None:
             return value
     return None
 
 
 def pick_total_assets(tokens: list[OCRToken], year_x_positions: list[float]) -> float | None:
-    candidates = [
-        token
-        for token in tokens
-        if normalize_text(token.text) == "total" and token.x < 0.35 and 0.60 <= token.y <= 0.78
-    ]
-    for token in candidates:
+    labelled_tokens = []
+    for token in tokens:
+        normalized = normalize_text(token.text)
+        score = None
+        if normalized in {
+            "total actif",
+            "total de l'actif",
+            "total bilan",
+            "total passif",
+            "total du passif",
+            "total passif et capitaux propres",
+            "total du passif et des capitaux propres",
+        }:
+            score = 100
+        elif (
+            (
+                "total actif" in normalized
+                or "total de l'actif" in normalized
+                or "total bilan" in normalized
+                or "total du passif" in normalized
+                or "total passif et capitaux propres" in normalized
+            )
+            and "circulant" not in normalized
+        ):
+            score = 70
+        if score is not None:
+            labelled_tokens.append((score, token))
+    for _, token in sorted(labelled_tokens, key=lambda item: (-item[0], item[1].page, -item[1].y, item[1].x)):
+        values = row_numeric_candidates(tokens, token)
+        if not values:
+            continue
+        if year_x_positions:
+            target_x = min((pos for pos in year_x_positions if pos > token.x), default=min(year_x_positions))
+            chosen = min(values, key=lambda item: abs(item.x - target_x))
+        else:
+            chosen = min(values, key=lambda item: item.x)
+        value = parse_amount(chosen.text)
+        if value is not None:
+            return value
+
+    return None
+
+
+def pick_total_passif(tokens: list[OCRToken], year_x_positions: list[float]) -> float | None:
+    labelled_tokens = []
+    for token in tokens:
+        normalized = normalize_text(token.text)
+        score = None
+        if normalized in {
+            "total du passif",
+            "total passif",
+            "total du passif et des capitaux propres",
+            "total passif et capitaux propres",
+        }:
+            score = 100
+        elif "total du passif" in normalized or "total passif" in normalized:
+            score = 70
+        if score is not None:
+            labelled_tokens.append((score, token))
+    for _, token in sorted(labelled_tokens, key=lambda item: (-item[0], item[1].page, -item[1].y, item[1].x)):
         values = row_numeric_candidates(tokens, token)
         if not values:
             continue
@@ -393,9 +1062,77 @@ def pick_total_assets(tokens: list[OCRToken], year_x_positions: list[float]) -> 
     return None
 
 
+def is_bank_report(tokens: list[OCRToken]) -> bool:
+    bank_markers = (
+        "produit net bancaire",
+        "creances interbancaires et assimilees",
+        "creances bancaires et assimilees",
+        "dettes interbancaires et assimilees",
+        "capitaux propres et ressources assimilees",
+    )
+    normalized_texts = {normalize_text(token.text) for token in tokens}
+    return any(any(marker in text for marker in bank_markers) for text in normalized_texts)
+
+
+def sanitize_bank_metrics(
+    metrics: dict[str, float | None],
+    *,
+    total_passif: float | None,
+) -> dict[str, float | None]:
+    sanitized = metrics.copy()
+    equity = sanitized.get("capitaux_propres")
+    total_assets = sanitized.get("total_actif")
+    total_debts = sanitized.get("dettes_totales")
+    revenue = sanitized.get("chiffre_affaires")
+
+    if revenue is not None and equity is not None and revenue == equity:
+        sanitized["chiffre_affaires"] = None
+        revenue = None
+
+    if total_assets is not None and equity is not None and total_assets < equity:
+        replacement_assets = total_passif if total_passif is not None and total_passif >= equity else None
+        sanitized["total_actif"] = replacement_assets
+        total_assets = replacement_assets
+
+    if total_debts is not None and total_debts < 0:
+        if total_assets is not None and equity is not None and total_assets >= equity:
+            sanitized["dettes_totales"] = total_assets - equity
+        else:
+            sanitized["dettes_totales"] = None
+        total_debts = sanitized["dettes_totales"]
+
+    if total_assets is not None and equity is not None and total_debts is not None:
+        balance_gap = abs((equity + total_debts) - total_assets) / max(abs(total_assets), 1.0)
+        if balance_gap > 0.5:
+            sanitized["dettes_totales"] = None
+            if total_passif is not None and equity is not None and total_passif >= equity:
+                sanitized["total_actif"] = total_passif
+            else:
+                sanitized["total_actif"] = None
+
+    sanitized["marge_operationnelle"] = safe_divide(sanitized.get("resultat_operationnel"), sanitized.get("chiffre_affaires"))
+    sanitized["marge_nette"] = safe_divide(sanitized.get("resultat_net"), sanitized.get("chiffre_affaires"))
+    sanitized["roe"] = safe_divide(sanitized.get("resultat_net"), sanitized.get("capitaux_propres"))
+    sanitized["roa"] = safe_divide(sanitized.get("resultat_net"), sanitized.get("total_actif"))
+    sanitized["ratio_endettement"] = safe_divide(sanitized.get("dettes_totales"), sanitized.get("capitaux_propres"))
+    sanitized["autonomie_financiere"] = safe_divide(sanitized.get("capitaux_propres"), sanitized.get("total_actif"))
+    sanitized["ratio_liquidite_generale"] = safe_divide(sanitized.get("actifs_courants"), sanitized.get("passifs_courants"))
+    return sanitized
+
+
 def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float | None]:
+    bank_report = is_bank_report(tokens)
     positions = year_positions(tokens, report_year)
-    revenue = pick_value_for_label(tokens, positions, ["Chiffre d'affaires", "Chiffre d affaires"])
+    revenue = pick_value_for_label(
+        tokens,
+        positions,
+        [
+            "Chiffre d'affaires",
+            "Chiffre d affaires",
+            "Produit net bancaire",
+        ],
+        prefer_non_zero=True,
+    )
     operating_result = pick_value_for_label(
         tokens,
         positions,
@@ -423,11 +1160,27 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
     )
     equity = pick_value_for_label(tokens, positions, ["Capitaux propres", "Total capitaux propres"])
     if equity is None:
+        equity = pick_value_for_label(
+            tokens,
+            positions,
+            [
+                "CAPITAUX PROPRES ET RESSOURCES ASSIMILEES",
+                "CAPITAUX PROPRES ET RESSOURCES ASSIMILLEES",
+                "TOTAL CAPITAUX PROPRES ET RESSOURCES ASSIMILEES",
+                "Total des capitaux propres",
+                "Total capitaux propres",
+                "Total capitaux propres et ressources assimilees",
+            ],
+        )
+    if equity is None:
         equity_parts = [capital, reserves, current_year_result, other_equity]
         if any(value is not None for value in equity_parts):
             equity = sum(value or 0.0 for value in equity_parts)
 
     total_assets = pick_total_assets(tokens, positions)
+    total_passif = pick_total_passif(tokens, positions)
+    if total_assets is None:
+        total_assets = total_passif
 
     inventories = pick_value_for_label(tokens, positions, ["Stocks"])
     receivables = pick_value_for_label(
@@ -436,14 +1189,24 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
         ["Créances et emplois assimilés", "Creances et emplois assimiles", "Créances", "Creances"],
     )
     cash_assets = pick_value_for_label(tokens, positions, ["Trésorerie - ACTIF", "Trésorerie actif", "Tresorerie - actif"])
-    current_assets = pick_value_for_label(tokens, positions, ["Actif circulant", "Actifs courants"])
+    current_assets = pick_value_for_label(
+        tokens,
+        positions,
+        ["Actif circulant", "Actifs courants", "TOTAL ACTIF CIRCULANT", "Actif Circulant net", "TOTAL ACTIF CRCULANT"],
+    )
     if current_assets is None and any(value is not None for value in (inventories, receivables, cash_assets)):
         current_assets = sum(value or 0.0 for value in (inventories, receivables, cash_assets))
 
     financial_debts = pick_value_for_label(
         tokens,
         positions,
-        ["Dettes financières", "Dettes financieres", "Emprunts et dettes financières"],
+        [
+            "Dettes financières",
+            "Dettes financieres",
+            "Emprunts et dettes financières",
+            "TOTAL DETTES FINANCIERES ET RESSOURCES ASSIMILEES",
+            "Dettes financières et ressources assimilées",
+        ],
     )
     operating_debts = pick_value_for_label(
         tokens,
@@ -454,12 +1217,28 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
     total_debts = pick_value_for_label(tokens, positions, ["Dettes totales", "Total dettes"])
     if total_debts is None and any(value is not None for value in (financial_debts, operating_debts, cash_liabilities)):
         total_debts = sum(value or 0.0 for value in (financial_debts, operating_debts, cash_liabilities))
-    if total_debts is None and total_assets is not None and equity is not None:
-        total_debts = total_assets - equity
 
-    current_liabilities = pick_value_for_label(tokens, positions, ["Passifs courants", "Passif circulant", "Passifs circulants"])
+    current_liabilities = pick_value_for_label(
+        tokens,
+        positions,
+        ["Passifs courants", "Passif circulant", "Passifs circulants", "TOTAL PASSIF CIRCULANT", "Total passif circulant"],
+    )
     if current_liabilities is None and any(value is not None for value in (operating_debts, cash_liabilities)):
         current_liabilities = sum(value or 0.0 for value in (operating_debts, cash_liabilities))
+    if any(value is not None for value in (financial_debts, current_liabilities)):
+        combined_debts = sum(value or 0.0 for value in (financial_debts, current_liabilities))
+        if total_debts is None or combined_debts > total_debts:
+            total_debts = combined_debts
+    if total_debts is None and total_passif is not None and equity is not None:
+        total_debts = total_passif - equity
+    if total_debts is None and total_assets is not None and equity is not None:
+        total_debts = total_assets - equity
+    if total_assets is None and total_debts is not None and equity is not None:
+        total_assets = total_debts + equity
+    if total_assets is not None and total_debts is not None and equity is not None:
+        reconstructed_assets = total_debts + equity
+        if reconstructed_assets > total_assets:
+            total_assets = reconstructed_assets
 
     metrics: dict[str, float | None] = {
         "resultat_operationnel": operating_result,
@@ -478,6 +1257,8 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
     metrics["ratio_endettement"] = safe_divide(metrics["dettes_totales"], metrics["capitaux_propres"])
     metrics["autonomie_financiere"] = safe_divide(metrics["capitaux_propres"], metrics["total_actif"])
     metrics["ratio_liquidite_generale"] = safe_divide(metrics["actifs_courants"], metrics["passifs_courants"])
+    if bank_report:
+        metrics = sanitize_bank_metrics(metrics, total_passif=total_passif)
     return metrics
 
 
@@ -491,6 +1272,20 @@ def detect_report_year(tokens: list[OCRToken]) -> int | None:
     return max(years)
 
 
+def resolve_report_year(report: ReportLink, tokens: list[OCRToken], expected_years: set[int]) -> int | None:
+    if report.year is not None and report.year not in expected_years:
+        return None
+    hinted_year = report.year if report.year in expected_years else None
+    detected_year = detect_report_year(tokens)
+    if detected_year in expected_years and detected_year == hinted_year:
+        return detected_year
+    if hinted_year is not None:
+        return hinted_year
+    if detected_year in expected_years:
+        return detected_year
+    return None
+
+
 def export_dataframe(dataframe: pd.DataFrame, destination_csv: Path) -> None:
     dataframe.to_csv(destination_csv, index=False)
     try:
@@ -499,69 +1294,35 @@ def export_dataframe(dataframe: pd.DataFrame, destination_csv: Path) -> None:
         pass
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Extract BRVM listed-company financial metrics from BRVM reports.")
-    parser.add_argument("--limit", type=int, default=None, help="Limit the number of issuers processed.")
-    parser.add_argument("--years", nargs="*", type=int, default=DEFAULT_YEARS, help="Report years to extract.")
-    args = parser.parse_args()
+def load_existing_rows(destination_csv: Path) -> list[dict[str, Any]]:
+    if not destination_csv.exists():
+        return []
+    dataframe = pd.read_csv(destination_csv)
+    return dataframe.to_dict(orient="records")
 
-    ensure_dirs()
-    years = set(args.years)
 
-    rows: list[dict[str, Any]] = []
-    with httpx.Client(verify=False) as client:
-        companies = crawl_company_links(client)
-        if args.limit is not None:
-            companies = companies[: args.limit]
+def merge_rows(existing_rows: list[dict[str, Any]], new_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    merged: dict[tuple[str, int], dict[str, Any]] = {}
+    for row in existing_rows + new_rows:
+        fiscal_year = row.get("fiscal_year")
+        emetteur = row.get("emetteur")
+        if emetteur is None or pd.isna(fiscal_year):
+            continue
+        merged[(str(emetteur), int(float(fiscal_year)))] = row
+    return list(merged.values())
 
-        for company in companies:
-            reports = parse_company_reports(client, company, years)
-            collected: dict[int, dict[str, Any]] = {}
-            for index, report in enumerate(reports[:12], start=1):
-                cache_key = f"{slugify(company.name)}-{report.year or 'unknown'}-{index}"
-                suffix = Path(report.url).suffix or ".pdf"
-                pdf_path = PDF_DIR / f"{cache_key}{suffix}"
-                pdf_path = download_file(client, report.url, pdf_path)
-                tokens = load_tokens(ocr_pdf_document(pdf_path, cache_key))
-                detected_year = detect_report_year(tokens)
-                if detected_year not in years or detected_year in collected:
-                    continue
-                metrics = extract_metrics(tokens, detected_year)
-                row = {
-                    "emetteur": company.name,
-                    "company_url": company.url,
-                    "report_year": detected_year,
-                    "report_title": report.title,
-                    "report_url": report.url,
-                    "status": "ok",
-                    **metrics,
-                }
-                if not any(value is not None for key, value in metrics.items() if not key.startswith("marge") and key not in {"roe", "roa", "ratio_endettement", "autonomie_financiere", "ratio_liquidite_generale"}):
-                    row["status"] = "parsed_but_empty"
-                collected[detected_year] = row
-                if len(collected) == len(years):
-                    break
 
-            for year in sorted(years):
-                rows.append(
-                    collected.get(
-                        year,
-                        {
-                            "emetteur": company.name,
-                            "company_url": company.url,
-                            "report_year": year,
-                            "report_title": None,
-                            "report_url": None,
-                            "status": "missing_report",
-                        },
-                    )
-                )
-
+def finalize_dataframe(rows: list[dict[str, Any]]) -> pd.DataFrame:
     dataframe = pd.DataFrame(rows)
     preferred_order = [
         "emetteur",
+        "fiscal_year",
         "report_year",
+        "publication_date",
         "status",
+        "status_reason",
+        "diagnostic",
+        "core_metrics_count",
         "report_title",
         "report_url",
         "resultat_operationnel",
@@ -581,9 +1342,162 @@ def main() -> None:
         "ratio_liquidite_generale",
         "company_url",
     ]
+    if dataframe.empty:
+        return dataframe
     dataframe = dataframe[[column for column in preferred_order if column in dataframe.columns]]
-    export_dataframe(dataframe, OUTPUT_DIR / "brvm_financials_2020_2025.csv")
-    print(f"Wrote {len(dataframe)} rows to {OUTPUT_DIR / 'brvm_financials_2020_2025.csv'}")
+    if {"emetteur", "fiscal_year"}.issubset(dataframe.columns):
+        dataframe = dataframe.sort_values(["emetteur", "fiscal_year"]).reset_index(drop=True)
+    return dataframe
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Extract BRVM listed-company financial metrics from BRVM reports.")
+    parser.add_argument("--limit", type=int, default=None, help="Limit the number of issuers processed.")
+    parser.add_argument("--years", nargs="*", type=int, default=DEFAULT_YEARS, help="Report years to extract.")
+    parser.add_argument("--start-index", type=int, default=0, help="Zero-based start index in the issuer list.")
+    parser.add_argument("--company-contains", type=str, default=None, help="Only process issuers whose name contains this text.")
+    parser.add_argument("--checkpoint-every", type=int, default=1, help="Write partial CSV every N issuers.")
+    args = parser.parse_args()
+
+    ensure_dirs()
+    years = set(args.years)
+    checkpoint_every = max(1, args.checkpoint_every)
+    output_path = OUTPUT_DIR / "brvm_financials_2020_2025.csv"
+    partial_run = args.start_index != 0 or args.limit is not None or args.company_contains is not None
+
+    rows: list[dict[str, Any]] = load_existing_rows(output_path) if partial_run else []
+    with httpx.Client(verify=False, timeout=120.0, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}) as client:
+        companies = crawl_company_links(client)
+        if args.company_contains:
+            needle = normalize_text(args.company_contains)
+            companies = [company for company in companies if needle in normalize_text(company.name)]
+        if args.start_index:
+            companies = companies[args.start_index :]
+        if args.limit is not None:
+            companies = companies[: args.limit]
+
+        for company_index, company in enumerate(companies, start=1):
+            try:
+                reports = parse_company_reports(client, company, years)
+            except Exception as exc:
+                reports = []
+                for year in sorted(years):
+                    rows.append(
+                        {
+                            "emetteur": company.name,
+                            "company_url": company.url,
+                            "fiscal_year": year,
+                            "report_year": None,
+                            "publication_date": None,
+                            "report_title": None,
+                            "report_url": None,
+                            "status": "company_error",
+                            "status_reason": type(exc).__name__,
+                            "diagnostic": str(exc),
+                            "core_metrics_count": 0,
+                        }
+                    )
+                if company_index % checkpoint_every == 0:
+                    export_dataframe(finalize_dataframe(merge_rows([], rows)), output_path)
+                continue
+            collected: dict[int, dict[str, Any]] = {}
+            for index, report in enumerate(reports[:12], start=1):
+                try:
+                    cache_key = f"{slugify(company.name)}-{report.year or 'unknown'}-{index}"
+                    suffix = Path(report.url).suffix or ".pdf"
+                    pdf_path = PDF_DIR / f"{cache_key}{suffix}"
+                    pdf_path = download_file(client, report.url, pdf_path)
+                    tokens = load_tokens(ocr_pdf_document(pdf_path, cache_key))
+                    resolved_year = resolve_report_year(report, tokens, years)
+                    if resolved_year is None or resolved_year in collected:
+                        continue
+                    metrics = extract_metrics(tokens, resolved_year)
+                    if count_core_metrics(metrics) < 4:
+                        pdf_table_metrics = extract_metrics_from_pdf_tables(pdf_path, resolved_year)
+                        if count_core_metrics(pdf_table_metrics) > count_core_metrics(metrics):
+                            metrics = pdf_table_metrics
+                    if count_core_metrics(metrics) < 4:
+                        pdf_text_metrics = extract_metrics_from_pdf_text(pdf_path, resolved_year)
+                        if count_core_metrics(pdf_text_metrics) > count_core_metrics(metrics):
+                            metrics = pdf_text_metrics
+                    publication_date = infer_publication_date(report.url)
+                    publication_year = report.publication_year or infer_publication_year(report.url)
+                    core_metric_count = count_core_metrics(metrics)
+                    row = {
+                        "emetteur": company.name,
+                        "company_url": company.url,
+                        "fiscal_year": resolved_year,
+                        "report_year": publication_year,
+                        "publication_date": publication_date,
+                        "report_title": report.title,
+                        "report_url": report.url,
+                        "status": "ok",
+                        "status_reason": None,
+                        "diagnostic": None,
+                        "core_metrics_count": core_metric_count,
+                        **metrics,
+                    }
+                    if core_metric_count == 0:
+                        row["status"] = "parsed_but_empty"
+                        row["status_reason"] = "ocr_extracted_no_core_metric"
+                        row["diagnostic"] = f"report={report.title}"
+                    elif core_metric_count < 4:
+                        row["status_reason"] = "partial_core_metrics"
+                        row["diagnostic"] = f"core_metrics_count={core_metric_count}; report={report.title}"
+                    collected[resolved_year] = row
+                    if len(collected) == len(years):
+                        break
+                except Exception as exc:
+                    candidate_year = report.year
+                    if candidate_year in years and candidate_year not in collected:
+                        collected[candidate_year] = {
+                            "emetteur": company.name,
+                            "company_url": company.url,
+                            "fiscal_year": candidate_year,
+                            "report_year": report.publication_year,
+                            "publication_date": infer_publication_date(report.url),
+                            "report_title": report.title,
+                            "report_url": report.url,
+                            "status": "report_error",
+                            "status_reason": type(exc).__name__,
+                            "diagnostic": str(exc),
+                            "core_metrics_count": 0,
+                        }
+
+            for year in sorted(years):
+                if year in collected:
+                    rows.append(collected[year])
+                    continue
+                status_reason, diagnostic = classify_missing_year_reason(reports, year)
+                rows.append(
+                    {
+                        "emetteur": company.name,
+                        "company_url": company.url,
+                        "fiscal_year": year,
+                        "report_year": None,
+                        "publication_date": None,
+                        "report_title": None,
+                        "report_url": None,
+                        "status": "missing_report",
+                        "status_reason": status_reason,
+                        "diagnostic": diagnostic,
+                        "core_metrics_count": 0,
+                    }
+                )
+
+            if company_index % checkpoint_every == 0:
+                export_dataframe(finalize_dataframe(merge_rows([], rows)), output_path)
+
+    dataframe = finalize_dataframe(merge_rows([], rows))
+    export_dataframe(dataframe, output_path)
+    print(f"Wrote {len(dataframe)} rows to {output_path}")
+    if not dataframe.empty:
+        print("\nStatus summary:")
+        print(dataframe["status"].value_counts(dropna=False).to_string())
+        if "status_reason" in dataframe.columns:
+            reason_counts = dataframe["status_reason"].fillna("ok_or_unclassified").value_counts(dropna=False)
+            print("\nReason summary:")
+            print(reason_counts.to_string())
 
 
 if __name__ == "__main__":

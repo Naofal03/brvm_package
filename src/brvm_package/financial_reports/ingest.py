@@ -11,13 +11,15 @@ def ingest_financial_data(company_code, year, data_dict, engine=None):
         data_dict: dict, champs financiers extraits
         engine: SQLAlchemy engine (optionnel, sinon auto)
     """
-    from sqlalchemy.orm import Session
     from datetime import date
-    from brvm_package.db.models import FundamentalSnapshotORM
     from sqlalchemy import create_engine
+    from sqlalchemy.orm import Session
+
+    from brvm_package.db.models import FundamentalSnapshotORM
+    from brvm_package.db.paths import get_database_path
 
     if engine is None:
-        engine = create_engine("sqlite:///brvm_data.db")
+        engine = create_engine(f"sqlite:///{get_database_path()}")
 
     snapshot_date = date(year, 12, 31)
     with Session(engine) as session:

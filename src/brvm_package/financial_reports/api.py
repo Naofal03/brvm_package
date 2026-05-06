@@ -1,30 +1,108 @@
 """
-API de haut niveau pour accéder aux états financiers collectés via le package.
+API de haut niveau pour accéder aux états financiers stockés en base.
 """
-from brvm_package.db.models import FundamentalSnapshotORM
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
 
-def get_financials(symbol: str, year: int, engine=None):
-    """
-    Retourne un dict des états financiers pour une société et une année donnée.
-    """
-    if engine is None:
-        engine = create_engine("sqlite:///brvm_data.db")
-    with Session(engine) as session:
-        snap = session.query(FundamentalSnapshotORM).filter_by(symbol=symbol, snapshot_date=f"{year}-12-31").first()
-        if not snap:
-            return None
-        # Retourne tous les champs financiers sous forme de dict
-        return {c.name: getattr(snap, c.name) for c in snap.__table__.columns if c.name not in ("id", "updated_at")}
+from __future__ import annotations
+
+import sqlite3
+from datetime import date
+from typing import Any
+
+from brvm_package.db.paths import get_database_path
 
 
-def list_available_years(symbol: str, engine=None):
+def _row_to_dict(row: sqlite3.Row) -> dict[str, Any]:
+    result = {key: row[key] for key in row.keys() if key not in {"id", "updated_at"}}
+    snapshot_date = result.get("snapshot_date")
+    if snapshot_date:
+        result["fiscal_year"] = int(str(snapshot_date)[:4])
+        result["fiscal_year_end"] = snapshot_date
+    return result
+
+
+def _annual_cutoff(as_of_date: str) -> str:
+    parsed = date.fromisoformat(as_of_date)
+    # Conservative annual-data policy: in year n, use the latest completed fiscal year n-1.
+    return date(parsed.year - 1, 12, 31).isoformat()
+
+
+def get_financials(
+    symbol: str,
+    fiscal_year: int | None = None,
+    db_path: str | None = None,
+    as_of_date: str | None = None,
+) -> dict[str, Any] | None:
     """
-    Liste les années pour lesquelles on a des états financiers pour une société.
+    Retourne les états financiers d'une société.
+    - `fiscal_year`: exercice comptable exact.
+    - `as_of_date`: résolution conservative "année n -> derniers comptes annuels n-1".
     """
-    if engine is None:
-        engine = create_engine("sqlite:///brvm_data.db")
-    with Session(engine) as session:
-        snaps = session.query(FundamentalSnapshotORM).filter_by(symbol=symbol).all()
-        return sorted({s.snapshot_date.year for s in snaps})
+    target_path = db_path or str(get_database_path())
+
+    with sqlite3.connect(target_path) as connection:
+        connection.row_factory = sqlite3.Row
+        if fiscal_year is not None:
+            snapshot_date = date(fiscal_year, 12, 31).isoformat()
+            row = connection.execute(
+                """
+                SELECT *
+                FROM fundamental_snapshots
+                WHERE UPPER(symbol) = UPPER(?)
+                  AND snapshot_date = ?
+                LIMIT 1
+                """,
+                (symbol, snapshot_date),
+            ).fetchone()
+        else:
+            cutoff = _annual_cutoff(as_of_date) if as_of_date else None
+            if cutoff is None:
+                row = connection.execute(
+                    """
+                    SELECT *
+                    FROM fundamental_snapshots
+                    WHERE UPPER(symbol) = UPPER(?)
+                    ORDER BY snapshot_date DESC
+                    LIMIT 1
+                    """,
+                    (symbol,),
+                ).fetchone()
+            else:
+                row = connection.execute(
+                    """
+                    SELECT *
+                    FROM fundamental_snapshots
+                    WHERE UPPER(symbol) = UPPER(?)
+                      AND snapshot_date <= ?
+                    ORDER BY snapshot_date DESC
+                    LIMIT 1
+                    """,
+                    (symbol, cutoff),
+                ).fetchone()
+
+    if row is None:
+        return None
+    result = _row_to_dict(row)
+    if as_of_date is not None:
+        result["as_of_date"] = as_of_date
+        result["selection_policy"] = "latest_completed_fiscal_year"
+    return result
+
+
+def list_available_years(symbol: str, db_path: str | None = None) -> list[int]:
+    """
+    Liste les années disponibles pour une société.
+    """
+    target_path = db_path or str(get_database_path())
+
+    with sqlite3.connect(target_path) as connection:
+        rows = connection.execute(
+            """
+            SELECT DISTINCT CAST(substr(snapshot_date, 1, 4) AS INTEGER) AS report_year
+            FROM fundamental_snapshots
+            WHERE UPPER(symbol) = UPPER(?)
+            ORDER BY report_year
+            """,
+            (symbol,),
+        ).fetchall()
+
+    return [int(row[0]) for row in rows if row[0] is not None]

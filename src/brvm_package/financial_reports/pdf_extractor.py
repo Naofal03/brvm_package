@@ -9,9 +9,7 @@ class FinancialPDFExtractor:
         Tries camelot, then tabula, then falls back to OCR if needed.
         Returns: list of pandas.DataFrame or list of text blocks.
         """
-        import os
         import camelot
-        import pandas as pd
         tables = []
         try:
             tables_camelot = camelot.read_pdf(pdf_path, pages="all")

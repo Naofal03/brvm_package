@@ -51,6 +51,17 @@ class Ticker:
         if close_price is None:
             return None
         return float(close_price)
+
+    def market_cap(self) -> float | None:
+        """
+        Capitalisation boursière = last price * shares outstanding.
+        """
+        info = self.info
+        price = self.live_price()
+        shares = info.get('shares_outstanding')
+        if price and shares:
+            return price * shares
+        return None
             
     def returns(self, log: bool = False) -> pd.Series:
         """
@@ -75,8 +86,8 @@ class Ticker:
     def dividends(self) -> pd.DataFrame:
         return get_dividends(self.symbol)
 
-    def financials(self) -> dict[str, pd.DataFrame]:
-        return get_financials(self.symbol)
+    def financials(self, years: list[int] | None = None) -> dict[str, pd.DataFrame]:
+        return get_financials(self.symbol, years=years)
 
     def fundamental_history(self) -> pd.DataFrame:
         return get_fundamental_history(self.symbol)

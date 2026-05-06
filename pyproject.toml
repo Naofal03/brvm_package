@@ -72,3 +72,7 @@ strict = true
 ignore_missing_imports = true
 exclude = [".venv", "tests/"]
 
+[tool.pytest.ini_options]
+markers = [
+    "asyncio: tests d'integration asynchrones opt-in",
+]

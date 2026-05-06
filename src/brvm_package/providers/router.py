@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from dataclasses import dataclass
 
 from brvm_package.providers.base import MarketDataProvider, ProviderResult
@@ -22,6 +23,17 @@ class DataRouter:
             RichBourseProvider(),
         ]
 
+    async def close(self) -> None:
+        for provider in self.providers:
+            if hasattr(provider, "close"):
+                await provider.close()
+
+    async def __aenter__(self) -> "DataRouter":
+        return self
+
+    async def __aexit__(self, *args: object) -> None:
+        await self.close()
+
     async def get_market_quotes(self) -> RoutedResult:
         return await self._first_success("get_market_quotes")
 
@@ -42,17 +54,26 @@ class DataRouter:
 
         for provider in self.providers:
             method = getattr(provider, method_name)
+            t0 = time.monotonic()
             result: ProviderResult = await method(*args)
+            elapsed = time.monotonic() - t0
             last_result = result
 
             if result.success and self._has_payload(result.data):
-                attempts.append({"provider": provider.name, "status": "success"})
+                attempts.append(
+                    {
+                        "provider": provider.name,
+                        "status": "success",
+                        "elapsed_ms": f"{elapsed * 1000:.1f}",
+                    }
+                )
                 return RoutedResult(result=result, attempts=attempts)
 
             attempts.append(
                 {
                     "provider": provider.name,
                     "status": result.error or "empty",
+                    "elapsed_ms": f"{elapsed * 1000:.1f}",
                 }
             )
 
@@ -65,3 +86,4 @@ class DataRouter:
         if isinstance(data, list):
             return len(data) > 0
         return data is not None
+

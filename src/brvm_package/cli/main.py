@@ -10,6 +10,7 @@ from brvm_package import __version__
 from brvm_package.scraper.richbourse import RichbourseClient
 from brvm_package.scraper.sikafinance import SikaFinanceClient
 from brvm_package.services.sync import sync_market_data
+from brvm_package.financial_reports.collect_pipeline import collect_all
 
 app = typer.Typer(help="Application CLI pour extraire les données de la BRVM.")
 console = Console()
@@ -84,5 +85,22 @@ def sync_command(
     except Exception as e:
         console.print(f"[red]Erreur de synchronisation: {e}[/red]")
 
+
+@app.command("sync-financials")
+def sync_financials(
+    years: list[int] = typer.Option(list(range(2020, 2026)), "--year", "-y", help="Années à collecter (2020-2025 par défaut)."),
+    pdf_dir: str = typer.Option("pdf_reports", "--pdf-dir", help="Dossier pour PDFs."),
+    max_concurrency: int = typer.Option(3, "--concurrency", "-c", help="Concurrence max (défaut 3)."),
+):
+    """Collecte tous les rapports financiers BRVM 2020-2025."""
+    console.print("[blue]Lancement collecte états financiers BRVM...[/blue]")
+    try:
+        report = run_async(collect_all(years=years, pdf_dir=pdf_dir, max_concurrency=max_concurrency))
+        console.print_json(data=report)
+        console.print("[green]✓ Collecte terminée. Voir data/brvm_financials_*.csv[/green]")
+    except Exception as e:
+        console.print(f"[red]Erreur collecte: {e}[/red]")
+
 if __name__ == "__main__":
     app()
+

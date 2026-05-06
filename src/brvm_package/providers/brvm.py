@@ -6,6 +6,9 @@ from brvm_package.providers.base import MarketDataProvider, ProviderResult
 class BRVMProvider(MarketDataProvider):
     name = "brvm"
 
+    async def close(self) -> None:
+        pass
+
     async def get_market_quotes(self) -> ProviderResult:
         return ProviderResult(
             provider=self.name,
@@ -34,3 +37,4 @@ class BRVMProvider(MarketDataProvider):
             success=False,
             error=f"Fondamentaux indisponibles via BRVMProvider pour {symbol}.",
         )
+

@@ -1,8 +1,6 @@
 import asyncio
 import httpx
 from bs4 import BeautifulSoup
-import re
-import json
 
 async def scrape_new_snts():
     ticker = "SNTS"

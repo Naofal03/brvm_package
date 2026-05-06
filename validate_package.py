@@ -1,6 +1,5 @@
 import subprocess
 import sys
-import os
 
 REPORT_FILE = "validation_report.txt"
 

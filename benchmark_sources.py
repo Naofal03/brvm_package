@@ -39,7 +39,7 @@ async def fetch_rb(symbol):
                             "close": cols[4].text.replace(" ", "").strip()
                         })
             return results, time.time() - t0
-    except Exception as e:
+    except Exception:
         return None, time.time() - t0
 
 def normalize_sika(data):

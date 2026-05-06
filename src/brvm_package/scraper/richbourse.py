@@ -1,44 +1,91 @@
+from __future__ import annotations
+
 import re
+import time
 import logging
-from bs4 import BeautifulSoup
+
 import httpx
-from tenacity import retry, stop_after_attempt, wait_exponential
+from bs4 import BeautifulSoup
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 logger = logging.getLogger(__name__)
 
+RETRY_EXCEPTIONS = (
+    httpx.TimeoutException,
+    httpx.ConnectError,
+    httpx.NetworkError,
+    httpx.HTTPStatusError,
+)
+
+
 class RichbourseClient:
-    """Client asynchrone pour extraire les données depuis RichBourse."""
+    """Client asynchrone robuste pour extraire les données depuis RichBourse."""
+
     BASE_URL = "https://www.richbourse.com"
     MARKET_QUOTES_PATH = "/common/variation/index/veille/tout"
     HISTORY_PATH_TEMPLATE = "/common/variation/historique/{symbol}"
+    DEFAULT_TIMEOUT = 30.0
+    MAX_HISTORY_PAGES = 250
 
-    def __init__(self):
-        self.client = httpx.AsyncClient(
-            timeout=30.0,
-            http2=True,
-            follow_redirects=True,
-            headers={
-                "User-Agent": (
-                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                    "AppleWebKit/537.36 (KHTML, like Gecko) "
-                    "Chrome/135.0.0.0 Safari/537.36"
-                ),
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Cache-Control": "no-cache",
-                "Pragma": "no-cache",
-                "Upgrade-Insecure-Requests": "1",
-            }
-        )
+    def __init__(self, timeout: float = DEFAULT_TIMEOUT) -> None:
+        self.timeout = timeout
+        self._client: httpx.AsyncClient | None = None
 
-    async def close(self):
-        await self.client.aclose()
+    @property
+    def client(self) -> httpx.AsyncClient | None:
+        return self._client
 
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=10))
+    @client.setter
+    def client(self, value: httpx.AsyncClient | None) -> None:
+        self._client = value
+
+    async def _get_client(self) -> httpx.AsyncClient:
+        if self._client is None or getattr(self._client, "is_closed", False):
+            self._client = httpx.AsyncClient(
+                timeout=self.timeout,
+                http2=True,
+                follow_redirects=True,
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/135.0.0.0 Safari/537.36"
+                    ),
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                    "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+                    "Cache-Control": "no-cache",
+                    "Pragma": "no-cache",
+                    "Upgrade-Insecure-Requests": "1",
+                },
+            )
+        return self._client
+
+    async def close(self) -> None:
+        if self._client is not None and not self._client.is_closed:
+            await self._client.aclose()
+            self._client = None
+
+    async def __aenter__(self) -> "RichbourseClient":
+        return self
+
+    async def __aexit__(self, *args: object) -> None:
+        await self.close()
+
+    @retry(
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(multiplier=1, max=10),
+        retry=retry_if_exception_type(RETRY_EXCEPTIONS),
+        reraise=True,
+    )
     async def get_market_quotes(self) -> list[dict]:
         """Récupère les cotations générales consolidées du marché."""
         url = f"{self.BASE_URL}{self.MARKET_QUOTES_PATH}"
-        response = await self.client.get(url)
+        client = await self._get_client()
+        t0 = time.monotonic()
+        response = await client.get(url)
+        elapsed = time.monotonic() - t0
+        logger.debug("RichBourse market quotes | status=%s | time=%.2fs", response.status_code, elapsed)
+
         if response.status_code in {403, 404}:
             logger.warning(
                 "RichBourse a refuse l'acces aux cotations consolidees (%s pour %s).",
@@ -47,9 +94,9 @@ class RichbourseClient:
             )
             return []
         response.raise_for_status()
-        
+
         soup = BeautifulSoup(response.text, "html.parser")
-        results = []
+        results: list[dict] = []
         tables = soup.find_all("table")
         if not tables:
             logger.warning("RichBourse n'expose pas de table de cotations exploitable sur %s.", url)
@@ -76,18 +123,36 @@ class RichbourseClient:
                 "volume": self._first_match(row_map, ("volume",)),
                 "value_traded": self._first_match(row_map, ("valeurfcfa", "valeur")),
             })
+
+        logger.info("RichBourse market quotes: %d rows fetched in %.2fs", len(results), elapsed)
         return results
 
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, max=10))
+    @retry(
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(multiplier=1, max=10),
+        retry=retry_if_exception_type(RETRY_EXCEPTIONS),
+        reraise=True,
+    )
     async def get_historical_prices(self, symbol: str) -> list[dict]:
         """Récupère l'historique quotidien depuis la page publique de cours historiques."""
         base_url = f"{self.BASE_URL}{self.HISTORY_PATH_TEMPLATE.format(symbol=symbol.upper())}"
         rows: list[dict] = []
         seen_dates: set[str] = set()
+        client = await self._get_client()
 
-        for page in range(1, 251):
+        for page in range(1, self.MAX_HISTORY_PAGES + 1):
             url = f"{base_url}?page={page}"
-            response = await self.client.get(url)
+            t0 = time.monotonic()
+            response = await client.get(url)
+            elapsed = time.monotonic() - t0
+            logger.debug(
+                "RichBourse history %s page=%d | status=%s | time=%.2fs",
+                symbol.upper(),
+                page,
+                response.status_code,
+                elapsed,
+            )
+
             if response.status_code in {403, 404}:
                 logger.warning(
                     "RichBourse a refuse l'acces a l'historique %s (%s pour %s).",
@@ -100,15 +165,23 @@ class RichbourseClient:
 
             parsed_rows = self._extract_history_rows(response.text)
             if not parsed_rows:
+                logger.info("RichBourse history %s: no more rows at page %d", symbol.upper(), page)
                 break
 
             new_rows = [row for row in parsed_rows if row["date"] not in seen_dates]
             if not new_rows:
+                logger.info("RichBourse history %s: no new rows at page %d", symbol.upper(), page)
                 break
 
             rows.extend(new_rows)
             seen_dates.update(row["date"] for row in new_rows)
 
+        logger.info(
+            "RichBourse history %s: %d total rows across %d pages",
+            symbol.upper(),
+            len(rows),
+            page,
+        )
         return rows
 
     def _extract_history_rows(self, html: str) -> list[dict]:
