@@ -88,6 +88,30 @@ def get_financials(
     return result
 
 
+def get_financials_history(
+    symbol: str,
+    db_path: str | None = None,
+) -> list[dict[str, Any]]:
+    """
+    Retourne tous les exercices disponibles pour un symbole,
+    avec les 15 indicateurs financiers clés, triés par année croissante.
+    """
+    target_path = db_path or str(get_database_path())
+    with sqlite3.connect(target_path) as connection:
+        connection.row_factory = sqlite3.Row
+        rows = connection.execute(
+            """
+            SELECT *
+            FROM fundamental_snapshots
+            WHERE UPPER(symbol) = UPPER(?)
+              AND snapshot_date LIKE '20__-12-31'
+            ORDER BY snapshot_date ASC
+            """,
+            (symbol,),
+        ).fetchall()
+    return [_row_to_dict(row) for row in rows]
+
+
 def list_available_years(symbol: str, db_path: str | None = None) -> list[int]:
     """
     Liste les années disponibles pour une société.
@@ -100,9 +124,45 @@ def list_available_years(symbol: str, db_path: str | None = None) -> list[int]:
             SELECT DISTINCT CAST(substr(snapshot_date, 1, 4) AS INTEGER) AS report_year
             FROM fundamental_snapshots
             WHERE UPPER(symbol) = UPPER(?)
+              AND snapshot_date LIKE '20__-12-31'
             ORDER BY report_year
             """,
             (symbol,),
         ).fetchall()
 
     return [int(row[0]) for row in rows if row[0] is not None]
+
+
+def get_all_financials_db(
+    db_path: str | None = None,
+    symbols: list[str] | None = None,
+) -> list[dict[str, Any]]:
+    """
+    Retourne tous les snapshots annuels pour tous les symboles (ou une liste donnée).
+    Utile pour construire des matrices d'analyse cross-entreprises.
+    """
+    target_path = db_path or str(get_database_path())
+    with sqlite3.connect(target_path) as connection:
+        connection.row_factory = sqlite3.Row
+        if symbols:
+            placeholders = ",".join("?" * len(symbols))
+            rows = connection.execute(
+                f"""
+                SELECT *
+                FROM fundamental_snapshots
+                WHERE UPPER(symbol) IN ({placeholders})
+                  AND snapshot_date LIKE '20__-12-31'
+                ORDER BY symbol ASC, snapshot_date ASC
+                """,
+                [s.upper() for s in symbols],
+            ).fetchall()
+        else:
+            rows = connection.execute(
+                """
+                SELECT *
+                FROM fundamental_snapshots
+                WHERE snapshot_date LIKE '20__-12-31'
+                ORDER BY symbol ASC, snapshot_date ASC
+                """,
+            ).fetchall()
+    return [_row_to_dict(row) for row in rows]

@@ -1120,8 +1120,31 @@ def sanitize_bank_metrics(
     return sanitized
 
 
+def detect_unit_from_tokens(tokens: list[OCRToken]) -> float:
+    """Detect FCFA unit multiplier from OCR token text (En millions FCFA etc.)."""
+    full_text = " ".join(token.text for token in tokens)
+    return pdf_unit_multiplier(full_text)
+
+
+def apply_unit_multiplier(metrics: dict[str, float | None], multiplier: float) -> dict[str, float | None]:
+    """Apply unit multiplier to all raw monetary fields (not ratios)."""
+    if multiplier == 1.0:
+        return metrics
+    monetary_fields = (
+        "resultat_operationnel", "resultat_net", "chiffre_affaires",
+        "capitaux_propres", "total_actif", "dettes_totales",
+        "actifs_courants", "passifs_courants",
+    )
+    result = metrics.copy()
+    for field in monetary_fields:
+        if result.get(field) is not None:
+            result[field] = result[field] * multiplier
+    return result
+
+
 def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float | None]:
     bank_report = is_bank_report(tokens)
+    unit_multiplier = detect_unit_from_tokens(tokens)
     positions = year_positions(tokens, report_year)
     revenue = pick_value_for_label(
         tokens,
@@ -1240,7 +1263,7 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
         if reconstructed_assets > total_assets:
             total_assets = reconstructed_assets
 
-    metrics: dict[str, float | None] = {
+    raw_metrics: dict[str, float | None] = {
         "resultat_operationnel": operating_result,
         "resultat_net": net_income,
         "chiffre_affaires": revenue,
@@ -1250,6 +1273,8 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
         "actifs_courants": current_assets,
         "passifs_courants": current_liabilities,
     }
+    raw_metrics = apply_unit_multiplier(raw_metrics, unit_multiplier)
+    metrics: dict[str, float | None] = raw_metrics
     metrics["marge_operationnelle"] = safe_divide(metrics["resultat_operationnel"], metrics["chiffre_affaires"])
     metrics["marge_nette"] = safe_divide(metrics["resultat_net"], metrics["chiffre_affaires"])
     metrics["roe"] = safe_divide(metrics["resultat_net"], metrics["capitaux_propres"])
@@ -1258,7 +1283,7 @@ def extract_metrics(tokens: list[OCRToken], report_year: int) -> dict[str, float
     metrics["autonomie_financiere"] = safe_divide(metrics["capitaux_propres"], metrics["total_actif"])
     metrics["ratio_liquidite_generale"] = safe_divide(metrics["actifs_courants"], metrics["passifs_courants"])
     if bank_report:
-        metrics = sanitize_bank_metrics(metrics, total_passif=total_passif)
+        metrics = sanitize_bank_metrics(metrics, total_passif=total_passif * unit_multiplier if total_passif is not None else None)
     return metrics
 
 

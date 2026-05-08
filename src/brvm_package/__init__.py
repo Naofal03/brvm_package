@@ -1,5 +1,10 @@
 # Expose financial reports API
-from brvm_package.financial_reports.api import get_financials, list_available_years
+from brvm_package.financial_reports.api import (
+    get_financials,
+    get_financials_history,
+    get_all_financials_db,
+    list_available_years,
+)
 from importlib.metadata import PackageNotFoundError, version
 
 from .objects.index import Index
@@ -47,7 +52,9 @@ __all__ = [
     "financials_all_audited",
     "financials_all_verified",
     "fundamental_history",
+    "get_all_financials_db",
     "get_financials",
+    "get_financials_history",
     "get_market",
     "heatmap",
     "inflation",
