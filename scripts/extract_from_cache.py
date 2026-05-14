@@ -403,11 +403,9 @@ def resolve_report_year(filename: str, tokens: list[OCRToken], fallback_year: in
     return fallback_year
 
 
-def parse_company_year_from_filename(filename: str) -> tuple[str, int | None]:
-    """Extract company slug and year from filename like 'air-liquide-ci-2019-1.json'"""
-    stem = filename.replace(".json", "")
+def parse_company_year_from_stem(stem: str) -> tuple[str, int | None]:
+    """Extract company slug and year from a stem like 'air-liquide-ci-2019-1'."""
     parts = stem.split("-")
-    # Find year (4 digits)
     year = None
     year_idx = None
     for i, part in enumerate(parts):
@@ -422,29 +420,74 @@ def parse_company_year_from_filename(filename: str) -> tuple[str, int | None]:
     return company_slug, year
 
 
+def parse_company_year_from_path(path: Path) -> tuple[str, int | None]:
+    stem = path.stem
+    if stem.startswith("page-") and path.parent != OCR_DIR:
+        return parse_company_year_from_stem(path.parent.name)
+    return parse_company_year_from_stem(stem)
+
+
+def discover_cached_reports() -> dict[tuple[str, int], Path]:
+    report_paths: dict[tuple[str, int], Path] = {}
+
+    for path in sorted(OCR_DIR.rglob("*.json")):
+        stem = path.stem
+        if stem.startswith("page-") and path.parent != OCR_DIR:
+            report_key_path = path.parent
+            company_slug, year = parse_company_year_from_stem(report_key_path.name)
+        else:
+            report_key_path = path
+            company_slug, year = parse_company_year_from_stem(stem)
+
+        if year is None:
+            continue
+
+        key = (company_slug, year)
+        current = report_paths.get(key)
+        if current is None:
+            report_paths[key] = report_key_path
+            continue
+
+        current_size = current.stat().st_size if current.is_file() else sum(child.stat().st_size for child in current.glob("*.json"))
+        candidate_size = report_key_path.stat().st_size if report_key_path.is_file() else sum(child.stat().st_size for child in report_key_path.glob("*.json"))
+        if candidate_size > current_size:
+            report_paths[key] = report_key_path
+
+    return report_paths
+
+
+def load_cached_payload(path: Path) -> dict[str, Any]:
+    if path.is_file():
+        with open(path) as handle:
+            return json.load(handle)
+
+    combined_pages: list[dict[str, Any]] = []
+    sources: list[str] = []
+    for page_json in sorted(path.glob("page-*.json")):
+        with open(page_json) as handle:
+            payload = json.load(handle)
+        sources.append(str(payload.get("source", page_json)))
+        for page in payload.get("pages", []):
+            combined_pages.append(page)
+
+    return {
+        "source": sources[0] if sources else str(path),
+        "page_count": len(combined_pages),
+        "pages": combined_pages,
+    }
+
+
 def main() -> None:
-    # Collect all OCR files
     ocr_files = sorted(OCR_DIR.rglob("*.json"))
     print(f"Found {len(ocr_files)} OCR files in cache")
 
-    # Group by company-year, keeping the best one
-    company_year_files: dict[tuple[str, int], Path] = {}
-    for ocr_path in ocr_files:
-        slug, year = parse_company_year_from_filename(ocr_path.name)
-        if year is None:
-            continue
-        key = (slug, year)
-        # Prefer files with more content (larger file size)
-        if key not in company_year_files or ocr_path.stat().st_size > company_year_files[key].stat().st_size:
-            company_year_files[key] = ocr_path
-
+    company_year_files = discover_cached_reports()
     print(f"Unique company-year pairs: {len(company_year_files)}")
 
     rows: list[dict[str, Any]] = []
     for (company_slug, year), ocr_path in sorted(company_year_files.items()):
         try:
-            with open(ocr_path) as f:
-                ocr_payload = json.load(f)
+            ocr_payload = load_cached_payload(ocr_path)
             tokens = load_tokens(ocr_payload)
             detected_year = resolve_report_year(ocr_path.name, tokens, year)
 

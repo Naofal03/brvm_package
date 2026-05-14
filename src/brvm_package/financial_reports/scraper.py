@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import re
+import os
+import logging
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
@@ -14,6 +16,7 @@ from brvm_package.data.catalog import get_asset_catalog
 BASE_URL = "https://www.brvm.org"
 LISTING_URL = f"{BASE_URL}/fr/rapports-societes-cotees"
 USER_AGENT = "Mozilla/5.0 (compatible; brvm-package/0.2; +https://github.com/naofal/brvm-package)"
+logger = logging.getLogger(__name__)
 
 
 @dataclass(slots=True)
@@ -79,8 +82,9 @@ def _report_score(title: str, target_year: int) -> int:
 
 
 class BRVMReportScraper:
-    def __init__(self, timeout: float = 60.0) -> None:
+    def __init__(self, timeout: float = 60.0, verify_ssl: bool | None = None) -> None:
         self.timeout = timeout
+        self.verify_ssl = _resolve_verify_ssl(verify_ssl)
         self._client: httpx.AsyncClient | None = None
 
     async def _get_client(self) -> httpx.AsyncClient:
@@ -88,6 +92,7 @@ class BRVMReportScraper:
             self._client = httpx.AsyncClient(
                 timeout=self.timeout,
                 follow_redirects=True,
+                verify=self.verify_ssl,
                 headers={"User-Agent": USER_AGENT},
             )
         return self._client
@@ -109,6 +114,26 @@ class BRVMReportScraper:
         response = await client.get(LISTING_URL)
         response.raise_for_status()
         return response.text
+
+    async def fetch_reports_pages(self, max_pages: int = 12) -> list[str]:
+        client = await self._get_client()
+        pages: list[str] = []
+        seen_links: set[str] = set()
+
+        for page in range(max(1, max_pages)):
+            url = LISTING_URL if page == 0 else f"{LISTING_URL}?page={page}"
+            response = await client.get(url)
+            response.raise_for_status()
+            html = response.text
+            page_links = self.extract_company_links(html)
+            new_links = set(page_links.values()) - seen_links
+            if not new_links:
+                break
+            pages.append(html)
+            seen_links.update(page_links.values())
+            logger.debug("BRVM listing page %s yielded %d new company links", page, len(new_links))
+
+        return pages
 
     async def fetch_company_page(self, company_url: str) -> str:
         client = await self._get_client()
@@ -141,6 +166,16 @@ class BRVMReportScraper:
             links[matched_code] = urljoin(BASE_URL, href)
 
         return links
+
+    def merge_company_links(self, pages: list[str]) -> dict[str, str]:
+        merged: dict[str, str] = {}
+        for html in pages:
+            merged.update(self.extract_company_links(html))
+        return merged
+
+    async def list_company_links(self, max_pages: int = 12) -> dict[str, str]:
+        pages = await self.fetch_reports_pages(max_pages=max_pages)
+        return self.merge_company_links(pages)
 
     def extract_financial_links(self, html: str, years: list[int]) -> dict[int, str]:
         soup = BeautifulSoup(html, "html.parser")
@@ -179,3 +214,16 @@ class BRVMReportScraper:
         response.raise_for_status()
         destination.write_bytes(response.content)
         return {"cached": False, "dest": str(destination), "url": url}
+
+
+def _resolve_verify_ssl(verify_ssl: bool | None) -> bool:
+    if verify_ssl is not None:
+        return verify_ssl
+
+    env_value = os.getenv("BRVM_VERIFY_SSL")
+    if env_value is not None:
+        return env_value.strip().lower() in {"1", "true", "yes", "on"}
+
+    # BRVM's certificate chain is intermittently incomplete in some Python environments.
+    # Public report scraping is read-only, so we prefer availability by default here.
+    return False

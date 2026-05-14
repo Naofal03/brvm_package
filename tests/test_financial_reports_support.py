@@ -12,9 +12,12 @@ if str(SRC) not in sys.path:
 
 import brvm as bv
 import pandas as pd
+import pytest
 from brvm_package.financial_reports.api import list_available_years
 from brvm_package.api.financials_all import _apply_quality_filters, _normalize_financial_columns
 from brvm_package.financial_reports.parser import FinancialReportParser
+from brvm_package.financial_reports.pdf_extractor import FinancialExtractionDependencyError
+from brvm_package.financial_reports.scraper import BRVMReportScraper, _resolve_verify_ssl
 from scripts.extract_brvm_financials import (
     ReportLink,
     classify_missing_year_reason,
@@ -55,10 +58,58 @@ def test_financials_all_audited_exposes_truth_columns() -> None:
     assert {"truth_status", "truth_reason"}.issubset(frame.columns)
 
 
+def test_financials_all_gold_exposes_publication_columns() -> None:
+    frame = bv.financials_all_gold()
+    assert not frame.empty
+    assert {"publication_status", "core_metrics_present", "balance_sheet_gap_pct"}.issubset(frame.columns)
+    assert set(frame["publication_status"].dropna().unique()) == {"gold"}
+
+
 def test_financials_all_all_mode_keeps_non_verified_rows() -> None:
     frame = bv.financials_all(mode="all")
     assert not frame.empty
     assert {"status"}.issubset(frame.columns)
+
+
+def test_financials_coverage_summary_reports_partial_verified_dataset() -> None:
+    summary = bv.financials_coverage_summary()
+    assert summary["mode"] == "verified"
+    assert summary["rows"] > 0
+    assert summary["rows_expected"] >= summary["rows"]
+    assert summary["tracking_coverage_ratio"] is not None
+    assert summary["data_coverage_ratio"] is not None
+    assert summary["emitters_total"] >= summary["emitters_with_rows"]
+    assert summary["emitters_incomplete"] > 0
+    assert summary["sample_incomplete_emitters"]
+    assert summary["rows_with_financial_data"] <= summary["rows"]
+    assert summary["emitters_data_complete"] <= summary["emitters_tracking_complete"]
+
+
+def test_financials_coverage_report_lists_missing_years() -> None:
+    report = bv.financials_coverage_report()
+    assert not report.empty
+    assert {
+        "emetteur",
+        "years_tracked",
+        "missing_tracked_years",
+        "rows_tracked",
+        "years_with_financial_data",
+        "missing_data_years",
+        "rows_with_financial_data",
+        "rows_expected",
+        "tracking_complete",
+        "data_complete",
+    }.issubset(report.columns)
+    assert report["tracking_complete"].isin([True, False]).all()
+    assert report["data_complete"].isin([True, False]).all()
+    assert (~report["data_complete"]).any()
+
+
+def test_financials_coverage_report_distinguishes_tracking_from_data_completeness() -> None:
+    report = bv.financials_coverage_report(mode="audited")
+    assert report["tracking_complete"].all()
+    assert (~report["data_complete"]).any()
+    assert (report["rows_with_financial_data"] <= report["rows_tracked"]).all()
 
 
 def test_normalize_financial_columns_recovers_fiscal_year_from_report_title() -> None:
@@ -206,3 +257,43 @@ def test_financial_report_parser_accepts_dataframe_items() -> None:
     assert parsed["current_assets"] == 300.0
     assert parsed["current_liabilities"] == 150.0
     assert parsed["roe"] == 0.3
+
+
+def test_scraper_merge_company_links_accumulates_paginated_pages() -> None:
+    scraper = BRVMReportScraper()
+    page_one = """
+    <html><body>
+    <a href="/fr/rapports-societe-cotes/sonatel">SONATEL</a>
+    </body></html>
+    """
+    page_two = """
+    <html><body>
+    <a href="/fr/rapports-societe-cotes/boa-benin">BANK OF AFRICA BENIN</a>
+    </body></html>
+    """
+
+    links = scraper.merge_company_links([page_one, page_two])
+
+    assert "SNTS" in links
+    assert "BOAB" in links
+
+
+def test_scraper_ssl_verification_defaults_to_false_for_brvm_reachability(monkeypatch) -> None:
+    monkeypatch.delenv("BRVM_VERIFY_SSL", raising=False)
+    assert _resolve_verify_ssl(None) is False
+    assert _resolve_verify_ssl(True) is True
+
+
+def test_pdf_extractor_missing_optional_dependency_message_is_actionable(monkeypatch) -> None:
+    from brvm_package.financial_reports import pdf_extractor as module
+
+    def fake_import(name: str):
+        raise ModuleNotFoundError(name)
+
+    monkeypatch.setattr(module, "import_module", fake_import)
+    extractor = module.FinancialPDFExtractor()
+
+    with pytest.raises(FinancialExtractionDependencyError) as excinfo:
+        extractor.extract_with_ocr("dummy.pdf")
+
+    assert "financial-reports" in str(excinfo.value)

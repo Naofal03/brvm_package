@@ -34,6 +34,19 @@ Documentation = "https://github.com/naofal/brvm-package#readme"
 plotting = [
     "matplotlib>=3.9.0",
 ]
+dev = [
+    "mypy>=1.20.1",
+    "pytest>=9.0.3",
+    "pytest-asyncio>=1.2.0",
+    "ruff>=0.15.10",
+]
+financial-reports = [
+    "camelot-py>=1.0.9",
+    "pdfplumber>=0.11.7",
+    "pillow>=11.3.0",
+    "pymupdf>=1.26.5",
+    "pytesseract>=0.3.13",
+]
 
 [project.scripts]
 brvm = "brvm_package.cli.main:app"
@@ -53,12 +66,13 @@ where = ["src"]
 include = ["brvm_package", "brvm_package.*", "brvm", "brvm.*"]
 
 [tool.setuptools.package-data]
-brvm_package = ["py.typed", "resources/*.sqlite3"]
+brvm_package = ["py.typed", "resources/*.sqlite3", "resources/*.csv", "resources/*.md"]
 
 [dependency-groups]
 dev = [
     "mypy>=1.20.1",
     "pytest>=9.0.3",
+    "pytest-asyncio>=1.2.0",
     "ruff>=0.15.10",
 ]
 
@@ -73,6 +87,7 @@ ignore_missing_imports = true
 exclude = [".venv", "tests/"]
 
 [tool.pytest.ini_options]
+asyncio_mode = "auto"
 markers = [
     "asyncio: tests d'integration asynchrones opt-in",
 ]
