@@ -44,7 +44,8 @@ async def fetch_rb(symbol):
 
 def normalize_sika(data):
     res = {}
-    if not data: return res
+    if not data:
+        return res
     for r in data:
         if 'Date' in r and 'Close' in r:
             res[r['Date']] = float(r['Close'])
@@ -52,7 +53,8 @@ def normalize_sika(data):
 
 def normalize_rb(data):
     res = {}
-    if not data: return res
+    if not data:
+        return res
     for r in data:
         if 'date' in r and 'close' in r:
             try:

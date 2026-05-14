@@ -180,7 +180,6 @@ def valuation_ratios(symbol: str, date: str | None = None) -> dict[str, Any]:
         snapshot = history[history.index == pd.to_datetime(date)].iloc[0] if not history[history.index == pd.to_datetime(date)].empty else {}
     else:
         snapshot = history.iloc[-1].to_dict() if not history.empty else {}
-    price = info.get('last_price', info.get('close_price'))
     per = snapshot.get('per') or info.get('per')
     earnings_yield = 1 / float(per) if per and per != 0 else None
 
@@ -218,4 +217,3 @@ def valuation_ratios(symbol: str, date: str | None = None) -> dict[str, Any]:
 
 def _safe_divide(numerator: pd.Series, denominator: pd.Series) -> pd.Series:
     return numerator.astype("float64") / denominator.replace({0: pd.NA}).astype("float64")
-

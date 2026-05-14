@@ -68,7 +68,6 @@ EMITTER_TO_SYMBOL: dict[str, str | None] = {
     "SONATEL": "SNTS",
     "SUCRIVOIRE": "SCRC",
     "SOCIÉTÉ IVOIRIENNE DE RAFFINAGE": None,
-    "SOCIÉTÉ IVOIRIENNE DE RAFFINAGE": None,
     "TEYLIMOGPCI": None,                   # not in equity catalog
     "TNC_FIDFIN.O1": None,                 # TNC bond
     "TNC_NMHGCINC.O1": None,              # TNC bond
@@ -177,7 +176,6 @@ def ingest() -> None:
 
     updated = 0
     skipped = 0
-    cleaned_anomalies = 0
 
     for _, row in df.iterrows():
         symbol = EMITTER_TO_SYMBOL.get(row["emetteur"])

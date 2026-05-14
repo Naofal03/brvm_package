@@ -14,5 +14,6 @@ validation_report.txt
 uv.lock
 data/brvm*.sqlite3
 data/brvm_financials_cache/
+outputs/
 *.whl
 *.tar.gz

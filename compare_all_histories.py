@@ -13,8 +13,8 @@ SRC_DIR = ROOT_DIR / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
-from brvm_package.scraper.richbourse import RichbourseClient
-from brvm_package.scraper.sikafinance import SIKA_TICKER_MAP, SikaFinanceClient
+from brvm_package.scraper.richbourse import RichbourseClient  # noqa: E402
+from brvm_package.scraper.sikafinance import SIKA_TICKER_MAP, SikaFinanceClient  # noqa: E402
 
 
 DEFAULT_OUTPUT = Path("history_comparison_report.json")

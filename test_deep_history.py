@@ -11,8 +11,8 @@ SRC_DIR = ROOT_DIR / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
-from brvm_package.scraper.richbourse import RichbourseClient
-from brvm_package.scraper.sikafinance import SikaFinanceClient
+from brvm_package.scraper.richbourse import RichbourseClient  # noqa: E402
+from brvm_package.scraper.sikafinance import SikaFinanceClient  # noqa: E402
 
 SYMBOLS = ["SNTS", "SGBC", "BOAB", "CABC", "CIEC", "ONEC", "SIVC", "TTRC"]
 START_DATE = "2024-01-01"

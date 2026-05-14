@@ -27,7 +27,8 @@ async def compare_sources():
     if data_sika:
         # Formater un échantillon
         sample_sika = [d for d in data_sika if d['Date'] == '15/04/2026']
-        if not sample_sika and len(data_sika) > 0: sample_sika = [data_sika[-1]]
+        if not sample_sika and len(data_sika) > 0:
+            sample_sika = [data_sika[-1]]
         print(f"Échantillon (15/04/2026 ou dernier) : {sample_sika[0]}")
         
     print("\n--- RÉSULTATS RICHBOURSE ---")
@@ -36,7 +37,8 @@ async def compare_sources():
     if data_rich:
         # Formater un échantillon. RichBourse a le format "15/04/2026"
         sample_rich = [d for d in data_rich if d['date'] == '15/04/2026']
-        if not sample_rich and len(data_rich) > 0: sample_rich = [data_rich[0]]
+        if not sample_rich and len(data_rich) > 0:
+            sample_rich = [data_rich[0]]
         print(f"Échantillon (15/04/2026 ou premier) : {sample_rich[0]}")
 
 if __name__ == "__main__":

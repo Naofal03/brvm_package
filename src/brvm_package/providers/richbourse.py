@@ -48,14 +48,21 @@ class RichBourseProvider(MarketDataProvider):
         end_date: str,
     ) -> ProviderResult:
         try:
-            rows = await self.client.get_historical_prices(symbol)
+            rows = await self.client.get_historical_prices(
+                symbol,
+                start_date=start_date,
+                end_date=end_date,
+            )
             normalized = [self._normalize_history_row(symbol, row) for row in rows]
             normalized = [row for row in normalized if row is not None]
             return ProviderResult(
                 provider=self.name,
                 data=normalized,
                 success=True,
-                meta={"rows_fetched": len(rows)},
+                meta={
+                    "rows_fetched": len(rows),
+                    "diagnostics": self.client.last_history_diagnostics,
+                },
             )
         except Exception as exc:  # noqa: BLE001
             return ProviderResult(
@@ -123,4 +130,3 @@ class RichBourseProvider(MarketDataProvider):
         if converted is None:
             return None
         return int(converted)
-

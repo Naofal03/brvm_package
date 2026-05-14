@@ -50,6 +50,77 @@ class ReportLink:
     publication_year: int | None = None
 
 
+STOP_MATCH_TOKENS = {
+    "africa",
+    "bank",
+    "cote",
+    "ivoire",
+    "societe",
+    "société",
+    "compagnie",
+    "international",
+}
+
+KNOWN_REPORTS_BY_EMITTER: dict[str, list[dict[str, object]]] = {
+    "ORANGE CI": [
+        {
+            "title": "ORANGE CI : Etats financiers consolides exercice 2022",
+            "url": "https://www.brvm.org/sites/default/files/20230214_-_etats_financiers_consolides_exercice_2022_-_orange_ci.pdf",
+            "year": 2022,
+            "publication_year": 2023,
+        },
+        {
+            "title": "ORANGE CI : Etats financiers - Exercice 2023",
+            "url": "https://www.brvm.org/sites/default/files/20240221_-_resultats_financiers_consolides_2023_-_orange_ci.pdf",
+            "year": 2023,
+            "publication_year": 2024,
+        },
+        {
+            "title": "ORANGE CI : Etats financiers - Exercice 2024",
+            "url": "https://www.brvm.org/sites/default/files/20250221_-_etats_financiers_-_exercice_2024_-_orange_ci.pdf",
+            "year": 2024,
+            "publication_year": 2025,
+        },
+        {
+            "title": "ORANGE CI : Etats financiers - Exercice 2025",
+            "url": "https://www.brvm.org/sites/default/files/20260217_-_etats_financiers_-_exercice_2025_-_orange_ci.pdf",
+            "year": 2025,
+            "publication_year": 2026,
+        },
+    ],
+    "AIR LIQUIDE CI": [
+        {
+            "title": "AIR LIQUIDE CI : Etats financiers exercice 2020",
+            "url": "https://www.brvm.org/sites/default/files/20210428_-_etats_financiers_-_exercice_2020_-_air_liquide_ci_1.pdf",
+            "year": 2020,
+            "publication_year": 2021,
+        },
+    ],
+    "VIVO ENERGY CI": [
+        {
+            "title": "VIVO ENERGY CI : Etats financiers exercice 2021",
+            "url": "https://www.brvm.org/sites/default/files/20220906_-_etats_financiers_exercice_2021_-_vivo_energy_ci.pdf",
+            "year": 2021,
+            "publication_year": 2022,
+        },
+    ],
+    "TOTAL SENEGAL S.A.": [
+        {
+            "title": "TOTALENERGIES MARKETING SN : Etats financiers IFRS - Exercice 2024",
+            "url": "https://www.brvm.org/sites/default/files/20250502_-_etats_financiers_-_norme_ifrs_-_exercice_2024_-_totalenergies_marketing_sn.pdf",
+            "year": 2024,
+            "publication_year": 2025,
+        },
+        {
+            "title": "TOTALENERGIES MARKETING SN : Etats financiers SYSCOHADA - Exercice 2025",
+            "url": "https://www.brvm.org/sites/default/files/20260430_-_etats_financiers_syscohada_-_exercice_2025_-_totalenergies_marketing_sn.pdf",
+            "year": 2025,
+            "publication_year": 2026,
+        },
+    ],
+}
+
+
 @dataclass(slots=True)
 class OCRToken:
     page: int
@@ -239,6 +310,181 @@ def crawl_company_links(client: httpx.Client, max_pages: int = 12) -> list[Compa
     return sorted(discovered.values(), key=lambda item: item.name)
 
 
+def crawl_global_report_links(
+    client: httpx.Client,
+    years: set[int],
+    max_pages: int = 80,
+) -> list[ReportLink]:
+    """
+    Crawl global BRVM annual-report pages.
+
+    Some official reports are published as article nodes under
+    `/fr/type-document/rapports-annuels` but do not appear in the issuer tab
+    `rapports-societe-cotes/<issuer>?field_type_rapport_tid=57`.
+    """
+    reports: dict[str, ReportLink] = {}
+    base_url = f"{BASE_URL}/fr/type-document/rapports-annuels"
+    min_year = min(years)
+    max_year = max(years)
+
+    for page in range(max(0, max_pages)):
+        url = base_url if page == 0 else f"{base_url}?page={page}"
+        soup = BeautifulSoup(fetch_html(client, url), "html.parser")
+        found_on_page = 0
+
+        for anchor in soup.select("a[href^='/fr/']"):
+            title = anchor.get_text(" ", strip=True)
+            if not title or title.lower().startswith("lire la suite"):
+                continue
+
+            article_url = urljoin(BASE_URL, anchor.get("href", ""))
+            if "/fr/type-document/" in article_url or "/fr/rapports-" in article_url:
+                continue
+
+            normalized = normalize_text(title)
+            if not any(
+                marker in normalized
+                for marker in ("etat financier", "etats financiers", "rapport", "activite", "annuel", "exercice")
+            ):
+                continue
+
+            fiscal_year = infer_fiscal_year(title, article_url)
+            if fiscal_year is None or not (min_year <= fiscal_year <= max_year):
+                continue
+
+            score = report_score(title, fiscal_year)
+            if score < 20:
+                continue
+
+            reports[article_url] = ReportLink(
+                company_name="",
+                company_url=article_url,
+                title=title,
+                url=article_url,
+                year=fiscal_year,
+                score=score,
+                publication_year=infer_publication_year(article_url),
+            )
+            found_on_page += 1
+
+    return sorted(
+        reports.values(),
+        key=lambda item: ((item.year or 0), item.score, item.title),
+        reverse=True,
+    )
+
+
+def match_global_reports(
+    company: CompanyLink,
+    reports: list[ReportLink],
+    years: set[int],
+) -> list[ReportLink]:
+    normalized_company = normalize_text(company.name)
+    company_tokens = _meaningful_company_tokens(normalized_company)
+    matched: dict[str, ReportLink] = {}
+
+    for report in reports:
+        if report.year not in years:
+            continue
+        normalized_title = normalize_text(report.title)
+        if not _title_matches_company(normalized_title, normalized_company, company_tokens):
+            continue
+        matched[report.url] = ReportLink(
+            company_name=company.name,
+            company_url=company.url,
+            title=report.title,
+            url=report.url,
+            year=report.year,
+            score=report.score,
+            publication_year=report.publication_year,
+        )
+
+    return sorted(matched.values(), key=lambda item: ((item.year or 0), item.score), reverse=True)
+
+
+def known_reports_for_company(company: CompanyLink, years: set[int]) -> list[ReportLink]:
+    reports: list[ReportLink] = []
+    normalized_company = normalize_text(company.name)
+    for emitter_name, known_reports in KNOWN_REPORTS_BY_EMITTER.items():
+        normalized_emitter = normalize_text(emitter_name)
+        if normalized_company != normalized_emitter:
+            continue
+        for raw_report in known_reports:
+            year = raw_report.get("year")
+            if not isinstance(year, int) or year not in years:
+                continue
+            title = str(raw_report["title"])
+            reports.append(
+                ReportLink(
+                    company_name=company.name,
+                    company_url=company.url,
+                    title=title,
+                    url=str(raw_report["url"]),
+                    year=year,
+                    score=report_score(title, year) + 200,
+                    publication_year=raw_report.get("publication_year")
+                    if isinstance(raw_report.get("publication_year"), int)
+                    else None,
+                )
+            )
+    return reports
+
+
+def _meaningful_company_tokens(normalized_company: str) -> list[str]:
+    return [
+        token
+        for token in normalized_company.split()
+        if len(token) >= 4 and token not in STOP_MATCH_TOKENS
+    ]
+
+
+def _title_matches_company(
+    normalized_title: str,
+    normalized_company: str,
+    company_tokens: list[str],
+) -> bool:
+    if normalized_company and normalized_company in normalized_title:
+        return True
+
+    # Keep short official names safe: CIE CI must not match SICABLE CI.
+    short_company_aliases = {
+        "cie ci": ("cie",),
+        "sib": ("sib",),
+        "sgci": ("societe generale", "sgci"),
+        "smb": ("smb",),
+        "nsbc": ("nsia", "nsbc"),
+    }
+    for alias, title_markers in short_company_aliases.items():
+        if normalized_company == alias:
+            title_tokens = set(normalized_title.split())
+            return any(
+                (marker in normalized_title if " " in marker else marker in title_tokens)
+                for marker in title_markers
+            )
+
+    if not company_tokens:
+        return False
+
+    overlap = sum(1 for token in company_tokens if token in normalized_title)
+    return overlap >= min(2, len(company_tokens))
+
+
+def resolve_report_download_url(client: httpx.Client, url: str) -> str:
+    if ".pdf" in url.lower():
+        return url
+
+    soup = BeautifulSoup(fetch_html(client, url), "html.parser")
+    pdf_links: list[str] = []
+    for anchor in soup.select("a[href]"):
+        href = urljoin(url, anchor.get("href", ""))
+        if ".pdf" in href.lower():
+            pdf_links.append(href)
+
+    if not pdf_links:
+        raise RuntimeError(f"No PDF found on BRVM article page: {url}")
+    return pdf_links[0]
+
+
 def report_score(title: str, target_year: int) -> int:
     normalized = normalize_text(title)
     score = 0
@@ -369,6 +615,21 @@ def parse_company_reports(
         page_number += 1
     return sorted(
         reports.values(),
+        key=lambda item: ((item.year or 0), item.score, item.title),
+        reverse=True,
+    )
+
+
+def merge_report_candidates(*groups: list[ReportLink]) -> list[ReportLink]:
+    merged: dict[tuple[int | None, str], ReportLink] = {}
+    for group in groups:
+        for report in group:
+            key = (report.year, report.url)
+            current = merged.get(key)
+            if current is None or report.score > current.score:
+                merged[key] = report
+    return sorted(
+        merged.values(),
         key=lambda item: ((item.year or 0), item.score, item.title),
         reverse=True,
     )
@@ -969,7 +1230,7 @@ def pick_value_for_label(
             non_zero_candidates = [
                 candidate
                 for candidate in candidates
-                if (candidate_value := parse_amount(candidate.text)) not in {None, 0.0}
+                if parse_amount(candidate.text) not in {None, 0.0}
             ]
             if non_zero_candidates:
                 fallback = min(
@@ -1382,6 +1643,7 @@ def main() -> None:
     parser.add_argument("--start-index", type=int, default=0, help="Zero-based start index in the issuer list.")
     parser.add_argument("--company-contains", type=str, default=None, help="Only process issuers whose name contains this text.")
     parser.add_argument("--checkpoint-every", type=int, default=1, help="Write partial CSV every N issuers.")
+    parser.add_argument("--global-report-pages", type=int, default=80, help="Pages globales BRVM rapports annuels a crawler.")
     args = parser.parse_args()
 
     ensure_dirs()
@@ -1393,6 +1655,11 @@ def main() -> None:
     rows: list[dict[str, Any]] = load_existing_rows(output_path) if partial_run else []
     with httpx.Client(verify=False, timeout=120.0, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}) as client:
         companies = crawl_company_links(client)
+        global_reports = crawl_global_report_links(
+            client,
+            years,
+            max_pages=args.global_report_pages,
+        )
         if args.company_contains:
             needle = normalize_text(args.company_contains)
             companies = [company for company in companies if needle in normalize_text(company.name)]
@@ -1403,7 +1670,11 @@ def main() -> None:
 
         for company_index, company in enumerate(companies, start=1):
             try:
-                reports = parse_company_reports(client, company, years)
+                reports = merge_report_candidates(
+                    known_reports_for_company(company, years),
+                    parse_company_reports(client, company, years),
+                    match_global_reports(company, global_reports, years),
+                )
             except Exception as exc:
                 reports = []
                 for year in sorted(years):
@@ -1428,15 +1699,33 @@ def main() -> None:
             collected: dict[int, dict[str, Any]] = {}
             for index, report in enumerate(reports[:12], start=1):
                 try:
+                    if report.year in years and report.year in collected:
+                        continue
                     cache_key = f"{slugify(company.name)}-{report.year or 'unknown'}-{index}"
                     suffix = Path(report.url).suffix or ".pdf"
                     pdf_path = PDF_DIR / f"{cache_key}{suffix}"
-                    pdf_path = download_file(client, report.url, pdf_path)
-                    tokens = load_tokens(ocr_pdf_document(pdf_path, cache_key))
-                    resolved_year = resolve_report_year(report, tokens, years)
+                    download_url = resolve_report_download_url(client, report.url)
+                    pdf_path = download_file(client, download_url, pdf_path)
+
+                    resolved_year = report.year if report.year in years else None
+                    metrics: dict[str, float | None] = {}
+                    if resolved_year is not None:
+                        metrics = extract_metrics_from_pdf_tables(pdf_path, resolved_year)
+                        if count_core_metrics(metrics) < 4:
+                            pdf_text_metrics = extract_metrics_from_pdf_text(pdf_path, resolved_year)
+                            if count_core_metrics(pdf_text_metrics) > count_core_metrics(metrics):
+                                metrics = pdf_text_metrics
+
+                    tokens: list[OCRToken] = []
+                    if resolved_year is None or count_core_metrics(metrics) < 4:
+                        tokens = load_tokens(ocr_pdf_document(pdf_path, cache_key))
+                        resolved_year = resolve_report_year(report, tokens, years)
                     if resolved_year is None or resolved_year in collected:
                         continue
-                    metrics = extract_metrics(tokens, resolved_year)
+                    if tokens:
+                        ocr_metrics = extract_metrics(tokens, resolved_year)
+                        if count_core_metrics(ocr_metrics) > count_core_metrics(metrics):
+                            metrics = ocr_metrics
                     if count_core_metrics(metrics) < 4:
                         pdf_table_metrics = extract_metrics_from_pdf_tables(pdf_path, resolved_year)
                         if count_core_metrics(pdf_table_metrics) > count_core_metrics(metrics):

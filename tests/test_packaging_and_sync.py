@@ -131,20 +131,20 @@ def test_sync_market_data_falls_back_to_catalog_symbols(monkeypatch) -> None:
     )
 
 
-    def test_richbourse_market_quotes_handles_forbidden(monkeypatch) -> None:
-        class FakeClient:
-            async def get(self, url: str) -> httpx.Response:
-                request = httpx.Request("GET", url)
-                response = httpx.Response(status_code=403, request=request, text="forbidden")
-                response.raise_for_status = lambda: None  # Mock to skip raise
-                return response
+def test_richbourse_market_quotes_handles_forbidden(monkeypatch) -> None:
+    class FakeClient:
+        async def get(self, url: str) -> httpx.Response:
+            request = httpx.Request("GET", url)
+            response = httpx.Response(status_code=403, request=request, text="forbidden")
+            response.raise_for_status = lambda: None  # Mock to skip raise
+            return response
 
-        client = RichbourseClient()
-        client.client = FakeClient()
+    client = RichbourseClient()
+    client.client = FakeClient()
 
-        rows = asyncio.run(client.get_market_quotes())
+    rows = asyncio.run(client.get_market_quotes())
 
-        assert len(rows) == 0
+    assert len(rows) == 0
 
 
 def test_richbourse_history_uses_public_historical_page_and_parses_rows(monkeypatch) -> None:
@@ -187,13 +187,63 @@ def test_richbourse_history_uses_public_historical_page_and_parses_rows(monkeypa
     client = RichbourseClient()
     client.client = FakeClient()
 
-    rows = asyncio.run(client.get_historical_prices("SNTS"))
+    rows = asyncio.run(client.get_historical_prices("SNTS", max_pages=2))
 
     assert requested_urls and requested_urls[0].endswith("/common/variation/historique/SNTS?page=1")
     assert len(rows) > 0
     assert rows[0]["date"] == "17/04/2026"
     assert rows[0]["close"] == "28 800"
     assert rows[0]["volume"] == "1 200"
+
+
+def test_richbourse_history_filters_dates_and_stops_when_page_is_older() -> None:
+    requested_urls: list[str] = []
+
+    def html_for(date_value: str) -> str:
+        return f"""
+        <html>
+          <body>
+            <table>
+              <tr>
+                <th>Date</th>
+                <th>Cours normal</th>
+                <th>Volume normal</th>
+              </tr>
+              <tr>
+                <td>{date_value}</td>
+                <td>28 800</td>
+                <td>1 200</td>
+              </tr>
+            </table>
+          </body>
+        </html>
+        """
+
+    class FakeClient:
+        async def get(self, url: str) -> httpx.Response:
+            requested_urls.append(url)
+            request = httpx.Request("GET", url)
+            if url.endswith("?page=1"):
+                return httpx.Response(status_code=200, request=request, text=html_for("16/04/2026"))
+            if url.endswith("?page=2"):
+                return httpx.Response(status_code=200, request=request, text=html_for("31/03/2026"))
+            return httpx.Response(status_code=200, request=request, text=html_for("30/03/2026"))
+
+    client = RichbourseClient()
+    client.client = FakeClient()
+
+    rows = asyncio.run(
+        client.get_historical_prices(
+            "SNTS",
+            start_date="2026-04-01",
+            end_date="2026-04-30",
+            max_pages=10,
+        )
+    )
+
+    assert [row["date"] for row in rows] == ["16/04/2026"]
+    assert len(requested_urls) == 2
+    assert client.last_history_diagnostics["pages_fetched"] == 2
 
 
 def test_richbourse_market_quotes_parse_public_variation_table(monkeypatch) -> None:

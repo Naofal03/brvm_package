@@ -21,14 +21,14 @@ async def fetch_sika_societe(symbol):
         text_nodes = soup.find_all(string=True)
         for t in text_nodes:
             tt = t.strip()
-            for l in labels:
-                if l.lower() in tt.lower():
+            for label in labels:
+                if label.lower() in tt.lower():
                     parent = t.parent
                     print(f"Found '{tt}' in <{parent.name}>")
                     # Try to get next sibling or parent's next sibling
                     try:
                         print(f"  Next: {parent.find_next_sibling().text.strip()}")
-                    except:
+                    except AttributeError:
                         pass
 
 async def fetch_rb_mouvements(symbol):

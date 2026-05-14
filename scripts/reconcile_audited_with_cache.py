@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-import scripts.extract_from_cache as cache
+import scripts.extract_from_cache as cache  # noqa: E402
 
 AUDITED_PATH = Path("data/brvm_financials_2020_2025_audited.csv")
 VERIFIED_PATH = Path("data/brvm_financials_2020_2025_verified.csv")
@@ -79,6 +79,8 @@ def candidate_issues(row: pd.Series) -> list[str]:
     equity = row.get("capitaux_propres")
     total_assets = row.get("total_actif")
     total_debts = row.get("dettes_totales")
+    current_assets = row.get("actifs_courants")
+    current_liabilities = row.get("passifs_courants")
 
     if pd.notna(equity) and float(equity) <= 0:
         issues.append("non_positive_equity")
@@ -86,6 +88,10 @@ def candidate_issues(row: pd.Series) -> list[str]:
         issues.append("non_positive_total_assets")
     if pd.notna(total_debts) and float(total_debts) < 0:
         issues.append("negative_total_debts")
+    if pd.notna(current_assets) and float(current_assets) < 0:
+        issues.append("negative_current_assets")
+    if pd.notna(current_liabilities) and float(current_liabilities) < 0:
+        issues.append("negative_current_liabilities")
     if pd.notna(total_assets) and float(total_assets) > MAX_REASONABLE_TOTAL_FCFA:
         issues.append("astronomic_total_assets")
     if pd.notna(total_debts) and float(total_debts) > MAX_REASONABLE_TOTAL_FCFA:
@@ -96,6 +102,18 @@ def candidate_issues(row: pd.Series) -> list[str]:
     if pd.notna(revenue) and pd.notna(net_income) and float(revenue) != 0:
         if abs(float(net_income) / float(revenue)) > 1.2:
             issues.append("extreme_net_margin")
+    if pd.notna(revenue) and pd.notna(total_assets):
+        scale_ratio = abs(float(revenue)) / max(abs(float(total_assets)), 1.0)
+        if scale_ratio > 100 or scale_ratio < 0.0001:
+            issues.append("revenue_total_assets_scale_mismatch")
+    if pd.notna(current_assets) and pd.notna(total_assets) and float(total_assets) != 0:
+        current_asset_ratio = abs(float(current_assets)) / abs(float(total_assets))
+        if current_asset_ratio < 0.00001:
+            issues.append("current_assets_scale_mismatch")
+    if pd.notna(current_liabilities) and pd.notna(total_assets) and float(total_assets) != 0:
+        current_liability_ratio = abs(float(current_liabilities)) / abs(float(total_assets))
+        if current_liability_ratio < 0.00001:
+            issues.append("current_liabilities_scale_mismatch")
     if pd.notna(equity) and pd.notna(net_income) and float(equity) != 0:
         if abs(float(net_income) / float(equity)) > 1.5:
             issues.append("extreme_roe")

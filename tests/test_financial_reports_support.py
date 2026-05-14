@@ -19,11 +19,13 @@ from brvm_package.financial_reports.parser import FinancialReportParser
 from brvm_package.financial_reports.pdf_extractor import FinancialExtractionDependencyError
 from brvm_package.financial_reports.scraper import BRVMReportScraper, _resolve_verify_ssl
 from scripts.extract_brvm_financials import (
+    CompanyLink,
     ReportLink,
     classify_missing_year_reason,
     count_core_metrics,
     infer_fiscal_year,
     infer_publication_year,
+    match_global_reports,
     resolve_report_year,
 )
 
@@ -110,6 +112,24 @@ def test_financials_coverage_report_distinguishes_tracking_from_data_completenes
     assert report["tracking_complete"].all()
     assert (~report["data_complete"]).any()
     assert (report["rows_with_financial_data"] <= report["rows_tracked"]).all()
+
+
+def test_financial_statements_resolves_symbol_to_report_emitter() -> None:
+    frame = bv.financial_statements("SNTS", mode="audited")
+    assert not frame.empty
+    assert set(frame["emetteur"].dropna().unique()) == {"SONATEL"}
+    assert frame["fiscal_year"].between(2020, 2025).all()
+    assert {"truth_status", "report_url", "resultat_net", "ratio_liquidite_generale"}.issubset(frame.columns)
+
+
+def test_financial_statement_status_exposes_truth_gaps() -> None:
+    status = bv.financial_statement_status("SNTS")
+    assert status["query"] == "SNTS"
+    assert status["rows_expected"] == 6
+    assert status["tracking_complete"] is True
+    assert status["verified_complete"] is False
+    assert status["review_rows"] >= 1
+    assert 2021 in status["years_without_verified_data"]
 
 
 def test_normalize_financial_columns_recovers_fiscal_year_from_report_title() -> None:
@@ -212,6 +232,37 @@ def test_resolve_report_year_rejects_out_of_scope_fiscal_year() -> None:
         score=100,
     )
     assert resolve_report_year(report, [], {2020, 2021, 2022, 2023, 2024, 2025}) is None
+
+
+def test_match_global_reports_avoids_short_name_false_positive() -> None:
+    reports = [
+        ReportLink(
+            company_name="",
+            company_url="",
+            title="SICABLE CÔTE D'IVOIRE : Rapport des Commissaires Aux Comptes sur les états financiers - Exercice 2024",
+            url="https://www.brvm.org/fr/sicable-cote-divoire-rapport-des-commissaires-aux-comptes",
+            year=2024,
+            score=20,
+        ),
+        ReportLink(
+            company_name="",
+            company_url="",
+            title="CIE CI : Etats financiers SYSCOHADA - Exercice 2024",
+            url="https://www.brvm.org/fr/cie-ci-etats-financiers-syscohada-exercice-2024",
+            year=2024,
+            score=60,
+        ),
+    ]
+    company = CompanyLink(
+        name="CIE CI",
+        url="https://www.brvm.org/fr/rapports-societe-cotes/cie-ci",
+    )
+
+    matched = match_global_reports(company, reports, {2024})
+
+    assert [report.url for report in matched] == [
+        "https://www.brvm.org/fr/cie-ci-etats-financiers-syscohada-exercice-2024"
+    ]
 
 
 def test_list_available_years_reads_seed_database() -> None:

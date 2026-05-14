@@ -66,7 +66,7 @@ async def test_richbourse_historical_prices() -> None:
 
     client = RichbourseClient()
     try:
-        rows = await client.get_historical_prices("SNTS")
+        rows = await client.get_historical_prices("SNTS", max_pages=3)
         assert isinstance(rows, list)
         if rows:
             assert "date" in rows[0]

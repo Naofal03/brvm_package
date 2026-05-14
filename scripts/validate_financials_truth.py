@@ -6,9 +6,17 @@ from pathlib import Path
 
 import pandas as pd
 
+import brvm_package as bv
+
 TARGET_YEARS = list(range(2020, 2026))
-AUDITED_PATH = Path("data/brvm_financials_2020_2025_audited.csv")
-VERIFIED_PATH = Path("data/brvm_financials_2020_2025_verified.csv")
+AUDITED_CANDIDATES = [
+    Path("data/brvm_financials_2020_2025_reconciled_audited.csv"),
+    Path("data/brvm_financials_2020_2025_audited.csv"),
+]
+VERIFIED_CANDIDATES = [
+    Path("data/brvm_financials_2020_2025_reconciled_verified.csv"),
+    Path("data/brvm_financials_2020_2025_verified.csv"),
+]
 CORE_FIELDS = [
     "resultat_operationnel",
     "resultat_net",
@@ -38,6 +46,15 @@ def _load_frame(path: Path) -> pd.DataFrame:
         frame["fiscal_year"] = pd.to_numeric(frame["fiscal_year"], errors="coerce")
         frame = frame[frame["fiscal_year"].isin(TARGET_YEARS)].copy()
     return frame
+
+
+def _load_first_frame(paths: list[Path]) -> tuple[Path, pd.DataFrame]:
+    for path in paths:
+        if path.exists():
+            return path, _load_frame(path)
+    raise FileNotFoundError(
+        "Missing required export. Tried: " + ", ".join(str(path) for path in paths)
+    )
 
 
 def _missing_emitters(audited: pd.DataFrame, verified: pd.DataFrame) -> list[str]:
@@ -104,6 +121,8 @@ def _suspicious_rows(verified: pd.DataFrame) -> pd.DataFrame:
         equity = row.get("capitaux_propres")
         total_assets = row.get("total_actif")
         total_debts = row.get("dettes_totales")
+        current_assets = row.get("actifs_courants")
+        current_liabilities = row.get("passifs_courants")
         revenue = row.get("chiffre_affaires")
         operating_income = row.get("resultat_operationnel")
         net_income = row.get("resultat_net")
@@ -114,6 +133,10 @@ def _suspicious_rows(verified: pd.DataFrame) -> pd.DataFrame:
             issues.append("non_positive_total_assets")
         if pd.notna(total_debts) and float(total_debts) < 0:
             issues.append("negative_total_debts")
+        if pd.notna(current_assets) and float(current_assets) < 0:
+            issues.append("negative_current_assets")
+        if pd.notna(current_liabilities) and float(current_liabilities) < 0:
+            issues.append("negative_current_liabilities")
         if pd.notna(revenue) and pd.notna(operating_income) and float(revenue) != 0:
             if abs(float(operating_income) / float(revenue)) > 1.2:
                 issues.append("extreme_operating_margin")
@@ -139,25 +162,34 @@ def _suspicious_rows(verified: pd.DataFrame) -> pd.DataFrame:
 
 
 def main() -> None:
-    audited = _load_frame(AUDITED_PATH)
-    verified = _load_frame(VERIFIED_PATH)
+    audited_path, audited = _load_first_frame(AUDITED_CANDIDATES)
+    verified_path, verified = _load_first_frame(VERIFIED_CANDIDATES)
     verified = verified.copy()
     verified["missing_core_count"] = verified[CORE_FIELDS].isna().sum(axis=1)
+    api_verified = bv.financials_all(mode="verified")
 
     missing_emitters = _missing_emitters(audited, verified)
+    api_missing_emitters = _missing_emitters(audited, api_verified)
     incomplete_emitters = _incomplete_emitters(verified)
     ratio_mismatches = _ratio_mismatches(verified)
     accounting_gaps = _accounting_gaps(verified)
     suspicious_rows = _suspicious_rows(verified)
 
+    print(f"Audited source: {audited_path}")
+    print(f"Verified source: {verified_path}")
     print(f"Audited rows: {len(audited)}")
-    print(f"Verified rows: {len(verified)}")
+    print(f"Verified rows in reconciled source: {len(verified)}")
     print(f"Audited emitters: {audited['emetteur'].nunique()}")
-    print(f"Verified emitters: {verified['emetteur'].nunique()}")
-    print(f"Emitters with zero verified rows: {len(missing_emitters)}")
+    print(f"Verified emitters in reconciled source: {verified['emetteur'].nunique()}")
+    print(f"Emitters with zero verified rows in reconciled source: {len(missing_emitters)}")
+    print(f"Default API verified rows after quality filters: {len(api_verified)}")
+    print(f"Default API verified emitters after quality filters: {api_verified['emetteur'].nunique()}")
+    print(f"Default API emitters with zero verified rows after quality filters: {len(api_missing_emitters)}")
     print(f"Emitters with missing years inside 2020-2025: {len(incomplete_emitters)}")
-    print("\nVerified rows by year:")
+    print("\nVerified rows by year in reconciled source:")
     print(verified.groupby("fiscal_year").size().to_string())
+    print("\nDefault API verified rows by year after quality filters:")
+    print(api_verified.groupby("fiscal_year").size().to_string())
     print("\nMissing core metrics distribution:")
     print(verified["missing_core_count"].value_counts().sort_index().to_string())
 
@@ -171,8 +203,13 @@ def main() -> None:
     print(f"Suspicious rows to review: {len(suspicious_rows)}")
 
     if missing_emitters:
-        print("\nEmitters with zero verified rows:")
+        print("\nEmitters with zero verified rows in reconciled source:")
         for emetteur in missing_emitters:
+            print(f"- {emetteur}")
+
+    if api_missing_emitters:
+        print("\nEmitters with zero verified rows in default API output:")
+        for emetteur in api_missing_emitters:
             print(f"- {emetteur}")
 
     if not incomplete_emitters.empty:
@@ -180,7 +217,7 @@ def main() -> None:
         print(incomplete_emitters.to_string(index=False))
 
     if not suspicious_rows.empty:
-        print("\nSuspicious verified rows:")
+        print("\nSuspicious rows in reconciled source:")
         print(suspicious_rows.to_string(index=False))
 
     if not accounting_gaps.empty:

@@ -1,8 +1,11 @@
 from __future__ import annotations
 
+import os
 import re
 import time
 import logging
+from datetime import date, datetime
+from typing import Any
 
 import httpx
 from bs4 import BeautifulSoup
@@ -27,8 +30,10 @@ class RichbourseClient:
     DEFAULT_TIMEOUT = 30.0
     MAX_HISTORY_PAGES = 250
 
-    def __init__(self, timeout: float = DEFAULT_TIMEOUT) -> None:
+    def __init__(self, timeout: float = DEFAULT_TIMEOUT, max_history_pages: int | None = None) -> None:
         self.timeout = timeout
+        self.max_history_pages = self._resolve_max_history_pages(max_history_pages)
+        self.last_history_diagnostics: dict[str, Any] = {}
         self._client: httpx.AsyncClient | None = None
 
     @property
@@ -133,18 +138,31 @@ class RichbourseClient:
         retry=retry_if_exception_type(RETRY_EXCEPTIONS),
         reraise=True,
     )
-    async def get_historical_prices(self, symbol: str) -> list[dict]:
+    async def get_historical_prices(
+        self,
+        symbol: str,
+        start_date: str | date | None = None,
+        end_date: str | date | None = None,
+        max_pages: int | None = None,
+    ) -> list[dict]:
         """Récupère l'historique quotidien depuis la page publique de cours historiques."""
         base_url = f"{self.BASE_URL}{self.HISTORY_PATH_TEMPLATE.format(symbol=symbol.upper())}"
         rows: list[dict] = []
         seen_dates: set[str] = set()
         client = await self._get_client()
+        page_limit = self._resolve_max_history_pages(max_pages)
+        start_dt = self._parse_date(start_date)
+        end_dt = self._parse_date(end_date)
+        if start_dt is not None and end_dt is not None and start_dt > end_dt:
+            raise ValueError("start_date must be <= end_date")
 
-        for page in range(1, self.MAX_HISTORY_PAGES + 1):
+        pages_fetched = 0
+        for page in range(1, page_limit + 1):
             url = f"{base_url}?page={page}"
             t0 = time.monotonic()
             response = await client.get(url)
             elapsed = time.monotonic() - t0
+            pages_fetched = page
             logger.debug(
                 "RichBourse history %s page=%d | status=%s | time=%.2fs",
                 symbol.upper(),
@@ -173,15 +191,45 @@ class RichbourseClient:
                 logger.info("RichBourse history %s: no new rows at page %d", symbol.upper(), page)
                 break
 
-            rows.extend(new_rows)
             seen_dates.update(row["date"] for row in new_rows)
+            dated_rows = [(row, self._parse_date(row.get("date"))) for row in new_rows]
+            page_dates = [row_date for _, row_date in dated_rows if row_date is not None]
+
+            if start_dt is None and end_dt is None:
+                rows.extend(new_rows)
+            else:
+                rows.extend(
+                    row
+                    for row, row_date in dated_rows
+                    if row_date is not None
+                    and (start_dt is None or row_date >= start_dt)
+                    and (end_dt is None or row_date <= end_dt)
+                )
+
+            if start_dt is not None and page_dates and max(page_dates) < start_dt:
+                logger.info(
+                    "RichBourse history %s: stopped at page %d because page is older than %s",
+                    symbol.upper(),
+                    page,
+                    start_dt,
+                )
+                break
 
         logger.info(
-            "RichBourse history %s: %d total rows across %d pages",
+            "RichBourse history %s: %d total rows across %d/%d pages",
             symbol.upper(),
             len(rows),
-            page,
+            pages_fetched,
+            page_limit,
         )
+        self.last_history_diagnostics = {
+            "symbol": symbol.upper(),
+            "rows": len(rows),
+            "pages_fetched": pages_fetched,
+            "page_limit": page_limit,
+            "start_date": start_dt.isoformat() if start_dt is not None else None,
+            "end_date": end_dt.isoformat() if end_dt is not None else None,
+        }
         return rows
 
     def _extract_history_rows(self, html: str) -> list[dict]:
@@ -255,4 +303,34 @@ class RichbourseClient:
             for key, value in row_map.items():
                 if candidate in key:
                     return value
+        return None
+
+    def _resolve_max_history_pages(self, max_pages: int | None) -> int:
+        if max_pages is not None:
+            return max(1, int(max_pages))
+
+        env_value = os.getenv("BRVM_RICHBOURSE_MAX_HISTORY_PAGES")
+        if env_value:
+            try:
+                return max(1, int(env_value))
+            except ValueError:
+                logger.warning(
+                    "Invalid BRVM_RICHBOURSE_MAX_HISTORY_PAGES=%r; using default %d",
+                    env_value,
+                    self.MAX_HISTORY_PAGES,
+                )
+        return self.MAX_HISTORY_PAGES
+
+    def _parse_date(self, value: str | date | None) -> date | None:
+        if value is None:
+            return None
+        if isinstance(value, date):
+            return value
+
+        text = str(value).strip()
+        for fmt in ("%d/%m/%Y", "%Y-%m-%d"):
+            try:
+                return datetime.strptime(text, fmt).date()
+            except ValueError:
+                continue
         return None

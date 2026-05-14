@@ -1,26 +1,36 @@
 # Validation Summary
 
-Date: 2026-05-06
+Date: 2026-05-14
 
 ## Dataset status
 
 - Audited rows: 438
-- Verified rows: 122
+- Verified rows in reconciled source: 120
+- Verified rows exposed by `brvm.financials_all()`: 120 after package quality filters
 - Audited emitters: 73
-- Verified emitters: 39
-- Emitters with zero verified rows: 34
-- Emitters with incomplete `2020-2025` coverage despite at least one verified row: 36
+- Verified emitters: 42
+- Emitters with zero verified rows in default API output: 31
+- Emitters with complete `2020-2025` verified coverage: 2
+- Emitters with incomplete `2020-2025` verified coverage: 71
 
 ## Coverage by fiscal year
 
 | Fiscal year | Verified rows |
 | --- | ---: |
-| 2020 | 24 |
-| 2021 | 25 |
-| 2022 | 24 |
-| 2023 | 19 |
-| 2024 | 19 |
+| 2020 | 22 |
+| 2021 | 24 |
+| 2022 | 25 |
+| 2023 | 17 |
+| 2024 | 21 |
 | 2025 | 11 |
+
+## 2025 status
+
+- Audited 2025 rows tracked: 73
+- 2025 rows with an extracted report: 32
+- 2025 rows still missing/error: 41
+- 2025 rows requiring manual review: 21
+- 2025 rows exposed as verified by the default API: 11
 
 ## Core-field completeness
 
@@ -40,16 +50,16 @@ Distribution of missing core fields per verified row:
 | Missing core fields | Rows |
 | --- | ---: |
 | 0 | 59 |
-| 1 | 54 |
+| 1 | 49 |
 | 2 | 5 |
-| 3 | 4 |
+| 3 | 7 |
 
 ## Accounting consistency
 
-- Rows checked with `total_actif`, `capitaux_propres`, `dettes_totales`: 119
-- Rows with balance-sheet identity gap `<= 1%`: 96
-- Rows with balance-sheet identity gap `<= 5%`: 112
-- Rows with balance-sheet identity gap `<= 10%`: 119
+- Rows checked with `total_actif`, `capitaux_propres`, `dettes_totales`: 113
+- Rows with balance-sheet identity gap `<= 1%`: 92
+- Rows with balance-sheet identity gap `<= 5%`: 106
+- Rows with balance-sheet identity gap `<= 10%`: 113
 - Stored ratios match the current pipeline formulas on all verified rows: 0 mismatches
 
 Interpretation:
@@ -57,11 +67,15 @@ Interpretation:
 - The raw extracted values are mostly self-consistent.
 - The current weak point is coverage, not internal recomputation.
 - Some extreme profitability ratios remain suspicious and should be manually reviewed.
+- Astronomic OCR values and negative current assets/liabilities are excluded from the verified exports.
 
-## Emitters with zero verified rows
+## Emitters with zero verified rows in default API output
 
 - AIR LIQUIDE CI
+- BANK OF AFRICA NG
 - BBGCI
+- BOLLORE TRANSPORT & LOGISTICS
+- CIE CI
 - COTE D'IVOIRE TELECOM
 - DC/BR
 - EDKSN
@@ -71,46 +85,40 @@ Interpretation:
 - FIDELIS FINANCE
 - FIMSN.O1
 - FOCUS IMMOBILIER SA
-- LNB
 - MOVIS CI
 - NOURMONY HOLDING
-- ORANGE CI
 - SANCFIS FASO SA
 - SDMA S.A
-- SICABLE
 - SIMPA SA
-- SITAB
 - SOCIÉTÉ IVOIRIENNE DE RAFFINAGE
-- SONATEL
 - TEYLIMOGPCI
 - TNC_FIDFIN.O1
 - TNC_NMHGCINC.O1
 - TNC_SCFBF.O1
 - TNC_SDMACI.O1
 - TNC_SIMPSNNC.O1
-- TOTAL SENEGAL S.A.
 - TPBF
 - TPBJ
 - TPCI
 - TRITRAF CI
 - VIVO ENERGY CI
 
-## Suspicious verified rows to review
+## Suspicious rows in reconciled source to review
 
 - BERNABE CI 2021: extreme ROE
 - BERNABE CI 2024: extreme ROE
-- BOLLORE TRANSPORT & LOGISTICS 2023: extreme ROE
 - NESTLE CI 2020: extreme ROE
 - NESTLE CI 2023: extreme ROE
 - SAPH CI 2020: extreme ROE
 - SAPH CI 2021: extreme ROE
 - SAPH CI 2022: extreme ROE
 - SAPH CI 2024: extreme ROE
-- SAPH CI 2025: extreme ROE
+- SGCI 2025: extreme operating margin
 - SODECI 2020: extreme ROE
 - SOGB 2020: extreme ROE
 - SOGB 2022: extreme ROA
 - SOGB 2024: extreme ROE and extreme ROA
+- SONATEL 2025: extreme ROE
 - UNILEVER CI 2021: extreme ROE
 
 ## Worst balance-sheet gaps
@@ -119,8 +127,8 @@ These rows still remain under the `10%` tolerance but are the highest-gap record
 
 - TRACTAFRIC CI 2022
 - ECOBANK TG 2021
+- PALM CI 2025
 - TOTAL 2020
-- TRACTAFRIC CI 2023
 - ECOBANK TG 2024
 - ECOBANK TG 2023
 - SODECI 2020

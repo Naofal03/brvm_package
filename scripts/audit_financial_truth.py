@@ -20,6 +20,7 @@ CORE_FIELDS = [
     "actifs_courants",
     "passifs_courants",
 ]
+MAX_REASONABLE_TOTAL_FCFA = 1e15
 
 
 def resolve_csv_path() -> Path:
@@ -42,6 +43,8 @@ def classify_row(row: pd.Series) -> tuple[str, str]:
     equity = row.get("capitaux_propres")
     total_assets = row.get("total_actif")
     total_debts = row.get("dettes_totales")
+    current_assets = row.get("actifs_courants")
+    current_liabilities = row.get("passifs_courants")
     revenue = row.get("chiffre_affaires")
     net_income = row.get("resultat_net")
 
@@ -53,6 +56,14 @@ def classify_row(row: pd.Series) -> tuple[str, str]:
         issues.append("non_positive_total_assets")
     if pd.notna(total_debts) and float(total_debts) < 0:
         issues.append("negative_total_debts")
+    if pd.notna(total_assets) and float(total_assets) > MAX_REASONABLE_TOTAL_FCFA:
+        issues.append("astronomic_total_assets")
+    if pd.notna(total_debts) and float(total_debts) > MAX_REASONABLE_TOTAL_FCFA:
+        issues.append("astronomic_total_debts")
+    if pd.notna(current_assets) and float(current_assets) < 0:
+        issues.append("negative_current_assets")
+    if pd.notna(current_liabilities) and float(current_liabilities) < 0:
+        issues.append("negative_current_liabilities")
     if pd.notna(total_assets) and pd.notna(equity) and float(total_assets) < float(equity):
         issues.append("assets_lt_equity")
     if pd.notna(total_assets) and pd.notna(total_debts) and pd.notna(equity):
@@ -63,6 +74,18 @@ def classify_row(row: pd.Series) -> tuple[str, str]:
         issues.append("revenue_equals_equity")
     if pd.notna(revenue) and float(revenue) == 0:
         issues.append("zero_revenue")
+    if pd.notna(revenue) and pd.notna(total_assets):
+        scale_ratio = abs(float(revenue)) / max(abs(float(total_assets)), 1.0)
+        if scale_ratio > 100 or scale_ratio < 0.0001:
+            issues.append("revenue_total_assets_scale_mismatch")
+    if pd.notna(current_assets) and pd.notna(total_assets) and float(total_assets) != 0:
+        current_asset_ratio = abs(float(current_assets)) / abs(float(total_assets))
+        if current_asset_ratio < 0.00001:
+            issues.append("current_assets_scale_mismatch")
+    if pd.notna(current_liabilities) and pd.notna(total_assets) and float(total_assets) != 0:
+        current_liability_ratio = abs(float(current_liabilities)) / abs(float(total_assets))
+        if current_liability_ratio < 0.00001:
+            issues.append("current_liabilities_scale_mismatch")
     if pd.notna(net_income) and pd.notna(revenue) and float(revenue) != 0:
         margin = float(net_income) / float(revenue)
         if abs(margin) > 1.5:

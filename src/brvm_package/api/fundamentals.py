@@ -11,6 +11,8 @@ from brvm_package.fundamentals import (
 )
 
 from .financials_all import (
+    financial_statement_status,
+    financial_statements,
     financials_all,
     financials_all_audited,
     financials_all_gold,
@@ -22,6 +24,8 @@ from .financials_all import (
 __all__ = [
     "dividends",
     "financials",
+    "financial_statement_status",
+    "financial_statements",
     "financials_all",
     "financials_all_audited",
     "financials_all_gold",
