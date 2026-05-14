@@ -60,6 +60,16 @@ def test_financials_all_audited_exposes_truth_columns() -> None:
     assert {"truth_status", "truth_reason"}.issubset(frame.columns)
 
 
+def test_financials_all_usable_exposes_verified_and_reviewable_rows() -> None:
+    usable = bv.financials_all_usable()
+    verified = bv.financials_all_verified()
+
+    assert len(usable) >= len(verified)
+    assert {"verified_like", "needs_review"}.issubset(set(usable["truth_status"].dropna().unique()))
+    assert set(usable["status"].dropna().unique()) == {"ok"}
+    assert usable["has_financial_data"].all()
+
+
 def test_financials_all_gold_exposes_publication_columns() -> None:
     frame = bv.financials_all_gold()
     assert not frame.empty
@@ -120,6 +130,14 @@ def test_financial_statements_resolves_symbol_to_report_emitter() -> None:
     assert set(frame["emetteur"].dropna().unique()) == {"SONATEL"}
     assert frame["fiscal_year"].between(2020, 2025).all()
     assert {"truth_status", "report_url", "resultat_net", "ratio_liquidite_generale"}.issubset(frame.columns)
+
+
+def test_financial_statements_usable_keeps_reviewable_data_for_symbol() -> None:
+    usable = bv.financial_statements("SNTS", mode="usable")
+    verified = bv.financial_statements("SNTS", mode="verified")
+
+    assert len(usable) > len(verified)
+    assert {"needs_review", "verified_like"}.issubset(set(usable["truth_status"].dropna().unique()))
 
 
 def test_financial_statement_status_exposes_truth_gaps() -> None:

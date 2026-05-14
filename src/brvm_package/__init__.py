@@ -12,7 +12,7 @@ from .objects.market import Market
 from .objects.portfolio import Portfolio
 from .objects.ticker import Ticker
 from .api.download import download, download_all, live_price, returns
-from .api.fundamentals import dividends, financial_statement_status, financial_statements, financials, financials_all, financials_all_audited, financials_all_gold, financials_all_verified, financials_coverage_report, financials_coverage_summary, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
+from .api.fundamentals import dividends, financial_statement_status, financial_statements, financials, financials_all, financials_all_audited, financials_all_gold, financials_all_usable, financials_all_verified, financials_coverage_report, financials_coverage_summary, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
 from .api.macro import fcfa_exchange_rates, inflation, macro_events
 from .api.market import (
     asset_info,
@@ -53,6 +53,7 @@ __all__ = [
     "financials_all",
     "financials_all_audited",
     "financials_all_gold",
+    "financials_all_usable",
     "financials_all_verified",
     "financials_coverage_report",
     "financials_coverage_summary",

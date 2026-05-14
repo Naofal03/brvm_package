@@ -1,5 +1,5 @@
 from brvm_package.api.download import download, download_all, live_price, returns
-from brvm_package.api.fundamentals import dividends, financial_statement_status, financial_statements, financials, financials_all, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
+from brvm_package.api.fundamentals import dividends, financial_statement_status, financial_statements, financials, financials_all, financials_all_audited, financials_all_gold, financials_all_usable, financials_all_verified, financials_coverage_report, financials_coverage_summary, fundamental_history, market_cap, market_cap_all, shares_outstanding, valuation_ratios
 from brvm_package.api.market import asset_info, get_market, list_assets, list_stocks, list_countries, list_indices, list_sectors, market_summary, search
 from brvm_package.api.screener import screen
 from brvm_package.api.strategies import backtest, equal_weight_strategy, market_cap_strategy, momentum_strategy, value_strategy
@@ -15,6 +15,12 @@ __all__ = [
     "financial_statements",
     "financials",
     "financials_all",
+    "financials_all_audited",
+    "financials_all_gold",
+    "financials_all_usable",
+    "financials_all_verified",
+    "financials_coverage_report",
+    "financials_coverage_summary",
     "fundamental_history",
     "get_market",
     "list_assets",

@@ -55,6 +55,11 @@ bv.financials_all(mode="audited")
 # Sous-ensemble fiable par defaut: lignes verifiees seulement.
 bv.financials_all(mode="verified")
 
+# Tout ce qui est exploitable: lignes verifiees + lignes a revoir,
+# avec truth_status, truth_reason, diagnostic et report_url.
+bv.financials_all(mode="usable")
+bv.financials_all_usable()
+
 # Sous-ensemble publication-ready plus strict.
 bv.financials_all_gold()
 
@@ -69,9 +74,11 @@ bv.financials_coverage_summary()
 
 Les colonnes incluent les 15 indicateurs demandes: resultat operationnel, resultat net,
 chiffre d'affaires, capitaux propres, total actif, dettes totales, actifs/passifs courants,
-marges, ROE, ROA, endettement, autonomie financiere et liquidite generale. Les lignes
-non verifiees restent accessibles en `mode="audited"`, mais ne sont pas presentees
-comme vraies sans leur `truth_status`, `status_reason`, `diagnostic` et `report_url`.
+marges, ROE, ROA, endettement, autonomie financiere et liquidite generale. Pour
+maximiser les donnees utilisables, `mode="usable"` garde les lignes avec donnees
+financieres exploitables meme si elles demandent une revue. Les lignes non verifiees
+restent accompagnees de `truth_status`, `status_reason`, `diagnostic` et `report_url`
+pour ne jamais les presenter comme vraies sans preuve.
 
 ### Screener
 ```python

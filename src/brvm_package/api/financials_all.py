@@ -110,6 +110,15 @@ def _candidate_paths_for_mode(mode: str) -> list[Path]:
             package_root / "data" / "brvm_financials_2020_2025.csv",
             package_root / "data" / "brvm_financials_all.csv",
         ]
+    if mode == "usable":
+        return [
+            RESOURCE_DIR / "brvm_financials_2020_2025_reconciled_audited.csv",
+            RESOURCE_DIR / "brvm_financials_2020_2025_audited.csv",
+            package_root / "data" / "brvm_financials_2020_2025_reconciled_audited.csv",
+            package_root / "data" / "brvm_financials_2020_2025_audited.csv",
+            package_root / "data" / "brvm_financials_2020_2025.csv",
+            package_root / "data" / "brvm_financials_all.csv",
+        ]
     if mode == "audited":
         return [
             RESOURCE_DIR / "brvm_financials_2020_2025_reconciled_audited.csv",
@@ -173,6 +182,21 @@ def _apply_quality_filters(dataframe: pd.DataFrame) -> pd.DataFrame:
     return filtered
 
 
+def _apply_usable_filters(dataframe: pd.DataFrame) -> pd.DataFrame:
+    """Keep rows with exploitable statement data while preserving review flags."""
+    filtered = dataframe.copy()
+    if "status" in filtered.columns:
+        filtered = filtered[filtered["status"] == "ok"].copy()
+    if "truth_status" in filtered.columns:
+        filtered = filtered[filtered["truth_status"].isin(["verified_like", "needs_review"])].copy()
+    filtered = _drop_suspicious_rows(filtered)
+
+    available_core_columns = [column for column in CORE_FIELD_COLUMNS if column in filtered.columns]
+    if available_core_columns:
+        filtered = filtered[filtered[available_core_columns].notna().sum(axis=1) > 0].copy()
+    return filtered.reset_index(drop=True)
+
+
 def _drop_suspicious_rows(dataframe: pd.DataFrame) -> pd.DataFrame:
     if dataframe.empty:
         return dataframe
@@ -221,8 +245,8 @@ def _numeric_series(dataframe: pd.DataFrame, column: str) -> pd.Series:
 
 def _load_financial_export(mode: str = "verified") -> pd.DataFrame:
     mode = mode.lower()
-    if mode not in {"gold", "verified", "audited", "all"}:
-        raise ValueError("mode must be one of: gold, verified, audited, all")
+    if mode not in {"gold", "verified", "usable", "audited", "all"}:
+        raise ValueError("mode must be one of: gold, verified, usable, audited, all")
 
     for csv_path in _candidate_paths_for_mode(mode):
         if not csv_path.exists():
@@ -230,6 +254,8 @@ def _load_financial_export(mode: str = "verified") -> pd.DataFrame:
         dataframe = _normalize_financial_columns(pd.read_csv(csv_path))
         if mode == "verified":
             dataframe = _apply_quality_filters(dataframe)
+        elif mode == "usable":
+            dataframe = _apply_usable_filters(dataframe)
         elif mode == "audited":
             if "truth_status" not in dataframe.columns:
                 continue
@@ -255,6 +281,7 @@ def financials_all(mode: str = "verified") -> pd.DataFrame:
     Retourne les données financières BRVM extraites des rapports 2020-2025.
     - `gold`: sous-ensemble publication-ready haute confiance.
     - `verified`: seulement les lignes auditées comme fiables.
+    - `usable`: lignes exploitables avec données financières, y compris à revoir.
     - `audited`: export complet audité avec `truth_status`.
     - `all`: export brut filtré seulement par année.
     """
@@ -267,6 +294,10 @@ def financials_all_gold() -> pd.DataFrame:
 
 def financials_all_verified() -> pd.DataFrame:
     return _load_financial_export(mode="verified")
+
+
+def financials_all_usable() -> pd.DataFrame:
+    return _load_financial_export(mode="usable")
 
 
 def financials_all_audited() -> pd.DataFrame:
@@ -283,8 +314,9 @@ def financial_statements(
 
     `mode="audited"` est volontairement le défaut: il renvoie aussi les lignes
     `missing_report` et `needs_review`, avec leur statut et leur URL source.
-    Utilisez `mode="verified"` ou `mode="gold"` pour ne récupérer que les lignes
-    publiables selon les filtres qualité.
+    Utilisez `mode="usable"` pour récupérer toutes les lignes exploitables avec
+    leurs alertes, ou `mode="verified"` / `mode="gold"` pour ne récupérer que les
+    lignes publiables selon les filtres qualité.
     """
     frame = _load_financial_export(mode=mode)
     matched = _filter_financial_rows(frame, symbol_or_name)

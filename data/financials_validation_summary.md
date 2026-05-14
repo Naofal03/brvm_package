@@ -7,8 +7,10 @@ Date: 2026-05-14
 - Audited rows: 438
 - Verified rows in reconciled source: 120
 - Verified rows exposed by `brvm.financials_all()`: 120 after package quality filters
+- Usable rows exposed by `brvm.financials_all_usable()`: 180
 - Audited emitters: 73
 - Verified emitters: 42
+- Usable emitters: 46
 - Emitters with zero verified rows in default API output: 31
 - Emitters with complete `2020-2025` verified coverage: 2
 - Emitters with incomplete `2020-2025` verified coverage: 71
@@ -31,6 +33,7 @@ Date: 2026-05-14
 - 2025 rows still missing/error: 41
 - 2025 rows requiring manual review: 21
 - 2025 rows exposed as verified by the default API: 11
+- 2025 rows exposed as usable with diagnostics: 26
 
 ## Core-field completeness
 
@@ -136,6 +139,7 @@ These rows still remain under the `10%` tolerance but are the highest-gap record
 ## Recommended interpretation
 
 - The current verified dataset is usable as a partial high-confidence base.
+- The usable dataset exposes more exploitable rows while retaining review flags and source URLs.
 - It is not yet a complete `all BRVM equities 2020-2025` dataset.
 - For downstream use, trust raw statement fields first.
 - Derived ratios are consistent with the implemented formulas, but some economically extreme rows still need manual validation from source documents.
